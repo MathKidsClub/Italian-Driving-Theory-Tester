@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Italian Driving Theory — Quiz</title>
+<style>
+  :root {
+    --bg: #0f1220; --card: #1a1f36; --ink: #eef1fb; --muted: #9aa3c7;
+    --line: #2b3358; --accent: #6ea8fe; --good: #34d399; --bad: #f87171;
+    --trap: #fbbf24; --trap-bg: rgba(251,191,36,.16);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; background: var(--bg); color: var(--ink);
+    font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    display: flex; flex-direction: column; align-items: center; padding: 24px 16px;
+  }
+  header { width: 100%; max-width: 820px; display: flex; justify-content: space-between;
+    align-items: baseline; margin-bottom: 16px; }
+  h1 { font-size: 18px; margin: 0; font-weight: 600; letter-spacing: .3px; }
+  .score { color: var(--muted); font-size: 14px; }
+  .card {
+    width: 100%; max-width: 820px; background: var(--card); border: 1px solid var(--line);
+    border-radius: 16px; padding: 24px; box-shadow: 0 12px 40px rgba(0,0,0,.35);
+  }
+  .qrow { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+  .qnum { color: var(--muted); font-size: 12px; letter-spacing: .5px; text-transform: uppercase; }
+  .speakctl { display: flex; align-items: center; gap: 10px; }
+  .speak-btn { background: var(--line); color: var(--ink); border: none; border-radius: 9px;
+    width: 40px; height: 40px; font-size: 18px; cursor: pointer; line-height: 1; }
+  .speak-btn:hover { background: #384068; }
+  .speak-btn.speaking { background: var(--accent); color: #10131f; }
+  .toggle { color: var(--muted); font-size: 13px; user-select: none; cursor: pointer; }
+  .toggle input { vertical-align: middle; margin-right: 4px; }
+  .voicewarn { display: none; color: var(--bad); font-size: 13px; margin: 4px 0 0; }
+  .voicewarn.show { display: block; }
+  .italian { font-size: 22px; line-height: 1.45; margin: 10px 0 16px; }
+  .trap { background: var(--trap-bg); color: var(--trap); border-radius: 5px;
+    padding: 0 3px; font-weight: 600; }
+  .imgwrap { text-align: center; margin: 8px 0 18px; }
+  .imgwrap img { max-width: 240px; max-height: 240px; background: #fff; padding: 10px;
+    border-radius: 12px; }
+  .english { color: var(--ink); font-size: 16px; line-height: 1.5; opacity: .92;
+    border-left: 3px solid var(--accent); padding-left: 12px; margin: 4px 0 16px; }
+  .traps { margin: 0 0 20px; }
+  .traps h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .5px;
+    color: var(--trap); margin: 0 0 8px; }
+  .traps ul { margin: 0; padding-left: 0; list-style: none; }
+  .traps li { font-size: 14px; line-height: 1.5; margin-bottom: 6px; color: var(--muted); }
+  .traps li b { color: var(--trap); font-weight: 600; }
+  .trickline { font-size: 14px; color: var(--muted); font-style: italic; margin-top: 6px; }
+  .answers { display: flex; gap: 14px; margin-top: 6px; }
+  button.ans {
+    flex: 1; padding: 16px; font-size: 18px; font-weight: 700; border: none;
+    border-radius: 12px; cursor: pointer; color: #10131f; transition: transform .06s ease;
+  }
+  button.ans:active { transform: translateY(1px); }
+  button.tf-true { background: var(--good); }
+  button.tf-false { background: var(--bad); }
+  button.ans:disabled { opacity: .5; cursor: default; }
+  #btnNext { display: none; width: 100%; margin-top: 18px; padding: 15px;
+    font-size: 17px; font-weight: 700; border: none; border-radius: 12px;
+    cursor: pointer; background: var(--accent); color: #10131f; }
+  #btnNext:active { transform: translateY(1px); }
+  .feedback { margin-top: 18px; font-size: 20px; font-weight: 700; min-height: 28px; text-align: center; }
+  .feedback.right { color: var(--good); }
+  .feedback.wrong { color: var(--bad); }
+  .countdown { text-align: center; color: var(--muted); font-size: 13px; margin-top: 8px; min-height: 18px; }
+  .reveal { display: none; }
+  .reveal.show { display: block; }
+  .toggle { color: var(--muted); font-size: 13px; }
+  .toggle input { vertical-align: middle; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Italian Driving Theory — Practice</h1>
+    <div class="score">Score: <span id="correct">0</span> / <span id="total">0</span></div>
+  </header>
+
+  <div class="card" id="card">
+    <div class="qrow">
+      <div class="qnum" id="qnum"></div>
+      <div class="speakctl">
+        <label class="toggle"><input type="checkbox" id="autoRead" checked>Auto-read</label>
+        <button class="speak-btn" id="btnSpeak" onclick="speakCurrent()" title="Read the Italian aloud (R)">🔊</button>
+      </div>
+    </div>
+    <div class="voicewarn" id="voicewarn">No Italian (it-IT) voice found on this PC. Install the Italian language pack in Windows → Settings → Time &amp; Language → Speech.</div>
+    <div class="italian" id="italian"></div>
+    <div class="imgwrap" id="imgwrap"></div>
+
+    <div class="answers">
+      <button class="ans tf-true" id="btnTrue" onclick="answer(true)">VERO (True)</button>
+      <button class="ans tf-false" id="btnFalse" onclick="answer(false)">FALSO (False)</button>
+    </div>
+
+    <div class="feedback" id="feedback"></div>
+
+    <div class="reveal" id="reveal">
+      <div class="english" id="english"></div>
+      <div class="traps" id="traps"></div>
+    </div>
+
+    <button id="btnNext" onclick="pick()">Next question →</button>
+  </div>
+
+  <script src="questions.js"></script>
+  <script>
+    const Q = window.QUESTIONS || [];
+    let current = null, answered = false;
+    let correct = 0, total = 0;
+
+    // ---- Text-to-speech (browser built-in) ----
+    const synth = window.speechSynthesis;
+    let itVoice = null;
+
+    function loadVoice() {
+      if (!synth) return;
+      const voices = synth.getVoices();
+      // prefer a full it-IT voice, else any Italian voice
+      itVoice = voices.find(v => v.lang && v.lang.toLowerCase() === 'it-it')
+             || voices.find(v => v.lang && v.lang.toLowerCase().startsWith('it'))
+             || null;
+      const warn = document.getElementById('voicewarn');
+      const btn = document.getElementById('btnSpeak');
+      if (!synth || (voices.length && !itVoice)) {
+        warn.classList.add('show');
+        btn.disabled = true;
+      } else {
+        warn.classList.remove('show');
+        btn.disabled = false;
+      }
+    }
+
+    function speak(text) {
+      if (!synth || !itVoice || !text) return;
+      synth.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.voice = itVoice;
+      u.lang = itVoice.lang || 'it-IT';
+      u.rate = 0.95;
+      const btn = document.getElementById('btnSpeak');
+      u.onstart = () => btn.classList.add('speaking');
+      u.onend = u.onerror = () => btn.classList.remove('speaking');
+      synth.speak(u);
+    }
+
+    function speakCurrent() {
+      if (current) speak(current.it);
+    }
+
+    if (synth) {
+      loadVoice();
+      // voices often load asynchronously; refresh when they arrive
+      synth.onvoiceschanged = loadVoice;
+    } else {
+      document.getElementById('btnSpeak').disabled = true;
+      document.getElementById('voicewarn').classList.add('show');
+    }
+
+    function esc(s) {
+      return s.replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    }
+
+    // Wrap each trap phrase found in the Italian text with a highlight span.
+    function highlight(text, keywords) {
+      let html = esc(text);
+      const phrases = keywords
+        .map(k => k.phrase)
+        .filter(Boolean)
+        .sort((a, b) => b.length - a.length); // longest first to avoid nested clobbering
+      for (const p of phrases) {
+        const re = new RegExp('(' + p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+        html = html.replace(re, '<span class="trap">$1</span>');
+      }
+      return html;
+    }
+
+    function pick() {
+      answered = false;
+      current = Q[Math.floor(Math.random() * Q.length)];
+
+      document.getElementById('qnum').textContent = 'Question #' + current.n;
+      document.getElementById('italian').innerHTML = highlight(current.it, current.keywords);
+
+      const imgwrap = document.getElementById('imgwrap');
+      imgwrap.innerHTML = current.image
+        ? '<img src="' + current.image + '" alt="road sign" onerror="this.style.display=\'none\'">'
+        : '';
+
+      document.getElementById('english').textContent = current.en;
+
+      const traps = document.getElementById('traps');
+      if (current.keywords.length || current.trick) {
+        let li = current.keywords
+          .map(k => '<li><b>' + esc(k.phrase) + '</b>' + (k.why ? ' — ' + esc(k.why) : '') + '</li>')
+          .join('');
+        traps.innerHTML =
+          '<h3>Tricky wording</h3><ul>' + li + '</ul>' +
+          (current.trick ? '<div class="trickline">' + esc(current.trick) + '</div>' : '');
+      } else {
+        traps.innerHTML = '';
+      }
+
+      document.getElementById('reveal').classList.remove('show');
+      document.getElementById('feedback').textContent = '';
+      document.getElementById('feedback').className = 'feedback';
+      document.getElementById('btnNext').style.display = 'none';
+      document.getElementById('btnTrue').disabled = false;
+      document.getElementById('btnFalse').disabled = false;
+
+      if (document.getElementById('autoRead').checked) speakCurrent();
+    }
+
+    function answer(choice) {
+      if (answered) return;
+      answered = true;
+      total++;
+      const isRight = choice === current.answer;
+      if (isRight) correct++;
+
+      document.getElementById('correct').textContent = correct;
+      document.getElementById('total').textContent = total;
+
+      const fb = document.getElementById('feedback');
+      const truth = current.answer ? 'VERO (True)' : 'FALSO (False)';
+      fb.textContent = isRight ? '✓ Correct!  Answer: ' + truth : '✗ Wrong.  Answer: ' + truth;
+      fb.className = 'feedback ' + (isRight ? 'right' : 'wrong');
+
+      document.getElementById('reveal').classList.add('show');
+      document.getElementById('btnTrue').disabled = true;
+      document.getElementById('btnFalse').disabled = true;
+      document.getElementById('btnNext').style.display = 'block';
+    }
+
+    // keyboard: T / F / arrows
+    document.addEventListener('keydown', e => {
+      const k = e.key.toLowerCase();
+      if (k === 'r') { speakCurrent(); return; }   // replay audio anytime
+      if (answered) {
+        if (k === 'enter' || k === ' ' || k === 'n') { e.preventDefault(); pick(); }
+        return;
+      }
+      if (k === 't' || k === 'v' || k === 'arrowleft') answer(true);
+      if (k === 'f' || k === 'arrowright') answer(false);
+    });
+
+    if (!Q.length) {
+      document.getElementById('card').innerHTML =
+        '<p>No questions loaded. Run <code>python TEST/export_questions.py</code> first.</p>';
+    } else {
+      pick();
+    }
+  </script>
+</body>
+</html>
