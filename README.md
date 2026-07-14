@@ -1,5 +1,7 @@
 # Italian Driving Theory Tester
 
+**▶️ Play it live: https://mathkidsclub.github.io/Italian-Driving-Theory-Tester/**
+
 A tiny, self-contained web app to practise the Italian driving-theory (patente B)
 true/false questions — in Italian, with English translations and explanations of
 the wording traps that catch learners out.
@@ -23,8 +25,8 @@ system (on Windows: *Settings → Time & Language → Speech → Add voices → 
 
 ## Live version (GitHub Pages)
 
-If Pages is enabled for this repo, the quiz is served straight from `index.html`
-at the repo's Pages URL — no download needed.
+Served straight from `index.html`, no download needed:
+**https://mathkidsclub.github.io/Italian-Driving-Theory-Tester/**
 
 ## What's in here
 
