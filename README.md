@@ -33,21 +33,13 @@ at the repo's Pages URL — no download needed.
 | `index.html` | The whole quiz UI (HTML + CSS + JS). |
 | `questions.js` | The question data (`window.QUESTIONS = [...]`). Pre-generated — this is what the page reads. |
 | `images/` | Road-sign images referenced by some questions. |
-| `export_questions.py` | Build script that regenerated `questions.js`. Not needed to use the app. |
 
-## Regenerating the data (optional)
+## About the data
 
-`questions.js` is already generated and committed, so you do **not** need any of
-this to use the quiz.
-
-`export_questions.py` rebuilds `questions.js` from a source SQLite database
-(`driving_test.sqlite`) that holds the questions and their AI-generated English
-translations and trap explanations. **That database is not included in this repo.**
-
-Producing the AI enrichment (translations + trap explanations) requires access to
-a large-language-model API — the original pipeline used **Azure OpenAI**. In other
-words, regenerating the data from scratch needs your own LLM account and API key;
-running the finished quiz needs nothing.
+The English translations and trap explanations in `questions.js` were generated
+from an Italian question bank using a large-language-model pipeline (Azure OpenAI).
+The data is pre-generated and committed, so nothing beyond a browser is needed to
+use the quiz.
 
 ## License
 
