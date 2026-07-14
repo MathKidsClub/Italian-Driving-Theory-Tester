@@ -71,9 +71,28 @@
   .reveal.show { display: block; }
   .toggle { color: var(--muted); font-size: 13px; }
   .toggle input { vertical-align: middle; }
+
+  /* Side ads */
+  .ad { position: fixed; top: 50%; transform: translateY(-50%); width: 220px;
+    z-index: 5; border-radius: 14px; overflow: hidden; line-height: 0;
+    box-shadow: 0 12px 40px rgba(0,0,0,.35); transition: transform .12s ease; }
+  .ad:hover { transform: translateY(-50%) scale(1.02); }
+  .ad img { width: 100%; height: auto; display: block; }
+  .ad-left { left: 28px; }
+  .ad-right { right: 28px; }
+  /* hide when there isn't room beside the 820px card (820 + 2*220 + gaps) */
+  @media (max-width: 1320px) { .ad { display: none; } }
 </style>
 </head>
 <body>
+  <a class="ad ad-left" href="https://www.math-kids.club/MOBILE_APP/webIndex.html"
+     target="_blank" rel="noopener" title="Math Kids Club — Mobile App">
+    <img src="ads/ad-1.png" alt="Math Kids Club mobile app">
+  </a>
+  <a class="ad ad-right" href="https://www.math-kids.club/WEB_GAMES/"
+     target="_blank" rel="noopener" title="Math Kids Club — Web Games">
+    <img src="ads/ad-2.png" alt="Math Kids Club web games">
+  </a>
   <header>
     <h1>Italian Driving Theory — Practice</h1>
     <div class="score">Score: <span id="correct">0</span> / <span id="total">0</span></div>
