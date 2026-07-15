@@ -32308,5 +32308,17405 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no major trap words here; it is a straightforward classification statement.",
   "image": "images/q_20560.png"
+ },
+ {
+  "n": 20561,
+  "it": "Il segnale raffigurato può essere posto in una strada in cui una parte della carreggiata è sbarrata",
+  "answer": true,
+  "en": "The sign shown may be placed on a road where part of the carriageway is blocked.",
+  "keywords": [
+   {
+    "phrase": "può essere posto",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "una parte della carreggiata",
+    "why": "limits it to only part of the roadway"
+   },
+   {
+    "phrase": "è sbarrata",
+    "why": "means blocked off, not just narrowed"
+   }
+  ],
+  "trick": "Watch for possibility wording and limits like only part of the carriageway being blocked.",
+  "image": "images/q_20561.png"
+ },
+ {
+  "n": 20562,
+  "it": "Il segnale raffigurato può essere posto in una strada con strettoia",
+  "answer": true,
+  "en": "The sign shown may be placed on a road with a narrowing.",
+  "keywords": [
+   {
+    "phrase": "può essere posto",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "strettoia",
+    "why": "means a narrow section, not any roadworks"
+   }
+  ],
+  "trick": "The key trap is that the sentence says the sign may be used in this case, not that it must be.",
+  "image": "images/q_20562.png"
+ },
+ {
+  "n": 20563,
+  "it": "Il segnale raffigurato impone di dare la precedenza ai veicoli provenienti dal senso opposto",
+  "answer": true,
+  "en": "The sign shown requires drivers to give way to vehicles coming from the opposite direction.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means give way/yield"
+   },
+   {
+    "phrase": "provenienti dal senso opposto",
+    "why": "specifies oncoming traffic only"
+   }
+  ],
+  "trick": "The important traps are the obligation and that priority is given only to traffic from the opposite direction.",
+  "image": "images/q_20563.png"
+ },
+ {
+  "n": 20564,
+  "it": "Il segnale raffigurato prescrive di dare la precedenza nei sensi unici alternati",
+  "answer": true,
+  "en": "The sign shown prescribes that you must give way in alternating one-way traffic sections.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses a rule/requirement"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means give way/yield"
+   },
+   {
+    "phrase": "sensi unici alternati",
+    "why": "refers to alternating single-direction flow, not normal one-way streets"
+   }
+  ],
+  "trick": "The tricky part is that this is a required priority rule for alternating traffic flow.",
+  "image": "images/q_20564.png"
+ },
+ {
+  "n": 20565,
+  "it": "Il segnale raffigurato si incontra prima di una strettoia che, di norma, consente il passaggio di una sola fila di veicoli",
+  "answer": true,
+  "en": "The sign shown is found before a narrowing which, as a rule, allows the passage of only a single line of vehicles.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means generally, not always"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission/allowance"
+   },
+   {
+    "phrase": "una sola fila di veicoli",
+    "why": "restricts passage to only one line of vehicles"
+   }
+  ],
+  "trick": "Note the non-absolute phrase 'as a rule' and the restriction to only one line of vehicles.",
+  "image": "images/q_20565.png"
+ },
+ {
+  "n": 20566,
+  "it": "Il segnale raffigurato si incontra prima di un qualsiasi restringimento della carreggiata",
+  "answer": false,
+  "en": "The sign shown is found before any narrowing whatsoever of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "un qualsiasi",
+    "why": "means any at all, making the claim very broad"
+   }
+  ],
+  "trick": "The trap is the broad wording 'any whatsoever,' which overgeneralizes the rule.",
+  "image": "images/q_20566.png"
+ },
+ {
+  "n": 20567,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "means prohibition, not warning or priority"
+   }
+  ],
+  "trick": "The key trap is confusing a priority sign with a prohibition sign.",
+  "image": "images/q_20567.png"
+ },
+ {
+  "n": 20568,
+  "it": "Il segnale raffigurato è posto all'inizio di una strada a senso unico",
+  "answer": false,
+  "en": "The sign shown is placed at the beginning of a one-way street.",
+  "keywords": [
+   {
+    "phrase": "all'inizio",
+    "why": "specifies the exact location"
+   },
+   {
+    "phrase": "strada a senso unico",
+    "why": "means a one-way street, not alternating one-way traffic"
+   }
+  ],
+  "trick": "The trap is confusing a one-way street with an alternating one-way traffic section.",
+  "image": "images/q_20568.png"
+ },
+ {
+  "n": 20569,
+  "it": "Il segnale raffigurato obbliga a dare la precedenza, negli incroci, ai veicoli provenienti sia da destra che da sinistra",
+  "answer": false,
+  "en": "The sign shown requires you, at intersections, to give way to vehicles coming from both the right and the left.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "negli incroci",
+    "why": "limits the rule to intersections"
+   },
+   {
+    "phrase": "sia da destra che da sinistra",
+    "why": "means from both sides"
+   }
+  ],
+  "trick": "The traps are the obligation wording and the claim that it applies at intersections to traffic from both sides.",
+  "image": "images/q_20569.png"
+ },
+ {
+  "n": 20570,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [
+   {
+    "phrase": "pericolo",
+    "why": "means warning/danger, not priority"
+   }
+  ],
+  "trick": "The trap is confusing the sign category with a warning sign.",
+  "image": "images/q_20570.png"
+ },
+ {
+  "n": 20571,
+  "it": "Il segnale raffigurato preannuncia il diritto di precedenza nei sensi unici alternati",
+  "answer": false,
+  "en": "The sign shown gives advance notice of the right of way in alternating one-way traffic sections.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice, not imposes immediately"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "means right of way, opposite of having to give way"
+   },
+   {
+    "phrase": "sensi unici alternati",
+    "why": "refers to alternating single-direction flow"
+   }
+  ],
+  "trick": "The main trap is the opposite meaning between having right of way and having to give way.",
+  "image": "images/q_20571.png"
+ },
+ {
+  "n": 20572,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce verde",
+  "answer": true,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we have priority if the traffic light is green.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the condition of both sign and signal being present"
+   },
+   {
+    "phrase": "abbiamo la precedenza",
+    "why": "means we have priority"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "luce verde",
+    "why": "green light overrides the sign's give-way rule"
+   }
+  ],
+  "trick": "The condition matters: with both present, the green traffic light gives us priority.",
+  "image": "images/q_20572.png"
+ },
+ {
+  "n": 20573,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci dobbiamo dare la precedenza se il semaforo è spento",
+  "answer": true,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we must give way if the traffic light is off.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the condition of both sign and signal being present"
+   },
+   {
+    "phrase": "dobbiamo dare la precedenza",
+    "why": "expresses obligation to give way"
+   },
+   {
+    "phrase": "se il semaforo è spento",
+    "why": "means the signal is not operating, so the sign applies"
+   }
+  ],
+  "trick": "The trap is that when the traffic light is off, the sign's give-way obligation applies.",
+  "image": "images/q_20573.png"
+ },
+ {
+  "n": 20574,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce rossa, ma l'agente del traffico ci ordina di passare",
+  "answer": true,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we have priority if the traffic light is red, but the traffic officer orders us to proceed.",
+  "keywords": [
+   {
+    "phrase": "ma",
+    "why": "introduces an exception/override"
+   },
+   {
+    "phrase": "luce rossa",
+    "why": "normally forbids proceeding"
+   },
+   {
+    "phrase": "l'agente del traffico ci ordina di passare",
+    "why": "the officer's order overrides the traffic light"
+   }
+  ],
+  "trick": "The exception introduced by 'but' is crucial: the traffic officer's order overrides the red light.",
+  "image": "images/q_20574.png"
+ },
+ {
+  "n": 20575,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci dobbiamo dare la precedenza se il semaforo è a luce lampeggiante gialla",
+  "answer": true,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we must give way if the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo dare la precedenza",
+    "why": "expresses obligation to give way"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "luce lampeggiante gialla",
+    "why": "flashing yellow means normal signs/rules apply"
+   }
+  ],
+  "trick": "The key trap is that a flashing yellow light makes the sign's give-way rule apply.",
+  "image": "images/q_20575.png"
+ },
+ {
+  "n": 20576,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci dobbiamo dare la precedenza anche se il semaforo è a luce verde",
+  "answer": false,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we must give way even if the traffic light is green.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo dare la precedenza",
+    "why": "expresses obligation to give way"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, adding a strong contrast"
+   },
+   {
+    "phrase": "luce verde",
+    "why": "green normally grants priority"
+   }
+  ],
+  "trick": "The trap is the contrast 'even if': green normally overrides the sign, so this statement is misleading.",
+  "image": "images/q_20576.png"
+ },
+ {
+  "n": 20577,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce gialla lampeggiante",
+  "answer": false,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we have priority if the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "abbiamo la precedenza",
+    "why": "means we have priority"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "luce gialla lampeggiante",
+    "why": "flashing yellow makes the sign apply, not automatic priority"
+   }
+  ],
+  "trick": "The trap is that flashing yellow does not give automatic priority; the sign still governs.",
+  "image": "images/q_20577.png"
+ },
+ {
+  "n": 20578,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce verde, ma l'agente del traffico ci ordina di fermarci",
+  "answer": false,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we have priority if the traffic light is green, but the traffic officer orders us to stop.",
+  "keywords": [
+   {
+    "phrase": "ma",
+    "why": "introduces an exception/override"
+   },
+   {
+    "phrase": "luce verde",
+    "why": "normally gives permission to proceed"
+   },
+   {
+    "phrase": "l'agente del traffico ci ordina di fermarci",
+    "why": "the officer's order overrides the green light"
+   }
+  ],
+  "trick": "The exception after 'but' is decisive: the traffic officer's order overrides the green light.",
+  "image": "images/q_20578.png"
+ },
+ {
+  "n": 20579,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci dobbiamo dare la precedenza se il semaforo è spento e l'agente del traffico ci ordina di passare",
+  "answer": false,
+  "en": "In the presence of the sign shown and a three-light traffic signal, we must give way if the traffic light is off and the traffic officer orders us to proceed.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo dare la precedenza",
+    "why": "expresses obligation to give way"
+   },
+   {
+    "phrase": "e",
+    "why": "joins two conditions that must both be true"
+   },
+   {
+    "phrase": "il semaforo è spento",
+    "why": "means the signal is not operating"
+   },
+   {
+    "phrase": "l'agente del traffico ci ordina di passare",
+    "why": "the officer's order overrides the sign"
+   }
+  ],
+  "trick": "The trap is that the officer's order to proceed overrides the sign, even if the traffic light is off.",
+  "image": "images/q_20579.png"
+ },
+ {
+  "n": 20522,
+  "it": "Il segnale raffigurato è un segnale di preavviso di fermarsi e dare precedenza",
+  "answer": true,
+  "en": "The sign shown is an advance warning sign to stop and give way.",
+  "keywords": [
+   {
+    "phrase": "preavviso",
+    "why": "means advance warning, not the actual stop line sign"
+   },
+   {
+    "phrase": "fermarsi e dare precedenza",
+    "why": "contains two obligations: stop and give way"
+   }
+  ],
+  "trick": "The key trap is that this is an advance warning of the stop-and-give-way rule, not necessarily the junction itself.",
+  "image": "images/q_20522.png"
+ },
+ {
+  "n": 20523,
+  "it": "Il segnale raffigurato preannuncia un segnale di STOP a 320 metri",
+  "answer": true,
+  "en": "The sign shown warns of a STOP sign 320 metres ahead.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not that it is the STOP sign itself"
+   }
+  ],
+  "trick": "The trap is that the sign only gives advance warning of STOP ahead.",
+  "image": "images/q_20523.png"
+ },
+ {
+  "n": 20524,
+  "it": "Il segnale raffigurato preannuncia di arrestarsi al prossimo incrocio e dare la precedenza a destra ed a sinistra",
+  "answer": true,
+  "en": "The sign shown warns that you must stop at the next junction and give way to traffic from the right and the left.",
+  "keywords": [
+   {
+    "phrase": "arrestarsi",
+    "why": "means come to a complete stop, not just slow down"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield or give way, a legal duty"
+   },
+   {
+    "phrase": "a destra ed a sinistra",
+    "why": "specifies traffic from both directions"
+   }
+  ],
+  "trick": "The key traps are the obligation to stop completely and to give way to both right and left.",
+  "image": "images/q_20524.png"
+ },
+ {
+  "n": 20525,
+  "it": "Il segnale raffigurato preannuncia di fermarsi 320 metri dopo il segnale e dare la precedenza",
+  "answer": true,
+  "en": "The sign shown warns that you must stop 320 metres after the sign and give way.",
+  "keywords": [
+   {
+    "phrase": "fermarsi",
+    "why": "means stop completely, not pause or slow"
+   },
+   {
+    "phrase": "320 metri dopo il segnale",
+    "why": "places the stop 320 metres ahead, not at the sign"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield as a legal obligation"
+   }
+  ],
+  "trick": "The main trap is that the required stop is ahead of the sign, not at it.",
+  "image": "images/q_20525.png"
+ },
+ {
+  "n": 20526,
+  "it": "Il segnale raffigurato invita a rallentare perché è prossimo un incrocio in cui bisogna fermarsi e dare la precedenza",
+  "answer": true,
+  "en": "The sign shown tells you to slow down because a junction is approaching where you must stop and give way.",
+  "keywords": [
+   {
+    "phrase": "è prossimo",
+    "why": "means is approaching or nearby"
+   },
+   {
+    "phrase": "bisogna fermarsi",
+    "why": "expresses necessity to stop, not a choice"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield as a legal duty"
+   }
+  ],
+  "trick": "The sentence combines a warning to slow down with a later obligation to stop and give way.",
+  "image": "images/q_20526.png"
+ },
+ {
+  "n": 20527,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "There are no major wording traps here; the challenge is knowing the sign category.",
+  "image": "images/q_20527.png"
+ },
+ {
+  "n": 20528,
+  "it": "Il segnale raffigurato obbliga solo a rallentare e, se necessario, a dare la precedenza all'incrocio a 320 metri",
+  "answer": false,
+  "en": "The sign shown requires you only to slow down and, if necessary, to give way at the junction 320 metres ahead.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this action"
+   },
+   {
+    "phrase": "se necessario",
+    "why": "makes the action conditional, not always required"
+   }
+  ],
+  "trick": "The trap is the limiting wording only and if necessary, which weakens the real STOP obligation.",
+  "image": "images/q_20528.png"
+ },
+ {
+  "n": 20529,
+  "it": "Il segnale raffigurato è posto a 320 metri dal segnale DARE PRECEDENZA",
+  "answer": false,
+  "en": "The sign shown is placed 320 metres before the GIVE WAY sign.",
+  "keywords": [
+   {
+    "phrase": "è posto a 320 metri dal",
+    "why": "states the distance from another sign, not from the junction itself"
+   }
+  ],
+  "trick": "The key trap is the stated distance being from a specific sign.",
+  "image": "images/q_20529.png"
+ },
+ {
+  "n": 20530,
+  "it": "Il segnale raffigurato si trova solo nelle strade urbane",
+  "answer": false,
+  "en": "The sign shown is found only on urban roads.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the statement to only this case"
+   }
+  ],
+  "trick": "The trap is the word only, which makes the claim too absolute.",
+  "image": "images/q_20530.png"
+ },
+ {
+  "n": 20531,
+  "it": "Il segnale raffigurato preannuncia la presenza di una barriera doganale",
+  "answer": false,
+  "en": "The sign shown warns of the presence of a customs barrier.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not indicates the barrier itself"
+   },
+   {
+    "phrase": "la presenza di",
+    "why": "signals existence ahead, not at the current spot"
+   }
+  ],
+  "trick": "The tricky part is that it refers to advance warning of something ahead.",
+  "image": "images/q_20531.png"
+ },
+ {
+  "n": 20532,
+  "it": "Il segnale raffigurato può presegnalare un casello autostradale",
+  "answer": false,
+  "en": "The sign shown may give advance warning of a motorway toll booth.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "means may or can, expressing possibility not certainty"
+   },
+   {
+    "phrase": "presegnalare",
+    "why": "means give advance warning, not mark the place itself"
+   }
+  ],
+  "trick": "The trap is the idea of possible advance warning rather than a definite direct indication.",
+  "image": "images/q_20532.png"
+ },
+ {
+  "n": 20533,
+  "it": "Il segnale raffigurato è posto prima del segnale ALT-POLIZIA",
+  "answer": false,
+  "en": "The sign shown is placed before the STOP-POLICE sign.",
+  "keywords": [
+   {
+    "phrase": "prima del",
+    "why": "indicates position before another sign, which can be confused with ahead of a junction"
+   }
+  ],
+  "trick": "The main trap is the positional wording before the ALT-POLIZIA sign.",
+  "image": "images/q_20533.png"
+ },
+ {
+  "n": 20534,
+  "it": "Incontrando il segnale raffigurato occorre fermarsi e poi arrestarsi nuovamente dopo 320 metri",
+  "answer": false,
+  "en": "On encountering the sign shown, you must stop and then stop again 320 metres later.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "means stop completely"
+   },
+   {
+    "phrase": "nuovamente",
+    "why": "means again, implying a second stop"
+   }
+  ],
+  "trick": "The trap is the false idea that the driver must stop twice.",
+  "image": "images/q_20534.png"
+ },
+ {
+  "n": 20535,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "There are no wording traps; the issue is identifying the sign class correctly.",
+  "image": "images/q_20535.png"
+ },
+ {
+  "n": 20580,
+  "it": "Il segnale raffigurato invita a maggiore prudenza perché non si ha più diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown calls for greater caution because you no longer have right of way.",
+  "keywords": [
+   {
+    "phrase": "non ... più",
+    "why": "means no longer, indicating a change from before"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "means right of way, a specific legal priority"
+   }
+  ],
+  "trick": "The key trap is no longer, showing that a previous priority has ended.",
+  "image": "images/q_20580.png"
+ },
+ {
+  "n": 20581,
+  "it": "In presenza del segnale raffigurato il conducente, salvo diverso ulteriore segnale, deve dare precedenza ai veicoli provenienti da destra.",
+  "answer": true,
+  "en": "In the presence of the sign shown, the driver, unless there is a different additional sign, must give way to vehicles coming from the right.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present, setting the condition"
+   },
+   {
+    "phrase": "salvo diverso ulteriore segnale",
+    "why": "creates an exception if another sign says otherwise"
+   },
+   {
+    "phrase": "deve dare precedenza",
+    "why": "expresses a legal obligation to give way"
+   }
+  ],
+  "trick": "The sentence states the normal rule but includes an exception if another sign changes it.",
+  "image": "images/q_20581.png"
+ },
+ {
+  "n": 20582,
+  "it": "Il segnale raffigurato è un segnale di precedenza",
+  "answer": true,
+  "en": "The sign shown is a priority sign.",
+  "keywords": [],
+  "trick": "There are no significant trap words; this is mainly about sign classification.",
+  "image": "images/q_20582.png"
+ },
+ {
+  "n": 20583,
+  "it": "Il segnale raffigurato indica che la strada non gode più del diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown indicates that the road no longer has right of way.",
+  "keywords": [
+   {
+    "phrase": "non ... più",
+    "why": "means no longer, indicating the end of a previous status"
+   },
+   {
+    "phrase": "gode più del diritto di precedenza",
+    "why": "means no longer enjoys the right of way"
+   }
+  ],
+  "trick": "The crucial trap is no longer, which marks the end of priority.",
+  "image": "images/q_20583.png"
+ },
+ {
+  "n": 20584,
+  "it": "Il segnale raffigurato può essere seguito dal segnale FERMARSI E DARE PRECEDENZA",
+  "answer": true,
+  "en": "The sign shown may be followed by the STOP AND GIVE WAY sign.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "essere seguito da",
+    "why": "means may come before another sign in sequence"
+   }
+  ],
+  "trick": "The trap is that the wording says may be followed, not is always followed.",
+  "image": "images/q_20584.png"
+ },
+ {
+  "n": 20585,
+  "it": "Il segnale raffigurato modifica le precedenti norme sulla precedenza agli incroci",
+  "answer": true,
+  "en": "The sign shown changes the previous rules on right of way at junctions.",
+  "keywords": [
+   {
+    "phrase": "modifica",
+    "why": "means changes the existing rule, not merely repeats it"
+   }
+  ],
+  "trick": "The key idea is that this sign changes the prior right-of-way rule.",
+  "image": "images/q_20585.png"
+ },
+ {
+  "n": 20586,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "There are no wording traps; the challenge is knowing the correct sign category.",
+  "image": "images/q_20586.png"
+ },
+ {
+  "n": 20587,
+  "it": "Il segnale raffigurato preannuncia che si sta percorrendo una strada con diritto di precedenza",
+  "answer": false,
+  "en": "The sign shown warns that you are travelling on a road with right of way.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns/announces ahead, not states the current situation"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "means right of way, a technical priority term"
+   }
+  ],
+  "trick": "\"Preannuncia\" can mislead learners into reading it as a present fact instead of advance notice.",
+  "image": "images/q_20587.png"
+ },
+ {
+  "n": 20588,
+  "it": "Il segnale raffigurato obbliga ad arrestarsi all'incrocio",
+  "answer": false,
+  "en": "The sign shown requires you to stop at the intersection.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "ad arrestarsi",
+    "why": "means to stop, a mandatory action"
+   }
+  ],
+  "trick": "\"Obbliga\" makes the statement about a compulsory action.",
+  "image": "images/q_20588.png"
+ },
+ {
+  "n": 20589,
+  "it": "Il segnale raffigurato indica l'andamento della strada principale",
+  "answer": false,
+  "en": "The sign shown indicates the course of the main road.",
+  "keywords": [
+   {
+    "phrase": "strada principale",
+    "why": "technical term meaning the road with priority, not just a main street"
+   }
+  ],
+  "trick": "\"Strada principale\" has a specific priority meaning in road-sign context.",
+  "image": "images/q_20589.png"
+ },
+ {
+  "n": 20590,
+  "it": "Il segnale raffigurato preannuncia sempre un incrocio con precedenza a destra",
+  "answer": false,
+  "en": "The sign shown always warns of an intersection where priority is given to the right.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns/announces ahead, not describes the exact spot"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "precedenza a destra",
+    "why": "technical phrase for priority to vehicles from the right"
+   }
+  ],
+  "trick": "\"Sempre\" is the key trap because it turns the claim into an absolute one.",
+  "image": "images/q_20590.png"
+ },
+ {
+  "n": 20591,
+  "it": "Il segnale raffigurato preannuncia la fine dell'obbligo precedentemente imposto",
+  "answer": false,
+  "en": "The sign shown warns of the end of the obligation previously imposed.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance warning, not marks the point itself"
+   },
+   {
+    "phrase": "obbligo",
+    "why": "means a mandatory requirement, not a general rule"
+   }
+  ],
+  "trick": "The trap is confusing advance warning with the actual end sign.",
+  "image": "images/q_20591.png"
+ },
+ {
+  "n": 20592,
+  "it": "Il segnale raffigurato preannuncia una strada senza uscita",
+  "answer": false,
+  "en": "The sign shown warns of a dead-end road.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not indicates immediate presence"
+   },
+   {
+    "phrase": "senza uscita",
+    "why": "means dead end, a fixed road term"
+   }
+  ],
+  "trick": "\"Preannuncia\" is easy to misread as directly indicating the road itself.",
+  "image": "images/q_20592.png"
+ },
+ {
+  "n": 20593,
+  "it": "Il segnale raffigurato indica il ripristino della norma generale sulla precedenza",
+  "answer": true,
+  "en": "The sign shown indicates the restoration of the general rule on right of way.",
+  "keywords": [
+   {
+    "phrase": "ripristino",
+    "why": "means reinstatement/restoration of a previous rule"
+   },
+   {
+    "phrase": "norma generale",
+    "why": "refers to the default legal rule, not a special one"
+   }
+  ],
+  "trick": "The key is that the sign brings back the default priority rule.",
+  "image": "images/q_20593.png"
+ },
+ {
+  "n": 20594,
+  "it": "Il segnale raffigurato indica che termina una strada con diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown indicates that a road with right of way ends.",
+  "keywords": [
+   {
+    "phrase": "termina",
+    "why": "marks the end of the condition"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "technical term meaning right of way"
+   }
+  ],
+  "trick": "\"Termina\" changes the meaning from having priority to no longer having it.",
+  "image": "images/q_20594.png"
+ },
+ {
+  "n": 20595,
+  "it": "Il segnale raffigurato indica che dopo di esso si dovrà, di norma, dare la precedenza a destra",
+  "answer": true,
+  "en": "The sign shown indicates that after it you will, as a rule, have to give way to the right.",
+  "keywords": [
+   {
+    "phrase": "dopo di esso",
+    "why": "limits the rule to after passing the sign"
+   },
+   {
+    "phrase": "si dovrà",
+    "why": "expresses obligation in the future"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means as a rule, not in every possible case"
+   },
+   {
+    "phrase": "dare la precedenza a destra",
+    "why": "technical phrase meaning give way to traffic from the right"
+   }
+  ],
+  "trick": "The main traps are \"si dovrà\" for obligation and \"di norma\" because it is not absolute.",
+  "image": "images/q_20595.png"
+ },
+ {
+  "n": 20596,
+  "it": "Il segnale raffigurato indica la fine del diritto di precedenza anche sulle strade urbane",
+  "answer": true,
+  "en": "The sign shown indicates the end of the right of way even on urban roads.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "signals the end of the condition"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the statement to urban roads as well"
+   },
+   {
+    "phrase": "strade urbane",
+    "why": "specific category meaning roads within built-up areas"
+   }
+  ],
+  "trick": "\"Anche\" is the trap because it extends the rule to an additional case.",
+  "image": "images/q_20596.png"
+ },
+ {
+  "n": 20597,
+  "it": "Il segnale raffigurato indica la fine di un'autostrada",
+  "answer": false,
+  "en": "The sign shown indicates the end of a motorway.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "signals the end of something"
+   }
+  ],
+  "trick": "The only trap is the end marker implied by \"fine\".",
+  "image": "images/q_20597.png"
+ },
+ {
+  "n": 20598,
+  "it": "Il segnale raffigurato indica la fine di una strada a senso unico",
+  "answer": false,
+  "en": "The sign shown indicates the end of a one-way road.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "signals the end of something"
+   },
+   {
+    "phrase": "senso unico",
+    "why": "fixed term meaning one-way traffic"
+   }
+  ],
+  "trick": "\"Senso unico\" is a set road term that learners must not translate too literally.",
+  "image": "images/q_20598.png"
+ },
+ {
+  "n": 20599,
+  "it": "Il segnale raffigurato indica la fine di una strada a doppio senso di circolazione",
+  "answer": false,
+  "en": "The sign shown indicates the end of a two-way road.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "signals the end of something"
+   },
+   {
+    "phrase": "doppio senso di circolazione",
+    "why": "fixed term meaning two-way traffic"
+   }
+  ],
+  "trick": "The road term is fixed and should be read as two-way traffic.",
+  "image": "images/q_20599.png"
+ },
+ {
+  "n": 20600,
+  "it": "Il segnale raffigurato indica fine del limite di velocità",
+  "answer": false,
+  "en": "The sign shown indicates the end of the speed limit.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "signals the end of something"
+   },
+   {
+    "phrase": "limite di velocità",
+    "why": "fixed term meaning speed limit"
+   }
+  ],
+  "trick": "The trap is reading it as a speed limit sign instead of the end of one.",
+  "image": "images/q_20600.png"
+ },
+ {
+  "n": 20601,
+  "it": "Il segnale raffigurato indica la fine di tutti i divieti",
+  "answer": false,
+  "en": "The sign shown indicates the end of all prohibitions.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "signals the end of something"
+   },
+   {
+    "phrase": "tutti",
+    "why": "makes the statement all-inclusive"
+   },
+   {
+    "phrase": "divieti",
+    "why": "means prohibitions/restrictions, not generic warnings"
+   }
+  ],
+  "trick": "\"Tutti\" is the key trap because it makes the claim universal.",
+  "image": "images/q_20601.png"
+ },
+ {
+  "n": 20665,
+  "it": "Il segnale raffigurato indica l'inizio di una strada in cui i veicoli hanno diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown indicates the beginning of a road on which vehicles have the right of way.",
+  "keywords": [
+   {
+    "phrase": "inizio",
+    "why": "marks the start of the condition"
+   },
+   {
+    "phrase": "hanno diritto di precedenza",
+    "why": "means have right of way, a technical priority phrase"
+   }
+  ],
+  "trick": "\"Inizio\" is crucial because it means the priority starts here.",
+  "image": "images/q_20665.png"
+ },
+ {
+  "n": 20666,
+  "it": "Il segnale raffigurato può essere posto su una strada statale",
+  "answer": true,
+  "en": "The sign shown may be placed on a state road.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "\"Può\" means it is allowed/possible, not that it must be there.",
+  "image": "images/q_20666.png"
+ },
+ {
+  "n": 20667,
+  "it": "In presenza del segnale raffigurato bisogna comunque dare la precedenza ai veicoli che hanno in funzione il lampeggiante blu e sirena",
+  "answer": true,
+  "en": "In the presence of the sign shown, you must in any case give way to vehicles using blue flashing lights and a siren.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present, setting the condition"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "comunque",
+    "why": "means in any case/still, despite the sign"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "technical phrase meaning give way"
+   },
+   {
+    "phrase": "lampeggiante blu e sirena",
+    "why": "identifies emergency vehicles with priority"
+   }
+  ],
+  "trick": "\"Comunque\" is the main trap because it keeps the obligation despite having priority.",
+  "image": "images/q_20667.png"
+ },
+ {
+  "n": 20668,
+  "it": "Il segnale raffigurato è un segnale di precedenza",
+  "answer": true,
+  "en": "The sign shown is a priority sign.",
+  "keywords": [],
+  "trick": "There are no real trap words in this sentence.",
+  "image": "images/q_20668.png"
+ },
+ {
+  "n": 20669,
+  "it": "In presenza del segnale raffigurato bisogna comunque assicurarsi che i veicoli provenienti dalle strade laterali diano la precedenza",
+  "answer": true,
+  "en": "In the presence of the sign shown, you must in any case make sure that vehicles coming from side roads give way.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present, setting the condition"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "comunque",
+    "why": "means in any case/still, despite having priority"
+   },
+   {
+    "phrase": "assicurarsi",
+    "why": "means make sure, requiring active checking"
+   },
+   {
+    "phrase": "diano la precedenza",
+    "why": "means give way, a technical priority phrase"
+   }
+  ],
+  "trick": "The main trap is \"comunque\": even with priority, you still have to check.",
+  "image": "images/q_20669.png"
+ },
+ {
+  "n": 20670,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward classification statement.",
+  "image": "images/q_20670.png"
+ },
+ {
+  "n": 20671,
+  "it": "Il segnale raffigurato obbliga ad arrestarsi all'incrocio",
+  "answer": false,
+  "en": "The sign shown requires you to stop at the intersection.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "The key trap is obbliga, which means the sign imposes a duty.",
+  "image": "images/q_20671.png"
+ },
+ {
+  "n": 20672,
+  "it": "Il segnale raffigurato può essere posto a protezione di attraversamenti pedonali pericolosi",
+  "answer": false,
+  "en": "The sign shown may be placed to protect dangerous pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The key trap is può, which means it is only possible, not always the case.",
+  "image": "images/q_20672.png"
+ },
+ {
+  "n": 20673,
+  "it": "Il segnale raffigurato è posto esclusivamente su strade extraurbane ad intenso traffico",
+  "answer": false,
+  "en": "The sign shown is placed exclusively on extra-urban roads with heavy traffic.",
+  "keywords": [
+   {
+    "phrase": "esclusivamente",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The key trap is esclusivamente, which makes the statement much more limited.",
+  "image": "images/q_20673.png"
+ },
+ {
+  "n": 20674,
+  "it": "Il segnale raffigurato preannuncia incrocio con precedenza rispetto ai soli veicoli provenienti da destra",
+  "answer": false,
+  "en": "The sign shown warns of an intersection where you have priority only over vehicles coming from the right.",
+  "keywords": [
+   {
+    "phrase": "rispetto ai soli",
+    "why": "limits the priority to only those vehicles"
+   }
+  ],
+  "trick": "The trap is soli, because it wrongly restricts the priority to one direction only.",
+  "image": "images/q_20674.png"
+ },
+ {
+  "n": 20675,
+  "it": "Il segnale raffigurato preannuncia le corsie riservate agli autobus in servizio pubblico",
+  "answer": false,
+  "en": "The sign shown warns of lanes reserved for buses in public service.",
+  "keywords": [
+   {
+    "phrase": "riservate",
+    "why": "means reserved exclusively for a category"
+   }
+  ],
+  "trick": "The notable trap is riservate, which indicates exclusive use by a specific class of vehicles.",
+  "image": "images/q_20675.png"
+ },
+ {
+  "n": 20676,
+  "it": "Il segnale raffigurato preannuncia l'inizio di un cantiere stradale",
+  "answer": false,
+  "en": "The sign shown warns of the start of roadworks.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is direct.",
+  "image": "images/q_20676.png"
+ },
+ {
+  "n": 20677,
+  "it": "Il segnale raffigurato si può trovare all'inizio di una strada urbana o extraurbana che gode del diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown may be found at the beginning of an urban or extra-urban road that has the right of way.",
+  "keywords": [
+   {
+    "phrase": "si può trovare",
+    "why": "expresses possibility, not fixed placement"
+   }
+  ],
+  "trick": "The trap is si può trovare, which means the location is possible, not exclusive or mandatory.",
+  "image": "images/q_20677.png"
+ },
+ {
+  "n": 20678,
+  "it": "Il segnale raffigurato può essere ripetuto in formato piccolo prima e dopo ogni incrocio",
+  "answer": true,
+  "en": "The sign shown may be repeated in a small format before and after every intersection.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "ogni",
+    "why": "means each and every one"
+   }
+  ],
+  "trick": "The traps are può for possibility and ogni for the broad scope of repetition.",
+  "image": "images/q_20678.png"
+ },
+ {
+  "n": 20679,
+  "it": "Il segnale di figura (A) può essere ripetuto in formato piccolo e integrato con il pannello in figura (B)",
+  "answer": true,
+  "en": "The sign in figure (A) may be repeated in a small format and supplemented with the panel shown in figure (B).",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The key trap is può, which states an allowed option rather than a requirement.",
+  "image": "images/q_20679.png"
+ },
+ {
+  "n": 20680,
+  "it": "Il segnale raffigurato comporta la presenza sulle strade che si incrociano del segnale DARE PRECEDENZA o STOP",
+  "answer": true,
+  "en": "The sign shown implies the presence, on the roads that intersect it, of the GIVE WAY or STOP sign.",
+  "keywords": [
+   {
+    "phrase": "comporta",
+    "why": "indicates that this sign implies a consequence"
+   },
+   {
+    "phrase": "o",
+    "why": "allows either one of two alternatives"
+   }
+  ],
+  "trick": "The traps are comporta, which signals a consequence, and o, which means one of two possible signs.",
+  "image": "images/q_20680.png"
+ },
+ {
+  "n": 20681,
+  "it": "In presenza del segnale raffigurato è comunque necessario moderare la velocità in prossimità degli incroci",
+  "answer": true,
+  "en": "When this sign is present, it is still necessary to slow down near intersections.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "comunque",
+    "why": "means despite that, still"
+   },
+   {
+    "phrase": "necessario",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near, not exactly at the point"
+   }
+  ],
+  "trick": "The traps are comunque and necessario, because they preserve an obligation even with priority.",
+  "image": "images/q_20681.png"
+ },
+ {
+  "n": 20682,
+  "it": "Il segnale raffigurato si trova all'inizio di una strada senza diritto di precedenza",
+  "answer": false,
+  "en": "The sign shown is found at the beginning of a road without the right of way.",
+  "keywords": [
+   {
+    "phrase": "senza",
+    "why": "negates possession of priority"
+   }
+  ],
+  "trick": "The key trap is senza, which reverses the meaning by denying priority.",
+  "image": "images/q_20682.png"
+ },
+ {
+  "n": 20683,
+  "it": "Il segnale raffigurato si trova all'inizio di un'autostrada",
+  "answer": false,
+  "en": "The sign shown is found at the beginning of a motorway.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is direct.",
+  "image": "images/q_20683.png"
+ },
+ {
+  "n": 20684,
+  "it": "Il segnale raffigurato si trova esclusivamente all'inizio di una strada statale",
+  "answer": false,
+  "en": "The sign shown is found exclusively at the beginning of a state road.",
+  "keywords": [
+   {
+    "phrase": "esclusivamente",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The key trap is esclusivamente, which makes the claim too absolute.",
+  "image": "images/q_20684.png"
+ },
+ {
+  "n": 20685,
+  "it": "In presenza del segnale raffigurato non occorrono particolari cautele perché si ha la precedenza",
+  "answer": false,
+  "en": "When this sign is present, no particular caution is needed because you have the right of way.",
+  "keywords": [
+   {
+    "phrase": "non occorrono",
+    "why": "negates the need for caution"
+   },
+   {
+    "phrase": "perché",
+    "why": "introduces a justification that may mislead"
+   },
+   {
+    "phrase": "si ha la precedenza",
+    "why": "states priority, but not freedom from care"
+   }
+  ],
+  "trick": "The main trap is non occorrono, because priority does not remove the need for caution.",
+  "image": "images/q_20685.png"
+ },
+ {
+  "n": 20686,
+  "it": "Il segnale raffigurato si trova alla fine di una strada con diritto di precedenza",
+  "answer": false,
+  "en": "The sign shown is found at the end of a road with the right of way.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is direct.",
+  "image": "images/q_20686.png"
+ },
+ {
+  "n": 20687,
+  "it": "Il segnale raffigurato si trova alla fine di una strada statale",
+  "answer": false,
+  "en": "The sign shown is found at the end of a state road.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is direct.",
+  "image": "images/q_20687.png"
+ },
+ {
+  "n": 20688,
+  "it": "Il segnale raffigurato indica che si ha la precedenza fino all'uscita del centro abitato",
+  "answer": false,
+  "en": "The sign shown indicates that you have the right of way until the exit from the built-up area.",
+  "keywords": [
+   {
+    "phrase": "fino all'uscita del centro abitato",
+    "why": "sets a false limit up to a specific point"
+   }
+  ],
+  "trick": "The trap is the phrase fino all'uscita del centro abitato, which imposes a specific limit.",
+  "image": "images/q_20688.png"
+ },
+ {
+  "n": 20689,
+  "it": "In presenza del segnale raffigurato dobbiamo accertarci che i veicoli provenienti dal senso contrario ci diano la precedenza",
+  "answer": true,
+  "en": "When this sign is present, we must make sure that vehicles coming from the opposite direction give us the right of way.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only in this situation"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "accertarci",
+    "why": "means we must verify, not assume"
+   },
+   {
+    "phrase": "ci diano la precedenza",
+    "why": "means they must yield to us"
+   }
+  ],
+  "trick": "The traps are dobbiamo and accertarci, because they require checking rather than assuming priority.",
+  "image": "images/q_20689.png"
+ },
+ {
+  "n": 20690,
+  "it": "In presenza del segnale raffigurato possiamo percorrere la strettoia, dopo esserci assicurati di aver ottenuto la precedenza",
+  "answer": true,
+  "en": "When this sign is present, we may go through the narrow section after making sure that we have been given priority.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means 'when this sign is present', not physical presence only"
+   },
+   {
+    "phrase": "possiamo",
+    "why": "expresses permission/possibility, not obligation"
+   },
+   {
+    "phrase": "dopo esserci assicurati",
+    "why": "sets a condition that must be checked first"
+   },
+   {
+    "phrase": "aver ottenuto la precedenza",
+    "why": "means having been given priority, not simply having it automatically"
+   }
+  ],
+  "trick": "The key trap is that passage is allowed only after confirming the oncoming traffic has yielded priority.",
+  "image": "images/q_20690.png"
+ },
+ {
+  "n": 20691,
+  "it": "In presenza del segnale raffigurato dobbiamo procedere con cautela, anche se abbiamo la precedenza",
+  "answer": true,
+  "en": "When this sign is present, we must proceed with caution, even if we have priority.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means 'even if' and keeps the rule despite the exception"
+   },
+   {
+    "phrase": "abbiamo la precedenza",
+    "why": "having priority does not remove the duty of caution"
+   }
+  ],
+  "trick": "The sentence says caution is still mandatory even when you have priority.",
+  "image": "images/q_20691.png"
+ },
+ {
+  "n": 20692,
+  "it": "In presenza del segnale raffigurato si può percorrere la strettoia accertandosi di aver avuto la precedenza dai veicoli provenienti di fronte",
+  "answer": true,
+  "en": "When this sign is present, you may go through the narrow section after making sure that the vehicles coming from the opposite direction have given you priority.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission/possibility, not obligation"
+   },
+   {
+    "phrase": "accertandosi",
+    "why": "requires prior checking as a condition"
+   },
+   {
+    "phrase": "aver avuto la precedenza dai veicoli provenienti di fronte",
+    "why": "means priority has been yielded by oncoming vehicles"
+   }
+  ],
+  "trick": "You may pass only after checking that oncoming vehicles have yielded to you.",
+  "image": "images/q_20692.png"
+ },
+ {
+  "n": 20693,
+  "it": "In presenza del segnale raffigurato si deve dare la precedenza ai veicoli che provengono dal senso opposto",
+  "answer": false,
+  "en": "When this sign is present, you must give way to vehicles coming from the opposite direction.",
+  "keywords": [
+   {
+    "phrase": "si deve dare la precedenza",
+    "why": "expresses an obligation to yield"
+   },
+   {
+    "phrase": "dal senso opposto",
+    "why": "specifies vehicles from the opposite direction"
+   }
+  ],
+  "trick": "The trap is the obligation to yield, which is not what this sign indicates.",
+  "image": "images/q_20693.png"
+ },
+ {
+  "n": 20694,
+  "it": "In presenza del segnale raffigurato possiamo procedere senza cautela, dato che abbiamo il diritto di precedenza",
+  "answer": false,
+  "en": "When this sign is present, we may proceed without caution, since we have the right of way.",
+  "keywords": [
+   {
+    "phrase": "senza cautela",
+    "why": "removes caution entirely"
+   },
+   {
+    "phrase": "dato che",
+    "why": "introduces a reason that may wrongly justify the action"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "having priority does not cancel the need for care"
+   }
+  ],
+  "trick": "The false part is claiming priority allows proceeding without caution.",
+  "image": "images/q_20694.png"
+ },
+ {
+  "n": 20695,
+  "it": "In presenza del segnale raffigurato non vi sono particolari obblighi perché siamo su una strada a senso unico",
+  "answer": false,
+  "en": "When this sign is present, there are no particular obligations because we are on a one-way road.",
+  "keywords": [
+   {
+    "phrase": "non vi sono",
+    "why": "negates the existence of obligations"
+   },
+   {
+    "phrase": "particolari obblighi",
+    "why": "refers to duties that the statement denies"
+   },
+   {
+    "phrase": "perché",
+    "why": "introduces a justification that can mislead"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "claims a one-way road, which changes the rule completely"
+   }
+  ],
+  "trick": "The statement is tricky because it wrongly denies any duty by claiming the road is one-way.",
+  "image": "images/q_20695.png"
+ },
+ {
+  "n": 20696,
+  "it": "In presenza del segnale raffigurato inizia il doppio senso di circolazione",
+  "answer": false,
+  "en": "When this sign is present, two-way traffic begins.",
+  "keywords": [
+   {
+    "phrase": "inizia",
+    "why": "means the start of a condition, not just its presence"
+   },
+   {
+    "phrase": "doppio senso di circolazione",
+    "why": "refers specifically to two-way traffic"
+   }
+  ],
+  "trick": "The trap is confusing a priority sign with the start of two-way traffic.",
+  "image": "images/q_20696.png"
+ },
+ {
+  "n": 20697,
+  "it": "In presenza del segnale raffigurato si deve usare prudenza nella strettoia perché la circolazione si svolge a doppio senso",
+  "answer": false,
+  "en": "When this sign is present, you must use caution in the narrow section because traffic is two-way.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "perché",
+    "why": "introduces the supposed reason for the rule"
+   },
+   {
+    "phrase": "a doppio senso",
+    "why": "claims two-way traffic, which changes the meaning"
+   }
+  ],
+  "trick": "The sentence wrongly bases the caution rule on two-way traffic in the narrow section.",
+  "image": "images/q_20697.png"
+ },
+ {
+  "n": 20698,
+  "it": "Il segnale raffigurato preannuncia il divieto d'inversione di marcia",
+  "answer": false,
+  "en": "The sign shown warns in advance of a U-turn prohibition.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means 'warns in advance of', not the prohibition itself"
+   },
+   {
+    "phrase": "divieto d'inversione di marcia",
+    "why": "specifies a no U-turn rule"
+   }
+  ],
+  "trick": "The trap is confusing this sign with advance warning of a no U-turn sign.",
+  "image": "images/q_20698.png"
+ },
+ {
+  "n": 20699,
+  "it": "Il segnale raffigurato preannuncia il divieto di svolta",
+  "answer": false,
+  "en": "The sign shown warns in advance of a turn prohibition.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means advance warning, not the actual ban"
+   },
+   {
+    "phrase": "divieto di svolta",
+    "why": "refers to a prohibited turn"
+   }
+  ],
+  "trick": "The sentence is tricky because it misidentifies the sign as advance warning of a turn ban.",
+  "image": "images/q_20699.png"
+ },
+ {
+  "n": 20700,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce verde",
+  "answer": true,
+  "en": "When this sign and the three-light traffic signal are present, we have priority if the traffic light is green.",
+  "keywords": [
+   {
+    "phrase": "e del semaforo a tre luci",
+    "why": "adds another traffic control that affects priority"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "luce verde",
+    "why": "green light changes which rule applies"
+   }
+  ],
+  "trick": "Priority applies here only under the condition that the traffic light is green.",
+  "image": "images/q_20700.png"
+ },
+ {
+  "n": 20701,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è spento",
+  "answer": true,
+  "en": "When this sign and the three-light traffic signal are present, we have priority if the traffic light is off.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "è spento",
+    "why": "means the traffic light is off, so the sign governs priority"
+   }
+  ],
+  "trick": "The key point is that the sign governs when the traffic light is switched off.",
+  "image": "images/q_20701.png"
+ },
+ {
+  "n": 20702,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce rossa, ma l'agente del traffico ci ordina di passare",
+  "answer": true,
+  "en": "When this sign and the three-light traffic signal are present, we have priority if the traffic light is red, but the traffic officer orders us to go through.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "luce rossa",
+    "why": "normally prohibits proceeding"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces an overriding exception"
+   },
+   {
+    "phrase": "l'agente del traffico ci ordina di passare",
+    "why": "the officer's order overrides the traffic light"
+   }
+  ],
+  "trick": "The exception is that the traffic officer's order overrides the red light.",
+  "image": "images/q_20702.png"
+ },
+ {
+  "n": 20703,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci dobbiamo dare la precedenza se il semaforo è spento e l'agente del traffico ci ordina di fermarci",
+  "answer": true,
+  "en": "When this sign and the three-light traffic signal are present, we must give way if the traffic light is off and the traffic officer orders us to stop.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo dare la precedenza",
+    "why": "expresses an obligation to yield"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "è spento",
+    "why": "means the traffic light is off"
+   },
+   {
+    "phrase": "ci ordina di fermarci",
+    "why": "the officer's order overrides the sign"
+   }
+  ],
+  "trick": "The officer's order to stop overrides the usual priority from the sign.",
+  "image": "images/q_20703.png"
+ },
+ {
+  "n": 20704,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce gialla lampeggiante",
+  "answer": true,
+  "en": "When this sign and the three-light traffic signal are present, we have priority if the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "luce gialla lampeggiante",
+    "why": "flashing yellow means signals do not assign right of way normally"
+   }
+  ],
+  "trick": "With flashing yellow, the sign determines priority.",
+  "image": "images/q_20704.png"
+ },
+ {
+  "n": 20705,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza anche se il semaforo è a luce rossa",
+  "answer": false,
+  "en": "When this sign and the three-light traffic signal are present, we have priority even if the traffic light is red.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "means 'even if' and tries to keep the rule despite an exception"
+   },
+   {
+    "phrase": "luce rossa",
+    "why": "red light normally prohibits proceeding"
+   }
+  ],
+  "trick": "The trap is claiming the sign overrides a red light, which it does not.",
+  "image": "images/q_20705.png"
+ },
+ {
+  "n": 20706,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci dobbiamo dare la precedenza se il semaforo è a luce lampeggiante gialla",
+  "answer": false,
+  "en": "When this sign and the three-light traffic signal are present, we must give way if the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo dare la precedenza",
+    "why": "expresses an obligation to yield"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "luce lampeggiante gialla",
+    "why": "flashing yellow does not itself require yielding"
+   },
+   {
+    "phrase": "the sign matters",
+    "why": ""
+   }
+  ],
+  "trick": "The false point is saying flashing yellow automatically means you must give way.",
+  "image": "images/q_20706.png"
+ },
+ {
+  "n": 20707,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è a luce verde e l'agente del traffico ci ordina di fermarci",
+  "answer": false,
+  "en": "When this sign and the three-light traffic signal are present, we have priority if the traffic light is green and the traffic officer orders us to stop.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "luce verde",
+    "why": "normally allows passage"
+   },
+   {
+    "phrase": "e l'agente del traffico ci ordina di fermarci",
+    "why": "the officer's order overrides the green light"
+   }
+  ],
+  "trick": "The officer's order to stop overrides both the green light and the sign.",
+  "image": "images/q_20707.png"
+ },
+ {
+  "n": 20708,
+  "it": "In presenza del segnale raffigurato e del semaforo a tre luci abbiamo la precedenza se il semaforo è spento e l'agente del traffico ci ordina di fermarci",
+  "answer": false,
+  "en": "When this sign and the three-light traffic signal are present, we have priority if the traffic light is off and the traffic officer orders us to stop.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "è spento",
+    "why": "means the traffic light is off"
+   },
+   {
+    "phrase": "e l'agente del traffico ci ordina di fermarci",
+    "why": "the officer's order overrides the sign"
+   }
+  ],
+  "trick": "The trap is that an officer ordering you to stop cancels any priority from the sign.",
+  "image": "images/q_20708.png"
+ },
+ {
+  "n": 20466,
+  "it": "Il segnale raffigurato è un segnale di precedenza",
+  "answer": true,
+  "en": "The sign shown is a priority sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di precedenza",
+    "why": "refers specifically to a priority/right-of-way sign"
+   }
+  ],
+  "trick": "The only real trap is recognising that this belongs to the priority-sign category.",
+  "image": "images/q_20466.png"
+ },
+ {
+  "n": 20467,
+  "it": "Il segnale raffigurato obbliga a dare precedenza ai veicoli provenienti sia da destra che da sinistra",
+  "answer": true,
+  "en": "The sign shown requires you to give way to vehicles coming from both the right and the left.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "sia da destra che da sinistra",
+    "why": "means from both sides, not just one"
+   }
+  ],
+  "trick": "Watch for obligation and the fact that priority must be given to traffic from both directions.",
+  "image": "images/q_20467.png"
+ },
+ {
+  "n": 20468,
+  "it": "Il segnale raffigurato comporta di dare la precedenza ai veicoli che circolano sulla strada che si incrocia",
+  "answer": true,
+  "en": "The sign shown means that you must give way to vehicles travelling on the road you are crossing.",
+  "keywords": [
+   {
+    "phrase": "comporta di dare la precedenza",
+    "why": "indicates a required action"
+   },
+   {
+    "phrase": "che si incrocia",
+    "why": "refers to the road being crossed"
+   }
+  ],
+  "trick": "The key trap is that the sign requires giving way to traffic on the intersecting road.",
+  "image": "images/q_20468.png"
+ },
+ {
+  "n": 20469,
+  "it": "Il segnale raffigurato viene posto su strada secondaria che non ha il diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown is placed on a secondary road that does not have the right of way.",
+  "keywords": [
+   {
+    "phrase": "strada secondaria",
+    "why": "identifies the minor road"
+   },
+   {
+    "phrase": "non ha il diritto di precedenza",
+    "why": "negates having priority"
+   }
+  ],
+  "trick": "The meaning depends on recognising that this is for a minor road without priority.",
+  "image": "images/q_20469.png"
+ },
+ {
+  "n": 20470,
+  "it": "Il segnale raffigurato si trova sulle corsie di accelerazione per l'immissione in autostrada",
+  "answer": true,
+  "en": "The sign shown is found on acceleration lanes for entering a motorway.",
+  "keywords": [
+   {
+    "phrase": "corsie di accelerazione",
+    "why": "specific road feature, not any lane"
+   },
+   {
+    "phrase": "immissione in autostrada",
+    "why": "means entering the motorway"
+   }
+  ],
+  "trick": "The trap is the specific context: acceleration lanes used to join a motorway.",
+  "image": "images/q_20470.png"
+ },
+ {
+  "n": 20471,
+  "it": "Il segnale raffigurato su strade extraurbane è preceduto dal segnale PREAVVISO DI DARE PRECEDENZA",
+  "answer": true,
+  "en": "On rural roads, the sign shown is preceded by the sign GIVE WAY AHEAD.",
+  "keywords": [
+   {
+    "phrase": "su strade extraurbane",
+    "why": "limits the rule to rural roads"
+   },
+   {
+    "phrase": "è preceduto",
+    "why": "shows another sign comes before it"
+   }
+  ],
+  "trick": "The statement applies specifically on rural roads and refers to an advance warning sign before it.",
+  "image": "images/q_20471.png"
+ },
+ {
+  "n": 20472,
+  "it": "Il segnale raffigurato preannuncia di moderare particolarmente la velocità e all'occorrenza fermarsi",
+  "answer": true,
+  "en": "The sign shown warns you to reduce speed considerably and, if necessary, stop.",
+  "keywords": [
+   {
+    "phrase": "particolarmente",
+    "why": "intensifies the need to slow down"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   }
+  ],
+  "trick": "It means slow down a lot and stop only if needed.",
+  "image": "images/q_20472.png"
+ },
+ {
+  "n": 20473,
+  "it": "In presenza del segnale raffigurato non occorre fermarsi all'incrocio se, rallentando, si ha modo di vedere che non vi sono veicoli in arrivo, sia da destra che da sinistra",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is not necessary to stop at the junction if, by slowing down, you can see that there are no vehicles approaching from either the right or the left.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "states that stopping is not required"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "sia da destra che da sinistra",
+    "why": "means from both sides"
+   }
+  ],
+  "trick": "The trap is the negation: stopping is not required, but only if slowing down gives clear visibility on both sides.",
+  "image": "images/q_20473.png"
+ },
+ {
+  "n": 20474,
+  "it": "Il segnale raffigurato può essere preceduto dal segnale DIRITTO DI PRECEDENZA",
+  "answer": false,
+  "en": "The sign shown may be preceded by the RIGHT OF WAY sign.",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "preceduto",
+    "why": "means another sign comes before it"
+   }
+  ],
+  "trick": "The sentence says it may be preceded by another sign, not that it always is.",
+  "image": "images/q_20474.png"
+ },
+ {
+  "n": 20475,
+  "it": "Il segnale raffigurato è impiegato su strade che godono del diritto di precedenza",
+  "answer": false,
+  "en": "The sign shown is used on roads that have the right of way.",
+  "keywords": [
+   {
+    "phrase": "godono del diritto di precedenza",
+    "why": "means having priority/right of way"
+   }
+  ],
+  "trick": "The key term is that it refers to roads enjoying priority.",
+  "image": "images/q_20475.png"
+ },
+ {
+  "n": 20476,
+  "it": "Il segnale raffigurato è posto, di norma, 150 metri prima dell'incrocio",
+  "answer": false,
+  "en": "The sign shown is placed, as a rule, 150 metres before the junction.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means as a rule, not always exactly"
+   },
+   {
+    "phrase": "prima dell'incrocio",
+    "why": "specifies before the junction"
+   }
+  ],
+  "trick": "The trap is 'di norma', which means usually, not in every case.",
+  "image": "images/q_20476.png"
+ },
+ {
+  "n": 20477,
+  "it": "Il segnale raffigurato, lungo le autostrade, viene posto a distanza maggiore di 150 m",
+  "answer": false,
+  "en": "The sign shown, along motorways, is placed at a distance greater than 150 m.",
+  "keywords": [
+   {
+    "phrase": "lungo le autostrade",
+    "why": "limits the statement to motorways"
+   },
+   {
+    "phrase": "maggiore di 150 m",
+    "why": "means more than 150 m"
+   }
+  ],
+  "trick": "The meaning depends on the motorway context and the comparison 'greater than 150 m'.",
+  "image": "images/q_20477.png"
+ },
+ {
+  "n": 20478,
+  "it": "Il segnale raffigurato obbliga a fermarsi prima di impegnare l'incrocio",
+  "answer": false,
+  "en": "The sign shown requires you to stop before entering the junction.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "means to stop, not just slow down"
+   },
+   {
+    "phrase": "prima di impegnare l'incrocio",
+    "why": "means before entering the junction"
+   }
+  ],
+  "trick": "The trap is the strong obligation to stop before entering the junction.",
+  "image": "images/q_20478.png"
+ },
+ {
+  "n": 20479,
+  "it": "Il segnale raffigurato si trova solo su strade urbane",
+  "answer": false,
+  "en": "The sign shown is found only on urban roads.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The key trap is 'solo', which makes the claim exclusive.",
+  "image": "images/q_20479.png"
+ },
+ {
+  "n": 20480,
+  "it": "Il segnale raffigurato è un segnale generico di pericolo",
+  "answer": false,
+  "en": "The sign shown is a generic danger warning sign.",
+  "keywords": [
+   {
+    "phrase": "generico",
+    "why": "means general, not specific"
+   }
+  ],
+  "trick": "The trap is the claim that it is only a general danger sign.",
+  "image": "images/q_20480.png"
+ },
+ {
+  "n": 20481,
+  "it": "In presenza del segnale raffigurato è obbligatorio dare la precedenza a sinistra solo ai tram e ai veicoli in servizio di emergenza",
+  "answer": false,
+  "en": "In the presence of the sign shown, it is compulsory to give way on the left only to trams and emergency vehicles.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the obligation to only this case"
+   }
+  ],
+  "trick": "The trick is the restrictive word 'solo', which wrongly limits who gets priority on the left.",
+  "image": "images/q_20481.png"
+ },
+ {
+  "n": 20482,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di prescrizione",
+    "why": "means a sign giving a rule/requirement"
+   }
+  ],
+  "trick": "The key term is 'segnale di prescrizione', a regulatory sign imposing a rule.",
+  "image": "images/q_20482.png"
+ },
+ {
+  "n": 20483,
+  "it": "Il segnale raffigurato obbliga a dare precedenza ai veicoli che circolano sulla strada su cui ci si immette",
+  "answer": true,
+  "en": "The sign shown requires you to give way to vehicles travelling on the road you are joining.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "su cui ci si immette",
+    "why": "means the road you are entering"
+   }
+  ],
+  "trick": "The trap is that the obligation applies to traffic on the road you are joining.",
+  "image": "images/q_20483.png"
+ },
+ {
+  "n": 20484,
+  "it": "La prescrizione del segnale raffigurato, se abbinato ad un semaforo, vale quando il semaforo funziona a luce gialla lampeggiante",
+  "answer": true,
+  "en": "The rule of the sign shown, if combined with traffic lights, applies when the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "se abbinato ad un semaforo",
+    "why": "makes the rule conditional on being paired with traffic lights"
+   },
+   {
+    "phrase": "vale quando",
+    "why": "states when the rule applies"
+   },
+   {
+    "phrase": "luce gialla lampeggiante",
+    "why": "means flashing yellow, a special condition"
+   }
+  ],
+  "trick": "The prescription applies only in the specific case of a flashing yellow traffic light.",
+  "image": "images/q_20484.png"
+ },
+ {
+  "n": 20485,
+  "it": "Il segnale raffigurato si trova sulle rampe di raccordo per l'immissione in autostrada",
+  "answer": true,
+  "en": "The sign shown is found on slip roads for entering a motorway.",
+  "keywords": [
+   {
+    "phrase": "rampe di raccordo",
+    "why": "specific term for slip roads/link roads"
+   },
+   {
+    "phrase": "immissione in autostrada",
+    "why": "means entering the motorway"
+   }
+  ],
+  "trick": "The statement is about the specific motorway-entry slip road context.",
+  "image": "images/q_20485.png"
+ },
+ {
+  "n": 20486,
+  "it": "Il segnale raffigurato impone l'uso della massima prudenza al fine di evitare incidenti",
+  "answer": true,
+  "en": "The sign shown requires the utmost caution in order to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses a requirement"
+   },
+   {
+    "phrase": "massima prudenza",
+    "why": "means the greatest possible caution"
+   },
+   {
+    "phrase": "al fine di",
+    "why": "means for the purpose of"
+   }
+  ],
+  "trick": "The trap is the strong requirement: it demands maximum caution to prevent accidents.",
+  "image": "images/q_20486.png"
+ },
+ {
+  "n": 20487,
+  "it": "Il segnale raffigurato può essere preceduto dal PREAVVISO DI FERMARSI E DARE PRECEDENZA",
+  "answer": false,
+  "en": "The sign shown may be preceded by the ADVANCE WARNING FOR STOP AND GIVE WAY.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "preceduto",
+    "why": "means another sign may come before it"
+   }
+  ],
+  "trick": "Watch for possibility and sign order: it may be preceded by another sign, not that it must be.",
+  "image": "images/q_20487.png"
+ },
+ {
+  "n": 20488,
+  "it": "Il segnale raffigurato lungo le autostrade viene posto a distanza di 150 metri dall'area di servizio",
+  "answer": false,
+  "en": "The sign shown, on motorways, is placed 150 metres from the service area.",
+  "keywords": [
+   {
+    "phrase": "lungo le autostrade",
+    "why": "limits the statement to motorways"
+   },
+   {
+    "phrase": "a distanza di 150 metri",
+    "why": "states an exact distance"
+   }
+  ],
+  "trick": "The traps are the road type and the precise stated distance.",
+  "image": "images/q_20488.png"
+ },
+ {
+  "n": 20489,
+  "it": "Il segnale raffigurato preannuncia di arrestarsi prima di impegnare l'incrocio",
+  "answer": false,
+  "en": "The sign shown warns that you must stop before entering the junction.",
+  "keywords": [
+   {
+    "phrase": "arrestarsi",
+    "why": "means to stop, not just slow down"
+   },
+   {
+    "phrase": "prima di impegnare l'incrocio",
+    "why": "means before entering the junction"
+   }
+  ],
+  "trick": "The key trap is the stronger meaning: stop before entering, not merely approach carefully.",
+  "image": "images/q_20489.png"
+ },
+ {
+  "n": 20490,
+  "it": "Il segnale raffigurato si trova solo su strade extraurbane",
+  "answer": false,
+  "en": "The sign shown is found only on rural roads.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "Solo makes the statement exclusive.",
+  "image": "images/q_20490.png"
+ },
+ {
+  "n": 20509,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "No major trap words; the key is knowing the sign category.",
+  "image": "images/q_20509.png"
+ },
+ {
+  "n": 20510,
+  "it": "Il segnale raffigurato è un preavviso di dare precedenza sia a destra che a sinistra",
+  "answer": true,
+  "en": "The sign shown is an advance warning to give way both to the right and to the left.",
+  "keywords": [
+   {
+    "phrase": "sia ... che ...",
+    "why": "means both sides, not just one"
+   }
+  ],
+  "trick": "Sia...che... includes both right and left.",
+  "image": "images/q_20510.png"
+ },
+ {
+  "n": 20511,
+  "it": "Il segnale raffigurato preannuncia la successiva presenza di un segnale di DARE PRECEDENZA",
+  "answer": true,
+  "en": "The sign shown warns of the upcoming presence of a GIVE WAY sign.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance warning, not the sign itself"
+   },
+   {
+    "phrase": "successiva presenza",
+    "why": "refers to a later sign ahead"
+   }
+  ],
+  "trick": "It is only advance warning of a sign that comes later.",
+  "image": "images/q_20511.png"
+ },
+ {
+  "n": 20512,
+  "it": "Il segnale raffigurato indica la distanza dall'incrocio in cui dobbiamo dare precedenza",
+  "answer": true,
+  "en": "The sign shown indicates the distance from the junction where we must give way.",
+  "keywords": [
+   {
+    "phrase": "indica la distanza",
+    "why": "refers to distance, not the junction itself"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The statement is about the distance to a place where giving way is mandatory.",
+  "image": "images/q_20512.png"
+ },
+ {
+  "n": 20513,
+  "it": "Il segnale raffigurato preannuncia di rallentare per potersi fermare se ci sono veicoli cui bisogna dare precedenza",
+  "answer": true,
+  "en": "The sign shown warns you to slow down so that you can stop if there are vehicles to which you must give way.",
+  "keywords": [
+   {
+    "phrase": "potersi fermare",
+    "why": "means be able to stop if necessary"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the stopping conditional"
+   },
+   {
+    "phrase": "bisogna dare precedenza",
+    "why": "expresses obligation to give way"
+   }
+  ],
+  "trick": "Stopping is conditional, but giving way is mandatory when required.",
+  "image": "images/q_20513.png"
+ },
+ {
+  "n": 20514,
+  "it": "Il segnale raffigurato può preannunciare un incrocio a T, in cui bisogna dare la precedenza",
+  "answer": true,
+  "en": "The sign shown may warn of a T-junction where you must give way.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "bisogna dare la precedenza",
+    "why": "expresses obligation to give way"
+   }
+  ],
+  "trick": "The sign may indicate this case, and in that case giving way is mandatory.",
+  "image": "images/q_20514.png"
+ },
+ {
+  "n": 20515,
+  "it": "Il segnale raffigurato è posto su una strada che non ha diritto di precedenza",
+  "answer": true,
+  "en": "The sign shown is placed on a road that does not have right of way.",
+  "keywords": [
+   {
+    "phrase": "non ha diritto di precedenza",
+    "why": "negates priority status"
+   }
+  ],
+  "trick": "The trap is the negation: this road does not have priority.",
+  "image": "images/q_20515.png"
+ },
+ {
+  "n": 20516,
+  "it": "Il segnale raffigurato è un preavviso di fermarsi e dare precedenza",
+  "answer": false,
+  "en": "The sign shown is an advance warning to stop and give way.",
+  "keywords": [
+   {
+    "phrase": "fermarsi e dare precedenza",
+    "why": "expresses an obligation to stop and yield"
+   }
+  ],
+  "trick": "The phrase indicates the stronger STOP-and-yield meaning.",
+  "image": "images/q_20516.png"
+ },
+ {
+  "n": 20517,
+  "it": "Il segnale raffigurato preannuncia la distanza dal prossimo segnale di STOP",
+  "answer": false,
+  "en": "The sign shown indicates the distance to the next STOP sign.",
+  "keywords": [
+   {
+    "phrase": "prossimo",
+    "why": "means the next one ahead"
+   }
+  ],
+  "trick": "The key trap is prossimo, meaning the next sign ahead.",
+  "image": "images/q_20517.png"
+ },
+ {
+  "n": 20518,
+  "it": "Il segnale raffigurato indica la distanza dall'incrocio in cui dovremo obbligatoriamente fermarci",
+  "answer": false,
+  "en": "The sign shown indicates the distance from the junction where we will have to stop compulsorily.",
+  "keywords": [
+   {
+    "phrase": "dovremo",
+    "why": "expresses future obligation"
+   },
+   {
+    "phrase": "obbligatoriamente",
+    "why": "reinforces that stopping is mandatory"
+   }
+  ],
+  "trick": "Both words strengthen the idea of compulsory stopping ahead.",
+  "image": "images/q_20518.png"
+ },
+ {
+  "n": 20519,
+  "it": "In presenza del segnale raffigurato è obbligatorio fermarsi al prossimo incrocio",
+  "answer": false,
+  "en": "In the presence of the sign shown, it is compulsory to stop at the next junction.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prossimo incrocio",
+    "why": "means the next junction ahead"
+   }
+  ],
+  "trick": "The traps are the condition, the obligation, and that it refers to the next junction.",
+  "image": "images/q_20519.png"
+ },
+ {
+  "n": 20520,
+  "it": "Il segnale raffigurato preannuncia un incrocio in cui vale la regola di dare la precedenza solo a destra",
+  "answer": false,
+  "en": "The sign shown warns of a junction where the rule of giving way only to the right applies.",
+  "keywords": [
+   {
+    "phrase": "vale la regola",
+    "why": "means the rule applies there"
+   },
+   {
+    "phrase": "solo a destra",
+    "why": "restricts giving way to the right only"
+   }
+  ],
+  "trick": "Solo makes the rule exclusive to traffic from the right.",
+  "image": "images/q_20520.png"
+ },
+ {
+  "n": 20521,
+  "it": "Il segnale raffigurato preannuncia la presenza di un semaforo a tre luci a 320 metri",
+  "answer": false,
+  "en": "The sign shown warns of the presence of a three-light traffic signal 320 metres ahead.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance"
+   },
+   {
+    "phrase": "a 320 metri",
+    "why": "states an exact distance"
+   }
+  ],
+  "trick": "The statement is specifically about advance warning and a precise distance.",
+  "image": "images/q_20521.png"
+ },
+ {
+  "n": 21990,
+  "it": "Il segnale raffigurato preavvisa un impianto semaforico in presenza di un cantiere stradale",
+  "answer": true,
+  "en": "The sign shown warns of a traffic light installation in the presence of roadworks.",
+  "keywords": [
+   {
+    "phrase": "in presenza di",
+    "why": "means when roadworks are present"
+   }
+  ],
+  "trick": "The condition limits the meaning to cases where roadworks are present.",
+  "image": "images/q_21990.png"
+ },
+ {
+  "n": 21991,
+  "it": "Il segnale raffigurato si può trovare sia su strade urbane che extraurbane",
+  "answer": true,
+  "en": "The sign shown can be found both on urban roads and on rural roads.",
+  "keywords": [
+   {
+    "phrase": "si può trovare",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "sia ... che ...",
+    "why": "includes both categories"
+   }
+  ],
+  "trick": "It may appear in both settings, not just one.",
+  "image": "images/q_21991.png"
+ },
+ {
+  "n": 21992,
+  "it": "Il segnale raffigurato può essere posto prima del restringimento di carreggiata per lavori in corso",
+  "answer": true,
+  "en": "The sign shown may be placed before a carriageway narrowing due to roadworks.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "prima del",
+    "why": "indicates it comes before the hazard"
+   },
+   {
+    "phrase": "per lavori in corso",
+    "why": "states the reason is ongoing roadworks"
+   }
+  ],
+  "trick": "The sign may be used before a narrowing caused by roadworks.",
+  "image": "images/q_21992.png"
+ },
+ {
+  "n": 21993,
+  "it": "Nel segnale raffigurato il disco al centro è a luce gialla lampeggiante",
+  "answer": true,
+  "en": "In the sign shown, the disc in the centre has a flashing yellow light.",
+  "keywords": [
+   {
+    "phrase": "luce gialla lampeggiante",
+    "why": "means a flashing yellow light, not a steady yellow one"
+   }
+  ],
+  "trick": "Watch for phrases that specify a flashing light rather than just the colour.",
+  "image": "images/q_21993.png"
+ },
+ {
+  "n": 21994,
+  "it": "Il segnale raffigurato preavvisa un semaforo che regola il traffico in transito su ponti mobili o girevoli",
+  "answer": false,
+  "en": "The sign shown warns of traffic lights controlling traffic crossing movable or swing bridges.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not simply indicates"
+   },
+   {
+    "phrase": "ponti mobili o girevoli",
+    "why": "specifies movable or swing bridges only"
+   }
+  ],
+  "trick": "The traps are the advance warning meaning and the specific type of bridge mentioned.",
+  "image": "images/q_21994.png"
+ },
+ {
+  "n": 21995,
+  "it": "Il segnale raffigurato preavvisa la presenza di un segnale di STOP",
+  "answer": false,
+  "en": "The sign shown warns of the presence of a STOP sign.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not simply indicates"
+   },
+   {
+    "phrase": "presenza di",
+    "why": "limits the meaning to the presence of something ahead"
+   }
+  ],
+  "trick": "The statement is about advance warning of a STOP sign ahead, not the STOP sign itself.",
+  "image": "images/q_21995.png"
+ },
+ {
+  "n": 21996,
+  "it": "Il segnale raffigurato preavvisa l'accesso al pontile d'imbarco delle navi traghetto",
+  "answer": false,
+  "en": "The sign shown warns of the access to the ferry boarding pier.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not simply indicates"
+   },
+   {
+    "phrase": "pontile d'imbarco",
+    "why": "refers specifically to a boarding pier"
+   }
+  ],
+  "trick": "The key trap is that the sign is said to warn in advance of a specific access point.",
+  "image": "images/q_21996.png"
+ },
+ {
+  "n": 21997,
+  "it": "Il segnale raffigurato preavvisa un attraversamento ferroviario senza barriere",
+  "answer": false,
+  "en": "The sign shown warns of an unbarred railway crossing.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not simply indicates"
+   },
+   {
+    "phrase": "senza barriere",
+    "why": "specifies that there are no barriers"
+   }
+  ],
+  "trick": "Be careful with the advance warning meaning and the absence of barriers.",
+  "image": "images/q_21997.png"
+ },
+ {
+  "n": 19512,
+  "it": "Il segnale raffigurato vieta la circolazione nei due sensi",
+  "answer": true,
+  "en": "The sign shown prohibits traffic in both directions.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nei due sensi",
+    "why": "means in both directions, not just one"
+   }
+  ],
+  "trick": "The traps are the prohibition and that it applies to both directions.",
+  "image": "images/q_19512.png"
+ },
+ {
+  "n": 19513,
+  "it": "Il segnale raffigurato vieta il transito a tutti i veicoli",
+  "answer": true,
+  "en": "The sign shown prohibits all vehicles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tutti i veicoli",
+    "why": "extends the ban to all vehicles"
+   }
+  ],
+  "trick": "The key point is that the prohibition applies to all vehicles.",
+  "image": "images/q_19513.png"
+ },
+ {
+  "n": 19514,
+  "it": "Il segnale raffigurato vieta la circolazione ai quadricicli a motore",
+  "answer": true,
+  "en": "The sign shown prohibits quadricycles from circulating.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quadricicli a motore",
+    "why": "names a specific vehicle category that learners may confuse"
+   }
+  ],
+  "trick": "The trap is the specific vehicle type covered by the prohibition.",
+  "image": "images/q_19514.png"
+ },
+ {
+  "n": 19515,
+  "it": "Il segnale raffigurato è posto su entrambi gli accessi della strada",
+  "answer": true,
+  "en": "The sign shown is placed at both entrances to the road.",
+  "keywords": [
+   {
+    "phrase": "entrambi",
+    "why": "means both, not just one"
+   }
+  ],
+  "trick": "The only real trap is that the sign is said to be at both accesses.",
+  "image": "images/q_19515.png"
+ },
+ {
+  "n": 19516,
+  "it": "Il segnale raffigurato vieta il transito agli autocarri",
+  "answer": true,
+  "en": "The sign shown prohibits trucks from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "autocarri",
+    "why": "means trucks, a specific vehicle category"
+   }
+  ],
+  "trick": "The trap is the specific prohibition aimed at trucks.",
+  "image": "images/q_19516.png"
+ },
+ {
+  "n": 19517,
+  "it": "Il segnale raffigurato può avere validità limitata nel tempo, indicata in un pannello integrativo",
+  "answer": true,
+  "en": "The sign shown may have a time-limited validity, indicated on an additional panel.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "limitata nel tempo",
+    "why": "means valid only for a certain period"
+   }
+  ],
+  "trick": "The sentence says this is possible and time-limited, not always the case.",
+  "image": "images/q_19517.png"
+ },
+ {
+  "n": 19518,
+  "it": "Il segnale raffigurato consente il transito ai pedoni",
+  "answer": true,
+  "en": "The sign shown allows pedestrians to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is that the verb gives permission, not prohibition.",
+  "image": "images/q_19518.png"
+ },
+ {
+  "n": 19519,
+  "it": "Il segnale raffigurato vieta la circolazione ai ciclomotori",
+  "answer": true,
+  "en": "The sign shown prohibits mopeds from circulating.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ciclomotori",
+    "why": "means mopeds, not all motorcycles"
+   }
+  ],
+  "trick": "The trap is the specific vehicle type: mopeds.",
+  "image": "images/q_19519.png"
+ },
+ {
+  "n": 19520,
+  "it": "Il segnale raffigurato è un DIVIETO DI TRANSITO",
+  "answer": true,
+  "en": "The sign shown is a NO ENTRY sign.",
+  "keywords": [
+   {
+    "phrase": "DIVIETO DI TRANSITO",
+    "why": "is the exact name of the prohibition sign"
+   }
+  ],
+  "trick": "The only trap is recognising the exact official name of the sign.",
+  "image": "images/q_19520.png"
+ },
+ {
+  "n": 19521,
+  "it": "Il segnale raffigurato consente il transito alle biciclette",
+  "answer": false,
+  "en": "The sign shown allows bicycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is that the sentence claims permission rather than prohibition.",
+  "image": "images/q_19521.png"
+ },
+ {
+  "n": 19522,
+  "it": "Il segnale raffigurato vieta il transito unicamente ai veicoli a motore",
+  "answer": false,
+  "en": "The sign shown prohibits passage only to motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "unicamente",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The crucial trap is the word 'only', which narrows the prohibition.",
+  "image": "images/q_19522.png"
+ },
+ {
+  "n": 19523,
+  "it": "Il segnale raffigurato consente, di norma, di entrare nella strada per effettuare la sosta e le operazioni di carico e scarico",
+  "answer": false,
+  "en": "The sign shown normally allows entry into the road in order to park and to carry out loading and unloading operations.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, not always"
+   },
+   {
+    "phrase": "per effettuare",
+    "why": "states a specific purpose or condition"
+   }
+  ],
+  "trick": "The sentence is tricky because it gives a normal permission for a specific purpose, not a general right.",
+  "image": "images/q_19523.png"
+ },
+ {
+  "n": 19524,
+  "it": "Il segnale raffigurato non consente l'ingresso, ma solo l'uscita dalla strada",
+  "answer": false,
+  "en": "The sign shown does not allow entry, but only exit from the road.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "ma solo",
+    "why": "restricts the rule to only the following case"
+   }
+  ],
+  "trick": "The traps are the negation and the 'only' limitation.",
+  "image": "images/q_19524.png"
+ },
+ {
+  "n": 19525,
+  "it": "Il segnale raffigurato indica che la circolazione è a senso unico",
+  "answer": false,
+  "en": "The sign shown indicates that traffic is one-way.",
+  "keywords": [
+   {
+    "phrase": "a senso unico",
+    "why": "means one-way traffic, a specific road direction rule"
+   }
+  ],
+  "trick": "The key trap is the exact meaning of 'one-way'.",
+  "image": "images/q_19525.png"
+ },
+ {
+  "n": 19526,
+  "it": "Il segnale raffigurato consente il transito alle autovetture con motore elettrico",
+  "answer": false,
+  "en": "The sign shown allows electric cars to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "autovetture con motore elettrico",
+    "why": "specifies electric cars only"
+   }
+  ],
+  "trick": "The trap is that the sentence gives permission to a specific vehicle type only.",
+  "image": "images/q_19526.png"
+ },
+ {
+  "n": 19527,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "No major trap words; the challenge is identifying the sign category.",
+  "image": "images/q_19527.png"
+ },
+ {
+  "n": 19528,
+  "it": "Il segnale raffigurato, se barrato in rosso, indica la fine del divieto",
+  "answer": false,
+  "en": "The sign shown, if crossed out in red, indicates the end of the prohibition.",
+  "keywords": [
+   {
+    "phrase": "se barrato in rosso",
+    "why": "sets a condition: only if the sign is crossed out in red"
+   }
+  ],
+  "trick": "The phrase 'se barrato in rosso' limits the statement to a specific version of the sign.",
+  "image": "images/q_19528.png"
+ },
+ {
+  "n": 19529,
+  "it": "Il segnale raffigurato vieta di entrare in una strada accessibile invece dall'altra parte",
+  "answer": true,
+  "en": "The sign shown prohibits entry into a road that is accessible from the other side instead.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "invece",
+    "why": "contrasts this side with access from the opposite side"
+   }
+  ],
+  "trick": "The key trap is that entry is forbidden from this side, but the road can be entered from the other side.",
+  "image": "images/q_19529.png"
+ },
+ {
+  "n": 19530,
+  "it": "I veicoli senza motore devono rispettare il divieto imposto dal segnale rappresentato",
+  "answer": true,
+  "en": "Vehicles without an engine must obey the prohibition imposed by the sign shown.",
+  "keywords": [
+   {
+    "phrase": "devono rispettare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "senza motore",
+    "why": "includes non-motor vehicles, which learners may overlook"
+   }
+  ],
+  "trick": "The sentence is tricky because it states that even vehicles without an engine are obliged to obey the prohibition.",
+  "image": "images/q_19530.png"
+ },
+ {
+  "n": 19531,
+  "it": "I taxi devono rispettare il divieto imposto dal segnale rappresentato",
+  "answer": true,
+  "en": "Taxis must obey the prohibition imposed by the sign shown.",
+  "keywords": [
+   {
+    "phrase": "devono rispettare",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The main trap is obligation: taxis are not exempt here.",
+  "image": "images/q_19531.png"
+ },
+ {
+  "n": 19532,
+  "it": "I quadricicli a motore devono rispettare il divieto imposto dal segnale rappresentato",
+  "answer": true,
+  "en": "Motor quadricycles must obey the prohibition imposed by the sign shown.",
+  "keywords": [
+   {
+    "phrase": "devono rispettare",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is that motor quadricycles are also required to obey the prohibition.",
+  "image": "images/q_19532.png"
+ },
+ {
+  "n": 19533,
+  "it": "Il divieto imposto dal segnale raffigurato deve essere rispettato anche nelle ore notturne",
+  "answer": true,
+  "en": "The prohibition imposed by the sign shown must also be observed at night.",
+  "keywords": [
+   {
+    "phrase": "deve essere rispettato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds inclusion: night-time as well"
+   }
+  ],
+  "trick": "The word 'anche' makes clear that the prohibition applies at night too, not only during the day.",
+  "image": "images/q_19533.png"
+ },
+ {
+  "n": 19534,
+  "it": "Il segnale raffigurato è posto su una strada a senso unico",
+  "answer": true,
+  "en": "The sign shown is placed on a one-way street.",
+  "keywords": [
+   {
+    "phrase": "a senso unico",
+    "why": "specific road type: traffic goes in only one direction"
+   }
+  ],
+  "trick": "The phrase 'a senso unico' is crucial because it specifies a one-way street.",
+  "image": "images/q_19534.png"
+ },
+ {
+  "n": 19535,
+  "it": "Il segnale raffigurato è un SENSO VIETATO",
+  "answer": true,
+  "en": "The sign shown is a NO ENTRY sign.",
+  "keywords": [],
+  "trick": "No real wording trap; the issue is recognizing the exact sign name.",
+  "image": "images/q_19535.png"
+ },
+ {
+  "n": 19536,
+  "it": "Il segnale raffigurato consente l'accesso ai motocicli",
+  "answer": false,
+  "en": "The sign shown allows access to motorcycles.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The verb 'consente' is the key trap because it means permission is given.",
+  "image": "images/q_19536.png"
+ },
+ {
+  "n": 19537,
+  "it": "Il segnale raffigurato consente l'accesso ai ciclomotori",
+  "answer": false,
+  "en": "The sign shown allows access to mopeds.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The verb 'consente' is the key trap because it means permission is given.",
+  "image": "images/q_19537.png"
+ },
+ {
+  "n": 19538,
+  "it": "Il segnale raffigurato non consente la circolazione dei veicoli in quella strada",
+  "answer": false,
+  "en": "The sign shown does not allow vehicles to travel on that road.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "The negation in 'non consente' completely reverses the meaning.",
+  "image": "images/q_19538.png"
+ },
+ {
+  "n": 19539,
+  "it": "Il segnale raffigurato è posto su una carreggiata a doppio senso di circolazione",
+  "answer": false,
+  "en": "The sign shown is placed on a two-way carriageway.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "specific road type: traffic in both directions"
+   }
+  ],
+  "trick": "The phrase 'a doppio senso di circolazione' is crucial because it means two-way traffic.",
+  "image": "images/q_19539.png"
+ },
+ {
+  "n": 19540,
+  "it": "Il segnale raffigurato vieta la sosta, ma non la fermata",
+  "answer": false,
+  "en": "The sign shown prohibits parking, but not stopping.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates an exception by excluding the second part"
+   }
+  ],
+  "trick": "The phrase 'ma non' is the trap because it forbids one action while allowing the other.",
+  "image": "images/q_19540.png"
+ },
+ {
+  "n": 19541,
+  "it": "Il segnale raffigurato vieta il sorpasso",
+  "answer": false,
+  "en": "The sign shown prohibits overtaking.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition conveyed by 'vieta'.",
+  "image": "images/q_19541.png"
+ },
+ {
+  "n": 19542,
+  "it": "Il segnale raffigurato consente la circolazione del traffico locale in entrambi i sensi",
+  "answer": false,
+  "en": "The sign shown allows local traffic to travel in both directions.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "in entrambi i sensi",
+    "why": "means both directions, which changes the traffic rule"
+   }
+  ],
+  "trick": "The traps are the permission in 'consente' and the scope in 'in entrambi i sensi'.",
+  "image": "images/q_19542.png"
+ },
+ {
+  "n": 19543,
+  "it": "Il divieto imposto dal segnale raffigurato deve essere rispettato, nei centri abitati, dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The prohibition imposed by the sign shown must be observed, in built-up areas, from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "deve essere rispettato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the rule to built-up areas"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "limits the rule to a specific time period"
+   }
+  ],
+  "trick": "The statement is limited by both place and time, so those qualifiers are easy to miss.",
+  "image": "images/q_19543.png"
+ },
+ {
+  "n": 19544,
+  "it": "Il segnale raffigurato è un DIVIETO DI TRANSITO",
+  "answer": false,
+  "en": "The sign shown is a NO VEHICLES sign.",
+  "keywords": [],
+  "trick": "No major wording trap; the challenge is distinguishing the sign from similar prohibition signs.",
+  "image": "images/q_19544.png"
+ },
+ {
+  "n": 19628,
+  "it": "Il segnale raffigurato vieta ai veicoli di massa a pieno carico superiore a 3,5 tonnellate non destinati al trasporto di persone, di sorpassare veicoli a motore",
+  "answer": true,
+  "en": "The sign shown prohibits vehicles with a maximum laden mass exceeding 3.5 tonnes, not intended for the transport of persons, from overtaking motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a threshold: only above 3.5 tonnes"
+   },
+   {
+    "phrase": "non destinati al trasporto di persone",
+    "why": "excludes vehicles intended to carry people"
+   }
+  ],
+  "trick": "The meaning depends on both the weight limit and the exclusion of vehicles used to transport people.",
+  "image": "images/q_19628.png"
+ },
+ {
+  "n": 19629,
+  "it": "In presenza del segnale raffigurato, un autocarro non può sorpassare veicoli a motore se sulla sua carta di circolazione è indicata una massa complessiva a pieno carico superiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "In the presence of the sign shown, a lorry may not overtake motor vehicles if its registration document indicates a maximum authorised laden mass exceeding 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "applies the rule only when that sign is present"
+   },
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition/lack of permission"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a threshold: only above 3.5 tonnes"
+   }
+  ],
+  "trick": "The prohibition applies only under that sign and only if the vehicle's authorised laden mass exceeds 3.5 tonnes.",
+  "image": "images/q_19629.png"
+ },
+ {
+  "n": 19630,
+  "it": "Il segnale raffigurato consente ad un autocarro di massa a pieno carico inferiore a 3,5 tonnellate di sorpassare un autoarticolato",
+  "answer": true,
+  "en": "The sign shown allows a truck with a maximum laden mass of less than 3.5 tonnes to overtake an articulated lorry.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "inferiore a 3,5 tonnellate",
+    "why": "sets a strict weight limit below 3.5 tonnes"
+   }
+  ],
+  "trick": "The key traps are the permission given by the sign and the exact under-3.5-tonne limit.",
+  "image": "images/q_19630.png"
+ },
+ {
+  "n": 19631,
+  "it": "Il segnale raffigurato consente ad un autobus di massa a pieno carico pari a 18 tonnellate di sorpassare un autotreno",
+  "answer": true,
+  "en": "The sign shown allows a bus with a maximum laden mass of 18 tonnes to overtake a road train.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "pari a 18 tonnellate",
+    "why": "states an exact weight, not approximate"
+   }
+  ],
+  "trick": "Watch the permission meaning and the exact stated weight.",
+  "image": "images/q_19631.png"
+ },
+ {
+  "n": 19632,
+  "it": "In presenza del segnale raffigurato un'autovettura con massa a pieno carico pari a 3 tonnellate trainante un carrello appendice, può sorpassare veicoli a motore",
+  "answer": true,
+  "en": "In the presence of the sign shown, a car with a maximum laden mass of 3 tonnes, towing a luggage trailer, may overtake motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The statement applies only where the sign is present, and says the vehicle is allowed to overtake.",
+  "image": "images/q_19632.png"
+ },
+ {
+  "n": 19633,
+  "it": "In presenza del segnale raffigurato un'autovettura può sorpassare un autotreno",
+  "answer": true,
+  "en": "In the presence of the sign shown, a car may overtake a road train.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The main traps are the condition created by the sign and the idea of permission.",
+  "image": "images/q_19633.png"
+ },
+ {
+  "n": 19634,
+  "it": "In presenza del segnale raffigurato un autocaravan con massa a pieno carico pari a 4 tonnellate può effettuare manovre di sorpasso",
+  "answer": true,
+  "en": "In the presence of the sign shown, a motor caravan with a maximum laden mass of 4 tonnes may carry out overtaking manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "pari a 4 tonnellate",
+    "why": "states an exact weight, not approximate"
+   }
+  ],
+  "trick": "Pay attention to the sign condition, the permission, and the exact 4-tonne weight.",
+  "image": "images/q_19634.png"
+ },
+ {
+  "n": 19635,
+  "it": "In presenza del segnale raffigurato è vietato agli autocarri con massa a pieno carico superiore a 3,5 t di sorpassare un motociclo",
+  "answer": true,
+  "en": "In the presence of the sign shown, trucks with a maximum laden mass of more than 3.5 tonnes are forbidden to overtake a motorcycle.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a 3,5 t",
+    "why": "sets a strict weight threshold above 3.5 tonnes"
+   }
+  ],
+  "trick": "The tricky points are the prohibition and the exact over-3.5-tonne threshold.",
+  "image": "images/q_19635.png"
+ },
+ {
+  "n": 19636,
+  "it": "In presenza del segnale raffigurato un autocarro con massa massima a pieno carico superiore a 3,5 tonnellate trainante un rimorchio leggero, può sorpassare un motociclo",
+  "answer": false,
+  "en": "In the presence of the sign shown, a truck with a maximum laden mass of more than 3.5 tonnes, towing a light trailer, may overtake a motorcycle.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a strict weight threshold above 3.5 tonnes"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch the sign condition, the exact weight class, and the fact that it says may overtake.",
+  "image": "images/q_19636.png"
+ },
+ {
+  "n": 19637,
+  "it": "In presenza del segnale raffigurato un autocaravan di massa a pieno carico superiore a 3,5 tonnellate non può sorpassare veicoli a motore",
+  "answer": false,
+  "en": "In the presence of the sign shown, a motor caravan with a maximum laden mass of more than 3.5 tonnes cannot overtake motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a strict weight threshold above 3.5 tonnes"
+   },
+   {
+    "phrase": "non può",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "The key trap is the negated permission for vehicles over 3.5 tonnes.",
+  "image": "images/q_19637.png"
+ },
+ {
+  "n": 19638,
+  "it": "Il segnale raffigurato consente ad un autocarro di massa complessiva superiore a 3,5 tonnellate di sorpassare un motociclo",
+  "answer": false,
+  "en": "The sign shown allows a truck with a total mass of more than 3.5 tonnes to overtake a motorcycle.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a strict weight threshold above 3.5 tonnes"
+   }
+  ],
+  "trick": "The statement turns on permission and the exact over-3.5-tonne category.",
+  "image": "images/q_19638.png"
+ },
+ {
+  "n": 19639,
+  "it": "Il segnale raffigurato consente alle autovetture di sorpassare gli autocarri sulla corsia di destra",
+  "answer": false,
+  "en": "The sign shown allows cars to overtake trucks in the right-hand lane.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sulla corsia di destra",
+    "why": "adds a specific lane condition"
+   }
+  ],
+  "trick": "The traps are the permission meaning and the specific reference to the right-hand lane.",
+  "image": "images/q_19639.png"
+ },
+ {
+  "n": 19640,
+  "it": "Il segnale raffigurato vieta il sorpasso agli autosnodati",
+  "answer": false,
+  "en": "The sign shown prohibits overtaking for articulated buses.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The main trap is that the verb states a prohibition.",
+  "image": "images/q_19640.png"
+ },
+ {
+  "n": 19641,
+  "it": "Il segnale raffigurato vieta ad un'autocaravan di massa complessiva pari a 6 tonnellate di effettuare manovre di sorpasso",
+  "answer": false,
+  "en": "The sign shown prohibits a motor caravan with a total mass of 6 tonnes from carrying out overtaking manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "pari a 6 tonnellate",
+    "why": "states an exact weight, not approximate"
+   }
+  ],
+  "trick": "Watch the prohibition and the exact 6-tonne figure.",
+  "image": "images/q_19641.png"
+ },
+ {
+  "n": 19642,
+  "it": "In presenza del segnale raffigurato, un autocarro di massa a pieno carico pari a 3 tonnellate non può effettuare manovre di sorpasso",
+  "answer": false,
+  "en": "In the presence of the sign shown, a truck with a maximum laden mass of 3 tonnes cannot carry out overtaking manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "non può",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "pari a 3 tonnellate",
+    "why": "states an exact weight, not approximate"
+   }
+  ],
+  "trick": "The important traps are the sign condition, the negative form, and the exact 3-tonne weight.",
+  "image": "images/q_19642.png"
+ },
+ {
+  "n": 19643,
+  "it": "In presenza del segnale raffigurato i veicoli con massa a pieno carico superiore a 3,5 tonnellate destinati al trasporto di persone, non possono effettuare manovre di sorpasso",
+  "answer": false,
+  "en": "In the presence of the sign shown, vehicles with a maximum laden mass of more than 3.5 tonnes intended for the transport of people cannot carry out overtaking manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a strict weight threshold above 3.5 tonnes"
+   },
+   {
+    "phrase": "non possono",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "The tricky parts are the exact weight class and the negative permission.",
+  "image": "images/q_19643.png"
+ },
+ {
+  "n": 19545,
+  "it": "Il segnale raffigurato consente ad un'autovettura di sorpassare un motociclo",
+  "answer": true,
+  "en": "The sign shown allows a car to overtake a motorcycle.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is that the sign gives permission.",
+  "image": "images/q_19545.png"
+ },
+ {
+  "n": 19546,
+  "it": "Il segnale raffigurato si può trovare sia sulle strade urbane che su quelle extraurbane",
+  "answer": true,
+  "en": "The sign shown can be found both on urban roads and on extra-urban roads.",
+  "keywords": [
+   {
+    "phrase": "sia ... che",
+    "why": "means both categories are included"
+   },
+   {
+    "phrase": "si può trovare",
+    "why": "expresses possibility of occurrence, not obligation"
+   }
+  ],
+  "trick": "The sentence includes both road types and says the sign may be found there.",
+  "image": "images/q_19546.png"
+ },
+ {
+  "n": 19547,
+  "it": "Il segnale (A) può essere ripetuto dopo ogni incrocio con pannello integrativo (B)",
+  "answer": true,
+  "en": "The sign (A) may be repeated after every junction with supplementary panel (B).",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "dopo ogni incrocio",
+    "why": "extends the rule to each junction"
+   }
+  ],
+  "trick": "The traps are that repetition is optional and applies after every junction.",
+  "image": "images/q_19547.png"
+ },
+ {
+  "n": 19548,
+  "it": "Il segnale raffigurato vieta di sorpassare autocarri",
+  "answer": true,
+  "en": "The sign shown prohibits overtaking lorries.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition meaning.",
+  "image": "images/q_19548.png"
+ },
+ {
+  "n": 19549,
+  "it": "Il segnale raffigurato consente di sorpassare i ciclomotori",
+  "answer": true,
+  "en": "The sign shown allows overtaking mopeds.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The main trap is that the sign permits this action.",
+  "image": "images/q_19549.png"
+ },
+ {
+  "n": 19550,
+  "it": "Il segnale raffigurato vieta il sorpasso fra autoveicoli, anche se la manovra può compiersi entro la semicarreggiata",
+  "answer": true,
+  "en": "The sign shown prohibits overtaking between motor vehicles, even if the manoeuvre can be completed within the half-carriageway.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means the rule still applies despite this condition"
+   }
+  ],
+  "trick": "The sentence keeps the prohibition in force even in the stated exception-like situation.",
+  "image": "images/q_19550.png"
+ },
+ {
+  "n": 19551,
+  "it": "Il segnale raffigurato consente ad un motociclo di sorpassare un'autovettura",
+  "answer": false,
+  "en": "The sign shown allows a motorcycle to overtake a car.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is consente, which states that the sign permits the action.",
+  "image": "images/q_19551.png"
+ },
+ {
+  "n": 19552,
+  "it": "Il segnale raffigurato indica che la corsia di destra è riservata ai veicoli lenti",
+  "answer": false,
+  "en": "The sign shown indicates that the right-hand lane is reserved for slow vehicles.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "means reserved exclusively for that group"
+   }
+  ],
+  "trick": "The trap is riservata, because it implies exclusive use of the lane.",
+  "image": "images/q_19552.png"
+ },
+ {
+  "n": 19553,
+  "it": "Il segnale raffigurato consente di sorpassare un'autovettura purché non si oltrepassi la striscia continua",
+  "answer": false,
+  "en": "The sign shown allows overtaking a car provided that you do not cross the continuous line.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non si oltrepassi",
+    "why": "negates the action of crossing"
+   }
+  ],
+  "trick": "The traps are the permission plus the condition, especially the negation in non si oltrepassi.",
+  "image": "images/q_19553.png"
+ },
+ {
+  "n": 19554,
+  "it": "Il segnale raffigurato vieta ad un motociclo di sorpassare una bicicletta",
+  "answer": false,
+  "en": "The sign shown prohibits a motorcycle from overtaking a bicycle.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is vieta, which means the sign forbids the action.",
+  "image": "images/q_19554.png"
+ },
+ {
+  "n": 19555,
+  "it": "Il segnale raffigurato consente il sorpasso tra autovetture se non vi è la striscia bianca continua",
+  "answer": false,
+  "en": "The sign shown allows overtaking between cars if there is no continuous white line.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se non vi è",
+    "why": "sets a negative condition"
+   }
+  ],
+  "trick": "The trap is the negative condition se non vi è, which limits when the permission applies.",
+  "image": "images/q_19555.png"
+ },
+ {
+  "n": 19556,
+  "it": "In presenza del segnale raffigurato un autocarro può sorpassare un motociclo",
+  "answer": true,
+  "en": "In the presence of the sign shown, a lorry may overtake a motorcycle.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when that sign is present"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is può, because it means the manoeuvre is allowed, not required.",
+  "image": "images/q_19556.png"
+ },
+ {
+  "n": 19557,
+  "it": "In presenza del segnale raffigurato un'autovettura può sorpassare un ciclomotore",
+  "answer": true,
+  "en": "In the presence of the sign shown, a car may overtake a moped.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "limits the rule to when that sign is present"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is può, which indicates permission under that sign.",
+  "image": "images/q_19557.png"
+ },
+ {
+  "n": 19558,
+  "it": "Il segnale raffigurato consente il transito agli autotreni, autoarticolati ed autosnodati",
+  "answer": true,
+  "en": "The sign shown allows access to road trains, articulated vehicles and bendy buses.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is consente, because it states that transit is permitted.",
+  "image": "images/q_19558.png"
+ },
+ {
+  "n": 19559,
+  "it": "In presenza del segnale raffigurato è vietato sorpassare anche gli autoveicoli di massa complessiva inferiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is forbidden to overtake even motor vehicles with a total mass of less than 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the rule to this additional case"
+   },
+   {
+    "phrase": "inferiore a 3,5 tonnellate",
+    "why": "sets a weight threshold that can reverse assumptions"
+   }
+  ],
+  "trick": "The key trap is anche, which shows the ban applies to these vehicles too.",
+  "image": "images/q_19559.png"
+ },
+ {
+  "n": 19560,
+  "it": "In presenza del segnale raffigurato è vietato sorpassare veicoli a motore diversi dai motocicli e dai ciclomotori",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is forbidden to overtake motor vehicles other than motorcycles and mopeds.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "diversi dai",
+    "why": "creates an exception by excluding those vehicles"
+   }
+  ],
+  "trick": "The trap is diversi dai, which means motorcycles and mopeds are excluded from the ban.",
+  "image": "images/q_19560.png"
+ },
+ {
+  "n": 19561,
+  "it": "In presenza del segnale raffigurato è consentito sorpassare veicoli a trazione animale",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is permitted to overtake animal-drawn vehicles.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is è consentito, which means the manoeuvre is allowed.",
+  "image": "images/q_19561.png"
+ },
+ {
+  "n": 19562,
+  "it": "Il segnale raffigurato consente ad un'autovettura di sorpassare un autocarro",
+  "answer": false,
+  "en": "The sign shown allows a car to overtake a lorry.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is consente, because it claims the sign permits this overtaking.",
+  "image": "images/q_19562.png"
+ },
+ {
+  "n": 19563,
+  "it": "Il segnale raffigurato si trova solo sulle strade extraurbane principali",
+  "answer": false,
+  "en": "The sign shown is found only on main extra-urban roads.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the statement to only this case"
+   }
+  ],
+  "trick": "The trap is solo, which makes the claim exclusive.",
+  "image": "images/q_19563.png"
+ },
+ {
+  "n": 19564,
+  "it": "In presenza del segnale raffigurato è vietato sorpassare qualsiasi veicolo",
+  "answer": false,
+  "en": "In the presence of the sign shown, it is forbidden to overtake any vehicle.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "qualsiasi",
+    "why": "means any whatsoever, with no exception"
+   }
+  ],
+  "trick": "The trap is qualsiasi, which wrongly suggests an absolute ban on all vehicles.",
+  "image": "images/q_19564.png"
+ },
+ {
+  "n": 19565,
+  "it": "In presenza del segnale raffigurato è vietato il transito alle autovetture",
+  "answer": false,
+  "en": "In the presence of the sign shown, cars are prohibited from passing through.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is è vietato, because it states a ban on transit.",
+  "image": "images/q_19565.png"
+ },
+ {
+  "n": 19566,
+  "it": "Il segnale raffigurato impone di dare la precedenza nei sensi unici alternati",
+  "answer": false,
+  "en": "The sign shown requires drivers to give way in alternating one-way traffic.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means give way, a specific duty"
+   }
+  ],
+  "trick": "The trap is impone, which indicates an obligation, not simple information.",
+  "image": "images/q_19566.png"
+ },
+ {
+  "n": 19567,
+  "it": "Il segnale raffigurato consente ad un motociclo di superare un autobus",
+  "answer": false,
+  "en": "The sign shown allows a motorcycle to pass an автобус.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is consente, because it says the sign permits the manoeuvre.",
+  "image": "images/q_19567.png"
+ },
+ {
+  "n": 19568,
+  "it": "In presenza del segnale raffigurato è consentito sorpassare ciclomotori a due ruote",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is permitted to overtake two-wheeled mopeds.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is è consentito, which means overtaking is allowed in this case.",
+  "image": "images/q_19568.png"
+ },
+ {
+  "n": 19569,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso dei motocicli",
+  "answer": true,
+  "en": "In the presence of the sign shown, overtaking motorcycles is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is è consentito, because it states that the overtaking is allowed.",
+  "image": "images/q_19569.png"
+ },
+ {
+  "n": 19570,
+  "it": "Il segnale raffigurato consente il sorpasso delle biciclette",
+  "answer": true,
+  "en": "The sign shown allows overtaking bicycles.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is consente, which means the sign permits this overtaking.",
+  "image": "images/q_19570.png"
+ },
+ {
+  "n": 19571,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso dei veicoli sprovvisti di motore",
+  "answer": true,
+  "en": "In the presence of the sign shown, overtaking vehicles without a motor is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "sprovvisti di motore",
+    "why": "means without a motor, limiting the vehicle type"
+   }
+  ],
+  "trick": "The traps are the conditional context, the permission wording, and the restriction to non-motor vehicles.",
+  "image": "images/q_19571.png"
+ },
+ {
+  "n": 19572,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso dei veicoli a braccia",
+  "answer": true,
+  "en": "In the presence of the sign shown, overtaking handcarts is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "veicoli a braccia",
+    "why": "means hand-propelled vehicles, a specific vehicle category"
+   }
+  ],
+  "trick": "The traps are the sign-dependent context, permission wording, and the specific type of vehicle allowed to be overtaken.",
+  "image": "images/q_19572.png"
+ },
+ {
+  "n": 19573,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso delle carrozze a cavalli",
+  "answer": true,
+  "en": "In the presence of the sign shown, overtaking horse-drawn carriages is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "carrozze a cavalli",
+    "why": "means horse-drawn carriages, a specific exempted vehicle type"
+   }
+  ],
+  "trick": "The traps are the conditional sign context, the permission wording, and the specific vehicle category.",
+  "image": "images/q_19573.png"
+ },
+ {
+  "n": 19574,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso degli autoveicoli a motore elettrico",
+  "answer": false,
+  "en": "In the presence of the sign shown, overtaking motor vehicles with an electric motor is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "autoveicoli a motore elettrico",
+    "why": "they are still motor vehicles despite being electric"
+   }
+  ],
+  "trick": "The trap is that electric vehicles are still motor vehicles, so the permission does not extend to them.",
+  "image": "images/q_19574.png"
+ },
+ {
+  "n": 19575,
+  "it": "Il segnale raffigurato preannuncia una strettoia",
+  "answer": false,
+  "en": "The sign shown warns of a road narrowing.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not indicates a current condition"
+   }
+  ],
+  "trick": "The trap is the advance-warning meaning of the verb.",
+  "image": "images/q_19575.png"
+ },
+ {
+  "n": 19576,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso delle macchine agricole",
+  "answer": false,
+  "en": "In the presence of the sign shown, overtaking agricultural machines is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "macchine agricole",
+    "why": "these are motorized machines, so not included in the exception"
+   }
+  ],
+  "trick": "The trap is that agricultural machines are not among the non-motor vehicles that may be overtaken.",
+  "image": "images/q_19576.png"
+ },
+ {
+  "n": 19577,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso delle macchine operatrici",
+  "answer": false,
+  "en": "In the presence of the sign shown, overtaking operating machines is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "macchine operatrici",
+    "why": "these are a specific vehicle class, not part of the exception"
+   }
+  ],
+  "trick": "The trap is that this vehicle class is not covered by the allowed-overtaking exception.",
+  "image": "images/q_19577.png"
+ },
+ {
+  "n": 19578,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso dei veicoli a motore che procedono molto lentamente",
+  "answer": false,
+  "en": "In the presence of the sign shown, overtaking motor vehicles that are moving very slowly is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "veicoli a motore",
+    "why": "motor vehicles remain excluded even if slow"
+   },
+   {
+    "phrase": "molto lentamente",
+    "why": "may mislead you into thinking slowness creates an exception"
+   }
+  ],
+  "trick": "The trap is that being very slow does not create an exception for motor vehicles.",
+  "image": "images/q_19578.png"
+ },
+ {
+  "n": 19579,
+  "it": "In presenza del segnale raffigurato è consentito il sorpasso dei veicoli che hanno segnalato l'intenzione di svoltare a destra",
+  "answer": false,
+  "en": "In the presence of the sign shown, overtaking vehicles that have signalled their intention to turn right is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "hanno segnalato l'intenzione di svoltare a destra",
+    "why": "the stated intention to turn right may wrongly seem to allow overtaking"
+   }
+  ],
+  "trick": "The trap is that a right-turn signal does not automatically make overtaking permitted here.",
+  "image": "images/q_19579.png"
+ },
+ {
+  "n": 19592,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": true,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di divieto",
+    "why": "means prohibition sign, not a general warning or information sign"
+   }
+  ],
+  "trick": "The trap is recognizing the sign category correctly.",
+  "image": "images/q_19592.png"
+ },
+ {
+  "n": 19593,
+  "it": "In presenza del segnale raffigurato è vietato superare la velocità di 80 km/h",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is forbidden to exceed a speed of 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superare",
+    "why": "means exceed, not reach"
+   },
+   {
+    "phrase": "80 km/h",
+    "why": "sets the maximum permitted speed"
+   }
+  ],
+  "trick": "The traps are the prohibition wording and that the speed must not be exceeded, only reached at most.",
+  "image": "images/q_19593.png"
+ },
+ {
+  "n": 19594,
+  "it": "Il segnale raffigurato può trovarsi anche sulle autostrade",
+  "answer": true,
+  "en": "The sign shown may also be found on motorways.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "anche",
+    "why": "means also, adding motorways as another possible location"
+   }
+  ],
+  "trick": "The traps are possibility rather than certainty and the added meaning of also.",
+  "image": "images/q_19594.png"
+ },
+ {
+  "n": 19595,
+  "it": "Il limite di velocità indicato sul segnale raffigurato ha validità immediatamente dopo il segnale stesso",
+  "answer": true,
+  "en": "The speed limit indicated on the sign shown takes effect immediately after the sign itself.",
+  "keywords": [
+   {
+    "phrase": "ha validità",
+    "why": "means is in force or applies"
+   },
+   {
+    "phrase": "immediatamente dopo",
+    "why": "specifies the rule starts right after the sign"
+   }
+  ],
+  "trick": "The traps are when the limit becomes effective and the legal sense of applies.",
+  "image": "images/q_19595.png"
+ },
+ {
+  "n": 19596,
+  "it": "Il segnale raffigurato prescrive di marciare a velocità inferiore o uguale a 80 km/h",
+  "answer": true,
+  "en": "The sign shown requires you to travel at a speed less than or equal to 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses a binding rule"
+   },
+   {
+    "phrase": "inferiore o uguale a",
+    "why": "means less than or equal to, including exactly 80 km/h"
+   }
+  ],
+  "trick": "The traps are the mandatory nature of the rule and that 80 km/h is included.",
+  "image": "images/q_19596.png"
+ },
+ {
+  "n": 19597,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a prescriptive sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di prescrizione",
+    "why": "means a mandatory/regulatory sign category"
+   }
+  ],
+  "trick": "The trap is the formal category name of the sign.",
+  "image": "images/q_19597.png"
+ },
+ {
+  "n": 19598,
+  "it": "Il segnale raffigurato impone di mantenere una distanza di sicurezza di almeno 80 metri",
+  "answer": false,
+  "en": "The sign shown requires you to keep a safety distance of at least 80 metres.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "means at least, setting a minimum"
+   },
+   {
+    "phrase": "80 metri",
+    "why": "may be confused with the speed value shown on the sign"
+   }
+  ],
+  "trick": "The trap is confusing the number on the sign with metres instead of km/h.",
+  "image": "images/q_19598.png"
+ },
+ {
+  "n": 19599,
+  "it": "Il segnale raffigurato non si riferisce ai motocicli",
+  "answer": false,
+  "en": "The sign shown does not apply to motorcycles.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   },
+   {
+    "phrase": "si riferisce",
+    "why": "means applies/refers to, not just mentions"
+   }
+  ],
+  "trick": "The trap is the negation and the legal meaning of applies to.",
+  "image": "images/q_19599.png"
+ },
+ {
+  "n": 19600,
+  "it": "Il segnale raffigurato indica la velocità consigliata",
+  "answer": false,
+  "en": "The sign shown indicates the recommended speed.",
+  "keywords": [
+   {
+    "phrase": "velocità consigliata",
+    "why": "means recommended speed, which differs from a maximum speed limit"
+   }
+  ],
+  "trick": "The trap is confusing a recommendation with a mandatory maximum limit.",
+  "image": "images/q_19600.png"
+ },
+ {
+  "n": 19601,
+  "it": "Il segnale raffigurato permette di effettuare il sorpasso a velocità superiore a 80 km/h",
+  "answer": false,
+  "en": "The sign shown allows overtaking at a speed higher than 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "permette",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "superiore a 80 km/h",
+    "why": "means above 80 km/h, which conflicts with the limit"
+   }
+  ],
+  "trick": "The trap is that overtaking does not cancel the 80 km/h maximum limit.",
+  "image": "images/q_19601.png"
+ },
+ {
+  "n": 19602,
+  "it": "Il segnale raffigurato vieta la circolazione dei veicoli di massa totale superiore a 80 quintali",
+  "answer": false,
+  "en": "The sign shown prohibits the circulation of vehicles with a total mass exceeding 80 quintals.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "massa totale superiore a 80 quintali",
+    "why": "refers to weight over 80 quintals, not speed"
+   }
+  ],
+  "trick": "The trap is confusing the number on the sign with a weight restriction instead of a speed limit.",
+  "image": "images/q_19602.png"
+ },
+ {
+  "n": 19603,
+  "it": "Il segnale raffigurato obbliga a rispettare un limite minimo di velocità",
+  "answer": false,
+  "en": "The sign shown requires you to observe a minimum speed limit.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "minimo",
+    "why": "means minimum, not maximum"
+   }
+  ],
+  "trick": "Watch the contrast between obbliga and minimo: it says a minimum limit, not a maximum one.",
+  "image": "images/q_19603.png"
+ },
+ {
+  "n": 19604,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che, per costruzione, non possono raggiungere la velocità indicata",
+  "answer": false,
+  "en": "The sign shown prohibits vehicles which, by design, cannot reach the indicated speed from passing through.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non possono",
+    "why": "negates the ability to reach the speed"
+   },
+   {
+    "phrase": "per costruzione",
+    "why": "limits the statement to vehicles by design"
+   }
+  ],
+  "trick": "The trap is the prohibition on vehicles that cannot reach the speed by design.",
+  "image": "images/q_19604.png"
+ },
+ {
+  "n": 19605,
+  "it": "Il segnale raffigurato vieta ai veicoli di superare la velocità indicata",
+  "answer": true,
+  "en": "The sign shown prohibits vehicles from exceeding the indicated speed.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is vieta, which makes it a prohibition, not advice.",
+  "image": "images/q_19605.png"
+ },
+ {
+  "n": 19606,
+  "it": "Il segnale raffigurato obbliga a rispettare un limite massimo di velocità",
+  "answer": true,
+  "en": "The sign shown requires you to observe a maximum speed limit.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "massimo",
+    "why": "means maximum, not minimum"
+   }
+  ],
+  "trick": "The important contrast is that it imposes a maximum limit.",
+  "image": "images/q_19606.png"
+ },
+ {
+  "n": 19607,
+  "it": "Il segnale raffigurato indica la velocità massima alla quale i veicoli possono procedere",
+  "answer": true,
+  "en": "The sign shown indicates the maximum speed at which vehicles may travel.",
+  "keywords": [
+   {
+    "phrase": "massima",
+    "why": "means maximum"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission/allowed limit"
+   }
+  ],
+  "trick": "It states the maximum permitted speed, not a minimum required one.",
+  "image": "images/q_19607.png"
+ },
+ {
+  "n": 19608,
+  "it": "Il segnale raffigurato prescrive l'obbligo di viaggiare a velocità non superiore a 80 km/h",
+  "answer": true,
+  "en": "The sign shown prescribes the obligation to travel at a speed not exceeding 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "prescrive l'obbligo",
+    "why": "expresses a mandatory rule"
+   },
+   {
+    "phrase": "non superiore a",
+    "why": "sets an upper limit by negating higher speeds"
+   }
+  ],
+  "trick": "The trap is non superiore a, which means at or below 80 km/h.",
+  "image": "images/q_19608.png"
+ },
+ {
+  "n": 19609,
+  "it": "Il numero raffigurato nel segnale indica la velocità massima consentita",
+  "answer": true,
+  "en": "The number shown on the sign indicates the maximum permitted speed.",
+  "keywords": [
+   {
+    "phrase": "massima",
+    "why": "means maximum"
+   },
+   {
+    "phrase": "consentita",
+    "why": "means permitted, not required"
+   }
+  ],
+  "trick": "The statement is about the maximum speed allowed, not an obligation to drive at that speed.",
+  "image": "images/q_19609.png"
+ },
+ {
+  "n": 19610,
+  "it": "Il segnale raffigurato consente di circolare a velocità inferiore a quella indicata",
+  "answer": true,
+  "en": "The sign shown allows driving at a speed lower than the one indicated.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "inferiore",
+    "why": "means lower than the indicated value"
+   }
+  ],
+  "trick": "The trap is that the indicated number is a ceiling, so lower speeds are still allowed.",
+  "image": "images/q_19610.png"
+ },
+ {
+  "n": 19611,
+  "it": "Il segnale raffigurato indica un limite di velocità valido solo per autoveicoli",
+  "answer": false,
+  "en": "The sign shown indicates a speed limit valid only for motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The trap is solo, which wrongly limits the sign to motor vehicles only.",
+  "image": "images/q_19611.png"
+ },
+ {
+  "n": 19612,
+  "it": "Il segnale raffigurato obbliga a rispettare il limite minimo di velocità indicato",
+  "answer": false,
+  "en": "The sign shown requires you to observe the indicated minimum speed limit.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "minimo",
+    "why": "means minimum, not maximum"
+   }
+  ],
+  "trick": "The misleading word is minimo, because the sign concerns a maximum limit instead.",
+  "image": "images/q_19612.png"
+ },
+ {
+  "n": 19613,
+  "it": "Il segnale raffigurato impone ai veicoli che non sono in grado di superare gli 80 km/h di marciare sulla corsia di destra",
+  "answer": false,
+  "en": "The sign shown requires vehicles that are not capable of exceeding 80 km/h to travel in the right-hand lane.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non sono in grado di",
+    "why": "negates the vehicle's ability"
+   },
+   {
+    "phrase": "corsia di destra",
+    "why": "adds a specific lane requirement"
+   }
+  ],
+  "trick": "The trap is the added right-lane obligation for vehicles unable to exceed 80 km/h.",
+  "image": "images/q_19613.png"
+ },
+ {
+  "n": 19614,
+  "it": "Il limite di velocità indicato dal segnale raffigurato entra in vigore 150 metri dopo il segnale stesso",
+  "answer": false,
+  "en": "The speed limit indicated by the sign shown comes into force 150 metres after the sign itself.",
+  "keywords": [
+   {
+    "phrase": "entra in vigore",
+    "why": "means begins to apply"
+   },
+   {
+    "phrase": "dopo",
+    "why": "shifts the rule to after the sign"
+   }
+  ],
+  "trick": "The tricky part is dopo: it wrongly delays the start of the limit.",
+  "image": "images/q_19614.png"
+ },
+ {
+  "n": 19615,
+  "it": "Il segnale raffigurato vieta il transito agli autoveicoli con massa complessiva superiore al valore indicato",
+  "answer": false,
+  "en": "The sign shown prohibits motor vehicles with a gross mass exceeding the indicated value from passing through.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore",
+    "why": "means greater than the stated value"
+   }
+  ],
+  "trick": "The trap is that it changes the sign into a weight prohibition, not a speed limit.",
+  "image": "images/q_19615.png"
+ },
+ {
+  "n": 19616,
+  "it": "Il segnale raffigurato indica un limite di velocità valido dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown indicates a speed limit valid from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "adds a time restriction not inherent in the sign"
+   }
+  ],
+  "trick": "The tricky part is the time range, which falsely limits when the sign applies.",
+  "image": "images/q_19616.png"
+ },
+ {
+  "n": 19580,
+  "it": "In presenza del segnale raffigurato è obbligatorio mantenere una distanza di almeno 70 metri dal veicolo che precede",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is mandatory to keep a distance of at least 70 metres from the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "means at least, not exactly"
+   }
+  ],
+  "trick": "The key trap is almeno 70 metri: the distance must be no less than 70 metres.",
+  "image": "images/q_19580.png"
+ },
+ {
+  "n": 19581,
+  "it": "In presenza del segnale raffigurato è consentito ad un veicolo di circolare alla distanza di 80 metri da quello che lo precede",
+  "answer": true,
+  "en": "In the presence of the sign shown, a vehicle is allowed to travel at a distance of 80 metres from the one in front of it.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "80 metri",
+    "why": "is allowed because it is more than the minimum"
+   }
+  ],
+  "trick": "The trap is that 80 metres is permitted because the sign sets a minimum of 70 metres.",
+  "image": "images/q_19581.png"
+ },
+ {
+  "n": 19582,
+  "it": "Il segnale raffigurato vieta ad un veicolo di circolare a meno di 70 metri da quello che lo precede",
+  "answer": true,
+  "en": "The sign shown prohibits a vehicle from travelling at less than 70 metres from the one in front of it.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "a meno di",
+    "why": "means less than the stated distance"
+   }
+  ],
+  "trick": "The trap is a meno di 70 metri, meaning any shorter distance is forbidden.",
+  "image": "images/q_19582.png"
+ },
+ {
+  "n": 19583,
+  "it": "Il segnale raffigurato vale anche per i motocicli",
+  "answer": true,
+  "en": "The sign shown also applies to motorcycles.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "extends the rule as well"
+   }
+  ],
+  "trick": "The key trap is anche, which includes motorcycles too.",
+  "image": "images/q_19583.png"
+ },
+ {
+  "n": 19584,
+  "it": "Il segnale raffigurato deve essere rispettato anche quando si viaggia a bassa velocità",
+  "answer": true,
+  "en": "The sign shown must be obeyed even when travelling at low speed.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche quando",
+    "why": "shows the rule still applies in that case"
+   }
+  ],
+  "trick": "The trap is anche quando: the rule applies even at low speed.",
+  "image": "images/q_19584.png"
+ },
+ {
+  "n": 19585,
+  "it": "Il segnale raffigurato obbliga a rispettare la distanza minima indicata",
+  "answer": true,
+  "en": "The sign shown requires you to observe the indicated minimum distance.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "distanza minima",
+    "why": "means a minimum distance, not an exact one"
+   }
+  ],
+  "trick": "The key point is that it imposes a minimum following distance.",
+  "image": "images/q_19585.png"
+ },
+ {
+  "n": 19586,
+  "it": "Il segnale raffigurato obbliga i veicoli a marciare a meno di 70 metri di distanza l'uno dall'altro",
+  "answer": false,
+  "en": "The sign shown requires vehicles to travel less than 70 metres from one another.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "a meno di",
+    "why": "means less than, reversing the distance meaning"
+   }
+  ],
+  "trick": "The traps are the obligation and the phrase meaning less than 70 metres.",
+  "image": "images/q_19586.png"
+ },
+ {
+  "n": 19587,
+  "it": "Il segnale raffigurato obbliga il veicolo che precede a distanziare quello che lo segue di almeno 70 metri",
+  "answer": false,
+  "en": "The sign shown requires the vehicle in front to keep at least 70 metres away from the one behind it.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "di almeno 70 metri",
+    "why": "means at least 70 metres, setting a minimum distance"
+   }
+  ],
+  "trick": "The key traps are the mandatory wording and the minimum-distance phrase.",
+  "image": "images/q_19587.png"
+ },
+ {
+  "n": 19588,
+  "it": "Il segnale raffigurato indica la distanza massima da mantenere esclusivamente nei tratti di strada dove il sorpasso è vietato",
+  "answer": false,
+  "en": "The sign shown indicates the maximum distance to be kept exclusively on stretches of road where overtaking is prohibited.",
+  "keywords": [
+   {
+    "phrase": "massima",
+    "why": "changes the rule to maximum, not minimum"
+   },
+   {
+    "phrase": "esclusivamente",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The traps are maximum distance, the exclusive limitation, and the prohibition wording.",
+  "image": "images/q_19588.png"
+ },
+ {
+  "n": 19589,
+  "it": "Il segnale raffigurato preavvisa che a 70 metri inizia il divieto di transito per le autovetture",
+  "answer": false,
+  "en": "The sign shown warns that in 70 metres a ban on cars begins.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not that it applies now"
+   },
+   {
+    "phrase": "a 70 metri",
+    "why": "indicates distance ahead, not a speed or length"
+   },
+   {
+    "phrase": "divieto di transito",
+    "why": "means a prohibition on passing/transit"
+   }
+  ],
+  "trick": "The traps are that it is an advance warning, 70 metres ahead, and a transit ban.",
+  "image": "images/q_19589.png"
+ },
+ {
+  "n": 19590,
+  "it": "In presenza del segnale raffigurato le autovetture non possono superare la velocità di 70 km/h",
+  "answer": false,
+  "en": "In the presence of the sign shown, cars may not exceed a speed of 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "non possono superare",
+    "why": "expresses prohibition by saying may not exceed"
+   }
+  ],
+  "trick": "The key traps are the condition created by the sign and the negative prohibition wording.",
+  "image": "images/q_19590.png"
+ },
+ {
+  "n": 19591,
+  "it": "Il segnale raffigurato indica la lunghezza massima del cavo di traino",
+  "answer": false,
+  "en": "The sign shown indicates the maximum length of the tow rope.",
+  "keywords": [
+   {
+    "phrase": "massima",
+    "why": "sets a maximum, not a minimum"
+   }
+  ],
+  "trick": "The only real trap is that it refers to a maximum length.",
+  "image": "images/q_19591.png"
+ },
+ {
+  "n": 19617,
+  "it": "Il segnale raffigurato vieta l'uso del clacson",
+  "answer": true,
+  "en": "The sign shown prohibits the use of the horn.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the clear prohibition wording.",
+  "image": "images/q_19617.png"
+ },
+ {
+  "n": 19618,
+  "it": "Il segnale raffigurato vieta le segnalazioni acustiche",
+  "answer": true,
+  "en": "The sign shown prohibits sound signals.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the prohibition verb.",
+  "image": "images/q_19618.png"
+ },
+ {
+  "n": 19620,
+  "it": "Il segnale raffigurato indica l'inizio di una zona in cui è vietato suonare il clacson",
+  "answer": true,
+  "en": "The sign shown indicates the beginning of an area where sounding the horn is prohibited.",
+  "keywords": [
+   {
+    "phrase": "l'inizio di una zona",
+    "why": "means the ban starts from here in an area"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The traps are that it marks the start of a zone and states a prohibition.",
+  "image": "images/q_19620.png"
+ },
+ {
+  "n": 19621,
+  "it": "In presenza del segnale raffigurato si può utilizzare il clacson se si trasportano feriti o ammalati gravi",
+  "answer": true,
+  "en": "In the presence of the sign shown, you may use the horn if you are transporting injured or seriously ill persons.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the permission to this condition"
+   }
+  ],
+  "trick": "The traps are that use is permitted, but only under the stated condition.",
+  "image": "images/q_19621.png"
+ },
+ {
+  "n": 19622,
+  "it": "Il segnale raffigurato consente l'uso del clacson per richiamare l'attenzione in qualsiasi circostanza",
+  "answer": false,
+  "en": "The sign shown allows the use of the horn to attract attention in any circumstances.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in qualsiasi circostanza",
+    "why": "means in every circumstance, making the claim very broad"
+   }
+  ],
+  "trick": "The traps are the permission wording and the absolute phrase in any circumstances.",
+  "image": "images/q_19622.png"
+ },
+ {
+  "n": 19623,
+  "it": "Il segnale raffigurato deve essere rispettato soltanto dalle ore 20.00 alle ore 8.00",
+  "answer": false,
+  "en": "The sign shown must be obeyed only from 8:00 p.m. to 8:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "deve essere rispettato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only these hours"
+   }
+  ],
+  "trick": "The traps are the obligation and the limiting word only.",
+  "image": "images/q_19623.png"
+ },
+ {
+  "n": 19624,
+  "it": "Il segnale raffigurato preavvisa la possibilità di incontrare una caserma dei vigili del fuoco",
+  "answer": false,
+  "en": "The sign shown warns of the possibility of encountering a fire station.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not indicates directly"
+   },
+   {
+    "phrase": "la possibilità",
+    "why": "signals mere possibility, not certainty"
+   }
+  ],
+  "trick": "The traps are the advance warning meaning and the idea of possibility rather than certainty.",
+  "image": "images/q_19624.png"
+ },
+ {
+  "n": 19625,
+  "it": "Il segnale raffigurato preavvisa una strettoia su strade di montagna",
+  "answer": false,
+  "en": "The sign shown warns of a narrowing on mountain roads.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance"
+   },
+   {
+    "phrase": "su strade di montagna",
+    "why": "restricts the statement to mountain roads"
+   }
+  ],
+  "trick": "The traps are that it is an advance warning and that it is limited to mountain roads.",
+  "image": "images/q_19625.png"
+ },
+ {
+  "n": 19626,
+  "it": "Il segnale raffigurato consente l'uso del clacson nei casi di ingorgo stradale",
+  "answer": false,
+  "en": "The sign shown allows the use of the horn in cases of traffic congestion.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "nei casi di",
+    "why": "limits the permission to those cases"
+   }
+  ],
+  "trick": "The traps are the permission wording and the conditional limitation.",
+  "image": "images/q_19626.png"
+ },
+ {
+  "n": 19627,
+  "it": "Il segnale raffigurato indica la fine del divieto di segnalazioni acustiche",
+  "answer": false,
+  "en": "The sign shown indicates the end of the prohibition on sound signals.",
+  "keywords": [
+   {
+    "phrase": "la fine del divieto",
+    "why": "means the prohibition ends, not begins"
+   }
+  ],
+  "trick": "The trap is that it refers to the end of the ban.",
+  "image": "images/q_19627.png"
+ },
+ {
+  "n": 19644,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli a trazione animale",
+  "answer": true,
+  "en": "The sign shown prohibits transit by animal-drawn vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition on passing/transit"
+   }
+  ],
+  "trick": "The trap is the prohibition on transit.",
+  "image": "images/q_19644.png"
+ },
+ {
+  "n": 19645,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli trainati da cavalli",
+  "answer": true,
+  "en": "The sign shown prohibits transit by vehicles drawn by horses.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition on passing/transit"
+   }
+  ],
+  "trick": "The trap is the prohibition wording.",
+  "image": "images/q_19645.png"
+ },
+ {
+  "n": 19646,
+  "it": "Il segnale raffigurato vieta la circolazione alle carrozze a cavalli",
+  "answer": true,
+  "en": "The sign shown prohibits circulation by horse-drawn carriages.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the prohibition verb.",
+  "image": "images/q_19646.png"
+ },
+ {
+  "n": 19647,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli trainati da asini",
+  "answer": true,
+  "en": "The sign shown prohibits transit by vehicles drawn by donkeys.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition on passing/transit"
+   }
+  ],
+  "trick": "The trap is the prohibition wording.",
+  "image": "images/q_19647.png"
+ },
+ {
+  "n": 19648,
+  "it": "Il segnale raffigurato consente il transito dei motocicli",
+  "answer": true,
+  "en": "The sign shown allows motorcycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19648.png"
+ },
+ {
+  "n": 19649,
+  "it": "Il segnale raffigurato consente il transito degli autoveicoli",
+  "answer": true,
+  "en": "The sign shown allows motor vehicles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19649.png"
+ },
+ {
+  "n": 19650,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli a motore",
+  "answer": false,
+  "en": "The sign shown prohibits motor vehicles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "veicoli a motore",
+    "why": "means all motor vehicles, not just cars"
+   }
+  ],
+  "trick": "The key trap is \"vieta,\" which makes the statement a prohibition.",
+  "image": "images/q_19650.png"
+ },
+ {
+  "n": 19651,
+  "it": "Il segnale raffigurato vige, nei centri abitati, dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown applies, in built-up areas, from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vige",
+    "why": "means the rule is in force"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the rule to built-up areas"
+   }
+  ],
+  "trick": "Time or place limits like \"nei centri abitati\" can change when the rule applies.",
+  "image": "images/q_19651.png"
+ },
+ {
+  "n": 19652,
+  "it": "Il segnale raffigurato consente il transito ai veicoli a trazione animale se muniti di pneumatici",
+  "answer": false,
+  "en": "The sign shown allows animal-drawn vehicles to pass if fitted with tyres.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "se muniti di pneumatici",
+    "why": "adds a condition or exception"
+   }
+  ],
+  "trick": "The phrase \"se muniti di pneumatici\" is tricky because it adds a condition.",
+  "image": "images/q_19652.png"
+ },
+ {
+  "n": 19653,
+  "it": "Il segnale raffigurato indica una strada riservata ai carri agricoli",
+  "answer": false,
+  "en": "The sign shown indicates a road reserved for agricultural carts.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "means reserved exclusively for that use"
+   }
+  ],
+  "trick": "Words like \"riservata\" are tricky because they imply exclusive use.",
+  "image": "images/q_19653.png"
+ },
+ {
+  "n": 19654,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli a braccia",
+  "answer": false,
+  "en": "The sign shown prohibits handcarts from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is \"vieta,\" which means passage is forbidden.",
+  "image": "images/q_19654.png"
+ },
+ {
+  "n": 19655,
+  "it": "Il segnale raffigurato vieta la circolazione a tutti i veicoli sprovvisti di motore",
+  "answer": false,
+  "en": "The sign shown prohibits all vehicles without an engine from circulating.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tutti",
+    "why": "extends the rule to every vehicle in that group"
+   },
+   {
+    "phrase": "sprovvisti di motore",
+    "why": "means lacking an engine"
+   }
+  ],
+  "trick": "Words like \"tutti\" and \"sprovvisti\" make the scope broader and easy to misread.",
+  "image": "images/q_19655.png"
+ },
+ {
+  "n": 19656,
+  "it": "Il segnale raffigurato vieta il transito ai pedoni",
+  "answer": true,
+  "en": "The sign shown prohibits pedestrians from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is \"vieta,\" which means passage is forbidden.",
+  "image": "images/q_19656.png"
+ },
+ {
+  "n": 19657,
+  "it": "Il segnale raffigurato consente il transito agli autoveicoli",
+  "answer": true,
+  "en": "The sign shown allows motor vehicles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19657.png"
+ },
+ {
+  "n": 19658,
+  "it": "Il segnale raffigurato consente il transito ai motocicli",
+  "answer": true,
+  "en": "The sign shown allows motorcycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19658.png"
+ },
+ {
+  "n": 19659,
+  "it": "Il segnale raffigurato consente il transito ai quadricicli a motore",
+  "answer": true,
+  "en": "The sign shown allows motor quadricycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19659.png"
+ },
+ {
+  "n": 19660,
+  "it": "Il segnale raffigurato consente il transito alle biciclette",
+  "answer": true,
+  "en": "The sign shown allows bicycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19660.png"
+ },
+ {
+  "n": 19661,
+  "it": "Il segnale raffigurato vieta il transito ai ciclomotori",
+  "answer": false,
+  "en": "The sign shown prohibits mopeds from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is \"vieta,\" which means passage is forbidden.",
+  "image": "images/q_19661.png"
+ },
+ {
+  "n": 19662,
+  "it": "Il segnale raffigurato vale dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown applies from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vale",
+    "why": "means the rule applies or is valid"
+   }
+  ],
+  "trick": "The verb \"vale\" is tricky because it refers to when the rule is in effect.",
+  "image": "images/q_19662.png"
+ },
+ {
+  "n": 19663,
+  "it": "Il segnale raffigurato indica un'area urbana riservata a parco giochi e divertimenti",
+  "answer": false,
+  "en": "The sign shown indicates an urban area reserved for a playground and entertainment.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "means reserved exclusively for that use"
+   }
+  ],
+  "trick": "Words like \"riservata\" are tricky because they imply exclusive use.",
+  "image": "images/q_19663.png"
+ },
+ {
+  "n": 19664,
+  "it": "Il segnale raffigurato obbliga i pedoni a circolare sul margine sinistro della carreggiata",
+  "answer": false,
+  "en": "The sign shown requires pedestrians to walk on the left edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The key trap is \"obbliga,\" which makes the statement mandatory.",
+  "image": "images/q_19664.png"
+ },
+ {
+  "n": 19665,
+  "it": "Il segnale raffigurato indica l'inizio di un percorso pedonale",
+  "answer": false,
+  "en": "The sign shown indicates the start of a pedestrian route.",
+  "keywords": [
+   {
+    "phrase": "l'inizio",
+    "why": "specifies the start, not the route in general"
+   }
+  ],
+  "trick": "The phrase \"l'inizio\" is tricky because it refers specifically to the beginning.",
+  "image": "images/q_19665.png"
+ },
+ {
+  "n": 19679,
+  "it": "Il segnale raffigurato vieta il transito ai motocicli",
+  "answer": true,
+  "en": "The sign shown prohibits motorcycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is \"vieta,\" which means passage is forbidden.",
+  "image": "images/q_19679.png"
+ },
+ {
+  "n": 19680,
+  "it": "Il segnale raffigurato consente il transito ai tricicli e ai quadricicli a motore",
+  "answer": true,
+  "en": "The sign shown allows motor tricycles and motor quadricycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission words like \"consente,\" which mean the passage is allowed.",
+  "image": "images/q_19680.png"
+ },
+ {
+  "n": 19681,
+  "it": "Il segnale raffigurato consente il transito alle autovetture",
+  "answer": true,
+  "en": "The sign shown allows cars to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19681.png"
+ },
+ {
+  "n": 19682,
+  "it": "Il segnale raffigurato consente il transito alle biciclette",
+  "answer": true,
+  "en": "The sign shown allows bicycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19682.png"
+ },
+ {
+  "n": 19683,
+  "it": "Il segnale raffigurato vieta il transito ai motocicli di qualsiasi cilindrata",
+  "answer": true,
+  "en": "The sign shown prohibits motorcycles of any engine capacity from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "di qualsiasi cilindrata",
+    "why": "means all engine sizes without exception"
+   }
+  ],
+  "trick": "The trap is the total ban: \"vieta\" plus \"di qualsiasi cilindrata\" means no motorcycles at all.",
+  "image": "images/q_19683.png"
+ },
+ {
+  "n": 19684,
+  "it": "Il segnale raffigurato consente il transito ai motocicli",
+  "answer": false,
+  "en": "The sign shown allows motorcycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19684.png"
+ },
+ {
+  "n": 19685,
+  "it": "Il segnale raffigurato vieta il transito a tutti i veicoli a due ruote",
+  "answer": false,
+  "en": "The sign shown prohibits all two-wheeled vehicles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tutti",
+    "why": "makes the statement absolute"
+   }
+  ],
+  "trick": "The key trap is the absolute wording: \"tutti\" means every two-wheeled vehicle.",
+  "image": "images/q_19685.png"
+ },
+ {
+  "n": 19686,
+  "it": "Il segnale raffigurato si riferisce ai soli motocicli di cilindrata superiore ai 125 cm3",
+  "answer": false,
+  "en": "The sign shown refers only to motorcycles with an engine capacity over 125 cc.",
+  "keywords": [
+   {
+    "phrase": "soli",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "superiore ai 125 cm3",
+    "why": "sets a specific threshold that limits meaning"
+   }
+  ],
+  "trick": "\"Soli\" makes the statement much narrower by limiting it to one specific class.",
+  "image": "images/q_19686.png"
+ },
+ {
+  "n": 19687,
+  "it": "Il segnale raffigurato consente il transito ai motocicli dotati di cellula di sicurezza",
+  "answer": false,
+  "en": "The sign shown allows motorcycles equipped with a safety cell to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19687.png"
+ },
+ {
+  "n": 19688,
+  "it": "Il segnale raffigurato vieta il transito ai ciclomotori",
+  "answer": false,
+  "en": "The sign shown prohibits mopeds from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition verb \"vieta.\"",
+  "image": "images/q_19688.png"
+ },
+ {
+  "n": 19689,
+  "it": "Il segnale raffigurato vieta il transito ai quadricicli a motore",
+  "answer": false,
+  "en": "The sign shown prohibits motor quadricycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition verb \"vieta.\"",
+  "image": "images/q_19689.png"
+ },
+ {
+  "n": 19690,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the difficulty is identifying the sign category.",
+  "image": "images/q_19690.png"
+ },
+ {
+  "n": 19691,
+  "it": "Il segnale raffigurato obbliga i motociclisti a servirsi della pista loro riservata",
+  "answer": false,
+  "en": "The sign shown requires motorcyclists to use the lane reserved for them.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not simple advice"
+   },
+   {
+    "phrase": "loro riservata",
+    "why": "means specifically reserved for them"
+   }
+  ],
+  "trick": "\"Obbliga\" is strong: it means riders are required to use that reserved lane.",
+  "image": "images/q_19691.png"
+ },
+ {
+  "n": 19666,
+  "it": "Il segnale raffigurato vieta il transito alle biciclette",
+  "answer": true,
+  "en": "The sign shown prohibits bicycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition verb \"vieta.\"",
+  "image": "images/q_19666.png"
+ },
+ {
+  "n": 19667,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": true,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the difficulty is identifying the sign category.",
+  "image": "images/q_19667.png"
+ },
+ {
+  "n": 19668,
+  "it": "Il segnale raffigurato consente il transito ai quadricicli a motore",
+  "answer": true,
+  "en": "The sign shown allows motor quadricycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19668.png"
+ },
+ {
+  "n": 19669,
+  "it": "Il segnale raffigurato consente il transito ai pedoni",
+  "answer": true,
+  "en": "The sign shown allows pedestrians to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19669.png"
+ },
+ {
+  "n": 19670,
+  "it": "Il segnale raffigurato consente il transito ai ciclomotori a due ruote",
+  "answer": true,
+  "en": "The sign shown allows two-wheeled mopeds to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Watch for permission verbs like \"consente,\" which mean access is allowed.",
+  "image": "images/q_19670.png"
+ },
+ {
+  "n": 19671,
+  "it": "Il segnale raffigurato vieta il transito ai quadricicli a pedale",
+  "answer": true,
+  "en": "The sign shown prohibits pedal quadricycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition verb \"vieta.\"",
+  "image": "images/q_19671.png"
+ },
+ {
+  "n": 19672,
+  "it": "Il segnale raffigurato vieta il transito ai tandem",
+  "answer": true,
+  "en": "The sign shown prohibits tandems from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition verb \"vieta.\"",
+  "image": "images/q_19672.png"
+ },
+ {
+  "n": 19673,
+  "it": "Il segnale raffigurato vale dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown applies from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "sets a precise time range"
+   }
+  ],
+  "trick": "The trap is the exact time interval stated by the sign.",
+  "image": "images/q_19673.png"
+ },
+ {
+  "n": 19674,
+  "it": "Il segnale raffigurato consente il transito delle biciclette nelle ore notturne",
+  "answer": false,
+  "en": "The sign shown allows bicycles to pass during the night hours.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "nelle ore notturne",
+    "why": "limits the statement to nighttime only"
+   }
+  ],
+  "trick": "The tricky part is the time restriction: it refers only to nighttime.",
+  "image": "images/q_19674.png"
+ },
+ {
+  "n": 19675,
+  "it": "Il segnale raffigurato vieta il transito ai motocicli",
+  "answer": false,
+  "en": "The sign shown prohibits motorcycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ai motocicli",
+    "why": "applies specifically to motorcycles"
+   }
+  ],
+  "trick": "Watch prohibition words and the exact vehicle category named.",
+  "image": "images/q_19675.png"
+ },
+ {
+  "n": 19676,
+  "it": "Il segnale raffigurato vieta il transito ai ciclomotori",
+  "answer": false,
+  "en": "The sign shown prohibits mopeds from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ai ciclomotori",
+    "why": "applies specifically to mopeds, not all motorcycles"
+   }
+  ],
+  "trick": "The trap is the prohibition verb and the precise type of two-wheeled vehicle.",
+  "image": "images/q_19676.png"
+ },
+ {
+  "n": 19677,
+  "it": "Il segnale raffigurato indica la presenza di una corsia riservata a biciclette e ciclomotori",
+  "answer": false,
+  "en": "The sign shown indicates the presence of a lane reserved for bicycles and mopeds.",
+  "keywords": [
+   {
+    "phrase": "la presenza di",
+    "why": "states that something is present, not prohibited"
+   },
+   {
+    "phrase": "riservata a",
+    "why": "means reserved exclusively for these users"
+   }
+  ],
+  "trick": "Focus on whether the sentence describes a reserved lane rather than a ban.",
+  "image": "images/q_19677.png"
+ },
+ {
+  "n": 19678,
+  "it": "Il segnale raffigurato indica un parcheggio per le biciclette",
+  "answer": false,
+  "en": "The sign shown indicates parking for bicycles.",
+  "keywords": [],
+  "trick": "There is no major grammar trap here; the challenge is identifying the sign correctly.",
+  "image": "images/q_19678.png"
+ },
+ {
+  "n": 19692,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli a braccia",
+  "answer": true,
+  "en": "The sign shown prohibits handcarts from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "veicoli a braccia",
+    "why": "means hand-propelled vehicles"
+   }
+  ],
+  "trick": "The key trap is understanding that the ban concerns hand-propelled vehicles.",
+  "image": "images/q_19692.png"
+ },
+ {
+  "n": 19693,
+  "it": "Il segnale raffigurato consente il transito delle biciclette",
+  "answer": true,
+  "en": "The sign shown allows bicycles to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Do not confuse permission with a requirement or a ban.",
+  "image": "images/q_19693.png"
+ },
+ {
+  "n": 19694,
+  "it": "Il segnale raffigurato consente il transito dei ciclomotori",
+  "answer": true,
+  "en": "The sign shown allows mopeds to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "dei ciclomotori",
+    "why": "refers specifically to mopeds"
+   }
+  ],
+  "trick": "The sentence is about permission and a specific vehicle class.",
+  "image": "images/q_19694.png"
+ },
+ {
+  "n": 19695,
+  "it": "Il segnale raffigurato consente il transito di autovetture che trainano un carrello-appendice",
+  "answer": true,
+  "en": "The sign shown allows passenger cars towing a small trailer to pass.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "che trainano",
+    "why": "limits the statement to cars that are towing"
+   },
+   {
+    "phrase": "carrello-appendice",
+    "why": "is a specific type of small trailer"
+   }
+  ],
+  "trick": "Notice that permission is limited to cars in the towing situation described.",
+  "image": "images/q_19695.png"
+ },
+ {
+  "n": 19696,
+  "it": "Il segnale raffigurato vieta il transito di carretti a mano",
+  "answer": true,
+  "en": "The sign shown prohibits handcarts from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "carretti a mano",
+    "why": "means handcarts"
+   }
+  ],
+  "trick": "The main trap is the exact object of the prohibition: handcarts.",
+  "image": "images/q_19696.png"
+ },
+ {
+  "n": 19697,
+  "it": "Il segnale raffigurato indica una strada riservata ai venditori ambulanti",
+  "answer": false,
+  "en": "The sign shown indicates a road reserved for street vendors.",
+  "keywords": [
+   {
+    "phrase": "riservata ai",
+    "why": "means reserved exclusively for this group"
+   }
+  ],
+  "trick": "The trap is the exclusivity implied by reserved for.",
+  "image": "images/q_19697.png"
+ },
+ {
+  "n": 19698,
+  "it": "Il segnale raffigurato vieta il transito dei veicoli a motore durante le ore di mercato",
+  "answer": false,
+  "en": "The sign shown prohibits motor vehicles from passing during market hours.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "durante",
+    "why": "limits the rule to a time period"
+   },
+   {
+    "phrase": "durante le ore di mercato",
+    "why": "applies only during market hours"
+   }
+  ],
+  "trick": "Pay attention to the time restriction, not just the prohibition.",
+  "image": "images/q_19698.png"
+ },
+ {
+  "n": 19699,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "There is no real wording trap; it depends on recognizing the sign category.",
+  "image": "images/q_19699.png"
+ },
+ {
+  "n": 19700,
+  "it": "Il segnale raffigurato vale, per tutti i veicoli, durante le ore di mercato",
+  "answer": false,
+  "en": "The sign shown applies to all vehicles during market hours.",
+  "keywords": [
+   {
+    "phrase": "vale",
+    "why": "means applies, not is valid in a general sense"
+   },
+   {
+    "phrase": "per tutti i veicoli",
+    "why": "extends the rule to every vehicle"
+   },
+   {
+    "phrase": "durante le ore di mercato",
+    "why": "limits the rule to market hours"
+   }
+  ],
+  "trick": "The traps are the universal scope and the time limitation.",
+  "image": "images/q_19700.png"
+ },
+ {
+  "n": 19701,
+  "it": "Il segnale raffigurato vieta il transito di veicoli a trazione animale",
+  "answer": false,
+  "en": "The sign shown prohibits animal-drawn vehicles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "veicoli a trazione animale",
+    "why": "means animal-drawn vehicles"
+   }
+  ],
+  "trick": "The key is the exact type of vehicle named in the prohibition.",
+  "image": "images/q_19701.png"
+ },
+ {
+  "n": 19702,
+  "it": "Il segnale raffigurato vieta il transito ad un motociclo, anche se spinto a braccia",
+  "answer": false,
+  "en": "The sign shown prohibits a motorcycle from passing, even if pushed by hand.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche se",
+    "why": "adds an even if exception-like condition"
+   },
+   {
+    "phrase": "spinto a braccia",
+    "why": "means pushed by hand, not ridden"
+   }
+  ],
+  "trick": "The trap is that the sentence extends the ban even to a motorcycle pushed by hand.",
+  "image": "images/q_19702.png"
+ },
+ {
+  "n": 19703,
+  "it": "Il segnale raffigurato vieta il transito a tutti gli autoveicoli",
+  "answer": true,
+  "en": "The sign shown prohibits all motor vehicles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tutti gli autoveicoli",
+    "why": "covers all motor vehicles in this category"
+   }
+  ],
+  "trick": "The important point is the total scope: all motor vehicles.",
+  "image": "images/q_19703.png"
+ },
+ {
+  "n": 19704,
+  "it": "Il segnale raffigurato vieta il transito ai tricicli a motore",
+  "answer": true,
+  "en": "The sign shown prohibits motor tricycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tricicli a motore",
+    "why": "refers specifically to motor tricycles"
+   }
+  ],
+  "trick": "The trap is the precise vehicle category being banned.",
+  "image": "images/q_19704.png"
+ },
+ {
+  "n": 19705,
+  "it": "In presenza del segnale raffigurato è permesso il transito ai motocicli",
+  "answer": true,
+  "en": "In the presence of the sign shown, motorcycles are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "è permesso",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ai motocicli",
+    "why": "applies specifically to motorcycles"
+   }
+  ],
+  "trick": "Watch the context phrase and the permission wording.",
+  "image": "images/q_19705.png"
+ },
+ {
+  "n": 19706,
+  "it": "In presenza del segnale raffigurato è permesso il transito ai ciclomotori a due ruote",
+  "answer": true,
+  "en": "In the presence of the sign shown, two-wheeled mopeds are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "è permesso",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ciclomotori a due ruote",
+    "why": "limits the statement to two-wheeled mopeds"
+   }
+  ],
+  "trick": "The trap is that permission is limited to a specific subtype of moped.",
+  "image": "images/q_19706.png"
+ },
+ {
+  "n": 19707,
+  "it": "Il segnale raffigurato vieta il transito ai quadricicli a motore",
+  "answer": true,
+  "en": "The sign shown prohibits motor quadricycles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quadricicli a motore",
+    "why": "refers specifically to motor quadricycles"
+   }
+  ],
+  "trick": "Focus on the prohibition and the exact vehicle type named.",
+  "image": "images/q_19707.png"
+ },
+ {
+  "n": 19708,
+  "it": "In presenza del segnale raffigurato è permesso il transito ai veicoli sprovvisti di motore",
+  "answer": true,
+  "en": "In the presence of the sign shown, transit is permitted for vehicles without an engine.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "means the rule applies when this sign is present"
+   },
+   {
+    "phrase": "è permesso",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sprovvisti di motore",
+    "why": "means lacking an engine, not just switched off"
+   }
+  ],
+  "trick": "Watch for permission language and the exact vehicle category excluded by having no engine.",
+  "image": "images/q_19708.png"
+ },
+ {
+  "n": 19709,
+  "it": "In presenza del segnale raffigurato è permesso il transito ai quadricicli a motore",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is permitted for motor quadricycles.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "means the rule applies when this sign is present"
+   },
+   {
+    "phrase": "è permesso",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "quadricicli a motore",
+    "why": "is a specific category: four-wheeled motor vehicles"
+   }
+  ],
+  "trick": "The trap is the permission wording applied to a precise vehicle class.",
+  "image": "images/q_19709.png"
+ },
+ {
+  "n": 19710,
+  "it": "Il segnale raffigurato vieta il transito alle sole autovetture non catalizzate",
+  "answer": false,
+  "en": "The sign shown prohibits transit only for non-catalytic passenger cars.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "alle sole",
+    "why": "restricts the rule to only this category"
+   },
+   {
+    "phrase": "non catalizzate",
+    "why": "negatively specifies cars without a catalytic converter"
+   }
+  ],
+  "trick": "The key trap is sole, which wrongly limits the prohibition to just one subgroup.",
+  "image": "images/q_19710.png"
+ },
+ {
+  "n": 19711,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle autovetture adibite al servizio di taxi",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is allowed for passenger cars used as taxis.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "means the rule applies when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "adibite al servizio di taxi",
+    "why": "specifies vehicles used for taxi service, not all cars"
+   }
+  ],
+  "trick": "The trap is the permission claim for a special-use vehicle category.",
+  "image": "images/q_19711.png"
+ },
+ {
+  "n": 19712,
+  "it": "In presenza del segnale raffigurato è permesso il transito a tutti i tricicli a motore",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is permitted for all motor tricycles.",
+  "keywords": [
+   {
+    "phrase": "è permesso",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "tutti i",
+    "why": "makes the statement universal with no exceptions"
+   },
+   {
+    "phrase": "tricicli a motore",
+    "why": "is a specific category: three-wheeled motor vehicles"
+   }
+  ],
+  "trick": "All makes the claim broader than it may seem.",
+  "image": "images/q_19712.png"
+ },
+ {
+  "n": 19713,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autobus",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is allowed for buses.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "agli autobus",
+    "why": "names a specific vehicle category that signs often target directly"
+   }
+  ],
+  "trick": "The trap is permission being stated for a class often specifically prohibited.",
+  "image": "images/q_19713.png"
+ },
+ {
+  "n": 19714,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autocarri",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is allowed for trucks.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "agli autocarri",
+    "why": "is a specific category: goods vehicles/trucks"
+   }
+  ],
+  "trick": "The key is the permission claim for the exact vehicle type mentioned.",
+  "image": "images/q_19714.png"
+ },
+ {
+  "n": 19715,
+  "it": "Il segnale raffigurato indica il divieto di transito agli autobus",
+  "answer": true,
+  "en": "The sign shown indicates no transit for buses.",
+  "keywords": [
+   {
+    "phrase": "divieto di transito",
+    "why": "means a prohibition on passing through, not stopping or parking"
+   },
+   {
+    "phrase": "agli autobus",
+    "why": "specifies the ban applies to buses"
+   }
+  ],
+  "trick": "The important point is that the prohibition concerns transit and specifically buses.",
+  "image": "images/q_19715.png"
+ },
+ {
+  "n": 19716,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle autovetture",
+  "answer": true,
+  "en": "In the presence of the sign shown, transit is allowed for passenger cars.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "alle autovetture",
+    "why": "specifies passenger cars, not all vehicles"
+   }
+  ],
+  "trick": "The trap is the exact vehicle class that remains permitted.",
+  "image": "images/q_19716.png"
+ },
+ {
+  "n": 19717,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autocarri",
+  "answer": true,
+  "en": "In the presence of the sign shown, transit is allowed for trucks.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "agli autocarri",
+    "why": "is a specific category: goods vehicles/trucks"
+   }
+  ],
+  "trick": "The key is the permission claim for trucks.",
+  "image": "images/q_19717.png"
+ },
+ {
+  "n": 19718,
+  "it": "In presenza del segnale raffigurato è consentito il transito ai motocicli",
+  "answer": true,
+  "en": "In the presence of the sign shown, transit is allowed for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ai motocicli",
+    "why": "specifies motorcycles, not mopeds or all two-wheelers"
+   }
+  ],
+  "trick": "The trap is the exact permitted vehicle category.",
+  "image": "images/q_19718.png"
+ },
+ {
+  "n": 19719,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle autocaravan",
+  "answer": true,
+  "en": "In the presence of the sign shown, transit is allowed for motor caravans.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "alle autocaravan",
+    "why": "is a specific category: motor caravans/camper vans"
+   }
+  ],
+  "trick": "The statement hinges on permission for this specific vehicle type.",
+  "image": "images/q_19719.png"
+ },
+ {
+  "n": 19720,
+  "it": "Il segnale raffigurato vieta il transito anche agli autobus di massa a pieno carico inferiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "The sign shown also prohibits transit for buses with a fully loaded mass of less than 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds this category as well, widening the ban"
+   },
+   {
+    "phrase": "massa a pieno carico inferiore a 3,5 tonnellate",
+    "why": "sets a weight threshold that learners may misread"
+   }
+  ],
+  "trick": "Also and the under-3.5-tonne limit are the main traps.",
+  "image": "images/q_19720.png"
+ },
+ {
+  "n": 19721,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autobus turistici",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is allowed for tourist buses.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "autobus turistici",
+    "why": "is a specific subcategory of buses, not an exception by itself"
+   }
+  ],
+  "trick": "The trap is assuming a special bus type is exempt.",
+  "image": "images/q_19721.png"
+ },
+ {
+  "n": 19722,
+  "it": "Il segnale raffigurato segnala una corsia riservata agli autobus",
+  "answer": false,
+  "en": "The sign shown indicates a lane reserved for buses.",
+  "keywords": [
+   {
+    "phrase": "corsia riservata",
+    "why": "means a reserved lane, a different concept from a transit ban"
+   },
+   {
+    "phrase": "agli autobus",
+    "why": "specifies the reservation is for buses"
+   }
+  ],
+  "trick": "Reserved lane and no-transit sign are different meanings.",
+  "image": "images/q_19722.png"
+ },
+ {
+  "n": 19723,
+  "it": "Il segnale raffigurato preannuncia un'area di sosta per autobus turistici",
+  "answer": false,
+  "en": "The sign shown gives advance notice of a parking area for tourist buses.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance warning, not indicates the place itself"
+   },
+   {
+    "phrase": "area di sosta",
+    "why": "means parking/rest area, not a transit restriction"
+   },
+   {
+    "phrase": "autobus turistici",
+    "why": "specifies tourist buses only"
+   }
+  ],
+  "trick": "The trap is confusing advance notice of parking with a prohibition sign.",
+  "image": "images/q_19723.png"
+ },
+ {
+  "n": 19724,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli scuolabus",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is allowed for school buses.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "agli scuolabus",
+    "why": "names a specific type of bus, not automatically an exception"
+   }
+  ],
+  "trick": "The trap is assuming school buses are automatically allowed through.",
+  "image": "images/q_19724.png"
+ },
+ {
+  "n": 19725,
+  "it": "Il segnale raffigurato vieta il transito alle autocaravan",
+  "answer": false,
+  "en": "The sign shown prohibits transit for motor caravans.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "alle autocaravan",
+    "why": "is a specific category: motor caravans/camper vans"
+   }
+  ],
+  "trick": "The key issue is whether the prohibition really applies to this exact vehicle type.",
+  "image": "images/q_19725.png"
+ },
+ {
+  "n": 19726,
+  "it": "Il segnale raffigurato è valido solo nei giorni feriali",
+  "answer": false,
+  "en": "The sign shown is valid only on working days.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "limits validity to only this case"
+   },
+   {
+    "phrase": "giorni feriali",
+    "why": "means working days/weekdays, excluding holidays"
+   }
+  ],
+  "trick": "Only is the main limiter in the statement.",
+  "image": "images/q_19726.png"
+ },
+ {
+  "n": 19727,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli adibiti al trasporto di cose con massa a pieno carico superiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "The sign shown prohibits transit for vehicles used for the transport of goods with a fully loaded mass exceeding 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "adibiti al trasporto di cose",
+    "why": "specifies vehicles used for carrying goods"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a strict threshold of more than 3.5 tonnes"
+   }
+  ],
+  "trick": "The main traps are the goods-transport use and the over-3.5-tonne threshold.",
+  "image": "images/q_19727.png"
+ },
+ {
+  "n": 19728,
+  "it": "In presenza del segnale raffigurato è consentito il transito di autobus di massa complessiva superiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "When the sign shown is present, buses with a gross vehicle mass of more than 3.5 tonnes are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, excluding exactly 3.5"
+   }
+  ],
+  "trick": "Watch for permission wording and the threshold 'more than' value.",
+  "image": "images/q_19728.png"
+ },
+ {
+  "n": 19729,
+  "it": "In presenza del segnale raffigurato è consentito il transito di un'autocaravan di massa a pieno carico superiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "When the sign shown is present, a motor caravan with a fully loaded mass of more than 3.5 tonnes is allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, excluding exactly 3.5"
+   }
+  ],
+  "trick": "Watch for permission wording and the threshold 'more than' value.",
+  "image": "images/q_19729.png"
+ },
+ {
+  "n": 19730,
+  "it": "Il segnale raffigurato può essere munito di pannello integrativo con un diverso valore della massa ammessa al transito",
+  "answer": true,
+  "en": "The sign shown may be fitted with a supplementary panel showing a different permitted mass value for transit.",
+  "keywords": [
+   {
+    "phrase": "può essere munito",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "diverso",
+    "why": "means a different value, not necessarily higher or lower"
+   },
+   {
+    "phrase": "massa ammessa al transito",
+    "why": "refers to the mass allowed for passing, not the vehicle's actual load"
+   }
+  ],
+  "trick": "The sentence is about possible sign integration and a possibly different allowed mass value.",
+  "image": "images/q_19730.png"
+ },
+ {
+  "n": 19731,
+  "it": "Il segnale raffigurato vieta il transito di un autocarro di massa a pieno carico pari a 3 tonnellate",
+  "answer": false,
+  "en": "The sign shown prohibits the passage of a goods vehicle with a fully loaded mass of 3 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "pari a 3 tonnellate",
+    "why": "means exactly 3 tonnes, not about over or under"
+   }
+  ],
+  "trick": "The trap is the exact mass value and the prohibition wording.",
+  "image": "images/q_19731.png"
+ },
+ {
+  "n": 19732,
+  "it": "Il segnale raffigurato vieta il transito a tutti gli autocarri carrozzati con furgone chiuso",
+  "answer": false,
+  "en": "The sign shown prohibits the passage of all goods vehicles with a closed van body.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tutti",
+    "why": "makes the statement apply to all such vehicles"
+   }
+  ],
+  "trick": "The key trap is the universal claim 'all' combined with prohibition.",
+  "image": "images/q_19732.png"
+ },
+ {
+  "n": 19733,
+  "it": "In presenza del segnale raffigurato è consentito il transito a tutti gli autocarri carrozzati con cassone aperto",
+  "answer": false,
+  "en": "When the sign shown is present, all goods vehicles with an open bed are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "tutti",
+    "why": "makes the statement apply to all such vehicles"
+   }
+  ],
+  "trick": "The trap is the universal claim 'all' combined with permission wording.",
+  "image": "images/q_19733.png"
+ },
+ {
+  "n": 19734,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli di massa superiore a 3,5 tonnellate destinati al trasporto di persone",
+  "answer": false,
+  "en": "The sign shown prohibits the passage of vehicles with a mass of more than 3.5 tonnes intended for the transport of people.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, excluding exactly 3.5"
+   },
+   {
+    "phrase": "destinati al trasporto di persone",
+    "why": "limits the statement to vehicles for carrying people"
+   }
+  ],
+  "trick": "Watch the prohibition, the over-3.5-tonne threshold, and the restriction to passenger transport.",
+  "image": "images/q_19734.png"
+ },
+ {
+  "n": 19735,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autotreni di massa superiore a 3,5 tonnellate non adibiti al trasporto di persone",
+  "answer": false,
+  "en": "When the sign shown is present, road trains with a mass of more than 3.5 tonnes not used for the transport of people are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, excluding exactly 3.5"
+   },
+   {
+    "phrase": "non adibiti al trasporto di persone",
+    "why": "negates and limits the statement to non-passenger use"
+   }
+  ],
+  "trick": "The trap is permission wording plus the negative restriction about not carrying people.",
+  "image": "images/q_19735.png"
+ },
+ {
+  "n": 19736,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle autocaravan",
+  "answer": true,
+  "en": "When the sign shown is present, motor caravans are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The key trap is that the sentence states permission.",
+  "image": "images/q_19736.png"
+ },
+ {
+  "n": 19737,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autobus",
+  "answer": true,
+  "en": "When the sign shown is present, buses are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The key trap is that the sentence states permission.",
+  "image": "images/q_19737.png"
+ },
+ {
+  "n": 19738,
+  "it": "Il segnale raffigurato vieta il transito agli autocarri con massa a pieno carico superiore a 6,5 tonnellate",
+  "answer": true,
+  "en": "The sign shown prohibits the passage of goods vehicles with a fully loaded mass of more than 6.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a 6,5 tonnellate",
+    "why": "means over 6.5 tonnes, excluding exactly 6.5"
+   }
+  ],
+  "trick": "Watch the prohibition and the 'more than 6.5 tonnes' threshold.",
+  "image": "images/q_19738.png"
+ },
+ {
+  "n": 19739,
+  "it": "In presenza del segnale raffigurato è consentito il transito ai veicoli adibiti al trasporto di cose con massa complessiva pari o inferiore a quella indicata nel segnale",
+  "answer": true,
+  "en": "When the sign shown is present, vehicles used for the transport of goods with a gross mass equal to or less than that indicated on the sign are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "pari o inferiore",
+    "why": "includes both exactly equal to and less than"
+   },
+   {
+    "phrase": "quella indicata nel segnale",
+    "why": "refers to the limit shown on the sign"
+   }
+  ],
+  "trick": "The trap is the inclusive threshold 'equal to or less than' tied to the sign's value.",
+  "image": "images/q_19739.png"
+ },
+ {
+  "n": 19740,
+  "it": "In presenza del segnale raffigurato è vietato il transito di autocarri se sulla carta di circolazione è indicata una massa a pieno carico superiore a 6,5 tonnellate",
+  "answer": true,
+  "en": "When the sign shown is present, the passage of goods vehicles is prohibited if the registration certificate shows a fully loaded mass of more than 6.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the specific condition for the rule"
+   },
+   {
+    "phrase": "superiore a 6,5 tonnellate",
+    "why": "means over 6.5 tonnes, excluding exactly 6.5"
+   }
+  ],
+  "trick": "The rule depends on the condition introduced by 'if' and the over-6.5-tonne threshold.",
+  "image": "images/q_19740.png"
+ },
+ {
+  "n": 19741,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autocarri di massa complessiva pari a 7,5 tonnellate",
+  "answer": false,
+  "en": "When the sign shown is present, goods vehicles with a gross vehicle mass of 7.5 tonnes are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "pari a 7,5 tonnellate",
+    "why": "means exactly 7.5 tonnes, not approximate or over"
+   }
+  ],
+  "trick": "The trap is permission wording and the exact mass value.",
+  "image": "images/q_19741.png"
+ },
+ {
+  "n": 19742,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli di massa superiore a 6,5 tonnellate destinati al trasporto di persone",
+  "answer": false,
+  "en": "The sign shown prohibits the passage of vehicles with a mass of more than 6.5 tonnes intended for the transport of people.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a 6,5 tonnellate",
+    "why": "means over 6.5 tonnes, excluding exactly 6.5"
+   },
+   {
+    "phrase": "destinati al trasporto di persone",
+    "why": "limits the statement to vehicles for carrying people"
+   }
+  ],
+  "trick": "Watch the prohibition, the over-6.5-tonne threshold, and the restriction to passenger transport.",
+  "image": "images/q_19742.png"
+ },
+ {
+  "n": 19743,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autoveicoli ad uso speciale di massa superiore a 6,5 tonnellate",
+  "answer": false,
+  "en": "When the sign shown is present, special-use motor vehicles with a mass of more than 6.5 tonnes are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "superiore a 6,5 tonnellate",
+    "why": "means over 6.5 tonnes, excluding exactly 6.5"
+   }
+  ],
+  "trick": "The trap is permission wording and the 'more than 6.5 tonnes' threshold.",
+  "image": "images/q_19743.png"
+ },
+ {
+  "n": 19744,
+  "it": "Il segnale raffigurato preannuncia una pesa pubblica nelle vicinanze",
+  "answer": false,
+  "en": "The sign shown warns of a public weighbridge nearby.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice, not that it is the place itself"
+   },
+   {
+    "phrase": "nelle vicinanze",
+    "why": "means nearby, not exactly here"
+   }
+  ],
+  "trick": "The trap is the advance-warning meaning and the location being only nearby.",
+  "image": "images/q_19744.png"
+ },
+ {
+  "n": 19745,
+  "it": "Il segnale raffigurato vieta il transito di autobus di massa complessiva superiore a 10 tonnellate",
+  "answer": false,
+  "en": "The sign shown prohibits the passage of buses with a gross vehicle mass of more than 10 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a 10 tonnellate",
+    "why": "means over 10 tonnes, excluding exactly 10"
+   }
+  ],
+  "trick": "Watch the prohibition and the 'more than 10 tonnes' threshold.",
+  "image": "images/q_19745.png"
+ },
+ {
+  "n": 19746,
+  "it": "Il segnale raffigurato può essere integrato con pannello che consente il traino di rimorchi di massa non superiore a quella indicata nel pannello stesso",
+  "answer": true,
+  "en": "The sign shown may be supplemented by a panel allowing the towing of trailers with a mass not greater than that indicated on the panel itself.",
+  "keywords": [
+   {
+    "phrase": "può essere integrato",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non superiore a",
+    "why": "means not greater than, so it includes equality"
+   },
+   {
+    "phrase": "quella indicata nel pannello stesso",
+    "why": "refers specifically to the value shown on that panel"
+   }
+  ],
+  "trick": "The traps are the possibility wording and the inclusive limit 'not greater than' on the panel.",
+  "image": "images/q_19746.png"
+ },
+ {
+  "n": 19747,
+  "it": "Il segnale raffigurato vieta il transito agli autotreni",
+  "answer": true,
+  "en": "The sign shown prohibits the passage of road trains.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is that the sentence states prohibition.",
+  "image": "images/q_19747.png"
+ },
+ {
+  "n": 19748,
+  "it": "In presenza del segnale raffigurato è consentito il transito di un autoveicolo trainante un carrello-appendice",
+  "answer": true,
+  "en": "When the illustrated sign is present, a motor vehicle towing a small luggage trailer is allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "carrello-appendice",
+    "why": "specific trailer type, not any trailer"
+   }
+  ],
+  "trick": "Watch permission wording and the specific trailer type mentioned.",
+  "image": "images/q_19748.png"
+ },
+ {
+  "n": 19749,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli a motore trainanti un rimorchio",
+  "answer": true,
+  "en": "The illustrated sign prohibits the passage of motor vehicles towing a trailer.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "trainanti un rimorchio",
+    "why": "applies only to vehicles that are towing a trailer"
+   }
+  ],
+  "trick": "The ban concerns motor vehicles only when they are towing a trailer.",
+  "image": "images/q_19749.png"
+ },
+ {
+  "n": 19750,
+  "it": "In presenza del segnale raffigurato è consentito il transito agli autosnodati",
+  "answer": true,
+  "en": "When the illustrated sign is present, articulated vehicles are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "autosnodati",
+    "why": "means articulated vehicles, a technical vehicle class"
+   }
+  ],
+  "trick": "The key trap is that it says articulated vehicles are permitted, not banned.",
+  "image": "images/q_19750.png"
+ },
+ {
+  "n": 19751,
+  "it": "In presenza del segnale raffigurato è consentito il transito di un'autovettura trainante un caravan",
+  "answer": false,
+  "en": "When the illustrated sign is present, a passenger car towing a caravan is allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not prohibition"
+   },
+   {
+    "phrase": "trainante un caravan",
+    "why": "applies specifically to towing a caravan"
+   }
+  ],
+  "trick": "The statement turns on permission and the fact that the car is towing a caravan.",
+  "image": "images/q_19751.png"
+ },
+ {
+  "n": 19752,
+  "it": "Il segnale raffigurato vale soltanto per i veicoli adibiti al trasporto di merci",
+  "answer": false,
+  "en": "The illustrated sign applies only to vehicles used for the transport of goods.",
+  "keywords": [
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "veicoli adibiti al trasporto di merci",
+    "why": "specific category of goods vehicles"
+   }
+  ],
+  "trick": "The trap is the limiting word 'only'.",
+  "image": "images/q_19752.png"
+ },
+ {
+  "n": 19753,
+  "it": "Il segnale raffigurato indica autocarri in rallentamento",
+  "answer": false,
+  "en": "The illustrated sign indicates lorries slowing down.",
+  "keywords": [],
+  "trick": "No special trap word; the statement misidentifies the sign’s meaning.",
+  "image": "images/q_19753.png"
+ },
+ {
+  "n": 19754,
+  "it": "Il segnale raffigurato indica che gli autotreni debbono procedere ad una distanza di almeno 100 metri tra di loro",
+  "answer": false,
+  "en": "The illustrated sign indicates that road trains must proceed at a distance of at least 100 metres from one another.",
+  "keywords": [
+   {
+    "phrase": "debbono procedere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno 100 metri",
+    "why": "sets a minimum distance, not an exact one"
+   },
+   {
+    "phrase": "tra di loro",
+    "why": "means between one another, not from other vehicles generally"
+   }
+  ],
+  "trick": "The traps are the obligation and the minimum distance between those vehicles.",
+  "image": "images/q_19754.png"
+ },
+ {
+  "n": 19755,
+  "it": "In presenza del segnale raffigurato è consentito il transito ad un'autovettura che traina un rimorchio per imbarcazione",
+  "answer": false,
+  "en": "When the illustrated sign is present, a passenger car towing a boat trailer is allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not prohibition"
+   },
+   {
+    "phrase": "traina un rimorchio per imbarcazione",
+    "why": "applies specifically to towing a boat trailer"
+   }
+  ],
+  "trick": "The statement hinges on permission for a car towing a specific kind of trailer.",
+  "image": "images/q_19755.png"
+ },
+ {
+  "n": 19756,
+  "it": "Il segnale raffigurato vieta il transito alle trattrici agricole",
+  "answer": true,
+  "en": "The illustrated sign prohibits the passage of agricultural tractors.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "trattrici agricole",
+    "why": "technical term for agricultural tractors"
+   }
+  ],
+  "trick": "The key trap is the prohibition applying to agricultural tractors.",
+  "image": "images/q_19756.png"
+ },
+ {
+  "n": 19757,
+  "it": "In presenza del segnale raffigurato è consentito il transito di veicoli sgombraneve",
+  "answer": true,
+  "en": "When the illustrated sign is present, snowplough vehicles are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "veicoli sgombraneve",
+    "why": "specific class of snow-clearing vehicles"
+   }
+  ],
+  "trick": "The statement uses permission wording for a specific exempt-type vehicle class.",
+  "image": "images/q_19757.png"
+ },
+ {
+  "n": 19758,
+  "it": "Il segnale raffigurato vale sia di giorno che di notte",
+  "answer": true,
+  "en": "The illustrated sign applies both by day and by night.",
+  "keywords": [
+   {
+    "phrase": "sia di giorno che di notte",
+    "why": "means in both cases, day and night"
+   }
+  ],
+  "trick": "The trap is that the sign applies in both time periods, not just one.",
+  "image": "images/q_19758.png"
+ },
+ {
+  "n": 19759,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle macchine operatrici destinate a lavori di manutenzione stradale",
+  "answer": true,
+  "en": "When the illustrated sign is present, operating machines intended for road maintenance work are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "destinate a lavori di manutenzione stradale",
+    "why": "limits it to machines intended for road maintenance work"
+   }
+  ],
+  "trick": "The permission is limited to a specific type and use of operating machine.",
+  "image": "images/q_19759.png"
+ },
+ {
+  "n": 19760,
+  "it": "Il segnale raffigurato vale sia per le macchine agricole gommate, sia per quelle cingolate",
+  "answer": true,
+  "en": "The illustrated sign applies both to wheeled agricultural machines and to tracked ones.",
+  "keywords": [
+   {
+    "phrase": "sia ... sia ...",
+    "why": "includes both categories, not just one"
+   }
+  ],
+  "trick": "The trap is the inclusive 'both ... and ...' structure.",
+  "image": "images/q_19760.png"
+ },
+ {
+  "n": 19761,
+  "it": "In presenza del segnale raffigurato è consentito il transito ai motocicli",
+  "answer": true,
+  "en": "When the illustrated sign is present, motorcycles are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not prohibition"
+   }
+  ],
+  "trick": "The key trap is that it states permission for motorcycles.",
+  "image": "images/q_19761.png"
+ },
+ {
+  "n": 19762,
+  "it": "In presenza del segnale raffigurato è consentito il transito ai quadricicli a motore",
+  "answer": true,
+  "en": "When the illustrated sign is present, motor quadricycles are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not prohibition"
+   },
+   {
+    "phrase": "quadricicli a motore",
+    "why": "technical class of four-wheeled motor vehicles"
+   }
+  ],
+  "trick": "The statement uses permission wording for a specific vehicle category.",
+  "image": "images/q_19762.png"
+ },
+ {
+  "n": 19763,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle macchine agricole",
+  "answer": false,
+  "en": "When the illustrated sign is present, agricultural machines are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not prohibition"
+   }
+  ],
+  "trick": "The trap is that it claims permission for agricultural machines.",
+  "image": "images/q_19763.png"
+ },
+ {
+  "n": 19764,
+  "it": "In presenza del segnale raffigurato è consentito il traino dei rimorchi agricoli di massa complessiva fino a 1,5 tonnellate",
+  "answer": false,
+  "en": "When the illustrated sign is present, towing agricultural trailers with a total mass of up to 1.5 tonnes is allowed.",
+  "keywords": [
+   {
+    "phrase": "In presenza del segnale raffigurato",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not prohibition"
+   },
+   {
+    "phrase": "fino a 1,5 tonnellate",
+    "why": "sets an upper limit, not a minimum"
+   }
+  ],
+  "trick": "The traps are the permission wording and the upper mass limit.",
+  "image": "images/q_19764.png"
+ },
+ {
+  "n": 19765,
+  "it": "Il segnale raffigurato vieta il transito ai trattori stradali per semirimorchi",
+  "answer": false,
+  "en": "The illustrated sign prohibits the passage of road tractors for semi-trailers.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "trattori stradali per semirimorchi",
+    "why": "technical term for tractor units for semi-trailers"
+   }
+  ],
+  "trick": "The key trap is the technical vehicle class mentioned in the prohibition.",
+  "image": "images/q_19765.png"
+ },
+ {
+  "n": 19766,
+  "it": "Il segnale raffigurato vieta il transito ai quadricicli a motore",
+  "answer": false,
+  "en": "The illustrated sign prohibits the passage of motor quadricycles.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quadricicli a motore",
+    "why": "technical class of four-wheeled motor vehicles"
+   }
+  ],
+  "trick": "The trap is the prohibition applied to a technical vehicle category.",
+  "image": "images/q_19766.png"
+ },
+ {
+  "n": 19767,
+  "it": "Il segnale raffigurato è obbligatorio in corrispondenza degli accessi privati",
+  "answer": false,
+  "en": "The illustrated sign is mandatory at private entrances.",
+  "keywords": [
+   {
+    "phrase": "obbligatorio",
+    "why": "expresses obligation or mandatory use"
+   }
+  ],
+  "trick": "The key trap is the claim that the sign is mandatory at private accesses.",
+  "image": "images/q_19767.png"
+ },
+ {
+  "n": 19768,
+  "it": "Il segnale raffigurato si trova soltanto sulla rete stradale delle aziende agricole",
+  "answer": false,
+  "en": "The sign shown is found only on the road network of agricultural businesses.",
+  "keywords": [
+   {
+    "phrase": "soltanto",
+    "why": "restricts the statement to only this case"
+   }
+  ],
+  "trick": "\"soltanto\" makes the claim exclusive, which can easily make it false.",
+  "image": "images/q_19768.png"
+ },
+ {
+  "n": 19769,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle macchine agricole durante le fiere",
+  "answer": false,
+  "en": "When the sign shown is present, agricultural machines are allowed to pass during fairs.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means the rule applies when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "durante le fiere",
+    "why": "limits the permission to a specific occasion"
+   }
+  ],
+  "trick": "The traps are the permission phrase and the time limit \"during fairs\".",
+  "image": "images/q_19769.png"
+ },
+ {
+  "n": 19777,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che trasportano esplosivi",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of vehicles carrying explosives.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "esplosivi",
+    "why": "specifies the banned cargo, not all goods"
+   }
+  ],
+  "trick": "The key is that the ban concerns vehicles carrying explosives.",
+  "image": "images/q_19777.png"
+ },
+ {
+  "n": 19778,
+  "it": "Il carburante contenuto nel serbatoio del veicolo non si considera trasporto di materiale infiammabile vietato dal segnale in figura",
+  "answer": true,
+  "en": "The fuel contained in the vehicle's tank is not considered transport of flammable material prohibited by the sign shown.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   },
+   {
+    "phrase": "non si considera",
+    "why": "means it is not treated as such under the rule"
+   },
+   {
+    "phrase": "vietato dal segnale",
+    "why": "links the prohibition specifically to what the sign bans"
+   }
+  ],
+  "trick": "The main trap is the double negative idea: fuel in the tank is not counted as prohibited transport.",
+  "image": "images/q_19778.png"
+ },
+ {
+  "n": 19779,
+  "it": "In presenza del segnale raffigurato è consentito il transito di autovetture alimentate a metano",
+  "answer": true,
+  "en": "When the sign shown is present, cars powered by methane are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means the rule applies when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The important point is that the sentence states permission under the sign.",
+  "image": "images/q_19779.png"
+ },
+ {
+  "n": 19780,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che trasportano prodotti facilmente infiammabili",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of vehicles carrying easily flammable products.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "facilmente infiammabili",
+    "why": "specifies the type of dangerous goods banned"
+   }
+  ],
+  "trick": "The ban applies specifically to vehicles transporting easily flammable products.",
+  "image": "images/q_19780.png"
+ },
+ {
+  "n": 19781,
+  "it": "In presenza del segnale raffigurato gli autoveicoli che trasportano esplosivi possono effettuare manovre di sorpasso",
+  "answer": false,
+  "en": "When the sign shown is present, motor vehicles carrying explosives may overtake.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means the rule applies when this sign is present"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "che trasportano esplosivi",
+    "why": "limits the statement to vehicles with that cargo"
+   }
+  ],
+  "trick": "The trap is the permission idea: it says those vehicles may overtake.",
+  "image": "images/q_19781.png"
+ },
+ {
+  "n": 19782,
+  "it": "Il segnale raffigurato prescrive di fare attenzione al transito di veicoli che trasportano esplosivo",
+  "answer": false,
+  "en": "The sign shown instructs drivers to be careful of vehicles carrying explosives passing through.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "means orders or prescribes, not merely suggests"
+   },
+   {
+    "phrase": "fare attenzione",
+    "why": "describes a warning-type meaning, not a prohibition"
+   }
+  ],
+  "trick": "The trap is confusing a prohibition sign with a warning to be careful.",
+  "image": "images/q_19782.png"
+ },
+ {
+  "n": 19783,
+  "it": "In presenza del segnale raffigurato è consentito il transito ai veicoli che trasportano prodotti facilmente infiammabili, purché non esplosivi",
+  "answer": false,
+  "en": "When the sign shown is present, vehicles carrying easily flammable products are allowed to pass, provided they are not explosive.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition or exception"
+   },
+   {
+    "phrase": "non esplosivi",
+    "why": "negates only the explosive nature, not the whole cargo"
+   }
+  ],
+  "trick": "The tricky part is the conditional exception introduced by \"purché\".",
+  "image": "images/q_19783.png"
+ },
+ {
+  "n": 19784,
+  "it": "In presenza del segnale raffigurato è consentito il traino di veicoli che trasportano prodotti facilmente infiammabili",
+  "answer": false,
+  "en": "When the sign shown is present, towing vehicles carrying easily flammable products is allowed.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "il traino",
+    "why": "refers specifically to towing, not normal transit"
+   }
+  ],
+  "trick": "The trap is that the statement talks about towing, a specific activity, not just passing through.",
+  "image": "images/q_19784.png"
+ },
+ {
+  "n": 19785,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che trasportano sostanze suscettibili di contaminare l'acqua",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of vehicles carrying substances liable to contaminate water.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "suscettibili di contaminare l'acqua",
+    "why": "means capable of contaminating water, not only substances that certainly do"
+   }
+  ],
+  "trick": "The key trap is that \"suscettibili\" includes substances that could contaminate water.",
+  "image": "images/q_19785.png"
+ },
+ {
+  "n": 19786,
+  "it": "In presenza del segnale raffigurato è consentito il transito di autoveicoli che trasportano prodotti che non contaminano l'acqua",
+  "answer": true,
+  "en": "When the sign shown is present, motor vehicles carrying products that do not contaminate water are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "non contaminano l'acqua",
+    "why": "negates the contaminating property only"
+   }
+  ],
+  "trick": "The trap is the limited negation: only products that do not contaminate water are meant.",
+  "image": "images/q_19786.png"
+ },
+ {
+  "n": 19787,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle autocisterne che trasportano acqua",
+  "answer": true,
+  "en": "When the sign shown is present, tankers carrying water are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "che trasportano acqua",
+    "why": "limits the statement to tankers carrying water"
+   }
+  ],
+  "trick": "The important detail is the cargo: tankers are allowed if they carry water.",
+  "image": "images/q_19787.png"
+ },
+ {
+  "n": 19788,
+  "it": "In presenza del segnale raffigurato è consentito il transito alle innaffiatrici stradali",
+  "answer": true,
+  "en": "When the sign shown is present, road-watering vehicles are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is simply that the sentence states permission under the sign.",
+  "image": "images/q_19788.png"
+ },
+ {
+  "n": 19789,
+  "it": "In presenza del segnale raffigurato è consentito il transito di rimorchi che trasportano sostanze che possono contaminare l'acqua",
+  "answer": false,
+  "en": "When the sign shown is present, trailers carrying substances that can contaminate water are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "possono contaminare l'acqua",
+    "why": "refers to potential contamination, not proven contamination"
+   }
+  ],
+  "trick": "The trap is that it grants permission to trailers carrying substances that can contaminate water.",
+  "image": "images/q_19789.png"
+ },
+ {
+  "n": 19790,
+  "it": "Il segnale raffigurato preannuncia una zona soggetta ad allagamento",
+  "answer": false,
+  "en": "The sign shown warns in advance of an area subject to flooding.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance of, not indicates a current condition"
+   },
+   {
+    "phrase": "zona soggetta ad allagamento",
+    "why": "describes a flood-prone area, which can be confused with other water-related signs"
+   }
+  ],
+  "trick": "The trap is confusing a prohibition sign with an advance warning about flooding.",
+  "image": "images/q_19790.png"
+ },
+ {
+  "n": 19791,
+  "it": "Il segnale raffigurato preannuncia la probabile presenza di acqua sulla carreggiata",
+  "answer": false,
+  "en": "The sign shown warns in advance of the likely presence of water on the carriageway.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance of, not directly prohibits"
+   },
+   {
+    "phrase": "probabile presenza",
+    "why": "indicates likelihood, not certainty"
+   }
+  ],
+  "trick": "The trap is the warning-style wording, especially \"preannuncia\" and \"probabile\".",
+  "image": "images/q_19791.png"
+ },
+ {
+  "n": 19792,
+  "it": "Il segnale raffigurato vieta la sosta delle autocisterne",
+  "answer": false,
+  "en": "The sign shown prohibits tankers from parking.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "la sosta",
+    "why": "means parking or stopping at rest, not transit"
+   }
+  ],
+  "trick": "The trap is confusing a transit ban with a parking prohibition.",
+  "image": "images/q_19792.png"
+ },
+ {
+  "n": 19793,
+  "it": "Il segnale raffigurato vieta il transito alle cisterne vuote",
+  "answer": false,
+  "en": "The sign shown prohibits empty tank vehicles from passing.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "cisterne vuote",
+    "why": "specifies empty tankers, which may differ from loaded ones"
+   }
+  ],
+  "trick": "The trap is the specific mention of empty tankers rather than dangerous cargo.",
+  "image": "images/q_19793.png"
+ },
+ {
+  "n": 19794,
+  "it": "Il segnale raffigurato si riferisce ai veicoli anche se sprovvisti di motore",
+  "answer": true,
+  "en": "The sign shown refers to vehicles even if they are without an engine.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "extends the rule to an additional case"
+   },
+   {
+    "phrase": "se sprovvisti di motore",
+    "why": "means even without an engine, widening the scope"
+   }
+  ],
+  "trick": "The key trap is that \"anche se\" extends the rule to non-motor vehicles too.",
+  "image": "images/q_19794.png"
+ },
+ {
+  "n": 19795,
+  "it": "Il segnale raffigurato può trovarsi prima di una strettoia",
+  "answer": true,
+  "en": "The sign shown may be found before a narrow section of road.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "prima di",
+    "why": "means before the point, not at it"
+   },
+   {
+    "phrase": "strettoia",
+    "why": "means a road narrowing, not just a small street"
+   }
+  ],
+  "trick": "Watch possibility and location wording: the sign may be placed before a narrowing.",
+  "image": "images/q_19795.png"
+ },
+ {
+  "n": 19796,
+  "it": "Il segnale raffigurato è posto sulle strade sia urbane che extraurbane",
+  "answer": true,
+  "en": "The sign shown is placed on both urban and extra-urban roads.",
+  "keywords": [
+   {
+    "phrase": "sia ... che",
+    "why": "means both ... and, including both cases"
+   }
+  ],
+  "trick": "The phrase includes both urban and non-urban roads, not just one.",
+  "image": "images/q_19796.png"
+ },
+ {
+  "n": 19797,
+  "it": "Il segnale raffigurato indica la larghezza massima dei veicoli ammessi al transito",
+  "answer": true,
+  "en": "The sign shown indicates the maximum width of vehicles allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "larghezza massima",
+    "why": "sets a maximum limit"
+   },
+   {
+    "phrase": "ammessi al transito",
+    "why": "means permitted to pass, not recommended"
+   }
+  ],
+  "trick": "It gives the maximum permitted vehicle width for transit.",
+  "image": "images/q_19797.png"
+ },
+ {
+  "n": 19798,
+  "it": "In presenza del segnale raffigurato è consentito il transito di autotreni larghi 2,30 metri",
+  "answer": true,
+  "en": "In the presence of the sign shown, articulated lorries 2.30 metres wide are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "sets the rule when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "2,30 metri",
+    "why": "the exact limit value matters"
+   }
+  ],
+  "trick": "The key trap is permission at the exact stated width limit.",
+  "image": "images/q_19798.png"
+ },
+ {
+  "n": 19799,
+  "it": "Il segnale raffigurato si riferisce a tutti i veicoli di larghezza superiore a 2,30 metri",
+  "answer": true,
+  "en": "The sign shown applies to all vehicles with a width greater than 2.30 metres.",
+  "keywords": [
+   {
+    "phrase": "tutti",
+    "why": "includes every vehicle type"
+   },
+   {
+    "phrase": "superiore a",
+    "why": "means greater than, not equal to"
+   }
+  ],
+  "trick": "It applies to every vehicle over 2.30 m, with 'greater than' excluding the exact limit.",
+  "image": "images/q_19799.png"
+ },
+ {
+  "n": 19800,
+  "it": "Il segnale raffigurato indica la distanza minima di sicurezza tra due autoveicoli in transito su quella strada",
+  "answer": false,
+  "en": "The sign shown indicates the minimum safety distance between two motor vehicles travelling on that road.",
+  "keywords": [
+   {
+    "phrase": "distanza minima di sicurezza",
+    "why": "means minimum safety distance, a different restriction type"
+   },
+   {
+    "phrase": "tra due autoveicoli",
+    "why": "specifies between two motor vehicles"
+   }
+  ],
+  "trick": "This wording describes a minimum-distance sign, which is a different meaning from width restriction.",
+  "image": "images/q_19800.png"
+ },
+ {
+  "n": 19801,
+  "it": "In presenza del segnale raffigurato i veicoli a trazione animale larghi più di 2,30 m possono transitare",
+  "answer": false,
+  "en": "In the presence of the sign shown, animal-drawn vehicles wider than 2.30 m may pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule under this sign"
+   },
+   {
+    "phrase": "più di",
+    "why": "means more than, not equal to"
+   },
+   {
+    "phrase": "possono transitare",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The traps are the permission wording and the strict 'more than 2.30 m' threshold.",
+  "image": "images/q_19801.png"
+ },
+ {
+  "n": 19802,
+  "it": "Il segnale raffigurato è un divieto che non riguarda gli autobus",
+  "answer": false,
+  "en": "The sign shown is a prohibition that does not concern buses.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "means prohibition"
+   },
+   {
+    "phrase": "non riguarda",
+    "why": "excludes a category from the rule"
+   }
+  ],
+  "trick": "The key trap is the negation claiming buses are excluded from the prohibition.",
+  "image": "images/q_19802.png"
+ },
+ {
+  "n": 19803,
+  "it": "Il segnale raffigurato indica la larghezza di una strettoia",
+  "answer": false,
+  "en": "The sign shown indicates the width of a narrow section of road.",
+  "keywords": [
+   {
+    "phrase": "indica",
+    "why": "states what the sign means"
+   },
+   {
+    "phrase": "larghezza di una strettoia",
+    "why": "refers to the width of the narrowing itself, not a vehicle limit"
+   }
+  ],
+  "trick": "Do not confuse a vehicle-width limit with the physical width of a road narrowing.",
+  "image": "images/q_19803.png"
+ },
+ {
+  "n": 19804,
+  "it": "Il segnale raffigurato è relativo al rimorchio, ma non alla motrice",
+  "answer": false,
+  "en": "The sign shown relates to the trailer, but not to the tractor unit.",
+  "keywords": [
+   {
+    "phrase": "ma non",
+    "why": "excludes what follows"
+   },
+   {
+    "phrase": "rimorchio",
+    "why": "means trailer"
+   },
+   {
+    "phrase": "motrice",
+    "why": "means the towing/tractor unit"
+   }
+  ],
+  "trick": "The trap is the exclusion: it says the rule applies to the trailer only, not the motor unit.",
+  "image": "images/q_19804.png"
+ },
+ {
+  "n": 19805,
+  "it": "Il segnale raffigurato indica una strada larga 2,30 metri",
+  "answer": false,
+  "en": "The sign shown indicates a road that is 2.30 metres wide.",
+  "keywords": [
+   {
+    "phrase": "indica",
+    "why": "states the sign's meaning"
+   },
+   {
+    "phrase": "strada larga 2,30 metri",
+    "why": "describes road width, not maximum vehicle width"
+   }
+  ],
+  "trick": "Do not confuse the road's width with the maximum permitted width of vehicles.",
+  "image": "images/q_19805.png"
+ },
+ {
+  "n": 19806,
+  "it": "Il segnale raffigurato indica l'altezza massima, misurata dal piano stradale, dei veicoli che possono transitare",
+  "answer": true,
+  "en": "The sign shown indicates the maximum height, measured from the road surface, of vehicles that may pass.",
+  "keywords": [
+   {
+    "phrase": "altezza massima",
+    "why": "sets a maximum limit"
+   },
+   {
+    "phrase": "misurata dal piano stradale",
+    "why": "specifies how the height is measured"
+   },
+   {
+    "phrase": "possono transitare",
+    "why": "means are allowed to pass"
+   }
+  ],
+  "trick": "The important traps are the maximum limit and that height is measured from the road surface.",
+  "image": "images/q_19806.png"
+ },
+ {
+  "n": 19807,
+  "it": "Il segnale raffigurato vieta il transito degli autoveicoli con altezza, comprensiva del carico, superiore a 3,50 metri",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of motor vehicles with a height, including the load, greater than 3.50 metres.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "comprensiva del carico",
+    "why": "includes the load in the measurement"
+   },
+   {
+    "phrase": "superiore a",
+    "why": "means greater than, not equal to"
+   }
+  ],
+  "trick": "The height includes the load, and the ban applies only above 3.50 m.",
+  "image": "images/q_19807.png"
+ },
+ {
+  "n": 19808,
+  "it": "Il segnale raffigurato indica l'altezza massima dei veicoli ammessi al transito",
+  "answer": true,
+  "en": "The sign shown indicates the maximum height of vehicles allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "altezza massima",
+    "why": "sets a maximum limit"
+   },
+   {
+    "phrase": "ammessi al transito",
+    "why": "means permitted to pass"
+   }
+  ],
+  "trick": "It states the maximum permitted vehicle height for transit.",
+  "image": "images/q_19808.png"
+ },
+ {
+  "n": 19809,
+  "it": "In presenza del segnale raffigurato è consentito il transito di una macchina agricola alta 3,50 metri",
+  "answer": true,
+  "en": "In the presence of the sign shown, an agricultural machine 3.50 metres high is allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule under this sign"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "3,50 metri",
+    "why": "the exact limit value matters"
+   }
+  ],
+  "trick": "The trap is that the exact limit value is still permitted.",
+  "image": "images/q_19809.png"
+ },
+ {
+  "n": 19810,
+  "it": "Il segnale raffigurato può trovarsi sia nei centri abitati che fuori",
+  "answer": true,
+  "en": "The sign shown may be found both in built-up areas and outside them.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "sia ... che",
+    "why": "means both ... and, including both cases"
+   }
+  ],
+  "trick": "It may be placed in either setting, and the phrase includes both.",
+  "image": "images/q_19810.png"
+ },
+ {
+  "n": 19811,
+  "it": "Il segnale raffigurato può trovarsi in un punto in cui la strada passa sotto un ponte",
+  "answer": true,
+  "en": "The sign shown may be found at a point where the road passes under a bridge.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "in un punto in cui",
+    "why": "locates the rule at a specific kind of place"
+   },
+   {
+    "phrase": "sotto un ponte",
+    "why": "indicates an under-bridge clearance situation"
+   }
+  ],
+  "trick": "The key is possibility and the typical location under a bridge.",
+  "image": "images/q_19811.png"
+ },
+ {
+  "n": 19812,
+  "it": "Il segnale raffigurato vieta il transito degli autoveicoli di lunghezza superiore a 3,50 metri",
+  "answer": false,
+  "en": "The sign shown prohibits the transit of motor vehicles longer than 3.50 metres.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "lunghezza",
+    "why": "means length, not height"
+   },
+   {
+    "phrase": "superiore a",
+    "why": "means greater than, not equal to"
+   }
+  ],
+  "trick": "The main trap is confusing length with height.",
+  "image": "images/q_19812.png"
+ },
+ {
+  "n": 19813,
+  "it": "Il segnale raffigurato indica un passaggio alto 3,50 metri",
+  "answer": false,
+  "en": "The sign shown indicates a passage 3.50 metres high.",
+  "keywords": [
+   {
+    "phrase": "indica",
+    "why": "states the sign's meaning"
+   },
+   {
+    "phrase": "passaggio alto 3,50 metri",
+    "why": "describes the passage itself, not the maximum vehicle height allowed"
+   }
+  ],
+  "trick": "Do not confuse passage height wording with the sign's vehicle-height limit meaning.",
+  "image": "images/q_19813.png"
+ },
+ {
+  "n": 19814,
+  "it": "Il segnale raffigurato nei centri abitati vale soltanto dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "In built-up areas, the sign shown is valid only from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vale soltanto",
+    "why": "restricts validity to only this case"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "sets a precise time range"
+   }
+  ],
+  "trick": "The trap is the strong restriction 'only' within a specific time period.",
+  "image": "images/q_19814.png"
+ },
+ {
+  "n": 19815,
+  "it": "Il segnale raffigurato indica che possono passare gli autocarri con carico alto 3,50 metri dal piano del cassone",
+  "answer": false,
+  "en": "The sign shown indicates that lorries with a load height of 3.50 metres from the bed of the truck body may pass.",
+  "keywords": [
+   {
+    "phrase": "possono passare",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is the permission phrase, which says such lorries may pass.",
+  "image": "images/q_19815.png"
+ },
+ {
+  "n": 19816,
+  "it": "Il segnale raffigurato indica la distanza di sicurezza da tenere dal veicolo che precede",
+  "answer": false,
+  "en": "The sign shown indicates the safety distance to keep from the vehicle in front.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the statement hinges on identifying the sign correctly.",
+  "image": "images/q_19816.png"
+ },
+ {
+  "n": 19817,
+  "it": "Il segnale raffigurato vieta il transito a tutti i veicoli di lunghezza complessiva superiore a 10 metri",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of all vehicles with an overall length of more than 10 metres.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tutti i veicoli",
+    "why": "applies the rule to every vehicle type"
+   },
+   {
+    "phrase": "superiore a 10 metri",
+    "why": "means over 10 metres, not equal to 10"
+   }
+  ],
+  "trick": "The key traps are the prohibition, the fact it applies to all vehicles, and that it only bans lengths over 10 metres.",
+  "image": "images/q_19817.png"
+ },
+ {
+  "n": 19818,
+  "it": "In presenza del segnale raffigurato è consentito il transito di un autotreno lungo 10 metri",
+  "answer": true,
+  "en": "In the presence of the sign shown, the transit of an articulated lorry 10 metres long is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "lungo 10 metri",
+    "why": "equal to 10 metres is not over the limit"
+   }
+  ],
+  "trick": "The trap is that transit is permitted under this sign if the vehicle is exactly 10 metres long.",
+  "image": "images/q_19818.png"
+ },
+ {
+  "n": 19819,
+  "it": "Il segnale raffigurato vieta il transito a veicoli di lunghezza superiore a quella indicata",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of vehicles longer than the length indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a quella indicata",
+    "why": "means greater than the indicated value, not equal to it"
+   }
+  ],
+  "trick": "The key point is that the ban applies only to vehicles exceeding the indicated length.",
+  "image": "images/q_19819.png"
+ },
+ {
+  "n": 19820,
+  "it": "Il segnale raffigurato deve essere rispettato anche dai conducenti di autobus",
+  "answer": true,
+  "en": "The sign shown must also be obeyed by bus drivers.",
+  "keywords": [
+   {
+    "phrase": "deve essere rispettato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds buses too, not only other vehicles"
+   }
+  ],
+  "trick": "The trap is that compliance is obligatory and it applies to buses as well.",
+  "image": "images/q_19820.png"
+ },
+ {
+  "n": 19821,
+  "it": "Il segnale raffigurato vige anche di notte",
+  "answer": true,
+  "en": "The sign shown also applies at night.",
+  "keywords": [
+   {
+    "phrase": "anche di notte",
+    "why": "extends the rule to night-time as well"
+   }
+  ],
+  "trick": "The trap is the extension of validity to night-time too.",
+  "image": "images/q_19821.png"
+ },
+ {
+  "n": 19822,
+  "it": "Il segnale raffigurato deve essere rispettato anche dai conducenti di complessi di veicoli",
+  "answer": true,
+  "en": "The sign shown must also be obeyed by drivers of vehicle combinations.",
+  "keywords": [
+   {
+    "phrase": "deve essere rispettato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "includes vehicle combinations as well"
+   }
+  ],
+  "trick": "The trap is that the sign is obligatory and applies to vehicle combinations too.",
+  "image": "images/q_19822.png"
+ },
+ {
+  "n": 19823,
+  "it": "Il segnale raffigurato deve essere rispettato solo dai conducenti di veicoli adibiti al trasporto di cose",
+  "answer": false,
+  "en": "The sign shown must be obeyed only by drivers of vehicles used for the transport of goods.",
+  "keywords": [
+   {
+    "phrase": "deve essere rispettato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this group only"
+   }
+  ],
+  "trick": "The trap is the word 'only', which wrongly limits the sign to goods vehicles alone.",
+  "image": "images/q_19823.png"
+ },
+ {
+  "n": 19824,
+  "it": "Il segnale raffigurato obbliga un veicolo a distanziare quello che lo segue di almeno 10 metri",
+  "answer": false,
+  "en": "The sign shown requires a vehicle to keep at least 10 metres away from the vehicle following it.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno 10 metri",
+    "why": "sets a minimum distance"
+   },
+   {
+    "phrase": "quello che lo segue",
+    "why": "refers to the vehicle behind, not the one in front"
+   }
+  ],
+  "trick": "The trap is the reversed direction: it speaks about the following vehicle, not the vehicle ahead.",
+  "image": "images/q_19824.png"
+ },
+ {
+  "n": 19825,
+  "it": "Il segnale raffigurato indica un'area di parcheggio per autocarri lunghi al massimo 10 metri",
+  "answer": false,
+  "en": "The sign shown indicates a parking area for lorries no longer than 10 metres.",
+  "keywords": [
+   {
+    "phrase": "al massimo 10 metri",
+    "why": "means no more than 10 metres"
+   }
+  ],
+  "trick": "The trap is the limiting phrase 'at most 10 metres'.",
+  "image": "images/q_19825.png"
+ },
+ {
+  "n": 19826,
+  "it": "Il segnale raffigurato impone il distanziamento minimo tra autocarri per consentire alle autovetture di sorpassarli",
+  "answer": false,
+  "en": "The sign shown imposes a minimum spacing between lorries to allow cars to overtake them.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "distanziamento minimo",
+    "why": "sets a required minimum gap"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "states a purpose, not the legal meaning of the sign"
+   }
+  ],
+  "trick": "The trap is the added purpose clause, which suggests a reason not expressed by the sign itself.",
+  "image": "images/q_19826.png"
+ },
+ {
+  "n": 19827,
+  "it": "In presenza del segnale raffigurato è consentito il transito di una autovettura che traina un caravan anche se insieme superano i 10 metri",
+  "answer": false,
+  "en": "In the presence of the sign shown, the transit of a car towing a caravan is permitted even if together they exceed 10 metres.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche se",
+    "why": "allows for an exception-like contrast"
+   },
+   {
+    "phrase": "superano i 10 metri",
+    "why": "means they go over the 10-metre limit"
+   }
+  ],
+  "trick": "The trap is the phrase 'even if', which wrongly suggests permission despite exceeding 10 metres.",
+  "image": "images/q_19827.png"
+ },
+ {
+  "n": 19828,
+  "it": "In presenza del segnale raffigurato è consentito il transito a tutti gli autosnodati per trasporto di persone",
+  "answer": false,
+  "en": "In the presence of the sign shown, transit is permitted for all articulated buses used for the transport of people.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "tutti",
+    "why": "applies the statement to every such vehicle"
+   }
+  ],
+  "trick": "The trap is the broad word 'all', which makes the permission absolute.",
+  "image": "images/q_19828.png"
+ },
+ {
+  "n": 19829,
+  "it": "Il segnale raffigurato preannuncia che gli autocarri devono mantenere una distanza di sicurezza di almeno 10 metri",
+  "answer": false,
+  "en": "The sign shown gives advance warning that lorries must keep a safety distance of at least 10 metres.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance warning, not the rule itself"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno 10 metri",
+    "why": "sets a minimum distance"
+   }
+  ],
+  "trick": "The main trap is 'gives advance warning', which is different from imposing the rule directly.",
+  "image": "images/q_19829.png"
+ },
+ {
+  "n": 19830,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli aventi una massa effettiva superiore a quella indicata",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of vehicles with an actual mass greater than that indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "massa effettiva",
+    "why": "means actual mass, not empty or permitted mass"
+   },
+   {
+    "phrase": "superiore a quella indicata",
+    "why": "means greater than the shown value, not equal to it"
+   }
+  ],
+  "trick": "The traps are that it refers to actual mass and only bans values over the indicated limit.",
+  "image": "images/q_19830.png"
+ },
+ {
+  "n": 19831,
+  "it": "Il segnale raffigurato, integrato con pannello, può vietare il transito contemporaneo di più veicoli",
+  "answer": true,
+  "en": "The sign shown, supplemented by an additional panel, may prohibit the simultaneous transit of more than one vehicle.",
+  "keywords": [
+   {
+    "phrase": "integrato con pannello",
+    "why": "the meaning changes when an extra panel is added"
+   },
+   {
+    "phrase": "può vietare",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "transito contemporaneo",
+    "why": "means passing at the same time"
+   }
+  ],
+  "trick": "The trap is that this is only possible when the sign is combined with a supplementary panel.",
+  "image": "images/q_19831.png"
+ },
+ {
+  "n": 19832,
+  "it": "Il segnale raffigurato vieta il transito agli autocarri di tara superiore a 7 tonnellate",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of lorries with an unladen weight of more than 7 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "tara",
+    "why": "means unladen weight, not total laden mass"
+   },
+   {
+    "phrase": "superiore a 7 tonnellate",
+    "why": "means over 7 tonnes, not equal to 7"
+   }
+  ],
+  "trick": "The traps are that 'tara' is unladen weight and the limit applies only above 7 tonnes.",
+  "image": "images/q_19832.png"
+ },
+ {
+  "n": 19833,
+  "it": "In presenza del segnale raffigurato è consentito il transito di una macchina agricola di massa a pieno carico pari a 7 tonnellate",
+  "answer": true,
+  "en": "In the presence of the sign shown, the transit of an agricultural machine with a fully laden mass of 7 tonnes is permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "massa a pieno carico",
+    "why": "means fully laden mass"
+   },
+   {
+    "phrase": "pari a 7 tonnellate",
+    "why": "means exactly 7 tonnes, not more"
+   }
+  ],
+  "trick": "The trap is that a mass exactly equal to 7 tonnes is permitted, since the ban is for greater values.",
+  "image": "images/q_19833.png"
+ },
+ {
+  "n": 19834,
+  "it": "Il segnale raffigurato si può trovare prima di un ponte",
+  "answer": true,
+  "en": "The sign shown may be found before a bridge.",
+  "keywords": [
+   {
+    "phrase": "si può trovare",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The trap is that this says the sign may be found there, not that it must be.",
+  "image": "images/q_19834.png"
+ },
+ {
+  "n": 19835,
+  "it": "In presenza del segnale raffigurato è consentito il transito ai veicoli il cui asse più caricato ha massa superiore a quella indicata",
+  "answer": false,
+  "en": "In the presence of the sign shown, vehicles whose most heavily loaded axle has a mass greater than that indicated are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "asse più caricato",
+    "why": "refers to the most heavily loaded axle, not total vehicle mass"
+   },
+   {
+    "phrase": "superiore a quella indicata",
+    "why": "means greater than the value shown on the sign"
+   }
+  ],
+  "trick": "The trap is that the sentence says passage is allowed for vehicles exceeding the indicated axle-load limit.",
+  "image": "images/q_19835.png"
+ },
+ {
+  "n": 19836,
+  "it": "Il segnale raffigurato, nei centri abitati, vige dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown, in built-up areas, applies from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the statement to built-up areas only"
+   },
+   {
+    "phrase": "vige",
+    "why": "means is in force or applies"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "states a specific time range"
+   }
+  ],
+  "trick": "The trap is the claimed built-up-area time validity from 8:00 to 20:00.",
+  "image": "images/q_19836.png"
+ },
+ {
+  "n": 19837,
+  "it": "In presenza del segnale raffigurato è consentito il transito di autobus di massa superiore a 7 tonnellate",
+  "answer": false,
+  "en": "In the presence of the sign shown, buses with a mass greater than 7 tonnes are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "massa superiore a 7 tonnellate",
+    "why": "means over 7 tonnes, a threshold that changes the rule"
+   }
+  ],
+  "trick": "The trap is that it says buses over 7 tonnes are permitted to pass.",
+  "image": "images/q_19837.png"
+ },
+ {
+  "n": 19838,
+  "it": "Il segnale raffigurato vieta il transito ai soli veicoli per trasporto merci di massa superiore a 7 tonnellate",
+  "answer": false,
+  "en": "The sign shown prohibits passage only for goods vehicles with a mass greater than 7 tonnes.",
+  "keywords": [
+   {
+    "phrase": "ai soli",
+    "why": "restricts the rule to only these vehicles"
+   },
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "massa superiore a 7 tonnellate",
+    "why": "sets the limiting threshold"
+   }
+  ],
+  "trick": "The trap is the word soli, which wrongly limits the prohibition only to goods vehicles over 7 tonnes.",
+  "image": "images/q_19838.png"
+ },
+ {
+  "n": 19839,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli di lunghezza superiore a 7 metri",
+  "answer": false,
+  "en": "The sign shown prohibits passage for vehicles longer than 7 metres.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "lunghezza superiore a 7 metri",
+    "why": "refers to length over 7 metres, not axle load"
+   }
+  ],
+  "trick": "The trap is that it talks about vehicle length, while this sign concerns axle load.",
+  "image": "images/q_19839.png"
+ },
+ {
+  "n": 19840,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli aventi sull'asse più caricato una massa effettiva superiore a quella indicata",
+  "answer": true,
+  "en": "The sign shown prohibits passage for vehicles having an actual mass on the most heavily loaded axle greater than that indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "asse più caricato",
+    "why": "refers to the most heavily loaded axle, not total mass"
+   },
+   {
+    "phrase": "massa effettiva",
+    "why": "means actual mass, not maximum authorised mass"
+   },
+   {
+    "phrase": "superiore a quella indicata",
+    "why": "means greater than the value shown on the sign"
+   }
+  ],
+  "trick": "The key trap is that the limit concerns the actual load on the most heavily loaded axle.",
+  "image": "images/q_19840.png"
+ },
+ {
+  "n": 19841,
+  "it": "In presenza del segnale raffigurato è consentito il transito di autocarri aventi massa effettiva per asse di 2,5 tonnellate",
+  "answer": true,
+  "en": "In the presence of the sign shown, trucks with an actual axle mass of 2.5 tonnes are allowed to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "massa effettiva per asse",
+    "why": "refers to actual mass per axle, not total vehicle mass"
+   }
+  ],
+  "trick": "The key trap is that the permitted value matches the axle-load limit exactly.",
+  "image": "images/q_19841.png"
+ },
+ {
+  "n": 19842,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli aventi una massa effettiva per asse superiore a 2,5 tonnellate",
+  "answer": true,
+  "en": "The sign shown prohibits passage for vehicles having an actual mass per axle greater than 2.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "massa effettiva per asse",
+    "why": "refers to actual mass per axle, not total mass"
+   },
+   {
+    "phrase": "superiore a 2,5 tonnellate",
+    "why": "means greater than 2.5 tonnes, not equal to it"
+   }
+  ],
+  "trick": "The key trap is that the prohibition applies only above 2.5 tonnes per axle.",
+  "image": "images/q_19842.png"
+ },
+ {
+  "n": 19843,
+  "it": "Il segnale raffigurato fa riferimento alla massa effettiva sull'asse al momento del transito",
+  "answer": true,
+  "en": "The sign shown refers to the actual mass on the axle at the moment of passing.",
+  "keywords": [
+   {
+    "phrase": "massa effettiva",
+    "why": "means actual mass, not maximum permitted mass"
+   },
+   {
+    "phrase": "al momento del transito",
+    "why": "limits it to the load at the time of passing"
+   }
+  ],
+  "trick": "The key trap is that the sign refers to the actual axle load at the moment of transit.",
+  "image": "images/q_19843.png"
+ },
+ {
+  "n": 19844,
+  "it": "Il segnale raffigurato può trovarsi prima di un ponte",
+  "answer": true,
+  "en": "The sign shown may be found before a bridge.",
+  "keywords": [
+   {
+    "phrase": "può trovarsi",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The key trap is that può trovarsi means it may be present there, not that it must be.",
+  "image": "images/q_19844.png"
+ },
+ {
+  "n": 19845,
+  "it": "Il segnale raffigurato obbliga i veicoli aventi massa per asse superiore a 2,5 tonnellate a procedere a passo d'uomo",
+  "answer": false,
+  "en": "The sign shown requires vehicles with an axle mass greater than 2.5 tonnes to proceed at walking pace.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "superiore a 2,5 tonnellate",
+    "why": "means above 2.5 tonnes"
+   },
+   {
+    "phrase": "a procedere a passo d'uomo",
+    "why": "states a duty to move at walking pace"
+   }
+  ],
+  "trick": "The trap is that this sign is presented as imposing walking pace, but it is actually a transit prohibition sign.",
+  "image": "images/q_19845.png"
+ },
+ {
+  "n": 19846,
+  "it": "Il segnale raffigurato vieta il transito agli autocarri di massa complessiva superiore a quella indicata",
+  "answer": false,
+  "en": "The sign shown prohibits passage for trucks with a gross vehicle mass greater than that indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "massa complessiva",
+    "why": "means gross vehicle mass, not axle load"
+   },
+   {
+    "phrase": "superiore a quella indicata",
+    "why": "means greater than the value shown on the sign"
+   }
+  ],
+  "trick": "The trap is that the statement uses gross vehicle mass, while the sign concerns axle load.",
+  "image": "images/q_19846.png"
+ },
+ {
+  "n": 19847,
+  "it": "Il segnale raffigurato vale solo per autoveicoli con ruote gemellate",
+  "answer": false,
+  "en": "The sign shown applies only to motor vehicles with twin wheels.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "ruote gemellate",
+    "why": "specifies twin wheels, a misleading limitation"
+   }
+  ],
+  "trick": "The trap is the word solo, which wrongly limits the sign to vehicles with twin wheels.",
+  "image": "images/q_19847.png"
+ },
+ {
+  "n": 19848,
+  "it": "Il segnale raffigurato nei centri abitati vige dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown, in built-up areas, applies from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the statement to built-up areas only"
+   },
+   {
+    "phrase": "vige",
+    "why": "means is in force or applies"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "states a specific time range"
+   }
+  ],
+  "trick": "The trap is the claimed built-up-area time validity from 8:00 to 20:00.",
+  "image": "images/q_19848.png"
+ },
+ {
+  "n": 19849,
+  "it": "Il segnale raffigurato vieta il transito a tutti i veicoli con massa complessiva a pieno carico superiore a 2,5 tonnellate",
+  "answer": false,
+  "en": "The sign shown prohibits passage for all vehicles with a maximum authorised laden mass greater than 2.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "a tutti i veicoli",
+    "why": "extends the rule to all vehicles"
+   },
+   {
+    "phrase": "massa complessiva a pieno carico",
+    "why": "means maximum authorised laden mass, not axle load"
+   },
+   {
+    "phrase": "superiore a 2,5 tonnellate",
+    "why": "means above 2.5 tonnes"
+   }
+  ],
+  "trick": "The trap is that it refers to all vehicles by gross laden mass, while the sign concerns axle load.",
+  "image": "images/q_19849.png"
+ },
+ {
+  "n": 19850,
+  "it": "Il segnale raffigurato indica la fine delle prescrizioni precedentemente imposte",
+  "answer": true,
+  "en": "The sign shown indicates the end of the restrictions previously imposed.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "marks the end of a rule"
+   },
+   {
+    "phrase": "precedentemente imposte",
+    "why": "refers to restrictions imposed earlier"
+   }
+  ],
+  "trick": "The key trap is that the sign marks the end of earlier restrictions.",
+  "image": "images/q_19850.png"
+ },
+ {
+  "n": 19851,
+  "it": "Il segnale raffigurato indica la fine di divieti precedentemente imposti",
+  "answer": true,
+  "en": "The sign shown indicates the end of previously imposed prohibitions.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "marks the end of a rule"
+   },
+   {
+    "phrase": "divieti",
+    "why": "specifically means prohibitions"
+   },
+   {
+    "phrase": "precedentemente imposti",
+    "why": "refers to prohibitions imposed earlier"
+   }
+  ],
+  "trick": "The key trap is that the sign marks the end of previously imposed prohibitions.",
+  "image": "images/q_19851.png"
+ },
+ {
+  "n": 19852,
+  "it": "Il segnale raffigurato è un segnale di via libera",
+  "answer": true,
+  "en": "The sign shown is a sign meaning free passage.",
+  "keywords": [
+   {
+    "phrase": "via libera",
+    "why": "means free passage, not simply a generic allowed action"
+   }
+  ],
+  "trick": "The key trap is the expression via libera, meaning the end of previous restrictions.",
+  "image": "images/q_19852.png"
+ },
+ {
+  "n": 19853,
+  "it": "Il segnale raffigurato è un segnale di fine prescrizione",
+  "answer": true,
+  "en": "The sign shown is an end-of-restriction sign.",
+  "keywords": [
+   {
+    "phrase": "fine prescrizione",
+    "why": "means the end of a restriction or requirement"
+   }
+  ],
+  "trick": "The key trap is that this sign indicates the end of a previous restriction.",
+  "image": "images/q_19853.png"
+ },
+ {
+  "n": 19854,
+  "it": "Il segnale raffigurato indica il punto dal quale le prescrizioni precedentemente indicate non sono più valide",
+  "answer": true,
+  "en": "The sign shown indicates the point from which the previously indicated restrictions are no longer valid.",
+  "keywords": [
+   {
+    "phrase": "dal quale",
+    "why": "marks the exact point from which the rule changes"
+   },
+   {
+    "phrase": "non sono più valide",
+    "why": "means they are no longer valid"
+   },
+   {
+    "phrase": "precedentemente indicate",
+    "why": "refers to restrictions indicated earlier"
+   }
+  ],
+  "trick": "The key trap is that from this point onward the previously indicated restrictions no longer apply.",
+  "image": "images/q_19854.png"
+ },
+ {
+  "n": 19855,
+  "it": "Il segnale raffigurato indica la fine di un cantiere di lavoro",
+  "answer": false,
+  "en": "The sign shown indicates the end of roadworks.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19855.png"
+ },
+ {
+  "n": 19856,
+  "it": "Il segnale raffigurato riguarda soltanto i veicoli in servizio pubblico",
+  "answer": false,
+  "en": "The sign shown concerns only vehicles in public service.",
+  "keywords": [
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "Watch for restricting words like \"soltanto,\" which make the statement narrower.",
+  "image": "images/q_19856.png"
+ },
+ {
+  "n": 19857,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19857.png"
+ },
+ {
+  "n": 19858,
+  "it": "Il segnale raffigurato indica la fine di un centro abitato",
+  "answer": false,
+  "en": "The sign shown indicates the end of a built-up area.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19858.png"
+ },
+ {
+  "n": 19859,
+  "it": "Il segnale raffigurato indica la fine del pericolo precedentemente segnalato",
+  "answer": false,
+  "en": "The sign shown indicates the end of the danger previously indicated.",
+  "keywords": [
+   {
+    "phrase": "precedentemente segnalato",
+    "why": "limits the meaning to a danger already signposted before"
+   }
+  ],
+  "trick": "The phrase refers specifically to a danger that was signalled earlier.",
+  "image": "images/q_19859.png"
+ },
+ {
+  "n": 19860,
+  "it": "Il segnale raffigurato indica la fine di una prescrizione",
+  "answer": true,
+  "en": "The sign shown indicates the end of a restriction.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19860.png"
+ },
+ {
+  "n": 19861,
+  "it": "Il segnale raffigurato indica la fine del limite massimo di velocità",
+  "answer": true,
+  "en": "The sign shown indicates the end of the maximum speed limit.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19861.png"
+ },
+ {
+  "n": 19862,
+  "it": "Il segnale raffigurato consente di circolare a velocità superiore a 50 km/h",
+  "answer": true,
+  "en": "The sign shown allows you to drive at a speed higher than 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "superiore a 50 km/h",
+    "why": "means above 50 km/h, not exactly 50"
+   }
+  ],
+  "trick": "Do not confuse permission with obligation, and note that \"superiore a\" means over the stated value.",
+  "image": "images/q_19862.png"
+ },
+ {
+  "n": 19863,
+  "it": "Il segnale raffigurato consente di circolare entro i limiti di velocità vigenti per quel tipo di strada",
+  "answer": true,
+  "en": "The sign shown allows you to drive within the speed limits in force for that type of road.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "vigenti",
+    "why": "means currently in force, not general or optional"
+   }
+  ],
+  "trick": "The key is that the sign permits normal driving subject to the speed limits currently in force.",
+  "image": "images/q_19863.png"
+ },
+ {
+  "n": 19864,
+  "it": "Il segnale raffigurato consente di marciare anche a velocità inferiore a 50 km/h",
+  "answer": true,
+  "en": "The sign shown allows you to travel even at a speed lower than 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds \"also/even,\" extending what is allowed"
+   },
+   {
+    "phrase": "inferiore a 50 km/h",
+    "why": "means below 50 km/h, not equal to 50"
+   }
+  ],
+  "trick": "\"Anche\" extends the permission, and \"consente\" means it is allowed, not required.",
+  "image": "images/q_19864.png"
+ },
+ {
+  "n": 19865,
+  "it": "Il segnale raffigurato indica la fine del relativo divieto",
+  "answer": true,
+  "en": "The sign shown indicates the end of the relevant prohibition.",
+  "keywords": [
+   {
+    "phrase": "relativo",
+    "why": "refers back to the specific prohibition concerned"
+   }
+  ],
+  "trick": "\"Relativo\" points to the specific ban previously applying.",
+  "image": "images/q_19865.png"
+ },
+ {
+  "n": 19866,
+  "it": "Il segnale raffigurato indica il limite di velocità per tutti i veicoli",
+  "answer": false,
+  "en": "The sign shown indicates the speed limit for all vehicles.",
+  "keywords": [
+   {
+    "phrase": "per tutti i veicoli",
+    "why": "generalizes the rule to every vehicle"
+   }
+  ],
+  "trick": "The trap is the broad claim that it applies to all vehicles.",
+  "image": "images/q_19866.png"
+ },
+ {
+  "n": 19867,
+  "it": "Il segnale raffigurato vieta di superare la velocità di 50 km/h",
+  "answer": false,
+  "en": "The sign shown prohibits driving at a speed above 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superare",
+    "why": "means exceeding, not simply reaching"
+   },
+   {
+    "phrase": "50 km/h",
+    "why": "can be mistaken for an active limit rather than the end of one"
+   }
+  ],
+  "trick": "The statement uses prohibition language, but the sign actually marks the end of a previous restriction.",
+  "image": "images/q_19867.png"
+ },
+ {
+  "n": 19868,
+  "it": "Il segnale raffigurato indica la fine del limite minimo di velocità",
+  "answer": false,
+  "en": "The sign shown indicates the end of the minimum speed limit.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19868.png"
+ },
+ {
+  "n": 19869,
+  "it": "Il segnale raffigurato indica la fine dell'obbligo di mantenere una distanza di sicurezza di almeno 50 metri",
+  "answer": false,
+  "en": "The sign shown indicates the end of the obligation to keep a safety distance of at least 50 metres.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "means at least, setting a minimum not an exact amount"
+   }
+  ],
+  "trick": "\"Obbligo\" signals a duty, and \"almeno\" sets a minimum threshold.",
+  "image": "images/q_19869.png"
+ },
+ {
+  "n": 19870,
+  "it": "Il segnale raffigurato prescrive ai veicoli che non superano la velocità di 50 km/h di marciare sulla corsia di destra",
+  "answer": false,
+  "en": "The sign shown requires vehicles that do not exceed 50 km/h to travel in the right-hand lane.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses a requirement, not advice"
+   },
+   {
+    "phrase": "non superano",
+    "why": "negates exceeding the speed"
+   },
+   {
+    "phrase": "di marciare",
+    "why": "states an obligation to proceed in a certain way"
+   }
+  ],
+  "trick": "The traps are the mandatory tone of \"prescrive\" and the negation in \"non superano.\"",
+  "image": "images/q_19870.png"
+ },
+ {
+  "n": 19871,
+  "it": "Il segnale raffigurato indica la velocità consigliata",
+  "answer": false,
+  "en": "The sign shown indicates the recommended speed.",
+  "keywords": [],
+  "trick": "No real trap words; the statement is straightforward.",
+  "image": "images/q_19871.png"
+ },
+ {
+  "n": 19872,
+  "it": "Il segnale raffigurato indica la fine del divieto di sorpasso precedentemente imposto",
+  "answer": true,
+  "en": "The sign shown indicates the end of the overtaking prohibition previously imposed.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sorpasso",
+    "why": "means the ban ends, not that overtaking is banned"
+   },
+   {
+    "phrase": "precedentemente imposto",
+    "why": "refers to a prohibition imposed earlier"
+   }
+  ],
+  "trick": "The key trap is that the sign marks the end of an earlier overtaking ban.",
+  "image": "images/q_19872.png"
+ },
+ {
+  "n": 19873,
+  "it": "In presenza del segnale raffigurato è vietato il sorpasso se deve essere oltrepassata la striscia continua",
+  "answer": true,
+  "en": "In the presence of the sign shown, overtaking is prohibited if a continuous line would have to be crossed.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "limits the rule to when this sign is present"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the prohibition conditional"
+   },
+   {
+    "phrase": "deve essere oltrepassata",
+    "why": "means must be crossed, creating the condition"
+   }
+  ],
+  "trick": "This is a conditional prohibition: it applies only if overtaking would require crossing the continuous line.",
+  "image": "images/q_19873.png"
+ },
+ {
+  "n": 19874,
+  "it": "Il segnale raffigurato indica il punto in cui termina il divieto di sorpasso",
+  "answer": true,
+  "en": "The sign shown indicates the point where the overtaking prohibition ends.",
+  "keywords": [
+   {
+    "phrase": "il punto in cui termina",
+    "why": "specifies the exact place where the rule ends"
+   },
+   {
+    "phrase": "divieto di sorpasso",
+    "why": "refers specifically to the overtaking ban"
+   }
+  ],
+  "trick": "The wording identifies the exact point where the overtaking ban ceases.",
+  "image": "images/q_19874.png"
+ },
+ {
+  "n": 19875,
+  "it": "Il segnale raffigurato non impone un particolare limite di velocità",
+  "answer": true,
+  "en": "The sign shown does not impose a specific speed limit.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   },
+   {
+    "phrase": "impone",
+    "why": "expresses imposition, not simple indication"
+   },
+   {
+    "phrase": "particolare",
+    "why": "means a specific limit, not just any limit"
+   }
+  ],
+  "trick": "Watch the negation: it says the sign does not impose any specific speed limit.",
+  "image": "images/q_19875.png"
+ },
+ {
+  "n": 19876,
+  "it": "Il segnale raffigurato può essere posto sia nei centri urbani che fuori",
+  "answer": true,
+  "en": "The sign shown may be placed both in built-up areas and outside them.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "sia ... che",
+    "why": "means both ... and, including both cases"
+   }
+  ],
+  "trick": "The sentence says the sign may be used in both urban and non-urban areas.",
+  "image": "images/q_19876.png"
+ },
+ {
+  "n": 19877,
+  "it": "Il segnale raffigurato è un segnale di fine prescrizione",
+  "answer": true,
+  "en": "The sign shown is an end-of-restriction sign.",
+  "keywords": [
+   {
+    "phrase": "fine prescrizione",
+    "why": "technical term meaning end of a restriction/order"
+   }
+  ],
+  "trick": "The key trap is the technical phrase meaning a sign that ends a previous restriction.",
+  "image": "images/q_19877.png"
+ },
+ {
+  "n": 19878,
+  "it": "Il segnale raffigurato ha validità per tutte le 24 ore",
+  "answer": true,
+  "en": "The sign shown is valid for all 24 hours.",
+  "keywords": [
+   {
+    "phrase": "tutte le 24 ore",
+    "why": "means continuously, all day and night"
+   }
+  ],
+  "trick": "It states continuous validity for the whole day.",
+  "image": "images/q_19878.png"
+ },
+ {
+  "n": 19879,
+  "it": "Il segnale raffigurato indica la fine del divieto di sorpasso tra le sole autovetture",
+  "answer": false,
+  "en": "The sign shown indicates the end of the no-overtaking restriction between passenger cars only.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sorpasso",
+    "why": "means the ban ends, not that it begins"
+   },
+   {
+    "phrase": "sole",
+    "why": "restricts the rule to only this category"
+   }
+  ],
+  "trick": "The trap is sole: it claims the sign applies only to overtaking between passenger cars.",
+  "image": "images/q_19879.png"
+ },
+ {
+  "n": 19880,
+  "it": "Il segnale raffigurato indica la fine del divieto di transito per tutti gli autoveicoli",
+  "answer": false,
+  "en": "The sign shown indicates the end of the prohibition on transit for all motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto",
+    "why": "means the prohibition ends, not starts"
+   },
+   {
+    "phrase": "per tutti gli autoveicoli",
+    "why": "extends the claim to all motor vehicles"
+   }
+  ],
+  "trick": "Be careful with fine del divieto and the broad phrase all motor vehicles.",
+  "image": "images/q_19880.png"
+ },
+ {
+  "n": 19881,
+  "it": "Il segnale raffigurato prescrive il divieto di marcia per file parallele",
+  "answer": false,
+  "en": "The sign shown prescribes a prohibition on travelling in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses an imposed rule"
+   },
+   {
+    "phrase": "divieto",
+    "why": "signals a prohibition, not advice"
+   }
+  ],
+  "trick": "The sentence claims the sign imposes a prohibition, not just gives information.",
+  "image": "images/q_19881.png"
+ },
+ {
+  "n": 19882,
+  "it": "Il segnale raffigurato indica la fine del limite massimo di velocità",
+  "answer": false,
+  "en": "The sign shown indicates the end of the maximum speed limit.",
+  "keywords": [
+   {
+    "phrase": "fine del limite massimo di velocità",
+    "why": "means the speed limit ends, not that a limit is set"
+   }
+  ],
+  "trick": "The technical phrase refers to the end of a speed limit.",
+  "image": "images/q_19882.png"
+ },
+ {
+  "n": 19883,
+  "it": "Il segnale raffigurato indica la fine del divieto di sosta su entrambi i lati della strada",
+  "answer": false,
+  "en": "The sign shown indicates the end of the no-parking prohibition on both sides of the road.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sosta",
+    "why": "means the no-parking ban ends"
+   },
+   {
+    "phrase": "su entrambi i lati",
+    "why": "extends the claim to both sides of the road"
+   }
+  ],
+  "trick": "The trap is the combination of end of the ban and both sides of the road.",
+  "image": "images/q_19883.png"
+ },
+ {
+  "n": 19884,
+  "it": "Il segnale raffigurato indica che è finito l'obbligo di mantenere la distanza di sicurezza",
+  "answer": false,
+  "en": "The sign shown indicates that the obligation to keep a safe distance has ended.",
+  "keywords": [
+   {
+    "phrase": "è finito",
+    "why": "means has ended, not is forbidden"
+   },
+   {
+    "phrase": "obbligo",
+    "why": "expresses an obligation"
+   }
+  ],
+  "trick": "It says an obligation has ended, which can be confused with a prohibition.",
+  "image": "images/q_19884.png"
+ },
+ {
+  "n": 19885,
+  "it": "Il segnale raffigurato indica la fine del divieto di sosta in seconda fila",
+  "answer": false,
+  "en": "The sign shown indicates the end of the prohibition on parking in a second row.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sosta",
+    "why": "means the no-parking ban ends"
+   },
+   {
+    "phrase": "in seconda fila",
+    "why": "specific parking offence meaning double parking"
+   }
+  ],
+  "trick": "Seconda fila is the key term: it means double parking, not just another row.",
+  "image": "images/q_19885.png"
+ },
+ {
+  "n": 19886,
+  "it": "In presenza del segnale raffigurato un autotreno di massa pari a 44 tonnellate può sorpassare un'autovettura",
+  "answer": true,
+  "en": "In the presence of the sign shown, an articulated lorry with a mass of 44 tonnes may overtake a passenger car.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only when that sign is present"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission/possibility"
+   },
+   {
+    "phrase": "pari a 44 tonnellate",
+    "why": "states an exact weight value"
+   }
+  ],
+  "trick": "The statement is limited to when the sign is present and says overtaking is allowed.",
+  "image": "images/q_19886.png"
+ },
+ {
+  "n": 19887,
+  "it": "Il segnale raffigurato indica la fine del divieto di sorpasso precedentemente imposto",
+  "answer": true,
+  "en": "The sign shown indicates the end of the previously imposed no-overtaking restriction.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sorpasso",
+    "why": "means the no-overtaking ban ends"
+   },
+   {
+    "phrase": "precedentemente imposto",
+    "why": "refers to a restriction imposed earlier"
+   }
+  ],
+  "trick": "The sign ends a no-overtaking ban that was already in force before.",
+  "image": "images/q_19887.png"
+ },
+ {
+  "n": 19888,
+  "it": "In presenza del segnale raffigurato un autocarro può sorpassare un autobus",
+  "answer": true,
+  "en": "In the presence of the sign shown, a lorry may overtake a bus.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only in that situation"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission/possibility"
+   }
+  ],
+  "trick": "The sentence says overtaking is allowed when that sign is present.",
+  "image": "images/q_19888.png"
+ },
+ {
+  "n": 19889,
+  "it": "Il segnale raffigurato indica la fine del divieto di sorpasso per veicoli merci di massa a pieno carico superiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "The sign shown indicates the end of the no-overtaking restriction for goods vehicles with a maximum authorised mass exceeding 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sorpasso",
+    "why": "means the overtaking ban ends"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, not equal to it"
+   }
+  ],
+  "trick": "The weight phrase is precise: it applies only to vehicles over 3.5 tonnes.",
+  "image": "images/q_19889.png"
+ },
+ {
+  "n": 19890,
+  "it": "Il segnale raffigurato è un segnale di fine prescrizione",
+  "answer": true,
+  "en": "The sign shown is an end-of-restriction sign.",
+  "keywords": [
+   {
+    "phrase": "fine prescrizione",
+    "why": "technical term meaning end of a restriction/order"
+   }
+  ],
+  "trick": "The key trap is the technical phrase for a sign that cancels a previous restriction.",
+  "image": "images/q_19890.png"
+ },
+ {
+  "n": 19891,
+  "it": "In presenza del segnale raffigurato è vietato il transito degli autotreni, autosnodati, autoarticolati",
+  "answer": false,
+  "en": "In the presence of the sign shown, the transit of road trains, articulated buses, and articulated lorries is prohibited.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only when the sign is present"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The important trap is è vietato: it states a prohibition, not a permission.",
+  "image": "images/q_19891.png"
+ },
+ {
+  "n": 19892,
+  "it": "In presenza del segnale raffigurato le autovetture devono sorpassare gli autocarri sulla corsia di destra",
+  "answer": false,
+  "en": "In the presence of the sign shown, passenger cars must overtake lorries in the right-hand lane.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule only in that situation"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "corsia di destra",
+    "why": "specifies the right-hand lane exactly"
+   }
+  ],
+  "trick": "The trap is devono: it claims an obligation to overtake in the right-hand lane.",
+  "image": "images/q_19892.png"
+ },
+ {
+  "n": 19893,
+  "it": "Il segnale raffigurato indica la fine del divieto di sorpasso per autobus di massa a pieno carico superiore a 3,5 tonnellate",
+  "answer": false,
+  "en": "The sign shown indicates the end of the no-overtaking restriction for buses with a maximum authorised mass exceeding 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "fine del divieto di sorpasso",
+    "why": "means the overtaking ban ends"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, not 3.5 exactly"
+   }
+  ],
+  "trick": "The sentence is about the end of a ban and uses a strict over 3.5 tonnes condition.",
+  "image": "images/q_19893.png"
+ },
+ {
+  "n": 19894,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "There is no major wording trap here; the difficulty is identifying the sign category.",
+  "image": "images/q_19894.png"
+ },
+ {
+  "n": 19895,
+  "it": "Il segnale raffigurato non vale per gli autocarri di massa complessiva pari a 7 tonnellate",
+  "answer": false,
+  "en": "The sign shown does not apply to goods vehicles with a gross mass of 7 tonnes.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   },
+   {
+    "phrase": "pari a",
+    "why": "means exactly this amount, not about/about"
+   }
+  ],
+  "trick": "Watch the negation and the exact weight value.",
+  "image": "images/q_19895.png"
+ },
+ {
+  "n": 19770,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che trasportano merci pericolose",
+  "answer": true,
+  "en": "The sign shown prohibits transit for vehicles carrying dangerous goods.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "merci pericolose",
+    "why": "means dangerous goods, a specific legal category"
+   }
+  ],
+  "trick": "The key trap is that it forbids passage specifically for dangerous-goods vehicles.",
+  "image": "images/q_19770.png"
+ },
+ {
+  "n": 19771,
+  "it": "Il segnale raffigurato vieta il transito alle autocisterne che trasportano benzina",
+  "answer": true,
+  "en": "The sign shown prohibits transit for tank vehicles carrying petrol.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "autocisterne",
+    "why": "means tank vehicles, not just any lorry"
+   }
+  ],
+  "trick": "The restriction is on tank vehicles carrying petrol, not all vehicles.",
+  "image": "images/q_19771.png"
+ },
+ {
+  "n": 19772,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che trasportano carni macellate",
+  "answer": false,
+  "en": "The sign shown prohibits transit for vehicles carrying slaughtered meat.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the prohibited category: it is not about ordinary cargo like slaughtered meat.",
+  "image": "images/q_19772.png"
+ },
+ {
+  "n": 19773,
+  "it": "Il segnale raffigurato vieta il transito agli autoveicoli con motore alimentato a gas liquido (GPL)",
+  "answer": false,
+  "en": "The sign shown prohibits transit for motor vehicles powered by liquefied gas (LPG).",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "gas liquido (GPL)",
+    "why": "specific fuel type, not generic gas"
+   }
+  ],
+  "trick": "Do not confuse dangerous goods transport with vehicles merely powered by LPG.",
+  "image": "images/q_19773.png"
+ },
+ {
+  "n": 19774,
+  "it": "Il segnale raffigurato vieta il transito agli autocarri telonati",
+  "answer": false,
+  "en": "The sign shown prohibits transit for curtain-sided lorries.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "autocarri telonati",
+    "why": "specific vehicle body type, not all goods vehicles"
+   }
+  ],
+  "trick": "The vehicle type named is a trap because the sign is not about body style.",
+  "image": "images/q_19774.png"
+ },
+ {
+  "n": 19775,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che trasportano merci deperibili",
+  "answer": false,
+  "en": "The sign shown prohibits transit for vehicles carrying perishable goods.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "merci deperibili",
+    "why": "specific cargo type that can be confused with dangerous goods"
+   }
+  ],
+  "trick": "Perishable goods are not the same as dangerous goods.",
+  "image": "images/q_19775.png"
+ },
+ {
+  "n": 19776,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli con furgone frigorifero",
+  "answer": false,
+  "en": "The sign shown prohibits transit for vehicles with a refrigerated van body.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "furgone frigorifero",
+    "why": "specific body type, easy to confuse with special cargo rules"
+   }
+  ],
+  "trick": "The trap is confusing a refrigerated vehicle with a vehicle carrying dangerous goods.",
+  "image": "images/q_19776.png"
+ },
+ {
+  "n": 19896,
+  "it": "Il segnale raffigurato è posto nei luoghi dove la sosta è vietata",
+  "answer": true,
+  "en": "The sign shown is placed in places where parking is prohibited.",
+  "keywords": [
+   {
+    "phrase": "sosta è vietata",
+    "why": "states a parking prohibition"
+   }
+  ],
+  "trick": "The key meaning is that parking, not stopping in general, is prohibited there.",
+  "image": "images/q_19896.png"
+ },
+ {
+  "n": 19897,
+  "it": "Il segnale raffigurato vieta la sosta sulle strade urbane dalle ore 8.00 alle ore 20.00, salvo diversa indicazione",
+  "answer": true,
+  "en": "The sign shown prohibits parking on urban roads from 8:00 to 20:00, unless otherwise indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "limits the rule to this time period"
+   },
+   {
+    "phrase": "salvo diversa indicazione",
+    "why": "creates an exception if other signs say otherwise"
+   }
+  ],
+  "trick": "Time limits and the exception clause change the scope of the prohibition.",
+  "image": "images/q_19897.png"
+ },
+ {
+  "n": 19898,
+  "it": "Il segnale raffigurato può essere integrato da pannelli per indicarne l'inizio, il proseguimento o la fine",
+  "answer": true,
+  "en": "The sign shown may be supplemented with panels indicating its beginning, continuation, or end.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "It says the sign may be supplemented, not that it must be.",
+  "image": "images/q_19898.png"
+ },
+ {
+  "n": 19899,
+  "it": "Il segnale raffigurato cessa di validità dopo il primo incrocio, se non ripetuto",
+  "answer": true,
+  "en": "The sign shown ceases to be valid after the first intersection, if not repeated.",
+  "keywords": [
+   {
+    "phrase": "cessa di validità",
+    "why": "means stops being effective"
+   },
+   {
+    "phrase": "se non ripetuto",
+    "why": "sets a condition: only if the sign is not repeated"
+   }
+  ],
+  "trick": "The validity ends after the first junction only if the sign is not repeated.",
+  "image": "images/q_19899.png"
+ },
+ {
+  "n": 19900,
+  "it": "Il segnale raffigurato consente la fermata",
+  "answer": true,
+  "en": "The sign shown allows stopping.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "fermata",
+    "why": "means stopping, different from parking"
+   }
+  ],
+  "trick": "Do not confuse permitted stopping with permitted parking.",
+  "image": "images/q_19900.png"
+ },
+ {
+  "n": 19901,
+  "it": "Il segnale raffigurato consente la sosta nel tratto precedente",
+  "answer": true,
+  "en": "The sign shown allows parking on the stretch before it.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "nel tratto precedente",
+    "why": "refers to the stretch before the sign"
+   }
+  ],
+  "trick": "The direction phrase is the trap: it refers to the stretch before the sign.",
+  "image": "images/q_19901.png"
+ },
+ {
+  "n": 19902,
+  "it": "Il segnale raffigurato, opportunamente integrato, può vietare la sosta nei centri abitati dalle ore 0,00 alle 24,00",
+  "answer": true,
+  "en": "The sign shown, when suitably supplemented, may prohibit parking in built-up areas from 00:00 to 24:00.",
+  "keywords": [
+   {
+    "phrase": "opportunamente integrato",
+    "why": "means only when accompanied by suitable additional panels"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "dalle ore 0,00 alle 24,00",
+    "why": "means for the whole day"
+   }
+  ],
+  "trick": "The full-day prohibition applies only if the sign is properly supplemented.",
+  "image": "images/q_19902.png"
+ },
+ {
+  "n": 19903,
+  "it": "Il segnale raffigurato, se posto sul lato sinistro di una strada a senso unico, vieta la sosta anche sul lato destro",
+  "answer": false,
+  "en": "The sign shown, if placed on the left side of a one-way street, also prohibits parking on the right side.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds 'also', extending the claim"
+   }
+  ],
+  "trick": "The trap is the conditional claim that the prohibition also extends to the right side.",
+  "image": "images/q_19903.png"
+ },
+ {
+  "n": 19904,
+  "it": "Il segnale raffigurato vieta la sosta sul tratto precedente",
+  "answer": false,
+  "en": "The sign shown prohibits parking on the stretch before it.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sul tratto precedente",
+    "why": "refers to the stretch before the sign"
+   }
+  ],
+  "trick": "The direction phrase is crucial: before the sign, not after it.",
+  "image": "images/q_19904.png"
+ },
+ {
+  "n": 19905,
+  "it": "Il segnale raffigurato preannuncia un divieto di fermata",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a no stopping prohibition.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance warning, not directly imposes the rule"
+   },
+   {
+    "phrase": "divieto di fermata",
+    "why": "means no stopping, stronger than no parking"
+   }
+  ],
+  "trick": "Do not confuse advance warning with the actual prohibition sign.",
+  "image": "images/q_19905.png"
+ },
+ {
+  "n": 19906,
+  "it": "Il segnale raffigurato non vale per i motocicli ed i ciclomotori",
+  "answer": false,
+  "en": "The sign shown does not apply to motorcycles and mopeds.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   },
+   {
+    "phrase": "non vale per",
+    "why": "means does not apply to"
+   }
+  ],
+  "trick": "The trap is the negation claiming an exemption for motorcycles and mopeds.",
+  "image": "images/q_19906.png"
+ },
+ {
+  "n": 19907,
+  "it": "In presenza del segnale raffigurato è sempre prevista la rimozione forzata del veicolo",
+  "answer": false,
+  "en": "In the presence of the sign shown, forced removal of the vehicle is always предусмотрена.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute: always"
+   }
+  ],
+  "trick": "The absolute word 'always' is the key trap here.",
+  "image": "images/q_19907.png"
+ },
+ {
+  "n": 19908,
+  "it": "Il segnale raffigurato indica che la sosta è regolamentata con l'uso di parchimetri a pagamento",
+  "answer": false,
+  "en": "The sign shown indicates that parking is regulated by the use of paid parking meters.",
+  "keywords": [
+   {
+    "phrase": "a pagamento",
+    "why": "means payment is required, not just parking-meter use"
+   }
+  ],
+  "trick": "Watch qualifiers like 'a pagamento', which add an exact condition to the rule.",
+  "image": "images/q_19908.png"
+ },
+ {
+  "n": 19909,
+  "it": "Il segnale raffigurato consente la sosta ai residenti",
+  "answer": false,
+  "en": "The sign shown allows parking for residents.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ai residenti",
+    "why": "restricts permission to residents only"
+   }
+  ],
+  "trick": "Permission words and beneficiary limits can completely change who the rule applies to.",
+  "image": "images/q_19909.png"
+ },
+ {
+  "n": 19910,
+  "it": "Il segnale raffigurato consente la sosta esponendo il tagliando emesso da un parchimetro",
+  "answer": false,
+  "en": "The sign shown allows parking if you display the ticket issued by a parking meter.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "esponendo",
+    "why": "sets a required condition for the permission"
+   }
+  ],
+  "trick": "A permission may apply only under a stated condition such as displaying a ticket.",
+  "image": "images/q_19910.png"
+ },
+ {
+  "n": 19911,
+  "it": "Il segnale raffigurato vieta la sosta, ma non la fermata",
+  "answer": true,
+  "en": "The sign shown prohibits parking, but not stopping.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates an exception by excluding the second action"
+   }
+  ],
+  "trick": "The contrast 'ma non' is crucial because it prohibits one action while allowing another.",
+  "image": "images/q_19911.png"
+ },
+ {
+  "n": 19912,
+  "it": "Il segnale raffigurato contraddistingue le aree dove è proibito lasciare in sosta un veicolo",
+  "answer": true,
+  "en": "The sign shown marks areas where it is forbidden to leave a vehicle parked.",
+  "keywords": [
+   {
+    "phrase": "è proibito",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "Prohibition wording must be kept exact because it states what is not allowed.",
+  "image": "images/q_19912.png"
+ },
+ {
+  "n": 19913,
+  "it": "Il segnale raffigurato, lungo strade extraurbane, indica divieto permanente di sosta in assenza di indicazioni integrative",
+  "answer": true,
+  "en": "The sign shown, on roads outside built-up areas, indicates a permanent no-parking prohibition in the absence of additional signs.",
+  "keywords": [
+   {
+    "phrase": "extraurbane",
+    "why": "limits the rule to roads outside built-up areas"
+   },
+   {
+    "phrase": "permanente",
+    "why": "means the prohibition has no time limit"
+   },
+   {
+    "phrase": "in assenza di indicazioni integrative",
+    "why": "applies only if there are no additional indications"
+   }
+  ],
+  "trick": "Scope, duration, and conditions like absence of extra signs are common exam traps.",
+  "image": "images/q_19913.png"
+ },
+ {
+  "n": 19914,
+  "it": "Il segnale (A), se integrato con pannello (B), indica una zona in cui vige divieto di sosta",
+  "answer": true,
+  "en": "Sign (A), if supplemented with panel (B), indicates an area where a no-parking rule is in force.",
+  "keywords": [
+   {
+    "phrase": "se integrato con",
+    "why": "the meaning applies only with the added panel"
+   },
+   {
+    "phrase": "vige",
+    "why": "means the rule is in force, not just present"
+   }
+  ],
+  "trick": "Conditional phrases and formal rule words often change when the statement is true.",
+  "image": "images/q_19914.png"
+ },
+ {
+  "n": 19915,
+  "it": "Il segnale (A), se integrato con pannello (B), indica una zona in cui vige divieto di sosta, con rimozione del veicolo",
+  "answer": true,
+  "en": "Sign (A), if supplemented with panel (B), indicates an area where no parking is in force, with vehicle removal.",
+  "keywords": [
+   {
+    "phrase": "se integrato con",
+    "why": "the meaning applies only with the added panel"
+   },
+   {
+    "phrase": "vige divieto di sosta",
+    "why": "states that no parking is in force"
+   },
+   {
+    "phrase": "con rimozione del veicolo",
+    "why": "adds the penalty of vehicle removal"
+   }
+  ],
+  "trick": "Added panels can introduce both the prohibition and an extra consequence such as removal.",
+  "image": "images/q_19915.png"
+ },
+ {
+  "n": 19916,
+  "it": "Il segnale raffigurato vieta la sosta sul lato della strada dove è posto",
+  "answer": true,
+  "en": "The sign shown prohibits parking on the side of the road where it is placed.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dove è posto",
+    "why": "limits the rule to that side only"
+   }
+  ],
+  "trick": "Location limits like 'where it is placed' are easy to miss but essential.",
+  "image": "images/q_19916.png"
+ },
+ {
+  "n": 19917,
+  "it": "Il segnale (A) con il pannello (B) vieta la sosta solo nei giorni lavorativi",
+  "answer": true,
+  "en": "Sign (A) with panel (B) prohibits parking only on working days.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "giorni lavorativi",
+    "why": "limits the rule to working days, not all days"
+   }
+  ],
+  "trick": "Words like 'solo' narrowly restrict when a prohibition applies.",
+  "image": "images/q_19917.png"
+ },
+ {
+  "n": 19918,
+  "it": "Il segnale (A), integrato con il pannello (B), indica una ZONA RIMOZIONE COATTA",
+  "answer": true,
+  "en": "The sign (A), supplemented with panel (B), indicates a TOW-AWAY ZONE.",
+  "keywords": [
+   {
+    "phrase": "integrato con",
+    "why": "the meaning depends on the added panel"
+   }
+  ],
+  "trick": "The panel is the key condition that completes the sign’s meaning.",
+  "image": "images/q_19918.png"
+ },
+ {
+  "n": 19920,
+  "it": "Il segnale raffigurato, nelle strade extraurbane, consente la sosta dopo le ore 20.00",
+  "answer": false,
+  "en": "The sign shown, on roads outside built-up areas, allows parking after 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "extraurbane",
+    "why": "limits the rule to roads outside built-up areas"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "dopo le ore 20.00",
+    "why": "sets a specific time condition"
+   }
+  ],
+  "trick": "Place and time qualifiers can turn a general rule into a very specific one.",
+  "image": "images/q_19920.png"
+ },
+ {
+  "n": 19921,
+  "it": "Il segnale raffigurato consente la sosta soltanto ai veicoli a due ruote",
+  "answer": false,
+  "en": "The sign shown allows parking only for two-wheeled vehicles.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts permission exclusively"
+   },
+   {
+    "phrase": "ai veicoli a due ruote",
+    "why": "limits the permission to a specific vehicle type"
+   }
+  ],
+  "trick": "Exclusive words like 'soltanto' are a classic trap because they narrow the rule.",
+  "image": "images/q_19921.png"
+ },
+ {
+  "n": 19922,
+  "it": "Il segnale raffigurato consente la sosta ai quadricicli a motore",
+  "answer": false,
+  "en": "The sign shown allows parking for motor quadricycles.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "Permission wording must be read carefully because it states what is allowed, not required.",
+  "image": "images/q_19922.png"
+ },
+ {
+  "n": 19923,
+  "it": "Il segnale raffigurato, nei centri urbani, prescrive il divieto di sosta dalle ore 20.00 alle ore 8.00, salvo diversa indicazione",
+  "answer": false,
+  "en": "The sign shown, in built-up areas, prescribes no parking from 8:00 p.m. to 8:00 a.m., unless otherwise indicated.",
+  "keywords": [
+   {
+    "phrase": "nei centri urbani",
+    "why": "limits the rule to built-up areas"
+   },
+   {
+    "phrase": "prescrive",
+    "why": "imposes a rule, not a suggestion"
+   },
+   {
+    "phrase": "salvo diversa indicazione",
+    "why": "introduces an exception if other indications are given"
+   }
+  ],
+  "trick": "Exception phrases like 'salvo diversa indicazione' can reverse the apparent rule.",
+  "image": "images/q_19923.png"
+ },
+ {
+  "n": 19924,
+  "it": "Il segnale raffigurato indica che la sosta è regolamentata mediante disco orario",
+  "answer": false,
+  "en": "The sign shown indicates that parking is regulated by means of a parking disc.",
+  "keywords": [
+   {
+    "phrase": "mediante",
+    "why": "specifies the method used to regulate parking"
+   }
+  ],
+  "trick": "Method words can be decisive when distinguishing between similar parking rules.",
+  "image": "images/q_19924.png"
+ },
+ {
+  "n": 19925,
+  "it": "Il segnale (A), se integrato con il pannello (B), è divieto di sosta permanente",
+  "answer": false,
+  "en": "Sign (A), if supplemented with panel (B), is a permanent no-parking sign.",
+  "keywords": [
+   {
+    "phrase": "se integrato con",
+    "why": "the meaning applies only with the added panel"
+   },
+   {
+    "phrase": "permanente",
+    "why": "means without time limits"
+   }
+  ],
+  "trick": "The condition created by the panel and the word 'permanente' are the key traps.",
+  "image": "images/q_19925.png"
+ },
+ {
+  "n": 19926,
+  "it": "Il segnale raffigurato, opportunamente integrato, può vietare la sosta in doppia fila",
+  "answer": false,
+  "en": "The sign shown, if appropriately supplemented, may prohibit double parking.",
+  "keywords": [
+   {
+    "phrase": "opportunamente integrato",
+    "why": "the rule depends on added supplementary information"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "vietare",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "Modal verbs like 'può' matter because they indicate possibility rather than a fixed meaning.",
+  "image": "images/q_19926.png"
+ },
+ {
+  "n": 19927,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the statement is straightforward.",
+  "image": "images/q_19927.png"
+ },
+ {
+  "n": 19928,
+  "it": "Il segnale raffigurato non è posto nei luoghi ove per regola generale vige il divieto di sosta",
+  "answer": true,
+  "en": "The sign shown is not placed in places where, as a general rule, no parking applies.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   },
+   {
+    "phrase": "ove per regola generale",
+    "why": "means under the general rule, not necessarily every exception"
+   },
+   {
+    "phrase": "vige il divieto di sosta",
+    "why": "states that a no-parking rule is in force"
+   }
+  ],
+  "trick": "Negation plus formal rule language can easily reverse the meaning of the sentence.",
+  "image": "images/q_19928.png"
+ },
+ {
+  "n": 19929,
+  "it": "Il segnale raffigurato vieta l'abbandono prolungato nel tempo del veicolo",
+  "answer": true,
+  "en": "The sign shown prohibits leaving the vehicle unattended for a prolonged period of time.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "prolungato nel tempo",
+    "why": "limits it to a prolonged duration, not any stop"
+   }
+  ],
+  "trick": "Watch the prohibition and the time limit: it bans prolonged leaving of the vehicle, not every stop.",
+  "image": "images/q_19929.png"
+ },
+ {
+  "n": 19930,
+  "it": "Il segnale raffigurato, posto nei centri abitati, vieta, di norma, la sosta dalle ore 8.00 alle 20.00",
+  "answer": true,
+  "en": "The sign shown, when placed in built-up areas, normally prohibits parking from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   },
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, not always"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle 20.00",
+    "why": "sets a specific time range"
+   }
+  ],
+  "trick": "The key traps are the built-up-area condition, the time range, and di norma meaning normally rather than always.",
+  "image": "images/q_19930.png"
+ },
+ {
+  "n": 19931,
+  "it": "Il segnale (A), integrato con il pannello (B), consente la sosta agli autobus",
+  "answer": true,
+  "en": "The sign (A), supplemented by panel (B), allows parking for buses.",
+  "keywords": [
+   {
+    "phrase": "integrato con il pannello (B)",
+    "why": "the meaning depends on the additional panel"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The extra panel changes the sign's effect, and consente means parking is allowed.",
+  "image": "images/q_19931.png"
+ },
+ {
+  "n": 19932,
+  "it": "Il segnale (A), integrato con il pannello (B), vieta la sosta soltanto nei giorni festivi",
+  "answer": true,
+  "en": "The sign (A), supplemented by panel (B), prohibits parking only on public holidays.",
+  "keywords": [
+   {
+    "phrase": "integrato con il pannello (B)",
+    "why": "the meaning depends on the additional panel"
+   },
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "nei giorni festivi",
+    "why": "limits the rule to public holidays"
+   }
+  ],
+  "trick": "Only and on public holidays sharply limit when the parking prohibition applies.",
+  "image": "images/q_19932.png"
+ },
+ {
+  "n": 19933,
+  "it": "Il segnale raffigurato vieta la sosta ma non la fermata",
+  "answer": true,
+  "en": "The sign shown prohibits parking but not stopping.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and preserves negation"
+   }
+  ],
+  "trick": "The sentence contrasts parking and stopping: parking is banned, stopping is not.",
+  "image": "images/q_19933.png"
+ },
+ {
+  "n": 19934,
+  "it": "Il segnale raffigurato vieta la sospensione temporanea della marcia per la salita e discesa dei passeggeri",
+  "answer": false,
+  "en": "The sign shown prohibits the temporary stopping of movement for passengers to get in and out.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sospensione temporanea della marcia",
+    "why": "refers to stopping briefly, not parking"
+   }
+  ],
+  "trick": "The trap is that temporary stopping for passengers counts as a stop, not parking.",
+  "image": "images/q_19934.png"
+ },
+ {
+  "n": 19935,
+  "it": "Lungo le strade extraurbane, il segnale raffigurato vale soltanto nelle ore diurne",
+  "answer": false,
+  "en": "Along roads outside built-up areas, the sign shown applies only during daylight hours.",
+  "keywords": [
+   {
+    "phrase": "extraurbane",
+    "why": "restricts the rule to roads outside built-up areas"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "nelle ore diurne",
+    "why": "limits the rule to daytime hours"
+   }
+  ],
+  "trick": "Only during daylight hours is the key limitation in the sentence.",
+  "image": "images/q_19935.png"
+ },
+ {
+  "n": 19936,
+  "it": "Il segnale raffigurato vieta la sosta dei veicoli su ambo i lati della carreggiata",
+  "answer": false,
+  "en": "The sign shown prohibits parking for vehicles on both sides of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ambo i lati",
+    "why": "means both sides, a common detail trap"
+   }
+  ],
+  "trick": "The phrase ambo i lati is the main trap because it means both sides of the carriageway.",
+  "image": "images/q_19936.png"
+ },
+ {
+  "n": 19937,
+  "it": "Il segnale raffigurato permette la sosta degli autobus",
+  "answer": false,
+  "en": "The sign shown allows buses to park.",
+  "keywords": [
+   {
+    "phrase": "permette",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is permette, which claims the sign allows parking.",
+  "image": "images/q_19937.png"
+ },
+ {
+  "n": 19938,
+  "it": "Il segnale raffigurato permette la sosta dei ciclomotori",
+  "answer": false,
+  "en": "The sign shown allows mopeds to park.",
+  "keywords": [
+   {
+    "phrase": "permette",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is permette, which states that parking is allowed.",
+  "image": "images/q_19938.png"
+ },
+ {
+  "n": 19939,
+  "it": "Il segnale raffigurato vieta la temporanea sospensione della marcia del veicolo",
+  "answer": true,
+  "en": "The sign shown prohibits the temporary stopping of the vehicle's movement.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "temporanea",
+    "why": "shows even a brief stop is included"
+   },
+   {
+    "phrase": "sospensione della marcia",
+    "why": "means stopping the vehicle, not parking"
+   }
+  ],
+  "trick": "The sentence is tricky because it includes even temporary stopping, not just parking.",
+  "image": "images/q_19939.png"
+ },
+ {
+  "n": 19940,
+  "it": "Il segnale raffigurato vieta la fermata volontaria di tutti i veicoli",
+  "answer": true,
+  "en": "The sign shown prohibits the voluntary stopping of all vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "fermata volontaria",
+    "why": "means voluntary stopping, not parking"
+   },
+   {
+    "phrase": "tutti i veicoli",
+    "why": "applies the rule to all vehicles"
+   }
+  ],
+  "trick": "The trap is that the prohibition concerns voluntary stopping by all vehicles.",
+  "image": "images/q_19940.png"
+ },
+ {
+  "n": 19941,
+  "it": "Lungo le strade dove è posto, il segnale raffigurato vale 24 ore su 24",
+  "answer": true,
+  "en": "Along the roads where it is placed, the sign shown applies 24 hours a day.",
+  "keywords": [
+   {
+    "phrase": "vale",
+    "why": "means the sign applies or is in force"
+   },
+   {
+    "phrase": "24 ore su 24",
+    "why": "means all day without time limitation"
+   }
+  ],
+  "trick": "The important point is that the sign remains in force all day.",
+  "image": "images/q_19941.png"
+ },
+ {
+  "n": 19942,
+  "it": "Il segnale raffigurato vieta la sosta, ma consente la fermata",
+  "answer": false,
+  "en": "The sign shown prohibits parking, but allows stopping.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a contrast"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The sentence contrasts a parking ban with permission to stop.",
+  "image": "images/q_19942.png"
+ },
+ {
+  "n": 19943,
+  "it": "Lungo le strade urbane, il segnale raffigurato indica che il divieto di fermata vige dalle ore 8.00 alle 20.00",
+  "answer": false,
+  "en": "Along urban roads, the sign shown indicates that the no-stopping rule is in force from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "urbane",
+    "why": "restricts the rule to urban roads"
+   },
+   {
+    "phrase": "divieto di fermata",
+    "why": "means no stopping, not no parking"
+   },
+   {
+    "phrase": "vige",
+    "why": "means is in force"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle 20.00",
+    "why": "sets a specific time range"
+   }
+  ],
+  "trick": "The main traps are divieto di fermata meaning no stopping and the stated time limit.",
+  "image": "images/q_19943.png"
+ },
+ {
+  "n": 19944,
+  "it": "Il segnale raffigurato consente la fermata per far salire o scendere passeggeri",
+  "answer": false,
+  "en": "The sign shown allows stopping to let passengers get in or out.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "fermata",
+    "why": "means stopping, not parking"
+   }
+  ],
+  "trick": "The trap is that the sentence says stopping for passengers is allowed.",
+  "image": "images/q_19944.png"
+ },
+ {
+  "n": 19945,
+  "it": "Il segnale raffigurato consente la fermata se il veicolo non arreca intralcio alla circolazione",
+  "answer": false,
+  "en": "The sign shown allows stopping if the vehicle does not obstruct traffic.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non arreca intralcio",
+    "why": "negative condition: only if it does not obstruct traffic"
+   }
+  ],
+  "trick": "The condition introduced by se and non is the key meaning trap here.",
+  "image": "images/q_19945.png"
+ },
+ {
+  "n": 19946,
+  "it": "Il segnale raffigurato vieta la sosta sia di giorno che di notte, anche nei centri abitati",
+  "answer": true,
+  "en": "The sign shown prohibits parking both by day and by night, including in built-up areas.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sia di giorno che di notte",
+    "why": "includes both daytime and nighttime"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds inclusion, including this case"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "extends the rule to built-up areas too"
+   }
+  ],
+  "trick": "The traps are the full time coverage and also the inclusion of built-up areas.",
+  "image": "images/q_19946.png"
+ },
+ {
+  "n": 19947,
+  "it": "Il segnale raffigurato vieta la fermata a tutti i veicoli",
+  "answer": true,
+  "en": "The sign shown prohibits stopping for all vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "fermata",
+    "why": "means stopping, not parking"
+   },
+   {
+    "phrase": "tutti i veicoli",
+    "why": "applies the rule to all vehicles"
+   }
+  ],
+  "trick": "The important distinction is that it bans stopping for all vehicles, not just parking.",
+  "image": "images/q_19947.png"
+ },
+ {
+  "n": 19948,
+  "it": "Il segnale raffigurato, in assenza di iscrizioni integrative, vige per tutto l'arco delle ventiquattro ore",
+  "answer": true,
+  "en": "The sign shown, in the absence of supplementary wording, is in force for the entire twenty-four-hour period.",
+  "keywords": [
+   {
+    "phrase": "in assenza di",
+    "why": "sets an exception-like condition: only if absent"
+   },
+   {
+    "phrase": "vige",
+    "why": "means is in force"
+   },
+   {
+    "phrase": "per tutto l'arco delle ventiquattro ore",
+    "why": "means for the full 24-hour period"
+   }
+  ],
+  "trick": "The rule applies all day, but specifically when there are no supplementary inscriptions.",
+  "image": "images/q_19948.png"
+ },
+ {
+  "n": 19949,
+  "it": "Il segnale raffigurato vieta qualsiasi volontaria fermata del veicolo",
+  "answer": true,
+  "en": "The sign shown prohibits any voluntary stopping of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "qualsiasi",
+    "why": "means any, with no exceptions implied"
+   },
+   {
+    "phrase": "volontaria",
+    "why": "limits the ban to intentional stopping"
+   }
+  ],
+  "trick": "Watch prohibition and the restriction to any intentional stopping only.",
+  "image": "images/q_19949.png"
+ },
+ {
+  "n": 19950,
+  "it": "In presenza del segnale raffigurato è sempre disposta la rimozione forzata del veicolo",
+  "answer": true,
+  "en": "When the sign shown is present, the forced removal of the vehicle is always ordered.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "sempre",
+    "why": "means always, leaving no exceptions"
+   },
+   {
+    "phrase": "rimozione forzata",
+    "why": "means forced removal, not just a fine"
+   }
+  ],
+  "trick": "The trap is the absolute claim 'always' with forced removal.",
+  "image": "images/q_19950.png"
+ },
+ {
+  "n": 19951,
+  "it": "Il segnale (A), se integrato con il pannello (B), vieta la fermata nel tratto precedente",
+  "answer": true,
+  "en": "Sign (A), if combined with panel (B), prohibits stopping on the stretch before it.",
+  "keywords": [
+   {
+    "phrase": "se integrato con",
+    "why": "makes the rule conditional on the extra panel"
+   },
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nel tratto precedente",
+    "why": "refers to the stretch before the sign, not after it"
+   }
+  ],
+  "trick": "The meaning changes because the panel makes the ban apply to the preceding stretch.",
+  "image": "images/q_19951.png"
+ },
+ {
+  "n": 19952,
+  "it": "Il segnale (A), se integrato con il pannello (B), indica la fine del divieto di fermata e di sosta",
+  "answer": true,
+  "en": "Sign (A), if combined with panel (B), indicates the end of the prohibition of stopping and parking.",
+  "keywords": [
+   {
+    "phrase": "se integrato con",
+    "why": "makes the meaning depend on the extra panel"
+   },
+   {
+    "phrase": "fine",
+    "why": "means end of the restriction"
+   },
+   {
+    "phrase": "divieto di fermata e di sosta",
+    "why": "covers both stopping and parking"
+   }
+  ],
+  "trick": "The key trap is that the panel indicates the end of both bans.",
+  "image": "images/q_19952.png"
+ },
+ {
+  "n": 19953,
+  "it": "Il segnale raffigurato vieta la fermata, ma consente la sosta",
+  "answer": false,
+  "en": "The sign shown prohibits stopping, but allows parking.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a contrast that changes the rule"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The contrast 'but allows' reverses the second part of the rule.",
+  "image": "images/q_19953.png"
+ },
+ {
+  "n": 19954,
+  "it": "Il segnale raffigurato non vale per gli autobus",
+  "answer": false,
+  "en": "The sign shown does not apply to buses.",
+  "keywords": [
+   {
+    "phrase": "non vale",
+    "why": "negates the sign's validity"
+   }
+  ],
+  "trick": "The trap is the negation claiming the sign does not apply.",
+  "image": "images/q_19954.png"
+ },
+ {
+  "n": 19955,
+  "it": "Il segnale raffigurato non vale per i taxi",
+  "answer": false,
+  "en": "The sign shown does not apply to taxis.",
+  "keywords": [
+   {
+    "phrase": "non vale",
+    "why": "negates the sign's validity"
+   }
+  ],
+  "trick": "The trap is the negation claiming the sign does not apply.",
+  "image": "images/q_19955.png"
+ },
+ {
+  "n": 19956,
+  "it": "Il segnale raffigurato è un preavviso di divieto di sosta",
+  "answer": false,
+  "en": "The sign shown is a warning sign for no parking ahead.",
+  "keywords": [
+   {
+    "phrase": "preavviso",
+    "why": "means advance warning, not the actual prohibition"
+   }
+  ],
+  "trick": "The key trap is confusing the actual ban with an advance warning.",
+  "image": "images/q_19956.png"
+ },
+ {
+  "n": 19957,
+  "it": "Il segnale raffigurato vale solo nei giorni feriali, salvo diversa indicazione",
+  "answer": false,
+  "en": "The sign shown applies only on working days, unless otherwise indicated.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "salvo diversa indicazione",
+    "why": "introduces an exception if stated otherwise"
+   }
+  ],
+  "trick": "The trap is the narrow scope 'only' plus the exception clause.",
+  "image": "images/q_19957.png"
+ },
+ {
+  "n": 19958,
+  "it": "Il segnale raffigurato consente la fermata del veicolo per la salita e la discesa dei passeggeri",
+  "answer": false,
+  "en": "The sign shown allows the vehicle to stop for passengers to get in and out.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "fermata",
+    "why": "means stopping, not parking"
+   }
+  ],
+  "trick": "The trap is the permission to stop, specifically for passenger pick-up or drop-off.",
+  "image": "images/q_19958.png"
+ },
+ {
+  "n": 19959,
+  "it": "Il segnale raffigurato preannuncia la fine del divieto di sosta",
+  "answer": false,
+  "en": "The sign shown gives advance notice of the end of the no-parking prohibition.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice, not that the end is here"
+   },
+   {
+    "phrase": "fine",
+    "why": "means the end of the prohibition"
+   }
+  ],
+  "trick": "The key trap is 'advance notice' rather than the actual end point.",
+  "image": "images/q_19959.png"
+ },
+ {
+  "n": 20014,
+  "it": "Il segnale raffigurato è un segnale di DIVIETO DI SOSTA TEMPORANEO",
+  "answer": true,
+  "en": "The sign shown is a TEMPORARY NO PARKING sign.",
+  "keywords": [
+   {
+    "phrase": "TEMPORANEO",
+    "why": "limits the prohibition to a temporary period"
+   }
+  ],
+  "trick": "The trap is that the no-parking rule is temporary, not permanent.",
+  "image": "images/q_20014.png"
+ },
+ {
+  "n": 20015,
+  "it": "Il segnale raffigurato è posto nei tratti di strada ove vengono effettuate operazioni di pulizia meccanica delle strade",
+  "answer": true,
+  "en": "The sign shown is placed on road sections where mechanical street-cleaning operations are carried out.",
+  "keywords": [
+   {
+    "phrase": "ove",
+    "why": "means where, referring to the relevant road sections"
+   },
+   {
+    "phrase": "vengono effettuate",
+    "why": "means are carried out, not merely planned"
+   }
+  ],
+  "trick": "The main trap is that it refers to places where cleaning is actually carried out.",
+  "image": "images/q_20015.png"
+ },
+ {
+  "n": 20016,
+  "it": "Il segnale raffigurato vieta la sosta nei periodi in cui viene effettuata la pulizia meccanica della strada",
+  "answer": true,
+  "en": "The sign shown prohibits parking during the periods when the road is mechanically cleaned.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nei periodi in cui",
+    "why": "limits the ban to those periods only"
+   }
+  ],
+  "trick": "The trap is the time limitation: the ban applies only during those periods.",
+  "image": "images/q_20016.png"
+ },
+ {
+  "n": 20017,
+  "it": "Il segnale raffigurato, nei centri urbani, segnala il divieto di sosta limitato ai giorni e alle ore indicate",
+  "answer": true,
+  "en": "The sign shown, in built-up areas, indicates a no-parking prohibition limited to the days and times shown.",
+  "keywords": [
+   {
+    "phrase": "nei centri urbani",
+    "why": "limits the statement to built-up areas"
+   },
+   {
+    "phrase": "limitato",
+    "why": "restricts the prohibition in scope"
+   },
+   {
+    "phrase": "ai giorni e alle ore indicate",
+    "why": "means only on the stated days and times"
+   }
+  ],
+  "trick": "The key trap is that the ban is restricted by place and by the indicated days and times.",
+  "image": "images/q_20017.png"
+ },
+ {
+  "n": 20018,
+  "it": "Il segnale raffigurato indica la presenza di macchine sgombraneve al lavoro sulla strada",
+  "answer": false,
+  "en": "The sign shown indicates the presence of snowploughs working on the road.",
+  "keywords": [
+   {
+    "phrase": "indica la presenza di",
+    "why": "states presence, not prohibition"
+   },
+   {
+    "phrase": "al lavoro",
+    "why": "means actively working"
+   }
+  ],
+  "trick": "The trap is interpreting it as a presence warning rather than a parking restriction sign.",
+  "image": "images/q_20018.png"
+ },
+ {
+  "n": 20019,
+  "it": "Il segnale raffigurato segnala che nelle ore indicate vige il DIVIETO DI SOSTA per i veicoli rappresentati in figura",
+  "answer": false,
+  "en": "The sign shown indicates that during the hours shown a NO PARKING prohibition applies to the vehicles depicted in the figure.",
+  "keywords": [
+   {
+    "phrase": "nelle ore indicate",
+    "why": "limits the rule to the stated hours"
+   },
+   {
+    "phrase": "vige",
+    "why": "means is in force"
+   },
+   {
+    "phrase": "per i veicoli rappresentati in figura",
+    "why": "restricts the rule to the depicted vehicles"
+   }
+  ],
+  "trick": "The trap is the restricted scope: only during those hours and for the depicted vehicles.",
+  "image": "images/q_20019.png"
+ },
+ {
+  "n": 20020,
+  "it": "Il segnale raffigurato indica che nei giorni e nelle ore indicate è vietata la sosta ai mezzi di pulizia",
+  "answer": false,
+  "en": "The sign shown indicates that on the days and at the times shown, parking is prohibited for cleaning vehicles.",
+  "keywords": [
+   {
+    "phrase": "nei giorni e nelle ore indicate",
+    "why": "limits the rule to the stated days and times"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ai mezzi di pulizia",
+    "why": "restricts the prohibition to cleaning vehicles"
+   }
+  ],
+  "trick": "The trap is the restricted target of the prohibition: cleaning vehicles only.",
+  "image": "images/q_20020.png"
+ },
+ {
+  "n": 20021,
+  "it": "Il segnale raffigurato indica presenza di un deposito con probabile uscita di mezzi per pulizia meccanica delle strade",
+  "answer": false,
+  "en": "The sign shown indicates the presence of a depot with probable خروج of vehicles for mechanical street cleaning.",
+  "keywords": [
+   {
+    "phrase": "indica presenza di",
+    "why": "states presence, not prohibition"
+   },
+   {
+    "phrase": "probabile",
+    "why": "means probable, not certain"
+   }
+  ],
+  "trick": "The trap is reading it as a warning about a depot and probable vehicle exit.",
+  "image": "images/q_20021.png"
+ },
+ {
+  "n": 19992,
+  "it": "Il segnale raffigurato consente la sosta ai veicoli al servizio di persone invalide munite dell'apposito contrassegno",
+  "answer": true,
+  "en": "The sign shown allows parking for vehicles used by disabled persons holding the appropriate permit.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "al servizio di persone invalide",
+    "why": "means used to serve disabled persons, not any vehicle"
+   },
+   {
+    "phrase": "munite dell'apposito contrassegno",
+    "why": "requires the specific permit as a condition"
+   }
+  ],
+  "trick": "The permission applies only if the vehicle serves a disabled person and has the proper permit.",
+  "image": "images/q_19992.png"
+ },
+ {
+  "n": 19993,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "No major trap words; the key is recognizing that 'segnale di prescrizione' means a regulatory sign.",
+  "image": "images/q_19993.png"
+ },
+ {
+  "n": 19994,
+  "it": "Il segnale raffigurato rappresenta una specifica eccezione al divieto di sosta",
+  "answer": true,
+  "en": "The sign shown represents a specific exception to the no-parking prohibition.",
+  "keywords": [
+   {
+    "phrase": "eccezione",
+    "why": "shows the rule does not apply generally but only as an exception"
+   },
+   {
+    "phrase": "divieto di sosta",
+    "why": "means no parking, not no stopping"
+   }
+  ],
+  "trick": "The trap is that it refers to an exception to a no-parking rule, not a general parking rule.",
+  "image": "images/q_19994.png"
+ },
+ {
+  "n": 19995,
+  "it": "Il segnale raffigurato non consente la sosta a veicoli diversi da quelli al servizio di persone invalide",
+  "answer": true,
+  "en": "The sign shown does not allow parking for vehicles other than those used to serve disabled persons.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "diversi da",
+    "why": "excludes all vehicles except the ones named"
+   }
+  ],
+  "trick": "The sentence is restrictive: parking is not allowed for any vehicles except those serving disabled persons.",
+  "image": "images/q_19995.png"
+ },
+ {
+  "n": 19996,
+  "it": "Il segnale raffigurato consente la sosta agli scuolabus",
+  "answer": false,
+  "en": "The sign shown allows parking for school buses.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The main trap is the permission verb, which claims the sign allows parking.",
+  "image": "images/q_19996.png"
+ },
+ {
+  "n": 19997,
+  "it": "Il segnale raffigurato indica una corsia riservata ai veicoli al servizio di persone invalide",
+  "answer": false,
+  "en": "The sign shown indicates a lane reserved for vehicles used to serve disabled persons.",
+  "keywords": [
+   {
+    "phrase": "corsia riservata",
+    "why": "means a reserved lane, not a parking space"
+   }
+  ],
+  "trick": "The trap is confusing a reserved lane with a reserved parking space.",
+  "image": "images/q_19997.png"
+ },
+ {
+  "n": 19998,
+  "it": "Il segnale raffigurato è un divieto di sosta per i veicoli al servizio di invalidi, ed indica il più vicino parcheggio",
+  "answer": false,
+  "en": "The sign shown is a no-parking sign for vehicles used to serve disabled persons, and it indicates the nearest car park.",
+  "keywords": [
+   {
+    "phrase": "divieto di sosta",
+    "why": "means no parking, not no stopping"
+   },
+   {
+    "phrase": "più vicino",
+    "why": "specifies the nearest place, adding a precise meaning"
+   }
+  ],
+  "trick": "The trap is combining two different meanings: a no-parking sign and an indication to the nearest car park.",
+  "image": "images/q_19998.png"
+ },
+ {
+  "n": 19999,
+  "it": "Il segnale raffigurato preavvisa una zona vietata al traffico regolare perché attrezzata per persone invalide",
+  "answer": false,
+  "en": "The sign shown gives advance warning of an area where regular traffic is prohibited because it is equipped for disabled persons.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means gives advance warning, not indicates directly"
+   },
+   {
+    "phrase": "vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The tricky part is that 'preavvisa' means advance warning, while the sentence also introduces a prohibited area.",
+  "image": "images/q_19999.png"
+ },
+ {
+  "n": 20000,
+  "it": "Il segnale raffigurato, nella strada ove è posto, consente il transito ai soli veicoli al servizio di persone invalide",
+  "answer": false,
+  "en": "The sign shown, on the road where it is placed, allows passage only to vehicles used to serve disabled persons.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ai soli",
+    "why": "restricts the rule to only those vehicles"
+   }
+  ],
+  "trick": "The trap is the strong restriction created by 'ai soli', meaning only those vehicles may pass.",
+  "image": "images/q_20000.png"
+ },
+ {
+  "n": 20001,
+  "it": "Il segnale raffigurato consente la sosta ai ciclomotori e ai motocicli",
+  "answer": false,
+  "en": "The sign shown allows parking for mopeds and motorcycles.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is the claim of permission to park for those vehicle types.",
+  "image": "images/q_20001.png"
+ },
+ {
+  "n": 20002,
+  "it": "Il segnale raffigurato consente la sosta esponendo il tagliando emesso da un parchimetro",
+  "answer": false,
+  "en": "The sign shown allows parking if the ticket issued by a parking meter is displayed.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "esponendo",
+    "why": "adds a condition: only if the ticket is displayed"
+   }
+  ],
+  "trick": "The trap is that parking would be allowed only under the condition of displaying a parking-meter ticket.",
+  "image": "images/q_20002.png"
+ },
+ {
+  "n": 20003,
+  "it": "Il segnale raffigurato rappresenta una regolazione della sosta",
+  "answer": true,
+  "en": "The sign shown represents a parking regulation.",
+  "keywords": [],
+  "trick": "No major trap words; the meaning hinges on 'regolazione della sosta' as parking regulation.",
+  "image": "images/q_20003.png"
+ },
+ {
+  "n": 20004,
+  "it": "Il segnale raffigurato consente la sosta dalle ore 9.00 alle 17.00",
+  "answer": true,
+  "en": "The sign shown allows parking from 9:00 a.m. to 5:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "dalle ore 9.00 alle 17.00",
+    "why": "the exact time range must be kept precise"
+   }
+  ],
+  "trick": "The trap is the exact permitted time interval.",
+  "image": "images/q_20004.png"
+ },
+ {
+  "n": 20005,
+  "it": "Il segnale raffigurato vieta la sosta dalle ore 17.00 alle 20.00",
+  "answer": true,
+  "en": "The sign shown prohibits parking from 5:00 p.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dalle ore 17.00 alle 20.00",
+    "why": "the exact time range must be kept precise"
+   }
+  ],
+  "trick": "The trap is the exact prohibited time interval.",
+  "image": "images/q_20005.png"
+ },
+ {
+  "n": 20006,
+  "it": "Il segnale raffigurato consente la sosta in alcune ore e la vieta in altre",
+  "answer": true,
+  "en": "The sign shown allows parking at some times and prohibits it at others.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in alcune ore ... in altre",
+    "why": "shows the rule changes depending on the time"
+   }
+  ],
+  "trick": "The sentence is tricky because it combines permission and prohibition depending on the time.",
+  "image": "images/q_20006.png"
+ },
+ {
+  "n": 20007,
+  "it": "Il segnale raffigurato consente la sosta dalle ore 20.00 alle ore 7.00",
+  "answer": true,
+  "en": "The sign shown allows parking from 8:00 p.m. to 7:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "dalle ore 20.00 alle ore 7.00",
+    "why": "the overnight time range can be easy to misread"
+   }
+  ],
+  "trick": "The trap is the overnight permitted time interval.",
+  "image": "images/q_20007.png"
+ },
+ {
+  "n": 20008,
+  "it": "Il segnale raffigurato vieta la sosta dalle ore 7.00 alle ore 9.00",
+  "answer": true,
+  "en": "The sign shown prohibits parking from 7:00 a.m. to 9:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dalle ore 7.00 alle ore 9.00",
+    "why": "the exact time range must be kept precise"
+   }
+  ],
+  "trick": "The trap is the exact prohibited morning time interval.",
+  "image": "images/q_20008.png"
+ },
+ {
+  "n": 20009,
+  "it": "Il segnale raffigurato, nei centri abitati, consente la sosta dalle ore 20.00 alle 8.00",
+  "answer": false,
+  "en": "The sign shown, in built-up areas, allows parking from 8:00 p.m. to 8:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the statement to built-up areas"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "dalle ore 20.00 alle 8.00",
+    "why": "the overnight time range can be easy to misread"
+   }
+  ],
+  "trick": "The trap is the added condition 'in built-up areas' together with the overnight time range.",
+  "image": "images/q_20009.png"
+ },
+ {
+  "n": 20010,
+  "it": "Il segnale raffigurato indica una zona destinata al parcheggio con impiego del disco orario",
+  "answer": false,
+  "en": "The sign shown indicates an area intended for parking using a parking disc.",
+  "keywords": [
+   {
+    "phrase": "disco orario",
+    "why": "refers to a parking disc, not a parking meter ticket"
+   }
+  ],
+  "trick": "The trap is confusing 'disco orario' with paid parking or a parking meter.",
+  "image": "images/q_20010.png"
+ },
+ {
+  "n": 20011,
+  "it": "Il segnale raffigurato vieta la fermata del veicolo tra le ore 17.00 e le 20.00",
+  "answer": false,
+  "en": "The sign shown prohibits stopping the vehicle between 5:00 p.m. and 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "fermata",
+    "why": "means stopping, which is stricter than parking"
+   },
+   {
+    "phrase": "tra le ore 17.00 e le 20.00",
+    "why": "the exact time range must be kept precise"
+   }
+  ],
+  "trick": "The trap is confusing 'fermata' (stopping) with 'sosta' (parking), along with the exact time range.",
+  "image": "images/q_20011.png"
+ },
+ {
+  "n": 20012,
+  "it": "Il segnale raffigurato consente il parcheggio dalle ore 7.00 alle 9.00",
+  "answer": false,
+  "en": "The sign shown allows parking from 7:00 a.m. to 9:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "parcheggio",
+    "why": "can be confused with sosta or a parking area"
+   },
+   {
+    "phrase": "dalle ore 7.00 alle 9.00",
+    "why": "the exact time range must be kept precise"
+   }
+  ],
+  "trick": "The trap is the claim of permitted parking in that exact morning time interval.",
+  "image": "images/q_20012.png"
+ },
+ {
+  "n": 20013,
+  "it": "Nelle ore in cui è vietata la sosta, il segnale raffigurato comporta la rimozione del veicolo",
+  "answer": false,
+  "en": "During the hours when parking is prohibited, the sign shown requires the vehicle to be removed.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "comporta",
+    "why": "means it entails or results in, not merely suggests"
+   }
+  ],
+  "trick": "Watch the prohibition and the fact that the sign is said to entail removal.",
+  "image": "images/q_20013.png"
+ },
+ {
+  "n": 19982,
+  "it": "Il segnale raffigurato vieta la sosta nel luogo dove è posto",
+  "answer": true,
+  "en": "The sign shown prohibits parking where it is placed.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nel luogo dove è posto",
+    "why": "limits the rule to the place where the sign stands"
+   }
+  ],
+  "trick": "The key trap is that it forbids parking specifically at that location.",
+  "image": "images/q_19982.png"
+ },
+ {
+  "n": 19983,
+  "it": "Il segnale raffigurato indica la zona per l'accesso dei veicoli alle proprietà laterali",
+  "answer": true,
+  "en": "The sign shown indicates the area for vehicles to access the side properties.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is straightforward.",
+  "image": "images/q_19983.png"
+ },
+ {
+  "n": 19984,
+  "it": "Il segnale raffigurato indica lo sbocco di un passo carrabile",
+  "answer": true,
+  "en": "The sign shown indicates the exit of a driveway.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is straightforward.",
+  "image": "images/q_19984.png"
+ },
+ {
+  "n": 19985,
+  "it": "Il segnale raffigurato consente la fermata, purché il veicolo non sia di intralcio",
+  "answer": true,
+  "en": "The sign shown allows stopping, provided that the vehicle does not cause an obstruction.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non sia di intralcio",
+    "why": "negates the condition"
+   },
+   {
+    "phrase": "stopping is allowed only if no obstruction is caused",
+    "why": ""
+   }
+  ],
+  "trick": "Stopping is permitted, but only on the condition that the vehicle does not obstruct.",
+  "image": "images/q_19985.png"
+ },
+ {
+  "n": 19986,
+  "it": "Il segnale raffigurato, per essere valido, deve contenere l'indicazione dell'ente che ha concesso l'autorizzazione, il numero e l'anno del rilascio",
+  "answer": true,
+  "en": "To be valid, the sign shown must include the name of the authority that granted the authorization, the number, and the year of issue.",
+  "keywords": [
+   {
+    "phrase": "per essere valido",
+    "why": "states a condition for validity"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence sets a validity condition and uses must, not may.",
+  "image": "images/q_19986.png"
+ },
+ {
+  "n": 19987,
+  "it": "Il segnale raffigurato è posto soltanto nelle strade urbane",
+  "answer": false,
+  "en": "The sign shown is placed only on urban roads.",
+  "keywords": [
+   {
+    "phrase": "soltanto",
+    "why": "restricts the statement to only this case"
+   }
+  ],
+  "trick": "The trap is the restrictive word only.",
+  "image": "images/q_19987.png"
+ },
+ {
+  "n": 19988,
+  "it": "Il segnale raffigurato vale solo nelle ore diurne",
+  "answer": false,
+  "en": "The sign shown is valid only during daylight hours.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the statement to only this case"
+   }
+  ],
+  "trick": "The trap is the word only, which narrows the time of validity.",
+  "image": "images/q_19988.png"
+ },
+ {
+  "n": 19989,
+  "it": "Il segnale raffigurato vale solo nelle ore notturne",
+  "answer": false,
+  "en": "The sign shown is valid only during nighttime hours.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the statement to only this case"
+   }
+  ],
+  "trick": "The trap is the word only, which narrows the time of validity.",
+  "image": "images/q_19989.png"
+ },
+ {
+  "n": 19990,
+  "it": "Il segnale raffigurato consente la sosta a particolari categorie di veicoli",
+  "answer": false,
+  "en": "The sign shown allows parking for particular categories of vehicles.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is the permission verb allows.",
+  "image": "images/q_19990.png"
+ },
+ {
+  "n": 19991,
+  "it": "Il segnale raffigurato consente la sosta ai veicoli adibiti al pronto soccorso non in servizio",
+  "answer": false,
+  "en": "The sign shown allows parking for emergency vehicles that are not in service.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non in servizio",
+    "why": "negates being on duty"
+   }
+  ],
+  "trick": "Watch both the permission verb and the negation not in service.",
+  "image": "images/q_19991.png"
+ },
+ {
+  "n": 19960,
+  "it": "Il segnale raffigurato indica un parcheggio autorizzato",
+  "answer": true,
+  "en": "The sign shown indicates an authorized parking area.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is straightforward.",
+  "image": "images/q_19960.png"
+ },
+ {
+  "n": 19961,
+  "it": "Il segnale raffigurato indica un'area attrezzata ed organizzata per sostare a tempo indeterminato, salvo diversa indicazione",
+  "answer": true,
+  "en": "The sign shown indicates an equipped and organized area for parking for an unlimited time, unless otherwise indicated.",
+  "keywords": [
+   {
+    "phrase": "a tempo indeterminato",
+    "why": "means with no fixed time limit"
+   },
+   {
+    "phrase": "salvo diversa indicazione",
+    "why": "introduces an exception"
+   }
+  ],
+  "trick": "The rule is unlimited parking unless another indication provides an exception.",
+  "image": "images/q_19961.png"
+ },
+ {
+  "n": 19962,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che ne indica la distanza",
+  "answer": true,
+  "en": "The sign shown indicates a parking area and may be supplemented with a panel showing its distance.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The key trap is may, which does not mean must.",
+  "image": "images/q_19962.png"
+ },
+ {
+  "n": 19963,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che indica le categorie cui la stessa è riservata",
+  "answer": true,
+  "en": "The sign shown indicates a parking area and may be supplemented with a panel indicating the categories for which it is reserved.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "riservata",
+    "why": "means reserved for specific categories"
+   }
+  ],
+  "trick": "The sentence says the panel may specify categories for which the area is reserved.",
+  "image": "images/q_19963.png"
+ },
+ {
+  "n": 19964,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con pannello che indica le categorie di veicoli esclusi",
+  "answer": true,
+  "en": "The sign shown indicates a parking area and may be supplemented with a panel indicating the categories of vehicles excluded.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "esclusi",
+    "why": "marks an exception by excluding some vehicles"
+   }
+  ],
+  "trick": "The panel may indicate which vehicle categories are excluded.",
+  "image": "images/q_19964.png"
+ },
+ {
+  "n": 19965,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che ne indica la limitazione nel tempo",
+  "answer": true,
+  "en": "The sign shown indicates a parking area and may be supplemented with a panel indicating its time limitation.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "limitazione nel tempo",
+    "why": "means a time limit applies"
+   }
+  ],
+  "trick": "The sentence says a panel may add a time limit to parking.",
+  "image": "images/q_19965.png"
+ },
+ {
+  "n": 19966,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che indica l'orario e le tariffe",
+  "answer": true,
+  "en": "The sign shown indicates a parking area and may be supplemented with a panel showing the times and the charges.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The key trap is may, which indicates an optional addition.",
+  "image": "images/q_19966.png"
+ },
+ {
+  "n": 19967,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello indicante la disposizione dei veicoli",
+  "answer": true,
+  "en": "The sign shown indicates a parking area and may be supplemented with a panel indicating how vehicles must be positioned.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The key trap is may, meaning the panel is optional.",
+  "image": "images/q_19967.png"
+ },
+ {
+  "n": 19968,
+  "it": "Il segnale raffigurato indica un'area di sosta con parchimetro",
+  "answer": false,
+  "en": "The sign shown indicates a parking area with a parking meter.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is straightforward.",
+  "image": "images/q_19968.png"
+ },
+ {
+  "n": 19969,
+  "it": "Il segnale raffigurato indica che il parcheggio è ammesso dalle 8.00 alle 20.00",
+  "answer": false,
+  "en": "The sign shown indicates that parking is allowed from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "è ammesso",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "dalle 8.00 alle 20.00",
+    "why": "limits the permission to this time period only"
+   }
+  ],
+  "trick": "Watch permission wording and the exact time limit.",
+  "image": "images/q_19969.png"
+ },
+ {
+  "n": 19970,
+  "it": "Il segnale raffigurato indica un'area in cui è possibile la sosta al massimo per un'ora",
+  "answer": false,
+  "en": "The sign shown indicates an area where parking is possible for a maximum of one hour.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "expresses permission, not certainty or obligation"
+   },
+   {
+    "phrase": "al massimo",
+    "why": "sets an upper time limit"
+   }
+  ],
+  "trick": "The trap is the permission wording combined with a maximum duration.",
+  "image": "images/q_19970.png"
+ },
+ {
+  "n": 19971,
+  "it": "Il segnale raffigurato indica la sosta libera, ma con divieto di fermata",
+  "answer": false,
+  "en": "The sign shown indicates unrestricted parking, but with no stopping.",
+  "keywords": [
+   {
+    "phrase": "ma",
+    "why": "introduces a contrast that changes the meaning"
+   },
+   {
+    "phrase": "divieto di fermata",
+    "why": "means stopping is prohibited"
+   }
+  ],
+  "trick": "The contrast after ma completely changes the rule.",
+  "image": "images/q_19971.png"
+ },
+ {
+  "n": 19972,
+  "it": "Il segnale raffigurato indica un'area di parcheggio riservato ai veicoli della Polizia di Stato",
+  "answer": false,
+  "en": "The sign shown indicates a parking area reserved for State Police vehicles.",
+  "keywords": [
+   {
+    "phrase": "riservato",
+    "why": "means reserved exclusively for a specific group"
+   }
+  ],
+  "trick": "Riservato restricts use to specific vehicles only.",
+  "image": "images/q_19972.png"
+ },
+ {
+  "n": 19973,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con un pannello che indica la superficie disponibile",
+  "answer": false,
+  "en": "The sign shown indicates a parking area and may be supplemented by a panel indicating the available surface area.",
+  "keywords": [
+   {
+    "phrase": "può essere integrato",
+    "why": "expresses possibility, not necessity"
+   }
+  ],
+  "trick": "Può essere integrato means it may be added, not that it must be.",
+  "image": "images/q_19973.png"
+ },
+ {
+  "n": 19974,
+  "it": "Il segnale raffigurato indica un'area di parcheggio e può essere integrato con la prescrizione di lasciare la chiave nel quadro",
+  "answer": false,
+  "en": "The sign shown indicates a parking area and may be supplemented with the instruction to leave the key in the ignition.",
+  "keywords": [
+   {
+    "phrase": "può essere integrato",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The key trap is that può indicates optional addition, not a required one.",
+  "image": "images/q_19974.png"
+ },
+ {
+  "n": 19975,
+  "it": "Il segnale raffigurato preannuncia che nella direzione della freccia vi è un parcheggio",
+  "answer": true,
+  "en": "The sign shown gives advance notice that there is a parking area in the direction of the arrow.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it gives advance notice, not the immediate presence of something"
+   },
+   {
+    "phrase": "nella direzione della freccia",
+    "why": "restricts the meaning to the arrow's direction only"
+   }
+  ],
+  "trick": "Focus on advance notice and the direction indicated by the arrow.",
+  "image": "images/q_19975.png"
+ },
+ {
+  "n": 19976,
+  "it": "Il segnale raffigurato preannuncia una zona di parcheggio procedendo nel senso della freccia",
+  "answer": true,
+  "en": "The sign shown gives advance notice of a parking area ahead in the direction of the arrow.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it announces something ahead, not at the sign itself"
+   },
+   {
+    "phrase": "nel senso della freccia",
+    "why": "limits the meaning to the arrow's direction"
+   }
+  ],
+  "trick": "The meaning depends on both advance notice and the arrow direction.",
+  "image": "images/q_19976.png"
+ },
+ {
+  "n": 19977,
+  "it": "Il segnale raffigurato preannuncia un parcheggio a 300 metri nel senso della freccia",
+  "answer": true,
+  "en": "The sign shown gives advance notice of a parking area 300 metres ahead in the direction of the arrow.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it announces something ahead, not here"
+   },
+   {
+    "phrase": "a 300 metri",
+    "why": "specifies the exact distance"
+   },
+   {
+    "phrase": "nel senso della freccia",
+    "why": "restricts the meaning to the arrow's direction"
+   }
+  ],
+  "trick": "Distance and arrow direction are the main traps here.",
+  "image": "images/q_19977.png"
+ },
+ {
+  "n": 19978,
+  "it": "Il segnale raffigurato preannuncia un posto di pronto soccorso nel senso della freccia",
+  "answer": false,
+  "en": "The sign shown gives advance notice of a first-aid station in the direction of the arrow.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means advance notice, not immediate presence"
+   },
+   {
+    "phrase": "nel senso della freccia",
+    "why": "limits the meaning to the arrow's direction"
+   }
+  ],
+  "trick": "Do not miss that preannuncia refers to something ahead, in the arrow's direction.",
+  "image": "images/q_19978.png"
+ },
+ {
+  "n": 19979,
+  "it": "Il segnale raffigurato preannuncia un parcheggio vietato nel senso della freccia",
+  "answer": false,
+  "en": "The sign shown gives advance notice of no parking in the direction of the arrow.",
+  "keywords": [
+   {
+    "phrase": "parcheggio vietato",
+    "why": "expresses a prohibition, not permission"
+   },
+   {
+    "phrase": "nel senso della freccia",
+    "why": "limits the meaning to the arrow's direction"
+   }
+  ],
+  "trick": "The trap is the prohibition wording tied to the arrow direction.",
+  "image": "images/q_19979.png"
+ },
+ {
+  "n": 19980,
+  "it": "Il segnale raffigurato preannuncia che la sosta e il parcheggio sono vietati nel senso della freccia",
+  "answer": false,
+  "en": "The sign shown gives advance notice that stopping and parking are prohibited in the direction of the arrow.",
+  "keywords": [
+   {
+    "phrase": "sono vietati",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nel senso della freccia",
+    "why": "limits the meaning to the arrow's direction"
+   }
+  ],
+  "trick": "Vietati is the key prohibition word, limited by the arrow direction.",
+  "image": "images/q_19980.png"
+ },
+ {
+  "n": 19981,
+  "it": "Il segnale raffigurato preannuncia di procedere oltre perché il parcheggio è riservato",
+  "answer": false,
+  "en": "The sign shown gives advance notice to continue beyond because the parking area is reserved.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it gives advance notice, not a direct order"
+   },
+   {
+    "phrase": "perché",
+    "why": "introduces the stated reason"
+   },
+   {
+    "phrase": "è riservato",
+    "why": "means reserved, so not for everyone"
+   }
+  ],
+  "trick": "The trap is reading preannuncia as an order instead of advance information.",
+  "image": "images/q_19981.png"
+ },
+ {
+  "n": 20022,
+  "it": "Il segnale raffigurato vieta il transito ad autotreni ed autoarticolati",
+  "answer": true,
+  "en": "The sign shown prohibits transit to road trains and articulated vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses prohibition of passage"
+   }
+  ],
+  "trick": "Vieta il transito clearly marks a prohibition.",
+  "image": "images/q_20022.png"
+ },
+ {
+  "n": 20023,
+  "it": "In presenza del segnale raffigurato è vietato il transito alle categorie di veicoli rappresentati in figura",
+  "answer": true,
+  "en": "In the presence of the sign shown, transit is prohibited for the categories of vehicles shown in the picture.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present"
+   },
+   {
+    "phrase": "è vietato il transito",
+    "why": "expresses prohibition of passage"
+   }
+  ],
+  "trick": "The key traps are the condition in presenza del and the prohibition wording.",
+  "image": "images/q_20023.png"
+ },
+ {
+  "n": 20024,
+  "it": "Il segnale raffigurato è un divieto di transito per determinate categorie di veicoli",
+  "answer": true,
+  "en": "The sign shown is a no-entry sign for certain categories of vehicles.",
+  "keywords": [
+   {
+    "phrase": "divieto di transito",
+    "why": "means transit is prohibited"
+   },
+   {
+    "phrase": "determinate categorie",
+    "why": "restricts the rule to specific categories only"
+   }
+  ],
+  "trick": "The rule is a prohibition, but only for certain vehicle categories.",
+  "image": "images/q_20024.png"
+ },
+ {
+  "n": 20025,
+  "it": "Il segnale raffigurato indica che i veicoli delle categorie rappresentate in figura non possono transitare",
+  "answer": true,
+  "en": "The sign shown indicates that vehicles in the categories shown in the picture may not pass through.",
+  "keywords": [
+   {
+    "phrase": "non possono transitare",
+    "why": "expresses lack of permission, so passage is not allowed"
+   }
+  ],
+  "trick": "Non possono is a prohibition in permission form.",
+  "image": "images/q_20025.png"
+ },
+ {
+  "n": 20026,
+  "it": "Il segnale raffigurato indica che possono transitare tutti i veicoli esclusi quelli delle categorie rappresentate in figura",
+  "answer": true,
+  "en": "The sign shown indicates that all vehicles may pass through except those in the categories shown in the picture.",
+  "keywords": [
+   {
+    "phrase": "esclusi",
+    "why": "introduces an exception to the general rule"
+   },
+   {
+    "phrase": "possono transitare tutti i veicoli",
+    "why": "states a general permission before the exception"
+   }
+  ],
+  "trick": "The general permission is narrowed by the exception word esclusi.",
+  "image": "images/q_20026.png"
+ },
+ {
+  "n": 20027,
+  "it": "Il segnale raffigurato indica un itinerario obbligatorio per gli autoveicoli delle categorie rappresentate in figura",
+  "answer": false,
+  "en": "The sign shown indicates a compulsory route for motor vehicles in the categories shown in the picture.",
+  "keywords": [
+   {
+    "phrase": "obbligatorio",
+    "why": "expresses obligation, not permission"
+   }
+  ],
+  "trick": "Obbligatorio changes the meaning to a mandatory route.",
+  "image": "images/q_20027.png"
+ },
+ {
+  "n": 20028,
+  "it": "Il segnale raffigurato preannuncia un parcheggio per autocarri ed autotreni",
+  "answer": false,
+  "en": "The sign shown gives advance notice of a parking area for lorries and road trains.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it announces something ahead, not at the sign itself"
+   }
+  ],
+  "trick": "The main trap is that preannuncia refers to advance notice.",
+  "image": "images/q_20028.png"
+ },
+ {
+  "n": 20029,
+  "it": "Il segnale raffigurato vieta il transito di tutti i veicoli con esclusione di quelli rappresentati in figura",
+  "answer": false,
+  "en": "The sign shown prohibits the transit of all vehicles except those shown in the picture.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "con esclusione di",
+    "why": "introduces an exception"
+   }
+  ],
+  "trick": "Watch the exception: all vehicles are prohibited except the ones shown.",
+  "image": "images/q_20029.png"
+ },
+ {
+  "n": 20030,
+  "it": "Il segnale raffigurato vieta la sosta ad autotreni ed autoarticolati",
+  "answer": false,
+  "en": "The sign shown prohibits parking for road trains and articulated lorries.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sosta",
+    "why": "means parking, not stopping in general"
+   }
+  ],
+  "trick": "Do not confuse sosta with transit or a general ban.",
+  "image": "images/q_20030.png"
+ },
+ {
+  "n": 20031,
+  "it": "Il segnale raffigurato indica un divieto di sosta per autotreni e autoarticolati",
+  "answer": false,
+  "en": "The sign shown indicates a no-parking sign for road trains and articulated lorries.",
+  "keywords": [
+   {
+    "phrase": "divieto di sosta",
+    "why": "means no parking"
+   }
+  ],
+  "trick": "The key trap is divieto di sosta, which specifically means no parking.",
+  "image": "images/q_20031.png"
+ },
+ {
+  "n": 20032,
+  "it": "Il segnale raffigurato presegnala una strada riservata ai veicoli delle categorie rappresentate in figura",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a road reserved for vehicles of the categories shown in the picture.",
+  "keywords": [
+   {
+    "phrase": "presegnala",
+    "why": "means gives advance warning, not indicates immediately"
+   },
+   {
+    "phrase": "riservata",
+    "why": "means reserved exclusively for"
+   }
+  ],
+  "trick": "Presegnala means the sign warns in advance, not that the road starts there.",
+  "image": "images/q_20032.png"
+ },
+ {
+  "n": 20033,
+  "it": "Il segnale raffigurato preannuncia che non è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown gives advance warning that it is not permitted to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means announces in advance"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses lack of permission"
+   }
+  ],
+  "trick": "The sentence is about advance warning of something not permitted.",
+  "image": "images/q_20033.png"
+ },
+ {
+  "n": 20034,
+  "it": "Il segnale raffigurato preannuncia che non è consentito svoltare a destra",
+  "answer": true,
+  "en": "The sign shown gives advance warning that it is not permitted to turn right.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means announces in advance"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses lack of permission"
+   }
+  ],
+  "trick": "Keep both ideas: advance warning and the prohibition on turning right.",
+  "image": "images/q_20034.png"
+ },
+ {
+  "n": 20035,
+  "it": "Il segnale raffigurato è posto prima di un incrocio",
+  "answer": true,
+  "en": "The sign shown is placed before a junction.",
+  "keywords": [
+   {
+    "phrase": "prima di",
+    "why": "sets the position before, not at, the junction"
+   }
+  ],
+  "trick": "The trap is the location: the sign is before the junction.",
+  "image": "images/q_20035.png"
+ },
+ {
+  "n": 20036,
+  "it": "Il segnale raffigurato precede un segnale di DIREZIONE OBBLIGATORIA A SINISTRA",
+  "answer": true,
+  "en": "The sign shown comes before a MANDATORY DIRECTION LEFT sign.",
+  "keywords": [
+   {
+    "phrase": "precede",
+    "why": "means comes before"
+   },
+   {
+    "phrase": "OBBLIGATORIA",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "Precede signals sequence, and obbligatoria means compulsory.",
+  "image": "images/q_20036.png"
+ },
+ {
+  "n": 20037,
+  "it": "Il segnale raffigurato è un segnale d'obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "d'obbligo",
+    "why": "indicates obligation"
+   }
+  ],
+  "trick": "The important word is obbligo: it is a mandatory sign.",
+  "image": "images/q_20037.png"
+ },
+ {
+  "n": 20038,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a prescriptive sign.",
+  "keywords": [
+   {
+    "phrase": "prescrizione",
+    "why": "refers to a sign giving a rule or requirement"
+   }
+  ],
+  "trick": "Prescrizione is a rule-imposing category, not an information sign.",
+  "image": "images/q_20038.png"
+ },
+ {
+  "n": 20039,
+  "it": "Il segnale raffigurato preannuncia un senso unico",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a one-way street.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means announces in advance"
+   }
+  ],
+  "trick": "The only trap is that preannuncia means advance warning.",
+  "image": "images/q_20039.png"
+ },
+ {
+  "n": 20040,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di indicazione",
+    "why": "means information sign, a specific category"
+   }
+  ],
+  "trick": "Indicazione is a sign category and can be confused with generic indication.",
+  "image": "images/q_20040.png"
+ },
+ {
+  "n": 20041,
+  "it": "Il segnale raffigurato indica che è obbligatorio passare a sinistra dell'ostacolo",
+  "answer": false,
+  "en": "The sign shown indicates that it is compulsory to pass to the left of the obstacle.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a sinistra dell'ostacolo",
+    "why": "specifies passing on the left side of the obstacle"
+   }
+  ],
+  "trick": "The key trap is the obligation to pass specifically on the left.",
+  "image": "images/q_20041.png"
+ },
+ {
+  "n": 20042,
+  "it": "Il segnale raffigurato è posto all'inizio di una strada in pendenza",
+  "answer": false,
+  "en": "The sign shown is placed at the beginning of a downhill road.",
+  "keywords": [
+   {
+    "phrase": "all'inizio",
+    "why": "means at the beginning of"
+   },
+   {
+    "phrase": "in pendenza",
+    "why": "means sloping or steep, not just uneven"
+   }
+  ],
+  "trick": "The phrase says the sign is at the start of a sloping road.",
+  "image": "images/q_20042.png"
+ },
+ {
+  "n": 20043,
+  "it": "Il segnale raffigurato indica l'obbligo di cambiare corsia",
+  "answer": false,
+  "en": "The sign shown indicates the obligation to change lane.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The trap is obbligo: it means a mandatory action, not a suggestion.",
+  "image": "images/q_20043.png"
+ },
+ {
+  "n": 20044,
+  "it": "Il segnale raffigurato presegnala una curva pericolosa a sinistra",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a dangerous left-hand bend.",
+  "keywords": [
+   {
+    "phrase": "presegnala",
+    "why": "means gives advance warning"
+   },
+   {
+    "phrase": "curva pericolosa",
+    "why": "means dangerous bend, a hazard warning"
+   }
+  ],
+  "trick": "Presegnala shows it warns ahead of the hazard, not at the hazard itself.",
+  "image": "images/q_20044.png"
+ },
+ {
+  "n": 20144,
+  "it": "Il segnale raffigurato è preavviso dell'obbligo di svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown is advance notice of the obligation to turn left.",
+  "keywords": [
+   {
+    "phrase": "preavviso",
+    "why": "means advance notice"
+   },
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence combines advance notice with a mandatory left turn.",
+  "image": "images/q_20144.png"
+ },
+ {
+  "n": 20145,
+  "it": "Il segnale raffigurato precede un incrocio in cui non è consentito proseguire diritto o girare a destra",
+  "answer": true,
+  "en": "The sign shown comes before a junction where it is not permitted to continue straight ahead or turn right.",
+  "keywords": [
+   {
+    "phrase": "precede",
+    "why": "means comes before"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses lack of permission"
+   },
+   {
+    "phrase": "o",
+    "why": "means either of the two movements is disallowed"
+   }
+  ],
+  "trick": "The trap is that both going straight and turning right are not permitted at that junction.",
+  "image": "images/q_20145.png"
+ },
+ {
+  "n": 20146,
+  "it": "Il segnale raffigurato preannuncia l'obbligo di svoltare a sinistra al prossimo incrocio",
+  "answer": true,
+  "en": "The sign shown gives advance warning of the obligation to turn left at the next junction.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means announces in advance"
+   },
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "al prossimo incrocio",
+    "why": "limits the rule to the next junction"
+   }
+  ],
+  "trick": "The obligation applies at the next junction, not immediately.",
+  "image": "images/q_20146.png"
+ },
+ {
+  "n": 20147,
+  "it": "Il segnale raffigurato precede un incrocio ove è obbligatorio svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown comes before a junction where it is compulsory to turn left.",
+  "keywords": [
+   {
+    "phrase": "precede",
+    "why": "means comes before"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sign is before the junction, where turning left is compulsory.",
+  "image": "images/q_20147.png"
+ },
+ {
+  "n": 20148,
+  "it": "Il segnale raffigurato è un segnale di preavviso di direzione obbligatoria",
+  "answer": true,
+  "en": "The sign shown is an advance warning sign of a mandatory direction.",
+  "keywords": [
+   {
+    "phrase": "preavviso",
+    "why": "means advance warning, not the rule at that exact point"
+   },
+   {
+    "phrase": "obbligatoria",
+    "why": "expresses obligation, not a recommendation"
+   }
+  ],
+  "trick": "Watch for words showing advance notice versus an actual mandatory instruction.",
+  "image": "images/q_20148.png"
+ },
+ {
+  "n": 20149,
+  "it": "Il segnale raffigurato preannuncia l'unica direzione consentita",
+  "answer": true,
+  "en": "The sign shown warns in advance of the only permitted direction.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it warns in advance, not that the rule starts here"
+   },
+   {
+    "phrase": "unica",
+    "why": "restricts it to one direction only"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The key traps are advance warning and the restriction to the only permitted direction.",
+  "image": "images/q_20149.png"
+ },
+ {
+  "n": 20150,
+  "it": "Il segnale raffigurato può essere integrato con pannello che indica la distanza dal punto in cui vige l'obbligo",
+  "answer": true,
+  "en": "The sign shown may be supplemented with a panel indicating the distance from the point where the obligation applies.",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty or obligation"
+   },
+   {
+    "phrase": "vige l'obbligo",
+    "why": "means the obligation is in force at that point"
+   }
+  ],
+  "trick": "Notice the sentence says the panel may be added and marks where the obligation starts to apply.",
+  "image": "images/q_20150.png"
+ },
+ {
+  "n": 20151,
+  "it": "Il segnale raffigurato indica che non è consentito svoltare a sinistra al prossimo incrocio",
+  "answer": false,
+  "en": "The sign shown indicates that turning left at the next junction is not permitted.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition by negating permission"
+   },
+   {
+    "phrase": "al prossimo incrocio",
+    "why": "limits the statement to the next junction"
+   }
+  ],
+  "trick": "The main trap is the prohibition expressed as 'not permitted' and its limit to the next junction.",
+  "image": "images/q_20151.png"
+ },
+ {
+  "n": 20152,
+  "it": "Il segnale raffigurato obbliga ad andare diritto o a svoltare a sinistra",
+  "answer": false,
+  "en": "The sign shown requires you to go straight on or turn left.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not mere permission"
+   },
+   {
+    "phrase": "o",
+    "why": "offers one of two alternatives, not both together"
+   }
+  ],
+  "trick": "Focus on the mandatory meaning of the verb and the alternative created by 'or'.",
+  "image": "images/q_20152.png"
+ },
+ {
+  "n": 20153,
+  "it": "Il segnale raffigurato preannuncia di andare diritto ma non di svoltare a destra",
+  "answer": false,
+  "en": "The sign shown warns in advance that you must go straight on but not turn right.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it warns in advance, not that the rule is already at that point"
+   },
+   {
+    "phrase": "ma non",
+    "why": "introduces a contrast with negation"
+   }
+  ],
+  "trick": "The trap is the contrast between an advance warning and the negated second option.",
+  "image": "images/q_20153.png"
+ },
+ {
+  "n": 20154,
+  "it": "Il segnale raffigurato presegnala il senso unico di circolazione nella svolta a sinistra",
+  "answer": false,
+  "en": "The sign shown gives advance notice of one-way traffic in the left turn.",
+  "keywords": [
+   {
+    "phrase": "presegnala",
+    "why": "means gives advance notice, not immediate effect"
+   }
+  ],
+  "trick": "The main trap is that the wording refers to advance notice, not a rule applying immediately.",
+  "image": "images/q_20154.png"
+ },
+ {
+  "n": 20155,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "means prohibition, which can be confused with obligation"
+   }
+  ],
+  "trick": "The trap is distinguishing a prohibition sign from other types such as mandatory signs.",
+  "image": "images/q_20155.png"
+ },
+ {
+  "n": 20156,
+  "it": "Il segnale raffigurato preannuncia una corsia di accelerazione",
+  "answer": false,
+  "en": "The sign shown warns in advance of an acceleration lane.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not indicates something at that exact spot"
+   }
+  ],
+  "trick": "The key trap is the advance-warning meaning of the verb.",
+  "image": "images/q_20156.png"
+ },
+ {
+  "n": 20157,
+  "it": "Il segnale raffigurato preannuncia una direzione consigliata",
+  "answer": false,
+  "en": "The sign shown warns in advance of a recommended direction.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not immediate instruction"
+   },
+   {
+    "phrase": "consigliata",
+    "why": "means recommended, not mandatory"
+   }
+  ],
+  "trick": "Be careful not to confuse a recommended direction with a mandatory one.",
+  "image": "images/q_20157.png"
+ },
+ {
+  "n": 20274,
+  "it": "Il segnale raffigurato presegnala un incrocio regolato con circolazione rotatoria",
+  "answer": true,
+  "en": "The sign shown gives advance notice of a junction controlled by roundabout circulation.",
+  "keywords": [
+   {
+    "phrase": "presegnala",
+    "why": "means gives advance notice, not the sign placed at the roundabout itself"
+   },
+   {
+    "phrase": "regolato con circolazione rotatoria",
+    "why": "specifies that the junction is governed by roundabout traffic flow"
+   }
+  ],
+  "trick": "The traps are the advance-warning idea and the specific roundabout circulation wording.",
+  "image": "images/q_20274.png"
+ },
+ {
+  "n": 20275,
+  "it": "Il segnale raffigurato, in corrispondenza di una piazza, prescrive l'obbligo di circolazione secondo il verso indicato",
+  "answer": true,
+  "en": "The sign shown, at a square, prescribes the obligation to circulate in the direction indicated.",
+  "keywords": [
+   {
+    "phrase": "prescrive l'obbligo",
+    "why": "states a mandatory requirement"
+   },
+   {
+    "phrase": "secondo il verso indicato",
+    "why": "limits movement to the direction shown"
+   }
+  ],
+  "trick": "The important meaning is that the sign imposes a mandatory direction of travel.",
+  "image": "images/q_20275.png"
+ },
+ {
+  "n": 20276,
+  "it": "Il segnale raffigurato è posto prima dello sbocco su un'area in cui è prescritta la circolazione rotatoria",
+  "answer": true,
+  "en": "The sign shown is placed before the exit onto an area where roundabout circulation is prescribed.",
+  "keywords": [
+   {
+    "phrase": "prima dello sbocco",
+    "why": "locates the sign before entering the area"
+   },
+   {
+    "phrase": "è prescritta",
+    "why": "expresses that the circulation is mandatory"
+   }
+  ],
+  "trick": "Watch both the position of the sign and the mandatory nature of the roundabout circulation.",
+  "image": "images/q_20276.png"
+ },
+ {
+  "n": 20277,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a prescription sign.",
+  "keywords": [
+   {
+    "phrase": "prescrizione",
+    "why": "refers to a regulatory requirement, not general information"
+   }
+  ],
+  "trick": "The trap is that 'prescription' here means a regulatory sign category.",
+  "image": "images/q_20277.png"
+ },
+ {
+  "n": 20278,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "means prohibition, often confused with obligation signs"
+   }
+  ],
+  "trick": "The key issue is distinguishing prohibition signs from mandatory ones.",
+  "image": "images/q_20278.png"
+ },
+ {
+  "n": 20279,
+  "it": "Il segnale raffigurato preannuncia una direzione obbligatoria a sinistra",
+  "answer": false,
+  "en": "The sign shown warns in advance of a mandatory direction to the left.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not immediate command"
+   },
+   {
+    "phrase": "obbligatoria",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The traps are the advance-warning wording and the mandatory meaning of the direction.",
+  "image": "images/q_20279.png"
+ },
+ {
+  "n": 20280,
+  "it": "Il segnale raffigurato è collocato sulla colonnina luminosa posta al centro di una rotatoria",
+  "answer": false,
+  "en": "The sign shown is placed on the illuminated bollard located at the centre of a roundabout.",
+  "keywords": [
+   {
+    "phrase": "al centro di una rotatoria",
+    "why": "specifies an exact location that can mislead if the sign is usually elsewhere"
+   }
+  ],
+  "trick": "The trap is the precise location stated for where the sign is placed.",
+  "image": "images/q_20280.png"
+ },
+ {
+  "n": 20281,
+  "it": "Il segnale raffigurato è integrato con un segnale di PASSAGGIO OBBLIGATORIO A SINISTRA",
+  "answer": false,
+  "en": "The sign shown is combined with a PASS LEFT COMPULSORILY sign.",
+  "keywords": [
+   {
+    "phrase": "PASSAGGIO OBBLIGATORIO A SINISTRA",
+    "why": "states compulsory passing to the left, a specific mandatory sign"
+   },
+   {
+    "phrase": "integrato con",
+    "why": "means combined with or supplemented by another sign"
+   }
+  ],
+  "trick": "The traps are the idea of combination with another sign and the exact compulsory-left meaning.",
+  "image": "images/q_20281.png"
+ },
+ {
+  "n": 20282,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [
+   {
+    "phrase": "indicazione",
+    "why": "means information/indication, not obligation or prohibition"
+   }
+  ],
+  "trick": "The key trap is the sign category: information versus regulatory signs.",
+  "image": "images/q_20282.png"
+ },
+ {
+  "n": 20283,
+  "it": "Il segnale raffigurato è posto prima dello sbocco in una piazza con circolazione rotatoria",
+  "answer": true,
+  "en": "The sign shown is placed before the entrance into a square with roundabout circulation.",
+  "keywords": [
+   {
+    "phrase": "prima dello sbocco",
+    "why": "locates the sign before reaching the entrance"
+   },
+   {
+    "phrase": "con circolazione rotatoria",
+    "why": "specifies traffic moves as in a roundabout"
+   }
+  ],
+  "trick": "The important details are the sign's position before the entrance and the roundabout circulation.",
+  "image": "images/q_20283.png"
+ },
+ {
+  "n": 20284,
+  "it": "Il segnale raffigurato indica la presenza di un incrocio nel quale la circolazione è regolata a rotatoria",
+  "answer": true,
+  "en": "The sign shown indicates the presence of an intersection where traffic is regulated by a roundabout.",
+  "keywords": [
+   {
+    "phrase": "è regolata a rotatoria",
+    "why": "means traffic is managed as a roundabout, not just that there is a circular shape"
+   }
+  ],
+  "trick": "The trap is that it refers to roundabout traffic regulation, not merely an ordinary intersection.",
+  "image": "images/q_20284.png"
+ },
+ {
+  "n": 20285,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "expresses obligation, not just general information"
+   }
+  ],
+  "trick": "The key trap is obbligo, which means the sign imposes a mandatory instruction.",
+  "image": "images/q_20285.png"
+ },
+ {
+  "n": 20286,
+  "it": "Il segnale raffigurato obbliga i conducenti a circolare secondo il verso indicato dalle frecce",
+  "answer": true,
+  "en": "The sign shown requires drivers to proceed in the direction indicated by the arrows.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses a requirement, not a suggestion"
+   },
+   {
+    "phrase": "secondo il verso indicato dalle frecce",
+    "why": "limits movement to the direction shown by the arrows"
+   }
+  ],
+  "trick": "The sentence is about an imposed direction of travel, not an optional one.",
+  "image": "images/q_20286.png"
+ },
+ {
+  "n": 20287,
+  "it": "Il segnale di figura (A) su strade extraurbane è preceduto dal segnale di pericolo di CIRCOLAZIONE ROTATORIA in figura (B)",
+  "answer": true,
+  "en": "On roads outside built-up areas, the sign in figure (A) is preceded by the warning sign ROUNDABOUT TRAFFIC shown in figure (B).",
+  "keywords": [
+   {
+    "phrase": "strade extraurbane",
+    "why": "restricts the rule to roads outside built-up areas"
+   },
+   {
+    "phrase": "è preceduto",
+    "why": "means another sign comes before it, not after it"
+   }
+  ],
+  "trick": "The rule applies specifically on extra-urban roads and concerns the order of the signs.",
+  "image": "images/q_20287.png"
+ },
+ {
+  "n": 20288,
+  "it": "Il segnale raffigurato prescrive un obbligo di ROTATORIA solo per le autovetture",
+  "answer": false,
+  "en": "The sign shown prescribes a roundabout requirement only for cars.",
+  "keywords": [
+   {
+    "phrase": "prescrive un obbligo",
+    "why": "states a mandatory rule"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this category"
+   }
+  ],
+  "trick": "The trap is solo, which wrongly limits the obligation to cars only.",
+  "image": "images/q_20288.png"
+ },
+ {
+  "n": 20289,
+  "it": "Il segnale raffigurato è posto su colonnina al centro dell'incrocio intorno alla quale bisogna girare secondo le frecce",
+  "answer": false,
+  "en": "The sign shown is placed on a bollard in the middle of the intersection, around which one must go following the arrows.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "secondo le frecce",
+    "why": "restricts movement to the direction of the arrows"
+   }
+  ],
+  "trick": "The tricky part is the claimed placement and the obligatory direction around it.",
+  "image": "images/q_20289.png"
+ },
+ {
+  "n": 20290,
+  "it": "Il segnale raffigurato è posto all'inizio di una strada senza uscita",
+  "answer": false,
+  "en": "The sign shown is placed at the beginning of a dead-end street.",
+  "keywords": [
+   {
+    "phrase": "all'inizio",
+    "why": "specifies the exact location where it is placed"
+   },
+   {
+    "phrase": "strada senza uscita",
+    "why": "means dead-end street, a specific road type"
+   }
+  ],
+  "trick": "The trap is the specific location and meaning of strada senza uscita.",
+  "image": "images/q_20290.png"
+ },
+ {
+  "n": 20291,
+  "it": "Il segnale raffigurato indica l'obbligo di tornare indietro",
+  "answer": false,
+  "en": "The sign shown indicates an obligation to turn back.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses a mandatory action, not a possibility"
+   },
+   {
+    "phrase": "tornare indietro",
+    "why": "means to go back or make a U-turn, not simply turn"
+   }
+  ],
+  "trick": "The sentence falsely turns the sign into a mandatory order to go back.",
+  "image": "images/q_20291.png"
+ },
+ {
+  "n": 20292,
+  "it": "Il segnale raffigurato non vale per i ciclomotori",
+  "answer": false,
+  "en": "The sign shown does not apply to mopeds.",
+  "keywords": [
+   {
+    "phrase": "non vale",
+    "why": "negates applicability of the rule"
+   }
+  ],
+  "trick": "The key trap is the negation non vale, claiming the sign does not apply.",
+  "image": "images/q_20292.png"
+ },
+ {
+  "n": 20293,
+  "it": "In presenza del segnale raffigurato è consentito marciare alla velocità di 40 km/h",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is permitted to travel at a speed of 40 km/h.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "sets the rule specifically when this sign is present"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is that the sign permits that speed because it sets a minimum, not a maximum.",
+  "image": "images/q_20293.png"
+ },
+ {
+  "n": 20294,
+  "it": "Il segnale raffigurato indica il limite di velocità al di sotto del quale è vietato circolare",
+  "answer": true,
+  "en": "The sign shown indicates the speed limit below which it is forbidden to travel.",
+  "keywords": [
+   {
+    "phrase": "al di sotto del quale",
+    "why": "means below that value, not above it"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is that the prohibition applies to speeds below the indicated value.",
+  "image": "images/q_20294.png"
+ },
+ {
+  "n": 20295,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "expresses obligation, not just information"
+   }
+  ],
+  "trick": "The crucial point is that it is an obligation sign.",
+  "image": "images/q_20295.png"
+ },
+ {
+  "n": 20296,
+  "it": "Il segnale raffigurato impone di circolare ad una velocità di almeno 30 km/h",
+  "answer": true,
+  "en": "The sign shown requires driving at a speed of at least 30 km/h.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum, not an exact speed"
+   }
+  ],
+  "trick": "The trap is almeno, which means the speed is a minimum threshold.",
+  "image": "images/q_20296.png"
+ },
+ {
+  "n": 20297,
+  "it": "Il segnale raffigurato obbliga i veicoli a mantenere almeno la velocità indicata",
+  "answer": true,
+  "en": "The sign shown requires vehicles to maintain at least the indicated speed.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses a mandatory rule"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum value, not a maximum or exact one"
+   }
+  ],
+  "trick": "The key idea is that the indicated speed is the minimum that must be maintained.",
+  "image": "images/q_20297.png"
+ },
+ {
+  "n": 20298,
+  "it": "Il segnale raffigurato vieta il transito ai veicoli che non siano in grado di osservare la prescrizione",
+  "answer": true,
+  "en": "The sign shown prohibits the transit of vehicles that are not able to comply with the requirement.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses prohibition of passage"
+   },
+   {
+    "phrase": "non siano in grado di",
+    "why": "excludes vehicles unable to comply with the rule"
+   },
+   {
+    "phrase": "osservare la prescrizione",
+    "why": "means comply with the requirement, not merely notice it"
+   }
+  ],
+  "trick": "The trap is that vehicles unable to meet the required minimum speed are forbidden to proceed.",
+  "image": "images/q_20298.png"
+ },
+ {
+  "n": 20299,
+  "it": "Il segnale raffigurato consente di marciare alla velocità di 20 km/h",
+  "answer": false,
+  "en": "The sign shown allows travel at a speed of 20 km/h.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "20 km/h",
+    "why": "can mislead because the sign indicates a minimum speed higher than this"
+   }
+  ],
+  "trick": "The trick is that a minimum-speed sign does not permit travelling below the indicated minimum.",
+  "image": "images/q_20299.png"
+ },
+ {
+  "n": 20300,
+  "it": "Il segnale raffigurato indica la fine del limite massimo di velocità",
+  "answer": false,
+  "en": "The sign shown indicates the end of the maximum speed limit.",
+  "keywords": [
+   {
+    "phrase": "fine del limite massimo di velocità",
+    "why": "refers to the end of a maximum limit, which is different from a minimum-speed sign"
+   }
+  ],
+  "trick": "The trap is confusing a minimum-speed sign with the sign marking the end of a maximum speed limit.",
+  "image": "images/q_20300.png"
+ },
+ {
+  "n": 20301,
+  "it": "Il segnale raffigurato vieta di superare la velocità indicata",
+  "answer": false,
+  "en": "The sign shown forbids exceeding the indicated speed.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superare",
+    "why": "means exceeding a limit, which suggests a maximum-speed rule"
+   }
+  ],
+  "trick": "The sentence is tricky because it wrongly describes a maximum-speed prohibition instead of a minimum-speed obligation.",
+  "image": "images/q_20301.png"
+ },
+ {
+  "n": 20302,
+  "it": "Il segnale raffigurato consente di marciare ad una velocità superiore a 30 km/h, senza alcun limite",
+  "answer": false,
+  "en": "The sign shown allows travel at a speed higher than 30 km/h, without any limit.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza alcun limite",
+    "why": "incorrectly suggests there is no upper limit at all"
+   }
+  ],
+  "trick": "The trap is senza alcun limite, because a minimum-speed sign does not remove all other speed limits.",
+  "image": "images/q_20302.png"
+ },
+ {
+  "n": 20303,
+  "it": "Il segnale raffigurato prescrive di marciare alla velocità costante di 30 km/h",
+  "answer": false,
+  "en": "The sign shown prescribes travelling at the constant speed of 30 km/h.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "states a mandatory rule"
+   },
+   {
+    "phrase": "costante",
+    "why": "falsely turns a minimum speed into an exact fixed speed"
+   }
+  ],
+  "trick": "The key trap is costante: the sign sets a minimum speed, not one exact constant speed.",
+  "image": "images/q_20303.png"
+ },
+ {
+  "n": 20304,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "No major trap words; the key is recognizing the sign category correctly.",
+  "image": "images/q_20304.png"
+ },
+ {
+  "n": 20305,
+  "it": "Il segnale raffigurato vieta la circolazione ai veicoli che non sono in grado di marciare almeno a 30 km/h",
+  "answer": true,
+  "en": "The sign shown prohibits vehicles that are not able to travel at least 30 km/h from proceeding.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non sono in grado di",
+    "why": "negates ability, excluding such vehicles"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum threshold"
+   }
+  ],
+  "trick": "The sentence bans vehicles unable to reach the minimum speed of 30 km/h.",
+  "image": "images/q_20305.png"
+ },
+ {
+  "n": 20306,
+  "it": "Il segnale raffigurato prescrive un limite minimo di velocità",
+  "answer": true,
+  "en": "The sign shown prescribes a minimum speed limit.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses obligation, not mere information"
+   },
+   {
+    "phrase": "limite minimo",
+    "why": "means minimum, not maximum"
+   }
+  ],
+  "trick": "The trap is that this is a mandatory minimum speed, not a maximum limit.",
+  "image": "images/q_20306.png"
+ },
+ {
+  "n": 20307,
+  "it": "Il segnale raffigurato obbliga a mantenere una velocità non inferiore a 30 km/h",
+  "answer": true,
+  "en": "The sign shown requires you to maintain a speed not lower than 30 km/h.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non inferiore a",
+    "why": "means not less than, setting a minimum"
+   }
+  ],
+  "trick": "The phrase means you must keep at least 30 km/h, not at most 30 km/h.",
+  "image": "images/q_20307.png"
+ },
+ {
+  "n": 20308,
+  "it": "In presenza del segnale raffigurato è consentito circolare entro i limiti massimi di velocità vigenti per quella strada",
+  "answer": true,
+  "en": "In the presence of the sign shown, it is permitted to drive within the maximum speed limits in force for that road.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "entro i limiti massimi",
+    "why": "means up to the legal maximum, not beyond it"
+   },
+   {
+    "phrase": "vigenti",
+    "why": "refers to the limits currently in force"
+   }
+  ],
+  "trick": "The sentence says the minimum-speed sign still allows driving up to the road’s legal maximum speed.",
+  "image": "images/q_20308.png"
+ },
+ {
+  "n": 20309,
+  "it": "Il segnale raffigurato consente la circolazione ai veicoli che procedono a velocità uguale o superiore a quella indicata",
+  "answer": true,
+  "en": "The sign shown allows vehicles traveling at a speed equal to or higher than the one indicated to proceed.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "uguale o superiore a",
+    "why": "includes the exact value and anything above it"
+   }
+  ],
+  "trick": "The speed shown is a minimum threshold, including vehicles at exactly that speed.",
+  "image": "images/q_20309.png"
+ },
+ {
+  "n": 20310,
+  "it": "Il segnale raffigurato indica il limite massimo di velocità",
+  "answer": false,
+  "en": "The sign shown indicates the maximum speed limit.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "means maximum, not minimum"
+   }
+  ],
+  "trick": "The trap is confusing a minimum-speed sign with a maximum-speed sign.",
+  "image": "images/q_20310.png"
+ },
+ {
+  "n": 20311,
+  "it": "Il segnale raffigurato indica che la circolazione è riservata ai veicoli con velocità massima inferiore a quella indicata",
+  "answer": false,
+  "en": "The sign shown indicates that circulation is reserved for vehicles with a maximum speed lower than the one indicated.",
+  "keywords": [
+   {
+    "phrase": "è riservata",
+    "why": "means restricted/reserved use"
+   },
+   {
+    "phrase": "velocità massima inferiore",
+    "why": "refers to a vehicle's maximum capability being lower"
+   }
+  ],
+  "trick": "The statement wrongly shifts the meaning to vehicles whose top speed is below the value shown.",
+  "image": "images/q_20311.png"
+ },
+ {
+  "n": 20312,
+  "it": "Il segnale raffigurato vieta di marciare a velocità superiore a quella indicata",
+  "answer": false,
+  "en": "The sign shown prohibits traveling at a speed higher than the one indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a",
+    "why": "means above, setting an upper limit"
+   }
+  ],
+  "trick": "This wording describes a maximum-speed prohibition, not a minimum-speed requirement.",
+  "image": "images/q_20312.png"
+ },
+ {
+  "n": 20313,
+  "it": "Il segnale raffigurato consente di marciare alla velocità di 25 km/h",
+  "answer": false,
+  "en": "The sign shown allows traveling at a speed of 25 km/h.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is that a minimum-speed sign with 30 does not allow driving at 25 km/h.",
+  "image": "images/q_20313.png"
+ },
+ {
+  "n": 20314,
+  "it": "Il segnale raffigurato obbliga a mantenere la distanza minima di sicurezza di 30 metri dal veicolo che precede",
+  "answer": false,
+  "en": "The sign shown requires you to keep the minimum safety distance of 30 metres from the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "distanza minima di sicurezza",
+    "why": "refers to minimum following distance, not speed"
+   }
+  ],
+  "trick": "The statement confuses a minimum-speed sign with a minimum-distance rule.",
+  "image": "images/q_20314.png"
+ },
+ {
+  "n": 20315,
+  "it": "Il segnale raffigurato indica il divieto di transito ai veicoli con massa complessiva superiore a 30 t",
+  "answer": false,
+  "en": "The sign shown indicates no entry for vehicles with a total mass exceeding 30 tonnes.",
+  "keywords": [
+   {
+    "phrase": "divieto di transito",
+    "why": "expresses prohibition of entry/transit"
+   },
+   {
+    "phrase": "superiore a",
+    "why": "means above the stated limit"
+   }
+  ],
+  "trick": "The trap is confusing a speed sign with a weight restriction sign.",
+  "image": "images/q_20315.png"
+ },
+ {
+  "n": 20316,
+  "it": "Il segnale raffigurato consente di circolare a velocità inferiore a quella indicata",
+  "answer": false,
+  "en": "The sign shown allows driving at a speed lower than the one indicated.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "inferiore a",
+    "why": "means below the stated value"
+   }
+  ],
+  "trick": "A minimum-speed sign does not permit speeds below the value shown.",
+  "image": "images/q_20316.png"
+ },
+ {
+  "n": 20317,
+  "it": "Il segnale raffigurato indica la velocità consigliata",
+  "answer": false,
+  "en": "The sign shown indicates the recommended speed.",
+  "keywords": [
+   {
+    "phrase": "consigliata",
+    "why": "means recommended, not compulsory"
+   }
+  ],
+  "trick": "The trap is confusing a mandatory minimum speed with a recommended speed.",
+  "image": "images/q_20317.png"
+ },
+ {
+  "n": 20426,
+  "it": "Il segnale raffigurato prescrive di arrestarsi al varco doganale",
+  "answer": true,
+  "en": "The sign shown requires you to stop at the customs barrier.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "arrestarsi",
+    "why": "means to stop fully, not just slow down"
+   }
+  ],
+  "trick": "The sentence states a mandatory stop at customs.",
+  "image": "images/q_20426.png"
+ },
+ {
+  "n": 20427,
+  "it": "Il segnale raffigurato obbliga ad arrestarsi alla frontiera per il controllo doganale",
+  "answer": true,
+  "en": "The sign shown requires you to stop at the border for customs control.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad arrestarsi",
+    "why": "means to come to a full stop"
+   }
+  ],
+  "trick": "The mandatory action is to stop for customs checks at the border.",
+  "image": "images/q_20427.png"
+ },
+ {
+  "n": 20428,
+  "it": "Il segnale raffigurato indica che bisogna rallentare e fermarsi alla dogana",
+  "answer": true,
+  "en": "The sign shown indicates that you must slow down and stop at customs.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "means to stop, not merely pause"
+   }
+  ],
+  "trick": "The sentence requires both slowing down and stopping at customs.",
+  "image": "images/q_20428.png"
+ },
+ {
+  "n": 20429,
+  "it": "Il segnale raffigurato segnala un varco doganale al quale è obbligatorio fermarsi",
+  "answer": true,
+  "en": "The sign shown indicates a customs barrier where stopping is mandatory.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "means to stop fully"
+   }
+  ],
+  "trick": "The key meaning is that stopping at that customs point is compulsory.",
+  "image": "images/q_20429.png"
+ },
+ {
+  "n": 20430,
+  "it": "Il segnale raffigurato preannuncia la presenza di un commissariato di polizia",
+  "answer": false,
+  "en": "The sign shown warns of the presence of a police station.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice of"
+   },
+   {
+    "phrase": "la presenza di",
+    "why": "indicates presence/existence, not an instruction"
+   }
+  ],
+  "trick": "The trap is confusing a customs-stop sign with advance notice of a police station.",
+  "image": "images/q_20430.png"
+ },
+ {
+  "n": 20431,
+  "it": "Il segnale raffigurato obbliga a rallentare fermandosi al varco doganale solo se si hanno oggetti o merci da dichiarare",
+  "answer": false,
+  "en": "The sign shown requires you to slow down and stop at the customs barrier only if you have objects or goods to declare.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The trap is the exception phrase 'only if': the real rule is to stop regardless, not only when declaring goods.",
+  "image": "images/q_20431.png"
+ },
+ {
+  "n": 20432,
+  "it": "Il segnale raffigurato preannuncia la presenza di un comando stazione carabinieri",
+  "answer": false,
+  "en": "The sign shown warns of the presence of a Carabinieri station command post.",
+  "keywords": [],
+  "trick": "No major trap words; the statement mainly hinges on identifying the sign correctly.",
+  "image": "images/q_20432.png"
+ },
+ {
+  "n": 20433,
+  "it": "Il segnale raffigurato si trova solo alla frontiera con un paese della Comunità Europea",
+  "answer": false,
+  "en": "The sign shown is found only at the border with a European Community country.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "\"Solo\" makes the statement exclusive, which is a common source of mistakes.",
+  "image": "images/q_20433.png"
+ },
+ {
+  "n": 20434,
+  "it": "Il segnale raffigurato preannuncia la presenza di un posto di blocco stradale istituito da organi di polizia",
+  "answer": true,
+  "en": "The sign shown warns of the presence of a roadblock set up by the police authorities.",
+  "keywords": [],
+  "trick": "No key trap word; the main issue is the exact meaning of the sign.",
+  "image": "images/q_20434.png"
+ },
+ {
+  "n": 20435,
+  "it": "Il segnale raffigurato obbliga ad arrestarsi in prossimità di blocco stradale istituito da organi di polizia",
+  "answer": true,
+  "en": "The sign shown requires drivers to stop near a roadblock set up by the police authorities.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at the point"
+   }
+  ],
+  "trick": "The trap is the obligation to stop and the location being near the roadblock.",
+  "image": "images/q_20435.png"
+ },
+ {
+  "n": 20436,
+  "it": "Il segnale raffigurato indica l'obbligo di arresto ad un posto di blocco stradale istituito dagli organi di polizia",
+  "answer": true,
+  "en": "The sign shown indicates the obligation to stop at a roadblock set up by the police authorities.",
+  "keywords": [
+   {
+    "phrase": "obbligo di arresto",
+    "why": "expresses a mandatory stop"
+   }
+  ],
+  "trick": "The key trap is that this is a mandatory stop, not a warning or suggestion.",
+  "image": "images/q_20436.png"
+ },
+ {
+  "n": 20437,
+  "it": "Il segnale raffigurato segnala posto di blocco stradale istituito da organi di polizia al quale è obbligatorio fermarsi",
+  "answer": true,
+  "en": "The sign shown indicates a roadblock set up by the police authorities at which it is compulsory to stop.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio fermarsi",
+    "why": "states that stopping is mandatory"
+   }
+  ],
+  "trick": "The trap is the compulsory nature of the stop.",
+  "image": "images/q_20437.png"
+ },
+ {
+  "n": 20438,
+  "it": "Il segnale raffigurato, situato a distanza opportuna dal posto di blocco, è ripetuto all'altezza del punto di arresto",
+  "answer": true,
+  "en": "The sign shown, placed at an appropriate distance from the roadblock, is repeated at the stopping point.",
+  "keywords": [
+   {
+    "phrase": "a distanza opportuna",
+    "why": "does not mean immediately at the obstacle"
+   },
+   {
+    "phrase": "è ripetuto",
+    "why": "indicates the sign appears again"
+   }
+  ],
+  "trick": "The statement is tricky because it describes both advance placement and repetition at the stop line.",
+  "image": "images/q_20438.png"
+ },
+ {
+  "n": 20439,
+  "it": "Il segnale raffigurato obbliga a rallentare per essere pronti a fermarsi in caso di segnalazione da parte degli agenti",
+  "answer": false,
+  "en": "The sign shown requires drivers to slow down so as to be ready to stop if signalled by the officers.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the action to that condition"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to slow down, with stopping only if signalled.",
+  "image": "images/q_20439.png"
+ },
+ {
+  "n": 20440,
+  "it": "Il segnale raffigurato presegnala un confine di Stato con obbligo di arrestarsi",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a state border where stopping is compulsory.",
+  "keywords": [
+   {
+    "phrase": "con obbligo di arrestarsi",
+    "why": "adds a compulsory-stop meaning"
+   }
+  ],
+  "trick": "The tricky part is the added compulsory stop at a state border.",
+  "image": "images/q_20440.png"
+ },
+ {
+  "n": 20441,
+  "it": "Il segnale raffigurato segnala una stazione autostradale alla quale è obbligatorio fermarsi",
+  "answer": false,
+  "en": "The sign shown indicates a motorway station at which it is compulsory to stop.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio fermarsi",
+    "why": "states that stopping is mandatory"
+   }
+  ],
+  "trick": "The trap is the mandatory-stop wording attached to the wrong place.",
+  "image": "images/q_20441.png"
+ },
+ {
+  "n": 20442,
+  "it": "Il segnale raffigurato impone di fermarsi e dare precedenza ai mezzi della polizia",
+  "answer": false,
+  "en": "The sign shown requires drivers to stop and give way to police vehicles.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare precedenza",
+    "why": "means give way, not simply let pass"
+   }
+  ],
+  "trick": "The statement is tricky because it adds both a duty to stop and to give way.",
+  "image": "images/q_20442.png"
+ },
+ {
+  "n": 20443,
+  "it": "Il segnale raffigurato segnala la vicinanza di un controllo doganale",
+  "answer": false,
+  "en": "The sign shown indicates the proximity of a customs check.",
+  "keywords": [
+   {
+    "phrase": "vicinanza",
+    "why": "means nearby presence, not the checkpoint itself"
+   }
+  ],
+  "trick": "The trap is that it refers to a nearby customs check, not necessarily the exact point.",
+  "image": "images/q_20443.png"
+ },
+ {
+  "n": 20444,
+  "it": "Il segnale raffigurato obbliga ad arrestarsi all'accesso autostradale",
+  "answer": true,
+  "en": "The sign shown requires drivers to stop at the motorway entrance.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad arrestarsi",
+    "why": "means to stop, not merely slow down"
+   }
+  ],
+  "trick": "The key trap is the mandatory stop at the motorway access point.",
+  "image": "images/q_20444.png"
+ },
+ {
+  "n": 20445,
+  "it": "Il segnale raffigurato impone l'obbligo di rallentare e fermarsi per le operazioni di pedaggio autostradale",
+  "answer": true,
+  "en": "The sign shown imposes the obligation to slow down and stop for motorway toll operations.",
+  "keywords": [
+   {
+    "phrase": "impone l'obbligo",
+    "why": "reinforces that the action is mandatory"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "means come to a stop, not just reduce speed"
+   }
+  ],
+  "trick": "The trap is that both slowing down and stopping are mandatory for toll operations.",
+  "image": "images/q_20445.png"
+ },
+ {
+  "n": 20446,
+  "it": "Il segnale raffigurato segnala una stazione autostradale alla quale è obbligatorio fermarsi",
+  "answer": true,
+  "en": "The sign shown indicates a motorway station at which it is compulsory to stop.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio fermarsi",
+    "why": "states that stopping is mandatory"
+   }
+  ],
+  "trick": "The key trap is the compulsory stop at the motorway station.",
+  "image": "images/q_20446.png"
+ },
+ {
+  "n": 20447,
+  "it": "Il segnale raffigurato prescrive di arrestarsi al casello autostradale per le operazioni di pedaggio",
+  "answer": true,
+  "en": "The sign shown requires drivers to stop at the motorway toll booth for toll operations.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses a formal requirement"
+   },
+   {
+    "phrase": "arrestarsi",
+    "why": "means to stop completely"
+   }
+  ],
+  "trick": "The trap is that the sign formally requires a full stop for toll collection.",
+  "image": "images/q_20447.png"
+ },
+ {
+  "n": 20448,
+  "it": "Il segnale raffigurato è posto in corrispondenza degli accessi autostradali controllati dove è obbligatorio fermarsi",
+  "answer": true,
+  "en": "The sign shown is placed at controlled motorway entrances where it is compulsory to stop.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio fermarsi",
+    "why": "states that stopping is mandatory"
+   }
+  ],
+  "trick": "The tricky element is the mandatory stop at controlled motorway entrances.",
+  "image": "images/q_20448.png"
+ },
+ {
+  "n": 20449,
+  "it": "Il segnale raffigurato segnala la presenza di un comando stazione carabinieri, con posto di blocco",
+  "answer": false,
+  "en": "The sign shown indicates the presence of a Carabinieri station command post, with a roadblock.",
+  "keywords": [],
+  "trick": "No special trap word; the difficulty is the incorrect identification of the sign.",
+  "image": "images/q_20449.png"
+ },
+ {
+  "n": 20450,
+  "it": "Il segnale raffigurato preannuncia una stazione ferroviaria",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a railway station.",
+  "keywords": [],
+  "trick": "No genuine trap word; the statement depends on recognising the sign correctly.",
+  "image": "images/q_20450.png"
+ },
+ {
+  "n": 20451,
+  "it": "Il segnale raffigurato vieta l'accesso ad un'area riservata ai mezzi della società autostradale",
+  "answer": false,
+  "en": "The sign shown prohibits access to an area reserved for motorway company vehicles.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "riservata",
+    "why": "limits access to a specific group only"
+   }
+  ],
+  "trick": "The trap is the prohibition of access to an area reserved only for certain vehicles.",
+  "image": "images/q_20451.png"
+ },
+ {
+  "n": 20452,
+  "it": "Il segnale raffigurato indica il punto ove occorre fermarsi per caricare l'autovettura sul treno",
+  "answer": false,
+  "en": "The sign shown indicates the point where you must stop to load the car onto the train.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity: 'it is necessary/must'"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "means 'to stop oneself', not just 'stop' generally"
+   }
+  ],
+  "trick": "'Occorre fermarsi' expresses a required stop, not a possibility.",
+  "image": "images/q_20452.png"
+ },
+ {
+  "n": 20453,
+  "it": "Il segnale raffigurato può indicare il punto di arresto nei pontili d'imbarco di navi traghetto",
+  "answer": false,
+  "en": "The sign shown may indicate the stopping point on ferry embarkation piers.",
+  "keywords": [
+   {
+    "phrase": "può indicare",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "'Può indicare' means the sign may indicate this, not that it always does.",
+  "image": "images/q_20453.png"
+ },
+ {
+  "n": 20045,
+  "it": "Il segnale raffigurato indica l'obbligo di proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates the obligation to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation, not a suggestion"
+   }
+  ],
+  "trick": "The key idea is mandatory movement straight ahead.",
+  "image": "images/q_20045.png"
+ },
+ {
+  "n": 20046,
+  "it": "Il segnale raffigurato non consente la svolta a sinistra",
+  "answer": true,
+  "en": "The sign shown does not allow a left turn.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "'Non consente' means the manoeuvre is not permitted.",
+  "image": "images/q_20046.png"
+ },
+ {
+  "n": 20047,
+  "it": "Il segnale raffigurato, posto prima di un incrocio, obbliga a proseguire diritto",
+  "answer": true,
+  "en": "The sign shown, when placed before an intersection, requires you to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "posto prima di un incrocio",
+    "why": "limits the rule to placement before the intersection"
+   },
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The obligation applies in the specific case where the sign is before the intersection.",
+  "image": "images/q_20047.png"
+ },
+ {
+  "n": 20048,
+  "it": "Il segnale raffigurato, in corrispondenza di un incrocio, non consente la svolta a destra o a sinistra",
+  "answer": true,
+  "en": "The sign shown, when placed at an intersection, does not allow a right or left turn.",
+  "keywords": [
+   {
+    "phrase": "in corrispondenza di un incrocio",
+    "why": "limits the rule to at the intersection"
+   },
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "It forbids turning only in the stated intersection placement.",
+  "image": "images/q_20048.png"
+ },
+ {
+  "n": 20049,
+  "it": "Il segnale raffigurato indica l'unica direzione consentita",
+  "answer": true,
+  "en": "The sign shown indicates the only permitted direction.",
+  "keywords": [
+   {
+    "phrase": "unica",
+    "why": "restricts the rule to one direction only"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The sign allows one direction and excludes all others.",
+  "image": "images/q_20049.png"
+ },
+ {
+  "n": 20050,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [],
+  "trick": "There is no special trap beyond identifying it as a prescription sign.",
+  "image": "images/q_20050.png"
+ },
+ {
+  "n": 20051,
+  "it": "Il segnale raffigurato è un segnale di direzione obbligatoria",
+  "answer": true,
+  "en": "The sign shown is a mandatory direction sign.",
+  "keywords": [
+   {
+    "phrase": "obbligatoria",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The word 'obbligatoria' makes the direction compulsory.",
+  "image": "images/q_20051.png"
+ },
+ {
+  "n": 20052,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key meaning is that the sign imposes a duty.",
+  "image": "images/q_20052.png"
+ },
+ {
+  "n": 20053,
+  "it": "Il segnale raffigurato non consente la svolta a destra",
+  "answer": true,
+  "en": "The sign shown does not allow a right turn.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "The phrase means a right turn is not permitted.",
+  "image": "images/q_20053.png"
+ },
+ {
+  "n": 20054,
+  "it": "Il segnale raffigurato consente di svoltare a destra o a sinistra",
+  "answer": false,
+  "en": "The sign shown allows you to turn right or left.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "o",
+    "why": "means either of the two directions stated"
+   }
+  ],
+  "trick": "The statement claims permission to turn, which is the key meaning to track.",
+  "image": "images/q_20054.png"
+ },
+ {
+  "n": 20055,
+  "it": "Il segnale raffigurato consente di svoltare all'incrocio",
+  "answer": false,
+  "en": "The sign shown allows you to turn at the intersection.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "all'incrocio",
+    "why": "ties the action specifically to the intersection"
+   }
+  ],
+  "trick": "The claim is about being permitted to turn specifically at the intersection.",
+  "image": "images/q_20055.png"
+ },
+ {
+  "n": 20056,
+  "it": "Il segnale raffigurato indica l'inizio del senso unico di circolazione",
+  "answer": false,
+  "en": "The sign shown indicates the beginning of one-way traffic.",
+  "keywords": [],
+  "trick": "The main point is whether it indicates the start of one-way traffic.",
+  "image": "images/q_20056.png"
+ },
+ {
+  "n": 20057,
+  "it": "Il segnale raffigurato indica la fine del doppio senso di circolazione",
+  "answer": false,
+  "en": "The sign shown indicates the end of two-way traffic.",
+  "keywords": [],
+  "trick": "The statement is about 'end of two-way traffic', with no special wording trap.",
+  "image": "images/q_20057.png"
+ },
+ {
+  "n": 20058,
+  "it": "Il segnale raffigurato impone la marcia in unica fila",
+  "answer": false,
+  "en": "The sign shown requires travel in single file.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "unica fila",
+    "why": "means single file only"
+   }
+  ],
+  "trick": "The wording describes a compulsory single-file movement.",
+  "image": "images/q_20058.png"
+ },
+ {
+  "n": 20059,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "There is no special trap beyond the sign category.",
+  "image": "images/q_20059.png"
+ },
+ {
+  "n": 20060,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [],
+  "trick": "There is no special trap beyond the sign category.",
+  "image": "images/q_20060.png"
+ },
+ {
+  "n": 20061,
+  "it": "Il segnale raffigurato è un segnale di corsia",
+  "answer": false,
+  "en": "The sign shown is a lane sign.",
+  "keywords": [],
+  "trick": "There is no special trap beyond the sign category.",
+  "image": "images/q_20061.png"
+ },
+ {
+  "n": 20062,
+  "it": "Il segnale raffigurato preannuncia una direzione consigliata",
+  "answer": false,
+  "en": "The sign shown warns of a recommended direction ahead.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means 'gives advance notice', not 'indicates directly'"
+   },
+   {
+    "phrase": "consigliata",
+    "why": "means recommended, not mandatory"
+   }
+  ],
+  "trick": "The trap is the difference between advance warning and a mere recommendation, not an obligation.",
+  "image": "images/q_20062.png"
+ },
+ {
+  "n": 20063,
+  "it": "Il segnale raffigurato obbliga a svoltare a destra o a sinistra",
+  "answer": false,
+  "en": "The sign shown requires you to turn right or left.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not mere permission"
+   },
+   {
+    "phrase": "o",
+    "why": "means either of the two directions, not both"
+   }
+  ],
+  "trick": "Watch obligation words and alternatives: the sign requires one of the stated directions.",
+  "image": "images/q_20063.png"
+ },
+ {
+  "n": 20064,
+  "it": "Il segnale raffigurato esclude la possibilità che provengano veicoli di fronte",
+  "answer": false,
+  "en": "The sign shown rules out the possibility of vehicles coming from the opposite direction.",
+  "keywords": [
+   {
+    "phrase": "esclude",
+    "why": "means rules out completely"
+   },
+   {
+    "phrase": "di fronte",
+    "why": "means from the opposite direction, not simply ahead"
+   }
+  ],
+  "trick": "Absolute wording like 'esclude' can make a statement false if the sign does not fully rule something out.",
+  "image": "images/q_20064.png"
+ },
+ {
+  "n": 20065,
+  "it": "Il segnale raffigurato indica un senso unico frontale",
+  "answer": false,
+  "en": "The sign shown indicates a one-way street straight ahead.",
+  "keywords": [
+   {
+    "phrase": "senso unico frontale",
+    "why": "means one-way ahead, a specific traffic layout term"
+   }
+  ],
+  "trick": "Traffic-layout terms can be confused with direction-of-mandatory-travel signs.",
+  "image": "images/q_20065.png"
+ },
+ {
+  "n": 20066,
+  "it": "Il segnale raffigurato indica l'obbligo di svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates the obligation to turn left.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses a mandatory action"
+   }
+  ],
+  "trick": "The key trap is obligation language: it means the turn is required.",
+  "image": "images/q_20066.png"
+ },
+ {
+  "n": 20067,
+  "it": "Il segnale raffigurato non consente di svoltare a destra",
+  "answer": true,
+  "en": "The sign shown does not allow you to turn right.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   }
+  ],
+  "trick": "Negated permission means the maneuver is not allowed.",
+  "image": "images/q_20067.png"
+ },
+ {
+  "n": 20068,
+  "it": "Il segnale raffigurato, posto prima di un incrocio, obbliga a svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown, when placed before an intersection, requires you to turn left.",
+  "keywords": [
+   {
+    "phrase": "posto prima di un incrocio",
+    "why": "limits the rule to placement before an intersection"
+   },
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not suggestion"
+   }
+  ],
+  "trick": "Placement matters here: before the intersection, the sign imposes a mandatory left turn.",
+  "image": "images/q_20068.png"
+ },
+ {
+  "n": 20069,
+  "it": "Il segnale raffigurato, in corrispondenza di un incrocio, non consente di proseguire diritto",
+  "answer": true,
+  "en": "The sign shown, at an intersection, does not allow you to continue straight on.",
+  "keywords": [
+   {
+    "phrase": "in corrispondenza di un incrocio",
+    "why": "restricts the rule to at the intersection"
+   },
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "means continue straight ahead"
+   }
+  ],
+  "trick": "The statement combines location and negated permission: at the junction, going straight is not allowed.",
+  "image": "images/q_20069.png"
+ },
+ {
+  "n": 20070,
+  "it": "Il segnale raffigurato indica l'unica direzione consentita",
+  "answer": true,
+  "en": "The sign shown indicates the only permitted direction.",
+  "keywords": [
+   {
+    "phrase": "unica",
+    "why": "restricts the rule to only one direction"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission, not obligation wording"
+   }
+  ],
+  "trick": "Words like 'unica' sharply limit what is allowed.",
+  "image": "images/q_20070.png"
+ },
+ {
+  "n": 20071,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [
+   {
+    "phrase": "prescrizione",
+    "why": "technical term for regulatory signs"
+   }
+  ],
+  "trick": "This uses a category label that learners often confuse with indication signs.",
+  "image": "images/q_20071.png"
+ },
+ {
+  "n": 20072,
+  "it": "Il segnale raffigurato è un segnale di direzione obbligatoria",
+  "answer": true,
+  "en": "The sign shown is a mandatory-direction sign.",
+  "keywords": [
+   {
+    "phrase": "direzione obbligatoria",
+    "why": "technical term showing a required direction"
+   }
+  ],
+  "trick": "The trap is the technical category name, which signals obligation.",
+  "image": "images/q_20072.png"
+ },
+ {
+  "n": 20073,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "technical category indicating obligation"
+   }
+  ],
+  "trick": "The key is recognizing 'obbligo' as the mandatory-sign category.",
+  "image": "images/q_20073.png"
+ },
+ {
+  "n": 20074,
+  "it": "Il segnale raffigurato consente di andare diritto all'incrocio",
+  "answer": false,
+  "en": "The sign shown allows you to go straight at the intersection.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "diritto",
+    "why": "means straight ahead"
+   },
+   {
+    "phrase": "all'incrocio",
+    "why": "limits the statement to at the intersection"
+   }
+  ],
+  "trick": "Permission plus location can be misleading if the sign actually requires a different direction.",
+  "image": "images/q_20074.png"
+ },
+ {
+  "n": 20075,
+  "it": "Il segnale raffigurato consente di svoltare a destra all'incrocio",
+  "answer": false,
+  "en": "The sign shown allows you to turn right at the intersection.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a destra",
+    "why": "specifies the exact direction allowed or not allowed"
+   },
+   {
+    "phrase": "all'incrocio",
+    "why": "limits the statement to at the intersection"
+   }
+  ],
+  "trick": "Direction-specific permission is the trap here.",
+  "image": "images/q_20075.png"
+ },
+ {
+  "n": 20076,
+  "it": "Il segnale raffigurato indica l'inizio del senso unico di circolazione dopo una svolta a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates the beginning of one-way traffic after a left turn.",
+  "keywords": [
+   {
+    "phrase": "l'inizio",
+    "why": "means the start, not the end"
+   },
+   {
+    "phrase": "dopo una svolta a sinistra",
+    "why": "ties the meaning to after turning left"
+   }
+  ],
+  "trick": "Beginning/end and the turn direction are the main details that can mislead.",
+  "image": "images/q_20076.png"
+ },
+ {
+  "n": 20077,
+  "it": "Il segnale raffigurato indica la fine del doppio senso di circolazione dopo una svolta a destra",
+  "answer": false,
+  "en": "The sign shown indicates the end of two-way traffic after a right turn.",
+  "keywords": [
+   {
+    "phrase": "la fine",
+    "why": "means the end, not the beginning"
+   },
+   {
+    "phrase": "doppio senso di circolazione",
+    "why": "technical term for two-way traffic"
+   },
+   {
+    "phrase": "dopo una svolta a destra",
+    "why": "ties the meaning to after turning right"
+   }
+  ],
+  "trick": "Learners often mix up start/end and one-way/two-way traffic terms.",
+  "image": "images/q_20077.png"
+ },
+ {
+  "n": 20078,
+  "it": "Il segnale raffigurato indica che è obbligatorio passare a sinistra di un ostacolo posto sulla carreggiata",
+  "answer": false,
+  "en": "The sign shown indicates that it is mandatory to pass to the left of an obstacle on the carriageway.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "passare a sinistra",
+    "why": "specifies passing on the left side"
+   },
+   {
+    "phrase": "ostacolo posto sulla carreggiata",
+    "why": "describes a road obstacle, a specific situation"
+   }
+  ],
+  "trick": "The trap is the very specific obligation to pass an obstacle on a stated side.",
+  "image": "images/q_20078.png"
+ },
+ {
+  "n": 20079,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an indication sign.",
+  "keywords": [
+   {
+    "phrase": "indicazione",
+    "why": "technical category often confused with mandatory signs"
+   }
+  ],
+  "trick": "This is a category-label trap: indication signs are different from mandatory signs.",
+  "image": "images/q_20079.png"
+ },
+ {
+  "n": 20080,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "technical category for prohibitory signs"
+   }
+  ],
+  "trick": "The trap is confusing prohibition signs with mandatory signs.",
+  "image": "images/q_20080.png"
+ },
+ {
+  "n": 20081,
+  "it": "Il segnale raffigurato indica che la strada che si incrocia è a senso unico verso sinistra",
+  "answer": false,
+  "en": "The sign shown indicates that the road being crossed is one-way to the left.",
+  "keywords": [
+   {
+    "phrase": "la strada che si incrocia",
+    "why": "refers to the intersecting road, not your road"
+   },
+   {
+    "phrase": "a senso unico verso sinistra",
+    "why": "means one-way toward the left"
+   }
+  ],
+  "trick": "The intersecting-road wording often causes learners to apply the rule to the wrong road.",
+  "image": "images/q_20081.png"
+ },
+ {
+  "n": 20082,
+  "it": "Il segnale raffigurato indica un senso unico parallelo",
+  "answer": false,
+  "en": "The sign shown indicates a one-way street running parallel.",
+  "keywords": [
+   {
+    "phrase": "senso unico parallelo",
+    "why": "technical term for a parallel one-way street"
+   }
+  ],
+  "trick": "This traffic-layout term is easy to confuse with other one-way indications.",
+  "image": "images/q_20082.png"
+ },
+ {
+  "n": 20083,
+  "it": "Il segnale raffigurato indica che si può svoltare soltanto a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates that you may turn left only.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "Watch permission versus obligation, and note that soltanto limits it to left only.",
+  "image": "images/q_20083.png"
+ },
+ {
+  "n": 20084,
+  "it": "Il segnale raffigurato indica che non è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates that it is not permitted to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negated permission"
+   }
+  ],
+  "trick": "Non è consentito means prohibited, not merely discouraged.",
+  "image": "images/q_20084.png"
+ },
+ {
+  "n": 20085,
+  "it": "Il segnale raffigurato indica il divieto di svoltare a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates a prohibition on turning left.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "Divieto signals a ban, which changes the statement's meaning completely.",
+  "image": "images/q_20085.png"
+ },
+ {
+  "n": 20086,
+  "it": "Il segnale raffigurato indica che ci si può fermare sulla sinistra della strada",
+  "answer": false,
+  "en": "The sign shown indicates that you may stop on the left side of the road.",
+  "keywords": [
+   {
+    "phrase": "ci si può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Ci si può indicates something is allowed, not required.",
+  "image": "images/q_20086.png"
+ },
+ {
+  "n": 20087,
+  "it": "Il segnale raffigurato indica l'obbligo di proseguire diritto",
+  "answer": false,
+  "en": "The sign shown indicates an obligation to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation, not simple indication"
+   }
+  ],
+  "trick": "Obbligo means the maneuver is mandatory.",
+  "image": "images/q_20087.png"
+ },
+ {
+  "n": 20088,
+  "it": "Il segnale raffigurato significa che bisogna aggirare l'ostacolo a sinistra",
+  "answer": false,
+  "en": "The sign shown means that you must pass the obstacle on the left.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "Bisogna makes the action mandatory.",
+  "image": "images/q_20088.png"
+ },
+ {
+  "n": 20089,
+  "it": "Il segnale raffigurato significa preavviso di curva a sinistra",
+  "answer": false,
+  "en": "The sign shown means advance warning of a left-hand bend.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the challenge is identifying the sign category correctly.",
+  "image": "images/q_20089.png"
+ },
+ {
+  "n": 20090,
+  "it": "Il segnale raffigurato indica l'obbligo di svoltare a destra",
+  "answer": true,
+  "en": "The sign shown indicates an obligation to turn right.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation, not permission"
+   }
+  ],
+  "trick": "Obbligo means turning right is required.",
+  "image": "images/q_20090.png"
+ },
+ {
+  "n": 20091,
+  "it": "Il segnale raffigurato non consente di svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown does not allow you to turn left.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission, so it means prohibition"
+   }
+  ],
+  "trick": "Non consente means the maneuver is not allowed.",
+  "image": "images/q_20091.png"
+ },
+ {
+  "n": 20092,
+  "it": "Il segnale raffigurato, in corrispondenza di un incrocio, obbliga a svoltare a destra",
+  "answer": true,
+  "en": "The sign shown, at a junction, requires you to turn right.",
+  "keywords": [
+   {
+    "phrase": "in corrispondenza di un incrocio",
+    "why": "limits the rule to the junction location"
+   },
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The location phrase limits where the rule applies, and obbliga makes it mandatory.",
+  "image": "images/q_20092.png"
+ },
+ {
+  "n": 20093,
+  "it": "Il segnale raffigurato, posto prima di un incrocio, non consente di proseguire diritto",
+  "answer": true,
+  "en": "The sign shown, placed before a junction, does not allow you to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "posto prima di un incrocio",
+    "why": "limits the statement to a position before the junction"
+   },
+   {
+    "phrase": "non consente",
+    "why": "negates permission, so it means prohibition"
+   }
+  ],
+  "trick": "The position matters, and non consente means straight ahead is prohibited.",
+  "image": "images/q_20093.png"
+ },
+ {
+  "n": 20094,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "There are no key negation or obligation trap words in this sentence.",
+  "image": "images/q_20094.png"
+ },
+ {
+  "n": 20095,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "identifies the sign as expressing obligation"
+   }
+  ],
+  "trick": "Obbligo marks this as a mandatory sign category.",
+  "image": "images/q_20095.png"
+ },
+ {
+  "n": 20096,
+  "it": "Il segnale raffigurato è un segnale di direzione obbligatoria",
+  "answer": true,
+  "en": "The sign shown is a mandatory direction sign.",
+  "keywords": [
+   {
+    "phrase": "obbligatoria",
+    "why": "expresses that the direction is mandatory"
+   }
+  ],
+  "trick": "Obbligatoria means the indicated direction must be followed.",
+  "image": "images/q_20096.png"
+ },
+ {
+  "n": 20097,
+  "it": "Il segnale raffigurato indica l'unica direzione consentita",
+  "answer": true,
+  "en": "The sign shown indicates the only permitted direction.",
+  "keywords": [
+   {
+    "phrase": "l'unica",
+    "why": "restricts the rule to one direction only"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission, excluding other directions"
+   }
+  ],
+  "trick": "Unica and consentita together mean only one direction is allowed.",
+  "image": "images/q_20097.png"
+ },
+ {
+  "n": 20098,
+  "it": "Il segnale raffigurato indica che è pericoloso svoltare a destra",
+  "answer": false,
+  "en": "The sign shown indicates that it is dangerous to turn right.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the issue is confusing danger with obligation.",
+  "image": "images/q_20098.png"
+ },
+ {
+  "n": 20099,
+  "it": "Il segnale raffigurato prescrive di proseguire diritto",
+  "answer": false,
+  "en": "The sign shown requires you to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses a requirement or order"
+   }
+  ],
+  "trick": "Prescrive means the action is required, not optional.",
+  "image": "images/q_20099.png"
+ },
+ {
+  "n": 20100,
+  "it": "Il segnale raffigurato indica l'inizio del senso unico di circolazione nella svolta a destra",
+  "answer": false,
+  "en": "The sign shown indicates the beginning of one-way traffic in the right turn.",
+  "keywords": [],
+  "trick": "There are no key negation or exception traps here; the difficulty is the traffic-sign meaning.",
+  "image": "images/q_20100.png"
+ },
+ {
+  "n": 20101,
+  "it": "Il segnale raffigurato indica la fine del doppio senso di circolazione nella svolta a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates the end of two-way traffic in the left turn.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the challenge is sign interpretation.",
+  "image": "images/q_20101.png"
+ },
+ {
+  "n": 20102,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "There are no key negation or obligation trap words in this sentence.",
+  "image": "images/q_20102.png"
+ },
+ {
+  "n": 20103,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "indicates prohibition, not obligation or permission"
+   }
+  ],
+  "trick": "Watch for words that classify the sign type, especially prohibition versus obligation.",
+  "image": "images/q_20103.png"
+ },
+ {
+  "n": 20104,
+  "it": "Il segnale raffigurato indica che la strada che si incrocia è a senso unico verso destra",
+  "answer": false,
+  "en": "The sign shown indicates that the road you are crossing is one-way to the right.",
+  "keywords": [
+   {
+    "phrase": "a senso unico",
+    "why": "means one-way traffic, a specific road layout term"
+   },
+   {
+    "phrase": "verso destra",
+    "why": "sets the direction precisely to the right"
+   }
+  ],
+  "trick": "Direction and road-layout terms can change the statement completely.",
+  "image": "images/q_20104.png"
+ },
+ {
+  "n": 20105,
+  "it": "Il segnale raffigurato indica un senso unico parallelo",
+  "answer": false,
+  "en": "The sign shown indicates a parallel one-way street.",
+  "keywords": [
+   {
+    "phrase": "senso unico parallelo",
+    "why": "is a specific expression, not just any one-way street"
+   }
+  ],
+  "trick": "Special road-sign phrases may have a narrower meaning than the individual words suggest.",
+  "image": "images/q_20105.png"
+ },
+ {
+  "n": 20106,
+  "it": "Il segnale raffigurato indica direzione obbligatoria a destra",
+  "answer": true,
+  "en": "The sign shown indicates a mandatory direction to the right.",
+  "keywords": [
+   {
+    "phrase": "obbligatoria",
+    "why": "expresses obligation, not a simple indication"
+   },
+   {
+    "phrase": "a destra",
+    "why": "fixes the required direction as right"
+   }
+  ],
+  "trick": "Obligation words are key because they make the maneuver required, not optional.",
+  "image": "images/q_20106.png"
+ },
+ {
+  "n": 20107,
+  "it": "Il segnale raffigurato indica che si può svoltare soltanto a destra",
+  "answer": true,
+  "en": "The sign shown indicates that you may turn only to the right.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to this one option only"
+   },
+   {
+    "phrase": "a destra",
+    "why": "fixes the only permitted direction as right"
+   }
+  ],
+  "trick": "Permission plus 'only' can be confused with obligation, but both must be read carefully.",
+  "image": "images/q_20107.png"
+ },
+ {
+  "n": 20108,
+  "it": "Il segnale raffigurato indica che non è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates that going straight ahead is not permitted.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negated permission"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "specifies the forbidden action as continuing straight ahead"
+   }
+  ],
+  "trick": "Negated permission means the action is forbidden.",
+  "image": "images/q_20108.png"
+ },
+ {
+  "n": 20109,
+  "it": "Il segnale raffigurato indica che si deve svoltare a destra",
+  "answer": true,
+  "en": "The sign shown indicates that you must turn right.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "a destra",
+    "why": "fixes the required direction as right"
+   }
+  ],
+  "trick": "The verb form shows that the turn is mandatory.",
+  "image": "images/q_20109.png"
+ },
+ {
+  "n": 20110,
+  "it": "Il segnale raffigurato indica il divieto di svoltare a destra",
+  "answer": false,
+  "en": "The sign shown indicates a prohibition on turning right.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "signals prohibition, the opposite of obligation"
+   },
+   {
+    "phrase": "svoltare a destra",
+    "why": "identifies the specific maneuver affected"
+   }
+  ],
+  "trick": "Do not confuse a prohibition sign with a mandatory-direction sign.",
+  "image": "images/q_20110.png"
+ },
+ {
+  "n": 20111,
+  "it": "Il segnale raffigurato indica un'area di parcheggio a destra",
+  "answer": false,
+  "en": "The sign shown indicates a parking area on the right.",
+  "keywords": [
+   {
+    "phrase": "parcheggio",
+    "why": "refers to parking, not turning or direction obligation"
+   },
+   {
+    "phrase": "a destra",
+    "why": "could be mistaken for a turn-right instruction"
+   }
+  ],
+  "trick": "The location 'on the right' is not the same as an instruction to turn right.",
+  "image": "images/q_20111.png"
+ },
+ {
+  "n": 20112,
+  "it": "Il segnale raffigurato indica l'obbligo di proseguire diritto",
+  "answer": false,
+  "en": "The sign shown indicates an obligation to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses a mandatory action"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "specifies continuing straight ahead, not turning"
+   }
+  ],
+  "trick": "The key contrast is between mandatory straight-ahead movement and other directions.",
+  "image": "images/q_20112.png"
+ },
+ {
+  "n": 20113,
+  "it": "Il segnale raffigurato indica di passare a destra dell'ostacolo",
+  "answer": false,
+  "en": "The sign shown indicates that you must pass to the right of the obstacle.",
+  "keywords": [
+   {
+    "phrase": "passare a destra dell'ostacolo",
+    "why": "is a specific mandatory route around an obstacle"
+   }
+  ],
+  "trick": "This phrase refers to passing an obstacle, not simply turning right.",
+  "image": "images/q_20113.png"
+ },
+ {
+  "n": 20114,
+  "it": "Il segnale raffigurato indica preavviso di curva a destra",
+  "answer": false,
+  "en": "The sign shown indicates advance warning of a right-hand bend.",
+  "keywords": [
+   {
+    "phrase": "preavviso",
+    "why": "means advance warning, not the actual rule at the spot"
+   },
+   {
+    "phrase": "curva a destra",
+    "why": "refers to a bend, not a mandatory turn"
+   }
+  ],
+  "trick": "Advance warning signs are different from signs imposing an immediate obligation.",
+  "image": "images/q_20114.png"
+ },
+ {
+  "n": 20115,
+  "it": "Il segnale raffigurato è un preavviso di obbligo di svoltare a destra",
+  "answer": true,
+  "en": "The sign shown is an advance warning of an obligation to turn right.",
+  "keywords": [
+   {
+    "phrase": "preavviso",
+    "why": "means advance warning, not immediate obligation"
+   },
+   {
+    "phrase": "obbligo",
+    "why": "expresses a mandatory maneuver"
+   },
+   {
+    "phrase": "svoltare a destra",
+    "why": "identifies the required turn as right"
+   }
+  ],
+  "trick": "The sign warns in advance about an upcoming mandatory right turn.",
+  "image": "images/q_20115.png"
+ },
+ {
+  "n": 20116,
+  "it": "Il segnale raffigurato preannuncia che non è consentito proseguire diritto o svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown warns in advance that going straight ahead or turning left is not permitted.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it announces in advance, not at the exact point"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negated permission"
+   },
+   {
+    "phrase": "o",
+    "why": "links both forbidden actions, not just one"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "specifies one forbidden action as continuing straight ahead"
+   },
+   {
+    "phrase": "svoltare a sinistra",
+    "why": "specifies the other forbidden action as turning left"
+   }
+  ],
+  "trick": "Read both the advance-warning element and the two prohibited actions joined by 'or'.",
+  "image": "images/q_20116.png"
+ },
+ {
+  "n": 20117,
+  "it": "Il segnale raffigurato precede un incrocio con obbligo di svoltare a destra",
+  "answer": true,
+  "en": "The sign shown comes before an intersection where turning right is mandatory.",
+  "keywords": [
+   {
+    "phrase": "precede",
+    "why": "shows the sign is placed before the junction"
+   },
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "svoltare a destra",
+    "why": "identifies the required maneuver as turning right"
+   }
+  ],
+  "trick": "The statement combines advance placement with a mandatory right turn at the intersection.",
+  "image": "images/q_20117.png"
+ },
+ {
+  "n": 20118,
+  "it": "Il segnale raffigurato preannuncia un incrocio ove non è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown warns in advance of an intersection where going straight ahead is not permitted.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it gives advance notice"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negated permission"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "specifies the forbidden movement as continuing straight ahead"
+   }
+  ],
+  "trick": "The key trap is that the sign gives advance warning of a prohibition, not an immediate command.",
+  "image": "images/q_20118.png"
+ },
+ {
+  "n": 20119,
+  "it": "Il segnale raffigurato preannuncia che non è consentito girare a sinistra",
+  "answer": true,
+  "en": "The sign shown warns in advance that turning left is not permitted.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means advance warning, not immediate effect"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negated permission"
+   },
+   {
+    "phrase": "girare a sinistra",
+    "why": "specifies the forbidden maneuver as turning left"
+   }
+  ],
+  "trick": "Negated permission and advance warning must both be preserved.",
+  "image": "images/q_20119.png"
+ },
+ {
+  "n": 20120,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a mandatory/regulatory sign.",
+  "keywords": [
+   {
+    "phrase": "prescrizione",
+    "why": "is a broad category covering mandatory or restrictive rules"
+   }
+  ],
+  "trick": "This category word is broader than a simple prohibition or obligation label.",
+  "image": "images/q_20120.png"
+ },
+ {
+  "n": 20121,
+  "it": "Il segnale raffigurato preannuncia l'unica direzione consentita",
+  "answer": true,
+  "en": "The sign shown warns in advance of the only permitted direction.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means it announces in advance"
+   },
+   {
+    "phrase": "l'unica",
+    "why": "restricts the rule to one direction only"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission, not obligation directly"
+   }
+  ],
+  "trick": "The phrase combines advance warning with a single permitted direction.",
+  "image": "images/q_20121.png"
+ },
+ {
+  "n": 20122,
+  "it": "Il segnale raffigurato è un segnale d'obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "d'obbligo",
+    "why": "identifies the sign as one imposing an obligation"
+   }
+  ],
+  "trick": "This term classifies the sign as imposing a required action.",
+  "image": "images/q_20122.png"
+ },
+ {
+  "n": 20123,
+  "it": "Il segnale raffigurato può essere integrato con un pannello che indica la distanza dal punto in cui vige l'obbligo",
+  "answer": true,
+  "en": "The sign shown may be supplemented with a panel indicating the distance from the point where the obligation applies.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "vige l'obbligo",
+    "why": "means the obligation is in force from that point"
+   }
+  ],
+  "trick": "Watch for possibility and for the point where the obligation starts to apply.",
+  "image": "images/q_20123.png"
+ },
+ {
+  "n": 20124,
+  "it": "Il segnale raffigurato indica che non è consentito svoltare a destra al prossimo incrocio",
+  "answer": false,
+  "en": "The sign shown indicates that turning right at the next intersection is not permitted.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition by negating permission"
+   },
+   {
+    "phrase": "al prossimo incrocio",
+    "why": "limits the rule to the next junction"
+   }
+  ],
+  "trick": "The trap is the prohibition wording and that it refers specifically to the next intersection.",
+  "image": "images/q_20124.png"
+ },
+ {
+  "n": 20125,
+  "it": "Il segnale raffigurato obbliga ad andare diritto o svoltare a destra",
+  "answer": false,
+  "en": "The sign shown requires you to go straight ahead or turn right.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "o",
+    "why": "gives an alternative between the two directions"
+   }
+  ],
+  "trick": "The key trap is that it imposes one of two allowed mandatory directions.",
+  "image": "images/q_20125.png"
+ },
+ {
+  "n": 20126,
+  "it": "Il segnale raffigurato prescrive l'obbligo di passare a destra di un ostacolo",
+  "answer": false,
+  "en": "The sign shown prescribes the obligation to pass to the right of an obstacle.",
+  "keywords": [
+   {
+    "phrase": "prescrive l'obbligo",
+    "why": "strongly states a mandatory requirement"
+   },
+   {
+    "phrase": "a destra",
+    "why": "the side matters and can be confused with left"
+   }
+  ],
+  "trick": "The trap is the mandatory nature and the exact side indicated.",
+  "image": "images/q_20126.png"
+ },
+ {
+  "n": 20127,
+  "it": "Il segnale raffigurato indica una curva pericolosa a destra",
+  "answer": false,
+  "en": "The sign shown indicates a dangerous right-hand bend.",
+  "keywords": [
+   {
+    "phrase": "curva pericolosa",
+    "why": "refers to a hazard warning, not an obligation"
+   },
+   {
+    "phrase": "a destra",
+    "why": "the direction can be easily reversed"
+   }
+  ],
+  "trick": "The main trap is confusing a danger warning with a mandatory-direction sign.",
+  "image": "images/q_20127.png"
+ },
+ {
+  "n": 20128,
+  "it": "Il segnale raffigurato presegnala una confluenza a destra",
+  "answer": false,
+  "en": "The sign shown gives advance warning of a merging road from the right.",
+  "keywords": [
+   {
+    "phrase": "presegnala",
+    "why": "means gives advance warning, not that it is at the spot"
+   },
+   {
+    "phrase": "confluenza a destra",
+    "why": "describes traffic merging from the right"
+   }
+  ],
+  "trick": "The trap is that it would be an advance warning of a merge from the right, not an immediate order.",
+  "image": "images/q_20128.png"
+ },
+ {
+  "n": 20129,
+  "it": "Il segnale raffigurato obbliga gli autocarri ed i veicoli lenti ad incolonnarsi sulla corsia di destra",
+  "answer": false,
+  "en": "The sign shown requires lorries and slow vehicles to line up in the right-hand lane.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "gli autocarri ed i veicoli lenti",
+    "why": "restricts the rule to specific vehicle categories"
+   },
+   {
+    "phrase": "corsia di destra",
+    "why": "the exact lane matters"
+   }
+  ],
+  "trick": "The trap is the restricted vehicle classes and the mandatory use of the right lane.",
+  "image": "images/q_20129.png"
+ },
+ {
+  "n": 20130,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "means prohibition, often confused with obligation"
+   }
+  ],
+  "trick": "The key trap is distinguishing a prohibition sign from an obligation sign.",
+  "image": "images/q_20130.png"
+ },
+ {
+  "n": 20131,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di indicazione",
+    "why": "means information sign, not obligation or warning"
+   }
+  ],
+  "trick": "The trap is the category name, which is easy to confuse with other sign types.",
+  "image": "images/q_20131.png"
+ },
+ {
+  "n": 20132,
+  "it": "Il segnale raffigurato è un segnale di preavviso di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign giving advance notice of danger.",
+  "keywords": [
+   {
+    "phrase": "preavviso di pericolo",
+    "why": "means advance warning of danger, not an order"
+   }
+  ],
+  "trick": "The trap is confusing a warning category with a mandatory sign.",
+  "image": "images/q_20132.png"
+ },
+ {
+  "n": 20133,
+  "it": "Il segnale raffigurato preannuncia una corsia di decelerazione",
+  "answer": false,
+  "en": "The sign shown gives advance notice of a deceleration lane.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means announces in advance, not at the exact point"
+   }
+  ],
+  "trick": "The key trap is the advance-warning meaning of the verb.",
+  "image": "images/q_20133.png"
+ },
+ {
+  "n": 20134,
+  "it": "Il segnale raffigurato precede il segnale di DIREZIONE OBBLIGATORIA A DESTRA",
+  "answer": true,
+  "en": "The sign shown comes before the sign 'MANDATORY DIRECTION TO THE RIGHT'.",
+  "keywords": [
+   {
+    "phrase": "precede",
+    "why": "means it is placed before another sign, not that it is that sign"
+   },
+   {
+    "phrase": "DIREZIONE OBBLIGATORIA A DESTRA",
+    "why": "states a mandatory direction to the right"
+   }
+  ],
+  "trick": "The trap is that this sign comes before the mandatory-right sign rather than being the same sign.",
+  "image": "images/q_20134.png"
+ },
+ {
+  "n": 20135,
+  "it": "Il segnale raffigurato preannuncia che non è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown gives advance notice that going straight ahead is not permitted.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice, not immediate application"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition by negating permission"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "specifically means continue straight ahead"
+   }
+  ],
+  "trick": "The trap is a future prohibition signalled in advance, specifically about continuing straight.",
+  "image": "images/q_20135.png"
+ },
+ {
+  "n": 20136,
+  "it": "Il segnale raffigurato preannuncia che non è consentito svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown gives advance notice that turning left is not permitted.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice, not immediate application"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition by negating permission"
+   },
+   {
+    "phrase": "svoltare a sinistra",
+    "why": "the exact direction is easy to confuse"
+   }
+  ],
+  "trick": "The trap is the advance notice of a prohibition and the specific direction left.",
+  "image": "images/q_20136.png"
+ },
+ {
+  "n": 20137,
+  "it": "Il segnale raffigurato è posto prima di un incrocio",
+  "answer": true,
+  "en": "The sign shown is placed before an intersection.",
+  "keywords": [
+   {
+    "phrase": "prima di",
+    "why": "indicates position before, not at the intersection"
+   }
+  ],
+  "trick": "The trap is the location: before the junction, not on it.",
+  "image": "images/q_20137.png"
+ },
+ {
+  "n": 20138,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "means a mandatory sign, often confused with prohibition"
+   }
+  ],
+  "trick": "The key trap is the sign category: obligation, not prohibition or warning.",
+  "image": "images/q_20138.png"
+ },
+ {
+  "n": 20139,
+  "it": "Il segnale raffigurato preannuncia un senso unico",
+  "answer": false,
+  "en": "The sign shown gives advance notice of a one-way street.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means gives advance notice, not immediate indication"
+   },
+   {
+    "phrase": "senso unico",
+    "why": "means one-way traffic"
+   }
+  ],
+  "trick": "The trap is the advance-warning idea and the specific concept of one-way traffic.",
+  "image": "images/q_20139.png"
+ },
+ {
+  "n": 20140,
+  "it": "Il segnale raffigurato obbliga a svoltare subito a destra",
+  "answer": false,
+  "en": "The sign shown requires you to turn right immediately.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "subito",
+    "why": "means immediately, not at a later point"
+   },
+   {
+    "phrase": "a destra",
+    "why": "the exact direction matters"
+   }
+  ],
+  "trick": "The trap is the immediate mandatory action and the specific direction right.",
+  "image": "images/q_20140.png"
+ },
+ {
+  "n": 20141,
+  "it": "Il segnale raffigurato non consente la svolta a destra",
+  "answer": false,
+  "en": "The sign shown does not allow a right turn.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "expresses prohibition by denying permission"
+   },
+   {
+    "phrase": "a destra",
+    "why": "the direction can be confused"
+   }
+  ],
+  "trick": "The trap is the negative permission wording, which means a prohibition of turning right.",
+  "image": "images/q_20141.png"
+ },
+ {
+  "n": 20142,
+  "it": "Il segnale raffigurato indica che è obbligatorio passare a destra dell'ostacolo",
+  "answer": false,
+  "en": "The sign shown indicates that it is mandatory to pass to the right of the obstacle.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses a mandatory requirement"
+   },
+   {
+    "phrase": "a destra dell'ostacolo",
+    "why": "the exact side of the obstacle matters"
+   }
+  ],
+  "trick": "The trap is the obligation wording and the precise side to pass on.",
+  "image": "images/q_20142.png"
+ },
+ {
+  "n": 20143,
+  "it": "Il segnale raffigurato preannuncia l'obbligo di svoltare a sinistra",
+  "answer": false,
+  "en": "The sign shown warns in advance of an obligation to turn left.",
+  "keywords": [
+   {
+    "phrase": "preannuncia",
+    "why": "means warns in advance, not the obligation sign itself"
+   },
+   {
+    "phrase": "l'obbligo",
+    "why": "expresses obligation, not a suggestion"
+   }
+  ],
+  "trick": "Watch for preannuncia and obbligo: it means advance warning of a mandatory left turn.",
+  "image": "images/q_20143.png"
+ },
+ {
+  "n": 18330,
+  "it": "La strada rappresentata è composta da tre carreggiate",
+  "answer": true,
+  "en": "The road shown consists of three carriageways.",
+  "keywords": [],
+  "trick": "No major trap words; the key is the road-layout term carreggiate.",
+  "image": "images/q_18330.png"
+ },
+ {
+  "n": 18331,
+  "it": "La strada rappresentata è composta da otto corsie",
+  "answer": true,
+  "en": "The road shown consists of eight lanes.",
+  "keywords": [],
+  "trick": "No major trap words; do not confuse corsie with carreggiate.",
+  "image": "images/q_18331.png"
+ },
+ {
+  "n": 18332,
+  "it": "Nella strada rappresentata le carreggiate laterali sono, di norma, a senso unico",
+  "answer": true,
+  "en": "On the road shown, the side carriageways are normally one-way.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means normally, so it is not absolute"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "means one-way, a specific traffic direction rule"
+   }
+  ],
+  "trick": "Di norma weakens the statement: it is normally, not always, one-way.",
+  "image": "images/q_18332.png"
+ },
+ {
+  "n": 18333,
+  "it": "Nella strada rappresentata la carreggiata centrale è, di norma, a doppio senso di circolazione",
+  "answer": true,
+  "en": "On the road shown, the central carriageway is normally for two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means normally, so it is not absolute"
+   },
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "means traffic flows in both directions"
+   }
+  ],
+  "trick": "Di norma makes it a usual rule, and doppio senso means two-way traffic.",
+  "image": "images/q_18333.png"
+ },
+ {
+  "n": 18334,
+  "it": "La strada rappresentata consente, di norma, il sorpasso anche in curva",
+  "answer": true,
+  "en": "The road shown normally allows overtaking even on bends.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, not always"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds even/also, extending the rule to bends"
+   }
+  ],
+  "trick": "Consente and anche matter: it normally permits overtaking even on curves.",
+  "image": "images/q_18334.png"
+ },
+ {
+  "n": 18335,
+  "it": "La strada rappresentata è composta da quattro carreggiate, tutte a senso unico",
+  "answer": false,
+  "en": "The road shown consists of four carriageways, all one-way.",
+  "keywords": [
+   {
+    "phrase": "tutte",
+    "why": "makes the statement apply to all of them"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "means one-way, a specific traffic direction rule"
+   }
+  ],
+  "trick": "Tutte is the trap: it claims every carriageway is one-way.",
+  "image": "images/q_18335.png"
+ },
+ {
+  "n": 18336,
+  "it": "La strada rappresentata è composta da otto carreggiate",
+  "answer": false,
+  "en": "The road shown consists of eight carriageways.",
+  "keywords": [],
+  "trick": "No major trap words; do not confuse carriageways with lanes.",
+  "image": "images/q_18336.png"
+ },
+ {
+  "n": 18337,
+  "it": "La strada rappresentata, di norma, ha due carreggiate a doppio senso di circolazione",
+  "answer": false,
+  "en": "The road shown normally has two carriageways with two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means normally, so it is not absolute"
+   },
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "means traffic flows in both directions"
+   }
+  ],
+  "trick": "Di norma softens the claim, while doppio senso specifies two-way traffic.",
+  "image": "images/q_18337.png"
+ },
+ {
+  "n": 18338,
+  "it": "La strada rappresentata è composta da tre corsie",
+  "answer": false,
+  "en": "The road shown consists of three lanes.",
+  "keywords": [],
+  "trick": "No major trap words; the key is not to confuse lanes with carriageways.",
+  "image": "images/q_18338.png"
+ },
+ {
+  "n": 18339,
+  "it": "Nella strada rappresentata, la corsia centrale è a doppio senso di circolazione",
+  "answer": false,
+  "en": "On the road shown, the central lane is for two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "means traffic flows in both directions"
+   }
+  ],
+  "trick": "The trap is doppio senso: it claims the central lane carries both directions.",
+  "image": "images/q_18339.png"
+ },
+ {
+  "n": 18340,
+  "it": "Nelle carreggiate laterali della strada rappresentata è consentita, di norma, l'inversione di marcia",
+  "answer": false,
+  "en": "On the side carriageways of the road shown, U-turns are normally permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, not always"
+   },
+   {
+    "phrase": "l'inversione di marcia",
+    "why": "means a U-turn, a specific maneuver"
+   }
+  ],
+  "trick": "È consentita means permitted, and di norma means only normally permitted.",
+  "image": "images/q_18340.png"
+ },
+ {
+  "n": 22662,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza ai veicoli provenienti sia da destra che da sinistra",
+  "answer": true,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must give way to vehicles coming from both the right and the left.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes priority rules"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sia da destra che da sinistra",
+    "why": "means from both sides, not just one"
+   }
+  ],
+  "trick": "Deve and sia...che... are key: when reversing, it must give way to traffic from both sides.",
+  "image": "images/q_22662.png"
+ },
+ {
+  "n": 22663,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve azionare gli indicatori di direzione",
+  "answer": true,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must operate the direction indicators.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes the maneuver context"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "Deve shows this is mandatory during the reversing maneuver.",
+  "image": "images/q_22663.png"
+ },
+ {
+  "n": 22664,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve fare attenzione agli eventuali pedoni in transito dietro di esso e dar loro la precedenza",
+  "answer": true,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must pay attention to any pedestrians passing behind it and give them priority.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes priority rules"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "eventuali",
+    "why": "means any possible, not only pedestrians certainly present"
+   },
+   {
+    "phrase": "dar loro la precedenza",
+    "why": "means give way to them"
+   }
+  ],
+  "trick": "Eventuali broadens the case, and deve dare precedenza makes yielding to pedestrians mandatory.",
+  "image": "images/q_22664.png"
+ },
+ {
+  "n": 22665,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza a tutti i veicoli in transito",
+  "answer": true,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must give way to all vehicles in transit.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes priority rules"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "tutti",
+    "why": "includes every vehicle, with no exception"
+   }
+  ],
+  "trick": "Tutti is decisive here: when reversing, it must give way to every passing vehicle.",
+  "image": "images/q_22665.png"
+ },
+ {
+  "n": 22666,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve assicurarsi che la strada sia libera e fare la manovra con particolare prudenza",
+  "answer": true,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must make sure the road is clear and carry out the maneuver with particular caution.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes the maneuver context"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "assicurarsi",
+    "why": "means must make sure, not merely think or hope"
+   },
+   {
+    "phrase": "particolare prudenza",
+    "why": "requires extra caution, not ordinary care"
+   }
+  ],
+  "trick": "Deve assicurarsi and particolare prudenza impose a clear duty of extra care.",
+  "image": "images/q_22666.png"
+ },
+ {
+  "n": 22667,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve azionare la segnalazione luminosa di pericolo",
+  "answer": false,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must switch on the hazard warning lights.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes the maneuver context"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "segnalazione luminosa di pericolo",
+    "why": "means hazard warning lights, not turn indicators"
+   }
+  ],
+  "trick": "The trap is segnalazione luminosa di pericolo: it means hazard lights, presented as mandatory.",
+  "image": "images/q_22667.png"
+ },
+ {
+  "n": 22668,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve accendere la luce posteriore per nebbia",
+  "answer": false,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must switch on the rear fog light.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes the maneuver context"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "luce posteriore per nebbia",
+    "why": "means rear fog light, not reversing light"
+   }
+  ],
+  "trick": "Do not confuse luce posteriore per nebbia with the reversing light; deve makes it a claimed obligation.",
+  "image": "images/q_22668.png"
+ },
+ {
+  "n": 22669,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza solo ai veicoli che transitano nel suo senso di marcia",
+  "answer": false,
+  "en": "Vehicle S, while reversing to enter the flow of traffic, must give way only to vehicles travelling in its direction of travel.",
+  "keywords": [
+   {
+    "phrase": "in retromarcia",
+    "why": "specifies reversing, which changes priority rules"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "nel suo senso di marcia",
+    "why": "limits it to vehicles moving in its own direction"
+   }
+  ],
+  "trick": "Solo is the key trap: it wrongly restricts yielding to vehicles in the same direction only.",
+  "image": "images/q_22669.png"
+ },
+ {
+  "n": 22670,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve manovrare velocemente per liberare il posteggio",
+  "answer": false,
+  "en": "Vehicle S, when reversing to enter the flow of traffic, must maneuver quickly to free up the parking space.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "velocemente",
+    "why": "suggests speed is required"
+   }
+  ],
+  "trick": "Watch for words that wrongly make reversing sound compulsory and fast.",
+  "image": "images/q_22670.png"
+ },
+ {
+  "n": 22671,
+  "it": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve suonare ripetutamente il clacson durante la manovra",
+  "answer": false,
+  "en": "Vehicle S, when reversing to enter the flow of traffic, must repeatedly sound the horn during the maneuver.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "ripetutamente",
+    "why": "means repeatedly, strengthening the claim"
+   }
+  ],
+  "trick": "The trap is the false obligation to use the horn repeatedly.",
+  "image": "images/q_22671.png"
+ },
+ {
+  "n": 22983,
+  "it": "Il conducente del veicolo S in figura, muovendosi in retromarcia per immettersi nella circolazione, deve assicurarsi che la strada sia libera ed eseguire la manovra con prudenza",
+  "answer": true,
+  "en": "The driver of vehicle S in the picture, when reversing to enter the flow of traffic, must make sure the road is clear and carry out the maneuver cautiously.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "assicurarsi che la strada sia libera",
+    "why": "requires checking that the road is clear before moving"
+   },
+   {
+    "phrase": "con prudenza",
+    "why": "adds a duty to perform the maneuver cautiously"
+   }
+  ],
+  "trick": "The key is the mandatory duty to check carefully and reverse with caution.",
+  "image": "images/q_22983.png"
+ },
+ {
+  "n": 22984,
+  "it": "Il conducente del veicolo E in figura, muovendosi in retromarcia per immettersi nella circolazione, deve azionare gli indicatori di direzione",
+  "answer": true,
+  "en": "The driver of vehicle E in the picture, when reversing to enter the flow of traffic, must use the direction indicators.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "azionare gli indicatori di direzione",
+    "why": "means the turn signals must be used"
+   }
+  ],
+  "trick": "The trap is that signaling is mandatory during this maneuver.",
+  "image": "images/q_22984.png"
+ },
+ {
+  "n": 22985,
+  "it": "Il conducente del veicolo S in figura, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza a tutti i veicoli provenienti sia da destra sia da sinistra",
+  "answer": true,
+  "en": "The driver of vehicle S in the picture, when reversing to enter the flow of traffic, must give way to all vehicles coming from both the right and the left.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses a mandatory duty to give way"
+   },
+   {
+    "phrase": "a tutti i veicoli",
+    "why": "includes every vehicle, with no exception"
+   },
+   {
+    "phrase": "sia da destra sia da sinistra",
+    "why": "covers both directions, not just one side"
+   }
+  ],
+  "trick": "The key trap is that giving way applies to all vehicles from both sides.",
+  "image": "images/q_22985.png"
+ },
+ {
+  "n": 22986,
+  "it": "Il conducente del veicolo S in figura, muovendosi in retromarcia per immettersi nella circolazione, deve fare attenzione agli eventuali pedoni in transito dietro di esso",
+  "answer": true,
+  "en": "The driver of vehicle S in the picture, when reversing to enter the flow of traffic, must watch out for any pedestrians passing behind it.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "eventuali pedoni",
+    "why": "means any possible pedestrians, not only visible ones"
+   }
+  ],
+  "trick": "The statement imposes a duty to watch for any pedestrians behind the vehicle.",
+  "image": "images/q_22986.png"
+ },
+ {
+  "n": 22987,
+  "it": "Il conducente del veicolo S in figura, muovendosi in retromarcia per immettersi nella circolazione, deve azionare la segnalazione luminosa di pericolo (quattro frecce lampeggianti simultaneamente)",
+  "answer": false,
+  "en": "The driver of vehicle S in the picture, when reversing to enter the flow of traffic, must switch on the hazard warning lights (all four indicators flashing simultaneously).",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "segnalazione luminosa di pericolo",
+    "why": "means hazard warning lights, not ordinary indicators"
+   }
+  ],
+  "trick": "The trap is the false claim that hazard lights are compulsory when reversing out.",
+  "image": "images/q_22987.png"
+ },
+ {
+  "n": 22988,
+  "it": "Il conducente del veicolo S in figura, muovendosi in retromarcia per immettersi nella circolazione, deve suonare il clacson durante l'intera manovra",
+  "answer": false,
+  "en": "The driver of vehicle S in the picture, when reversing to enter the flow of traffic, must sound the horn throughout the entire maneuver.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not just advice"
+   },
+   {
+    "phrase": "durante l'intera manovra",
+    "why": "means for the whole maneuver, making the claim absolute"
+   }
+  ],
+  "trick": "The absolute wording makes this a false mandatory rule.",
+  "image": "images/q_22988.png"
+ },
+ {
+  "n": 22989,
+  "it": "Il conducente del veicolo S in figura, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza ai veicoli che transitano nel suo senso di marcia, ad eccezione delle biciclette",
+  "answer": false,
+  "en": "The driver of vehicle S in the picture, when reversing to enter the flow of traffic, must give way to vehicles travelling in the same direction, with the exception of bicycles.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses a mandatory duty to give way"
+   },
+   {
+    "phrase": "ad eccezione delle biciclette",
+    "why": "creates an exception that changes the meaning"
+   }
+  ],
+  "trick": "The trap is the exception: bicycles are not excluded from giving way rules here.",
+  "image": "images/q_22989.png"
+ },
+ {
+  "n": 24061,
+  "it": "Il pannello raffigurato deve essere messo all'estremità del carico che sporge dietro al veicolo",
+  "answer": true,
+  "en": "The sign shown must be placed at the outer end of the load projecting behind the vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve essere messo",
+    "why": "expresses obligation, not just possibility"
+   },
+   {
+    "phrase": "all'estremità",
+    "why": "specifies the exact end position required"
+   }
+  ],
+  "trick": "The key is the mandatory placement at the far end of the projecting load.",
+  "image": "images/q_24061.png"
+ },
+ {
+  "n": 24062,
+  "it": "Il pannello raffigurato segnala dei carichi che sporgono dalla parte posteriore del veicolo",
+  "answer": true,
+  "en": "The sign shown indicates loads projecting from the rear of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "dalla parte posteriore",
+    "why": "specifically means from the rear, not the side or front"
+   }
+  ],
+  "trick": "The important detail is that the sign refers specifically to rear overhanging loads.",
+  "image": "images/q_24062.png"
+ },
+ {
+  "n": 24063,
+  "it": "Il pannello raffigurato deve essere retroriflettente",
+  "answer": true,
+  "en": "The sign shown must be retroreflective.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not just a characteristic"
+   },
+   {
+    "phrase": "retroriflettente",
+    "why": "technical term meaning retroreflective"
+   }
+  ],
+  "trick": "The trap is that retroreflective material is a legal requirement.",
+  "image": "images/q_24063.png"
+ },
+ {
+  "n": 24064,
+  "it": "Il pannello raffigurato va usato nel caso in cui il carico sporga dietro al veicolo, anche se di poco",
+  "answer": true,
+  "en": "The sign shown must be used when the load projects behind the vehicle, even if only slightly.",
+  "keywords": [
+   {
+    "phrase": "va usato",
+    "why": "expresses obligation in a less obvious form"
+   },
+   {
+    "phrase": "anche se di poco",
+    "why": "means even if only a little, removing any minimum threshold"
+   }
+  ],
+  "trick": "The key is that the sign is required even for a small rear projection.",
+  "image": "images/q_24064.png"
+ },
+ {
+  "n": 24065,
+  "it": "Il pannello raffigurato può essere messo sui veicoli guasti, quando vengono trainati e non funzionano le luci di emergenza",
+  "answer": true,
+  "en": "The sign shown may be placed on broken-down vehicles when they are being towed and the hazard lights are not working.",
+  "keywords": [
+   {
+    "phrase": "può essere messo",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this specific situation"
+   },
+   {
+    "phrase": "non funzionano le luci di emergenza",
+    "why": "adds a condition based on the hazard lights not working"
+   }
+  ],
+  "trick": "The meaning depends on permission and the specific condition about towing and failed hazard lights.",
+  "image": "images/q_24065.png"
+ },
+ {
+  "n": 24066,
+  "it": "Il pannello raffigurato deve essere sistemato all'estremità del carico sporgente dal veicolo, in modo che sia sempre ben visibile",
+  "answer": true,
+  "en": "The sign shown must be positioned at the outer end of the load projecting from the vehicle, so that it is always clearly visible.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation, not just suggestion"
+   },
+   {
+    "phrase": "all'estremità",
+    "why": "specifies the exact end position required"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes visibility an absolute requirement"
+   }
+  ],
+  "trick": "The key trap is the absolute requirement that it be placed so it is always clearly visible.",
+  "image": "images/q_24066.png"
+ },
+ {
+  "n": 24067,
+  "it": "Il pannello raffigurato invita i conducenti che stanno dietro al veicolo su cui è applicato, a circolare con particolare prudenza",
+  "answer": true,
+  "en": "The sign shown tells drivers behind the vehicle on which it is fitted to drive with particular caution.",
+  "keywords": [
+   {
+    "phrase": "che stanno dietro",
+    "why": "limits the message to drivers behind the vehicle"
+   },
+   {
+    "phrase": "con particolare prudenza",
+    "why": "requires extra caution, not normal caution"
+   }
+  ],
+  "trick": "The statement is about warning following drivers to be especially cautious.",
+  "image": "images/q_24067.png"
+ },
+ {
+  "n": 24068,
+  "it": "Il pannello raffigurato si usa solo se il carico sporge di oltre tre decimi della lunghezza del veicolo",
+  "answer": false,
+  "en": "The sign shown is used only if the load projects by more than three-tenths of the vehicle's length.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "oltre tre decimi",
+    "why": "sets a specific threshold that can mislead learners"
+   }
+  ],
+  "trick": "The trap is the restrictive word 'only' tied to a false length threshold.",
+  "image": "images/q_24068.png"
+ },
+ {
+  "n": 24069,
+  "it": "Il pannello raffigurato va messo anche di lato, quando il carico sporge oltre la larghezza del veicolo",
+  "answer": false,
+  "en": "The sign shown must also be placed on the side when the load projects beyond the width of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra requirement"
+   },
+   {
+    "phrase": "di lato",
+    "why": "specifies side placement, changing where it must go"
+   },
+   {
+    "phrase": "oltre la larghezza del veicolo",
+    "why": "sets a condition based on exceeding the vehicle width"
+   }
+  ],
+  "trick": "The trap is the added claim that the panel must also be placed on the side.",
+  "image": "images/q_24069.png"
+ },
+ {
+  "n": 24070,
+  "it": "Il pannello raffigurato identifica gli autocarri specializzati per il trasporto di materiali da costruzione",
+  "answer": false,
+  "en": "The sign shown identifies trucks specially designed for transporting building materials.",
+  "keywords": [
+   {
+    "phrase": "identifica",
+    "why": "claims the panel serves as an identification marker for a vehicle type"
+   },
+   {
+    "phrase": "autocarri specializzati",
+    "why": "specific vehicle category that can mislead"
+   }
+  ],
+  "trick": "The trap is the false function assigned to the sign.",
+  "image": "images/q_24070.png"
+ },
+ {
+  "n": 24071,
+  "it": "Il pannello raffigurato va messo sui veicoli che trasportano la spazzatura",
+  "answer": false,
+  "en": "The sign shown must be placed on vehicles transporting rubbish.",
+  "keywords": [
+   {
+    "phrase": "va messo",
+    "why": "expresses obligation in a less obvious form"
+   }
+  ],
+  "trick": "The trap is the false obligation linking this sign to rubbish-transport vehicles.",
+  "image": "images/q_24071.png"
+ },
+ {
+  "n": 24072,
+  "it": "Il pannello raffigurato va messo sui veicoli, solo se il carico sporge di almeno 50 centimetri",
+  "answer": false,
+  "en": "The panel shown must be fitted on vehicles only if the load projects out by at least 50 centimetres.",
+  "keywords": [
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "va messo",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "di almeno",
+    "why": "sets a minimum threshold"
+   }
+  ],
+  "trick": "Watch for restriction and obligation: the statement says the panel is required only when the projection is at least 50 cm.",
+  "image": "images/q_24072.png"
+ },
+ {
+  "n": 24073,
+  "it": "Il pannello raffigurato va messo dietro a tutti gli autocarri",
+  "answer": false,
+  "en": "The panel shown must be placed on the rear of all lorries.",
+  "keywords": [
+   {
+    "phrase": "va messo",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "tutti",
+    "why": "makes the statement apply to every vehicle in that group"
+   }
+  ],
+  "trick": "The trap is the absolute wording: it says all lorries, with no exception.",
+  "image": "images/q_24073.png"
+ },
+ {
+  "n": 24074,
+  "it": "Il pannello raffigurato può essere sostituito da una bandiera di colore rosso, delle dimensioni di 50x50 centimetri",
+  "answer": false,
+  "en": "The panel shown may be replaced by a red flag measuring 50 x 50 centimetres.",
+  "keywords": [
+   {
+    "phrase": "può essere sostituito",
+    "why": "expresses permission/possibility"
+   },
+   {
+    "phrase": "di colore rosso",
+    "why": "specifies an exact required colour"
+   }
+  ],
+  "trick": "The key trap is può: it means may/can be replaced, not must be replaced.",
+  "image": "images/q_24074.png"
+ },
+ {
+  "n": 24203,
+  "it": "Il simbolo raffigurato è posto sul comando di accensione dei proiettori anabbaglianti",
+  "answer": true,
+  "en": "The symbol shown is found on the control for switching on the dipped headlights.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24203.png"
+ },
+ {
+  "n": 24204,
+  "it": "Il simbolo raffigurato è posto su una spia a luce verde",
+  "answer": true,
+  "en": "The symbol shown appears on a green warning light.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24204.png"
+ },
+ {
+  "n": 24205,
+  "it": "Il simbolo raffigurato è posto su una spia a luce blu",
+  "answer": false,
+  "en": "The symbol shown appears on a blue warning light.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24205.png"
+ },
+ {
+  "n": 24206,
+  "it": "Il simbolo raffigurato segnala l'accensione della luce posteriore per nebbia",
+  "answer": false,
+  "en": "The symbol shown indicates that the rear fog light is switched on.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24206.png"
+ },
+ {
+  "n": 24207,
+  "it": "Il simbolo raffigurato è posto sulla spia delle luci abbaglianti accese",
+  "answer": false,
+  "en": "The symbol shown appears on the warning light for the main beam headlights being on.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24207.png"
+ },
+ {
+  "n": 24208,
+  "it": "Il simbolo raffigurato segnala l'accensione delle luci di posizione",
+  "answer": false,
+  "en": "The symbol shown indicates that the sidelights are switched on.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24208.png"
+ },
+ {
+  "n": 24209,
+  "it": "Il simbolo raffigurato indica il comando per azionare l'indicatore di direzione destro",
+  "answer": false,
+  "en": "The symbol shown indicates the control for operating the right turn indicator.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24209.png"
+ },
+ {
+  "n": 24301,
+  "it": "Il simbolo raffigurato è posto su una spia di colore rosso",
+  "answer": true,
+  "en": "The symbol shown appears on a red warning light.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24301.png"
+ },
+ {
+  "n": 24302,
+  "it": "Il simbolo raffigurato, contrassegna la spia di funzionamento difettoso di una parte dell'impianto frenante",
+  "answer": true,
+  "en": "The symbol shown marks the warning light for a malfunction in part of the braking system.",
+  "keywords": [
+   {
+    "phrase": "funzionamento difettoso",
+    "why": "indicates a fault or malfunction, not normal operation"
+   },
+   {
+    "phrase": "una parte dell'impianto frenante",
+    "why": "refers to part of the system, not necessarily all of it"
+   }
+  ],
+  "trick": "The trap is that it refers to a malfunction in part of the braking system, not the whole system.",
+  "image": "images/q_24302.png"
+ },
+ {
+  "n": 24303,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, può segnalare una eccessiva usura delle guarnizioni degli elementi frenanti",
+  "answer": true,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, may indicate excessive wear of the brake linings.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "applies only if the light comes on while driving"
+   },
+   {
+    "phrase": "può segnalare",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "eccessiva usura",
+    "why": "means excessive wear, a specific fault condition"
+   }
+  ],
+  "trick": "The key traps are condition and possibility: if lit while driving, it may indicate this problem.",
+  "image": "images/q_24303.png"
+ },
+ {
+  "n": 24304,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, può segnalare lo scarso livello del liquido idraulico dei freni",
+  "answer": true,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, may indicate that the brake hydraulic fluid level is low.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "applies only if the light comes on while driving"
+   },
+   {
+    "phrase": "può segnalare",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "scarso livello",
+    "why": "means an insufficient or low level"
+   }
+  ],
+  "trick": "The trap is that the statement is conditional and possible, not absolute.",
+  "image": "images/q_24304.png"
+ },
+ {
+  "n": 24305,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, comporta di provvedere rapidamente a una manutenzione o riparazione dell'impianto frenante",
+  "answer": true,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, means that maintenance or repair of the braking system should be arranged quickly.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "applies only in that driving condition"
+   },
+   {
+    "phrase": "comporta di provvedere rapidamente",
+    "why": "imposes the need to act promptly"
+   }
+  ],
+  "trick": "The important point is the urgency: if the light comes on while driving, prompt action is required.",
+  "image": "images/q_24305.png"
+ },
+ {
+  "n": 24306,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, segnala che la centralina elettronica è fuori uso",
+  "answer": false,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, indicates that the electronic control unit is out of order.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "applies only if the light comes on while driving"
+   },
+   {
+    "phrase": "fuori uso",
+    "why": "means out of order or not functioning"
+   }
+  ],
+  "trick": "The conditional phrase matters: it claims this meaning only when the light is on during driving.",
+  "image": "images/q_24306.png"
+ },
+ {
+  "n": 24307,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che occorre effettuare il tagliando periodico previsto dalla casa costruttrice entro 500 chilometri",
+  "answer": false,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, indicates that the periodic service specified by the manufacturer must be carried out within 500 kilometres.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "applies only if the light comes on while driving"
+   },
+   {
+    "phrase": "occorre effettuare",
+    "why": "expresses necessity or requirement"
+   },
+   {
+    "phrase": "entro 500 chilometri",
+    "why": "sets a deadline limit"
+   }
+  ],
+  "trick": "The traps are the obligation and the deadline: it says the service is required within 500 km.",
+  "image": "images/q_24307.png"
+ },
+ {
+  "n": 24308,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, indica che occorre effettuare la revisione periodica di legge entro un mese",
+  "answer": false,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, indicates that the legally required periodic inspection must be carried out within one month.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "applies only if the light comes on while driving"
+   },
+   {
+    "phrase": "occorre effettuare",
+    "why": "expresses necessity or requirement"
+   },
+   {
+    "phrase": "entro un mese",
+    "why": "sets a time deadline"
+   }
+  ],
+  "trick": "The important traps are the requirement and the one-month deadline.",
+  "image": "images/q_24308.png"
+ },
+ {
+  "n": 24309,
+  "it": "Il simbolo raffigurato individua il luogo ove è riposto l'estintore di bordo",
+  "answer": false,
+  "en": "The symbol shown identifies the place where the on-board fire extinguisher is kept.",
+  "keywords": [],
+  "trick": "No major trap words here; the statement is straightforward.",
+  "image": "images/q_24309.png"
+ },
+ {
+  "n": 24310,
+  "it": "Il simbolo raffigurato individua una parte dell'impianto elettrico dove si trova alta tensione",
+  "answer": false,
+  "en": "The symbol shown identifies a part of the electrical system where there is high voltage.",
+  "keywords": [
+   {
+    "phrase": "alta tensione",
+    "why": "means high voltage, a specific hazard term"
+   }
+  ],
+  "trick": "The main trap is the technical hazard term alta tensione, meaning high voltage.",
+  "image": "images/q_24310.png"
+ },
+ {
+  "n": 24311,
+  "it": "Una spia di colore rosso contrassegnata dal simbolo di figura, se accesa durante la marcia, segnala portiere aperte o chiuse non correttamente",
+  "answer": false,
+  "en": "A red warning light marked with the symbol shown, if it comes on while driving, indicates that the doors are open or not properly closed.",
+  "keywords": [
+   {
+    "phrase": "se accesa durante la marcia",
+    "why": "limits the statement to when the light is on while driving"
+   },
+   {
+    "phrase": "aperte o chiuse non correttamente",
+    "why": "includes both open doors and doors not properly closed"
+   }
+  ],
+  "trick": "Watch the condition and the inclusive 'or': it means open or not properly closed.",
+  "image": "images/q_24311.png"
+ },
+ {
+  "n": 20911,
+  "it": "La striscia bianca continua di mezzo in figura divide la carreggiata in due corsie",
+  "answer": true,
+  "en": "The continuous white centre line shown divides the carriageway into two lanes.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward description.",
+  "image": "images/q_20911.png"
+ },
+ {
+  "n": 20912,
+  "it": "La striscia bianca continua di mezzo in figura non può essere superata",
+  "answer": true,
+  "en": "The continuous white centre line shown must not be crossed.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition, not physical inability"
+   }
+  ],
+  "trick": "'Non può' here means it is not allowed, not that it is impossible.",
+  "image": "images/q_20912.png"
+ },
+ {
+  "n": 20913,
+  "it": "La striscia bianca continua di mezzo in figura, divide i sensi di marcia nelle strade a doppio senso",
+  "answer": true,
+  "en": "The continuous white centre line shown separates the directions of travel on two-way roads.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso",
+    "why": "means two-way traffic, not two lanes"
+   }
+  ],
+  "trick": "The key trap is 'a doppio senso', which refers to traffic flowing in both directions.",
+  "image": "images/q_20913.png"
+ },
+ {
+  "n": 20914,
+  "it": "La striscia bianca continua di mezzo in figura, sulle strade a doppio senso si può trovare sul tratto in salita di un dosso",
+  "answer": true,
+  "en": "On two-way roads, the continuous white centre line shown may be found on the uphill section of a hump.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso",
+    "why": "means two-way traffic, not two lanes"
+   },
+   {
+    "phrase": "si può trovare",
+    "why": "means it may be found, not that it is required"
+   }
+  ],
+  "trick": "The sentence says where it may appear, not where it must appear.",
+  "image": "images/q_20914.png"
+ },
+ {
+  "n": 20915,
+  "it": "La striscia bianca continua di mezzo in figura, sulle strade a doppio senso può trovarsi in vicinanza degli attraversamenti pedonali",
+  "answer": true,
+  "en": "On two-way roads, the continuous white centre line shown may be found near pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso",
+    "why": "means two-way traffic, not two lanes"
+   },
+   {
+    "phrase": "può trovarsi",
+    "why": "means it may be found, not that it must be there"
+   },
+   {
+    "phrase": "in vicinanza",
+    "why": "means near, not exactly at the crossing"
+   }
+  ],
+  "trick": "The rule is about possible placement near crossings, not an absolute requirement.",
+  "image": "images/q_20915.png"
+ },
+ {
+  "n": 20916,
+  "it": "La striscia bianca continua di mezzo in figura permette la manovra di sorpasso senza superarla",
+  "answer": true,
+  "en": "The continuous white centre line shown allows overtaking without crossing it.",
+  "keywords": [
+   {
+    "phrase": "permette",
+    "why": "expresses permission only within the stated limit"
+   },
+   {
+    "phrase": "senza superarla",
+    "why": "restricts the permission to not crossing the line"
+   }
+  ],
+  "trick": "Overtaking is allowed only if the line is not crossed.",
+  "image": "images/q_20916.png"
+ },
+ {
+  "n": 20917,
+  "it": "La striscia bianca continua di mezzo in figura divide la strada in due carreggiate, ognuna a doppio senso",
+  "answer": false,
+  "en": "The continuous white centre line shown divides the road into two carriageways, each with two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "ognuna a doppio senso",
+    "why": "means each one is two-way, which changes the meaning strongly"
+   }
+  ],
+  "trick": "The trap is the added claim that each carriageway is two-way.",
+  "image": "images/q_20917.png"
+ },
+ {
+  "n": 20918,
+  "it": "La striscia bianca continua di mezzo in figura consente di marciarvi a cavallo",
+  "answer": false,
+  "en": "The continuous white centre line shown allows you to drive astride it.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a cavallo",
+    "why": "means straddling the line, not simply driving near it"
+   }
+  ],
+  "trick": "The key trap is 'a cavallo', meaning with the vehicle over the line.",
+  "image": "images/q_20918.png"
+ },
+ {
+  "n": 20919,
+  "it": "La striscia bianca continua di mezzo in figura consente il sorpasso anche superandola, purché con le sole ruote di sinistra",
+  "answer": false,
+  "en": "The continuous white centre line shown allows overtaking even by crossing it, provided that only the left wheels do so.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche superandola",
+    "why": "adds 'even by crossing it', widening the claim"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition or exception"
+   },
+   {
+    "phrase": "con le sole ruote di sinistra",
+    "why": "restricts the condition to only the left wheels"
+   }
+  ],
+  "trick": "The sentence is tricky because it gives a conditional exception using 'purché' and 'sole'.",
+  "image": "images/q_20919.png"
+ },
+ {
+  "n": 20920,
+  "it": "La striscia bianca continua di mezzo in figura consente l'inversione di marcia nelle strade a doppio senso",
+  "answer": false,
+  "en": "The continuous white centre line shown allows a U-turn on two-way roads.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "inversione di marcia",
+    "why": "means a U-turn, not just changing lane"
+   },
+   {
+    "phrase": "a doppio senso",
+    "why": "means two-way traffic"
+   }
+  ],
+  "trick": "The main trap is that it claims permission for a U-turn on a two-way road.",
+  "image": "images/q_20920.png"
+ },
+ {
+  "n": 20158,
+  "it": "Il segnale raffigurato indica le direzioni consentite a destra e a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates the permitted directions: right and left.",
+  "keywords": [
+   {
+    "phrase": "consentite",
+    "why": "shows these directions are permitted"
+   }
+  ],
+  "trick": "The important word is 'consentite', which marks the allowed directions.",
+  "image": "images/q_20158.png"
+ },
+ {
+  "n": 20159,
+  "it": "Il segnale raffigurato obbliga a svoltare a destra o a sinistra al prossimo incrocio",
+  "answer": true,
+  "en": "The sign shown requires you to turn right or left at the next intersection.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "al prossimo incrocio",
+    "why": "limits the obligation to the next junction"
+   }
+  ],
+  "trick": "It is mandatory, and specifically at the next intersection.",
+  "image": "images/q_20159.png"
+ },
+ {
+  "n": 20160,
+  "it": "Il segnale raffigurato indica che non è consentito proseguire diritto all'incrocio",
+  "answer": true,
+  "en": "The sign shown indicates that going straight ahead at the intersection is not permitted.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "means continue straight ahead"
+   }
+  ],
+  "trick": "The sentence bans going straight through the junction.",
+  "image": "images/q_20160.png"
+ },
+ {
+  "n": 20161,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "indicates a mandatory sign category"
+   }
+  ],
+  "trick": "The trap is the formal category name for the sign.",
+  "image": "images/q_20161.png"
+ },
+ {
+  "n": 20162,
+  "it": "Il segnale raffigurato indica l'impossibilità di proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates that it is impossible to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "impossibilità di proseguire diritto",
+    "why": "can be confused with a simple prohibition, but states impossibility"
+   }
+  ],
+  "trick": "This wording suggests impossibility rather than just lack of permission.",
+  "image": "images/q_20162.png"
+ },
+ {
+  "n": 20163,
+  "it": "Il segnale raffigurato indica le uniche direzioni consentite",
+  "answer": true,
+  "en": "The sign shown indicates the only permitted directions.",
+  "keywords": [
+   {
+    "phrase": "uniche",
+    "why": "restricts the rule to these directions only"
+   },
+   {
+    "phrase": "consentite",
+    "why": "shows they are permitted directions"
+   }
+  ],
+  "trick": "The key trap is 'uniche', which excludes all other directions.",
+  "image": "images/q_20163.png"
+ },
+ {
+  "n": 20164,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di prescrizione",
+    "why": "is a formal category term that includes mandatory/prohibitory rules"
+   }
+  ],
+  "trick": "The tricky part is the technical category name 'prescrizione'.",
+  "image": "images/q_20164.png"
+ },
+ {
+  "n": 20165,
+  "it": "Il segnale raffigurato indica di disporsi su due file per proseguire diritto",
+  "answer": false,
+  "en": "The sign shown indicates that you must form two lines in order to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "indica",
+    "why": "states what the sign means, not what drivers may choose freely"
+   },
+   {
+    "phrase": "disporsi su due file",
+    "why": "means line up in two rows, not simply use two lanes"
+   },
+   {
+    "phrase": "per proseguire diritto",
+    "why": "means in order to continue straight ahead"
+   }
+  ],
+  "trick": "The trap is the specific idea of lining up in two rows to go straight.",
+  "image": "images/q_20165.png"
+ },
+ {
+  "n": 20166,
+  "it": "Il segnale raffigurato indica che il sorpasso è consentito sia a destra che a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates that overtaking is permitted both on the right and on the left.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sia a destra che a sinistra",
+    "why": "means on both sides, not just one"
+   }
+  ],
+  "trick": "The key trap is the double permission 'both right and left'.",
+  "image": "images/q_20166.png"
+ },
+ {
+  "n": 20167,
+  "it": "Il segnale raffigurato indica l'inizio del doppio senso di circolazione",
+  "answer": false,
+  "en": "The sign shown indicates the beginning of two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "inizio",
+    "why": "means the start of something, not just its presence"
+   }
+  ],
+  "trick": "Watch for words that mark the start of a condition rather than describing it generally.",
+  "image": "images/q_20167.png"
+ },
+ {
+  "n": 20168,
+  "it": "Il segnale raffigurato indica la facoltà di passare a destra o a sinistra di un'isola spartitraffico",
+  "answer": false,
+  "en": "The sign shown indicates that it is permitted to pass to the right or to the left of a traffic island.",
+  "keywords": [
+   {
+    "phrase": "facoltà di",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "o",
+    "why": "means either one or the other, not necessarily both"
+   }
+  ],
+  "trick": "This sentence hinges on permission and the choice between alternatives.",
+  "image": "images/q_20168.png"
+ },
+ {
+  "n": 20169,
+  "it": "Il segnale raffigurato indica passaggio consentito alla destra ed alla sinistra di un ostacolo",
+  "answer": false,
+  "en": "The sign shown indicates that passing is permitted on the right and on the left of an obstacle.",
+  "keywords": [
+   {
+    "phrase": "consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ed alla sinistra",
+    "why": "means both sides are allowed, not just one"
+   }
+  ],
+  "trick": "The key trap is that the sentence says both sides are permitted.",
+  "image": "images/q_20169.png"
+ },
+ {
+  "n": 20170,
+  "it": "Il segnale raffigurato è un segnale di divieto",
+  "answer": false,
+  "en": "The sign shown is a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "divieto",
+    "why": "indicates prohibition, a specific sign category"
+   }
+  ],
+  "trick": "The tricky part is recognizing the exact sign category: prohibition.",
+  "image": "images/q_20170.png"
+ },
+ {
+  "n": 20171,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di indicazione",
+    "why": "is a specific category meaning information sign"
+   }
+  ],
+  "trick": "The trap is the precise technical category of the sign.",
+  "image": "images/q_20171.png"
+ },
+ {
+  "n": 20172,
+  "it": "Il segnale raffigurato indica l'inizio della circolazione per file parallele",
+  "answer": false,
+  "en": "The sign shown indicates the beginning of traffic in parallel lanes.",
+  "keywords": [
+   {
+    "phrase": "inizio",
+    "why": "means the start of something, not just its presence"
+   }
+  ],
+  "trick": "The sentence is about the beginning of a traffic arrangement, not the arrangement in general.",
+  "image": "images/q_20172.png"
+ },
+ {
+  "n": 20173,
+  "it": "Il segnale raffigurato indica che è consentito svoltare a destra",
+  "answer": true,
+  "en": "The sign shown indicates that it is permitted to turn right.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The main trap is the permission wording.",
+  "image": "images/q_20173.png"
+ },
+ {
+  "n": 20174,
+  "it": "Il segnale raffigurato indica che è consentito svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates that it is permitted to turn left.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The main trap is the permission wording.",
+  "image": "images/q_20174.png"
+ },
+ {
+  "n": 20175,
+  "it": "Il segnale raffigurato indica che non è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates that it is not permitted to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "proseguire diritto",
+    "why": "means continue straight ahead, not just move forward"
+   }
+  ],
+  "trick": "The crucial point is the negated permission: going straight is not allowed.",
+  "image": "images/q_20175.png"
+ },
+ {
+  "n": 20176,
+  "it": "Il segnale raffigurato indica che si può scegliere fra le due direzioni consentite",
+  "answer": true,
+  "en": "The sign shown indicates that you may choose between the two permitted directions.",
+  "keywords": [
+   {
+    "phrase": "si può scegliere",
+    "why": "expresses possibility/choice, not obligation"
+   },
+   {
+    "phrase": "fra le due direzioni consentite",
+    "why": "limits the choice to only those allowed directions"
+   }
+  ],
+  "trick": "The trap is that the sign allows a choice, but only between the permitted directions.",
+  "image": "images/q_20176.png"
+ },
+ {
+  "n": 20177,
+  "it": "Il segnale raffigurato indica che nelle immediate vicinanze c'è una biforcazione pericolosa",
+  "answer": false,
+  "en": "The sign shown indicates that there is a dangerous fork in the road in the immediate vicinity.",
+  "keywords": [
+   {
+    "phrase": "nelle immediate vicinanze",
+    "why": "means very nearby, not just somewhere ahead"
+   }
+  ],
+  "trick": "The distance is restricted to the immediate vicinity.",
+  "image": "images/q_20177.png"
+ },
+ {
+  "n": 20178,
+  "it": "Il segnale raffigurato indica che bisogna disporsi su due file per proseguire diritto",
+  "answer": false,
+  "en": "The sign shown indicates that you must form two lanes in order to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per proseguire diritto",
+    "why": "restricts the obligation to continuing straight ahead"
+   }
+  ],
+  "trick": "The key is obligation, limited to the case of going straight on.",
+  "image": "images/q_20178.png"
+ },
+ {
+  "n": 20179,
+  "it": "Il segnale raffigurato indica che è consentito passare sia a destra che a sinistra della striscia continua",
+  "answer": false,
+  "en": "The sign shown indicates that it is permitted to pass both to the right and to the left of the continuous line.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sia a destra che a sinistra",
+    "why": "means both sides, not just one"
+   }
+  ],
+  "trick": "The sentence says passing is permitted on both sides.",
+  "image": "images/q_20179.png"
+ },
+ {
+  "n": 20180,
+  "it": "Il segnale raffigurato indica due sensi unici paralleli",
+  "answer": false,
+  "en": "The sign shown indicates two parallel one-way roads.",
+  "keywords": [
+   {
+    "phrase": "due sensi unici paralleli",
+    "why": "is a specific traffic-layout expression"
+   }
+  ],
+  "trick": "The trap is the exact technical meaning of the road layout.",
+  "image": "images/q_20180.png"
+ },
+ {
+  "n": 20181,
+  "it": "Il segnale raffigurato obbliga a proseguire diritto o svoltare a destra all'incrocio",
+  "answer": true,
+  "en": "The sign shown requires you to continue straight ahead or turn right at the intersection.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "o",
+    "why": "means one of the two options"
+   },
+   {
+    "phrase": "all'incrocio",
+    "why": "limits the rule to the intersection"
+   }
+  ],
+  "trick": "This is an obligation applying at the intersection, with two allowed options.",
+  "image": "images/q_20181.png"
+ },
+ {
+  "n": 20182,
+  "it": "Il segnale raffigurato consente solo di proseguire diritto o svoltare a destra",
+  "answer": true,
+  "en": "The sign shown only allows you to continue straight ahead or turn right.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only these cases"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "o",
+    "why": "means one of the two options"
+   }
+  ],
+  "trick": "The key trap is the restriction: only those two directions are allowed.",
+  "image": "images/q_20182.png"
+ },
+ {
+  "n": 20183,
+  "it": "Il segnale raffigurato non consente la svolta a sinistra all'incrocio",
+  "answer": true,
+  "en": "The sign shown does not allow a left turn at the intersection.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "all'incrocio",
+    "why": "limits the rule to the intersection"
+   }
+  ],
+  "trick": "The sentence forbids one action specifically at the intersection.",
+  "image": "images/q_20183.png"
+ },
+ {
+  "n": 20184,
+  "it": "Il segnale raffigurato indica l'impossibilità di svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates that it is impossible to turn left.",
+  "keywords": [
+   {
+    "phrase": "impossibilità",
+    "why": "expresses that the action cannot be done"
+   }
+  ],
+  "trick": "The crucial meaning is inability, not mere advice or warning.",
+  "image": "images/q_20184.png"
+ },
+ {
+  "n": 20185,
+  "it": "Il segnale raffigurato indica le uniche direzioni consentite",
+  "answer": true,
+  "en": "The sign shown indicates the only permitted directions.",
+  "keywords": [
+   {
+    "phrase": "uniche",
+    "why": "restricts the rule to these directions only"
+   },
+   {
+    "phrase": "consentite",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is the exclusivity: only these directions are permitted.",
+  "image": "images/q_20185.png"
+ },
+ {
+  "n": 20186,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "prescrizione",
+    "why": "is the technical category for mandatory/regulatory signs"
+   }
+  ],
+  "trick": "The tricky part is the exact technical category name.",
+  "image": "images/q_20186.png"
+ },
+ {
+  "n": 20187,
+  "it": "Il segnale raffigurato è un segnale di obbligo",
+  "answer": true,
+  "en": "The sign shown is a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "means a mandatory sign, not just a suggestion"
+   }
+  ],
+  "trick": "\"Segnale di obbligo\" indicates a mandatory instruction.",
+  "image": "images/q_20187.png"
+ },
+ {
+  "n": 20188,
+  "it": "Il segnale raffigurato consente solo di proseguire diritto",
+  "answer": false,
+  "en": "The sign shown allows only going straight ahead.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this option only"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "\"Solo\" limits the permitted movement to one option.",
+  "image": "images/q_20188.png"
+ },
+ {
+  "n": 20189,
+  "it": "Il segnale raffigurato indica che è consentito soltanto svoltare a destra",
+  "answer": false,
+  "en": "The sign shown indicates that it is permitted only to turn right.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "\"È consentito soltanto\" means only that movement is allowed.",
+  "image": "images/q_20189.png"
+ },
+ {
+  "n": 20190,
+  "it": "Il segnale raffigurato obbliga a passare a destra di un cantiere stradale",
+  "answer": false,
+  "en": "The sign shown requires drivers to pass to the right of roadworks.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "passare a destra",
+    "why": "means passing on the right side, not turning right"
+   }
+  ],
+  "trick": "\"Obbliga\" makes the action compulsory, not merely allowed.",
+  "image": "images/q_20190.png"
+ },
+ {
+  "n": 20191,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "There are no major trap words; the key is the sign category.",
+  "image": "images/q_20191.png"
+ },
+ {
+  "n": 20192,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "There are no major trap words; the key is the sign category.",
+  "image": "images/q_20192.png"
+ },
+ {
+  "n": 20193,
+  "it": "Il segnale raffigurato indica il prossimo inizio di una corsia supplementare riservata ai veicoli lenti",
+  "answer": false,
+  "en": "The sign shown indicates the upcoming start of an additional lane reserved for slow vehicles.",
+  "keywords": [
+   {
+    "phrase": "prossimo inizio",
+    "why": "refers to something about to begin, not already present"
+   },
+   {
+    "phrase": "riservata ai veicoli lenti",
+    "why": "means reserved exclusively for slow vehicles"
+   }
+  ],
+  "trick": "\"Prossimo inizio\" indicates something imminent, not current.",
+  "image": "images/q_20193.png"
+ },
+ {
+  "n": 20194,
+  "it": "Il segnale raffigurato indica che non è consentito svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates that turning left is not permitted.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "it means prohibited",
+    "why": ""
+   }
+  ],
+  "trick": "\"Non è consentito\" means the action is forbidden.",
+  "image": "images/q_20194.png"
+ },
+ {
+  "n": 20195,
+  "it": "Il segnale raffigurato indica che è consentito svoltare a destra",
+  "answer": true,
+  "en": "The sign shown indicates that turning right is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "\"È consentito\" means allowed, not compulsory.",
+  "image": "images/q_20195.png"
+ },
+ {
+  "n": 20196,
+  "it": "Il segnale raffigurato indica che è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates that going straight ahead is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "\"È consentito\" allows the movement but does not require it.",
+  "image": "images/q_20196.png"
+ },
+ {
+  "n": 20197,
+  "it": "Il segnale raffigurato indica che si può scegliere fra le due direzioni consentite",
+  "answer": true,
+  "en": "The sign shown indicates that you may choose between the two permitted directions.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses possibility/permission"
+   },
+   {
+    "phrase": "fra le due direzioni consentite",
+    "why": "limits the choice to the two allowed directions"
+   }
+  ],
+  "trick": "\"Si può scegliere\" means there is a choice, but only among the permitted options.",
+  "image": "images/q_20197.png"
+ },
+ {
+  "n": 20198,
+  "it": "Il segnale raffigurato indica che è obbligatorio svoltare unicamente a destra",
+  "answer": false,
+  "en": "The sign shown indicates that it is compulsory to turn only right.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "unicamente",
+    "why": "restricts the rule to one option only"
+   }
+  ],
+  "trick": "\"È obbligatorio unicamente\" makes just one movement mandatory.",
+  "image": "images/q_20198.png"
+ },
+ {
+  "n": 20199,
+  "it": "Il segnale raffigurato indica che è obbligatorio proseguire solo diritto",
+  "answer": false,
+  "en": "The sign shown indicates that it is compulsory to go straight ahead only.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this option only"
+   }
+  ],
+  "trick": "\"È obbligatorio\" is stronger than permission and makes the movement compulsory.",
+  "image": "images/q_20199.png"
+ },
+ {
+  "n": 20200,
+  "it": "Il segnale raffigurato indica che è obbligatorio dare la precedenza a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates that it is compulsory to give way to the left.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not permission"
+   }
+  ],
+  "trick": "\"È obbligatorio\" means the action is mandatory.",
+  "image": "images/q_20200.png"
+ },
+ {
+  "n": 20201,
+  "it": "Il segnale raffigurato indica che in ogni caso bisogna tenersi il più possibile sul margine destro della carreggiata",
+  "answer": false,
+  "en": "The sign shown indicates that in any case one must keep as close as possible to the right edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "in ogni caso",
+    "why": "means in all circumstances, with no exception"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più possibile",
+    "why": "means as much as possible, not absolutely"
+   }
+  ],
+  "trick": "\"In ogni caso bisogna\" expresses a general obligation without exception.",
+  "image": "images/q_20201.png"
+ },
+ {
+  "n": 20202,
+  "it": "Il segnale raffigurato indica che è prossima una biforcazione pericolosa",
+  "answer": false,
+  "en": "The sign shown indicates that a dangerous fork is ahead.",
+  "keywords": [
+   {
+    "phrase": "è prossima",
+    "why": "means it is approaching, not already there"
+   },
+   {
+    "phrase": "pericolosa",
+    "why": "adds a hazard meaning, not just a fork"
+   }
+  ],
+  "trick": "\"È prossima\" signals something ahead, not at the current position.",
+  "image": "images/q_20202.png"
+ },
+ {
+  "n": 20203,
+  "it": "Il segnale raffigurato consente solo di proseguire diritto o svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown allows only going straight ahead or turning left.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the permitted options"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "\"Solo\" limits the allowed movements to exactly those two.",
+  "image": "images/q_20203.png"
+ },
+ {
+  "n": 20204,
+  "it": "Il segnale raffigurato non consente la svolta a destra",
+  "answer": true,
+  "en": "The sign shown does not allow a right turn.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "it means prohibited",
+    "why": ""
+   }
+  ],
+  "trick": "\"Non consente\" means the movement is not permitted.",
+  "image": "images/q_20204.png"
+ },
+ {
+  "n": 20205,
+  "it": "Il segnale raffigurato obbliga a svoltare a sinistra o a proseguire diritto",
+  "answer": true,
+  "en": "The sign shown requires drivers to turn left or go straight ahead.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "\"Obbliga\" makes the listed directions mandatory choices.",
+  "image": "images/q_20205.png"
+ },
+ {
+  "n": 20206,
+  "it": "Il segnale raffigurato indica che non si deve svoltare a destra",
+  "answer": true,
+  "en": "The sign shown indicates that you must not turn right.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "negates obligation and means must not"
+   }
+  ],
+  "trick": "\"Non si deve\" expresses a prohibition, not mere advice.",
+  "image": "images/q_20206.png"
+ },
+ {
+  "n": 20207,
+  "it": "Il segnale raffigurato è un segnale di prescrizione",
+  "answer": true,
+  "en": "The sign shown is a regulatory sign.",
+  "keywords": [],
+  "trick": "No major trap words; the key is knowing that prescrizione means a regulatory requirement.",
+  "image": "images/q_20207.png"
+ },
+ {
+  "n": 20208,
+  "it": "Il segnale raffigurato si trova anche fuori dei centri abitati",
+  "answer": true,
+  "en": "The sign shown is also found outside built-up areas.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds 'also', so it is not limited to one place"
+   },
+   {
+    "phrase": "fuori dei centri abitati",
+    "why": "means outside built-up areas, not outside city centres literally"
+   }
+  ],
+  "trick": "Watch anche, which extends the rule beyond one location.",
+  "image": "images/q_20208.png"
+ },
+ {
+  "n": 20209,
+  "it": "Il segnale raffigurato consente solo di proseguire diritto",
+  "answer": false,
+  "en": "The sign shown allows only going straight ahead.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the meaning to this one option only"
+   }
+  ],
+  "trick": "Solo makes the statement exclusive, while consente means 'allows' rather than 'requires'.",
+  "image": "images/q_20209.png"
+ },
+ {
+  "n": 20210,
+  "it": "Il segnale raffigurato indica che è consentito soltanto svoltare a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates that only turning left is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "limits it to one option only"
+   }
+  ],
+  "trick": "Soltanto makes it exclusive, and è consentito means permitted, not mandatory.",
+  "image": "images/q_20210.png"
+ },
+ {
+  "n": 20211,
+  "it": "Il segnale raffigurato obbliga a passare a sinistra di un cantiere stradale",
+  "answer": false,
+  "en": "The sign shown requires drivers to pass to the left of roadworks.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "Obbliga makes this mandatory, and the left side is essential to the meaning.",
+  "image": "images/q_20211.png"
+ },
+ {
+  "n": 20212,
+  "it": "Il segnale raffigurato consente di sorpassare a sinistra lo spartitraffico",
+  "answer": false,
+  "en": "The sign shown allows overtaking the traffic island on the left.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "sorpassare",
+    "why": "means overtake/pass, which can be confused with simply proceeding"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "The traps are the permission verb and the precise action and side indicated.",
+  "image": "images/q_20212.png"
+ },
+ {
+  "n": 20213,
+  "it": "Il segnale raffigurato è un segnale di indicazione",
+  "answer": false,
+  "en": "The sign shown is an information sign.",
+  "keywords": [],
+  "trick": "No major trap words; the challenge is the sign category.",
+  "image": "images/q_20213.png"
+ },
+ {
+  "n": 20214,
+  "it": "Il segnale raffigurato è un segnale di pericolo",
+  "answer": false,
+  "en": "The sign shown is a warning sign.",
+  "keywords": [],
+  "trick": "No major trap words; the challenge is the sign category.",
+  "image": "images/q_20214.png"
+ },
+ {
+  "n": 20215,
+  "it": "Il segnale raffigurato indica che è consentito proseguire diritto",
+  "answer": true,
+  "en": "The sign shown indicates that going straight ahead is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "È consentito means allowed, not compulsory.",
+  "image": "images/q_20215.png"
+ },
+ {
+  "n": 20216,
+  "it": "Il segnale raffigurato indica che è consentito svoltare a sinistra",
+  "answer": true,
+  "en": "The sign shown indicates that turning left is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "The main trap is that the statement is about permission, not a mandatory direction.",
+  "image": "images/q_20216.png"
+ },
+ {
+  "n": 20217,
+  "it": "Il segnale raffigurato indica che si può scegliere fra le due direzioni consentite",
+  "answer": true,
+  "en": "The sign shown indicates that you may choose between the two permitted directions.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses possibility/permission"
+   },
+   {
+    "phrase": "scegliere fra le due direzioni consentite",
+    "why": "means there is a choice between two allowed directions"
+   }
+  ],
+  "trick": "The sentence says a choice is allowed between two permitted directions.",
+  "image": "images/q_20217.png"
+ },
+ {
+  "n": 20218,
+  "it": "Il segnale raffigurato indica che si deve dare la precedenza a destra",
+  "answer": false,
+  "en": "The sign shown indicates that you must give way to the right.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means give way/yield, a specific legal duty"
+   },
+   {
+    "phrase": "a destra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "Si deve creates an obligation, and the specific duty is to give way on the right.",
+  "image": "images/q_20218.png"
+ },
+ {
+  "n": 20219,
+  "it": "Il segnale raffigurato indica che è obbligatorio proseguire solo diritto",
+  "answer": false,
+  "en": "The sign shown indicates that it is compulsory to go straight ahead only.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this option"
+   }
+  ],
+  "trick": "Solo makes it exclusive, and è obbligatorio makes it mandatory.",
+  "image": "images/q_20219.png"
+ },
+ {
+  "n": 20220,
+  "it": "Il segnale raffigurato indica che è obbligatorio svoltare unicamente a sinistra",
+  "answer": false,
+  "en": "The sign shown indicates that it is compulsory to turn left only.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "unicamente",
+    "why": "restricts the rule to only this option"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "Unicamente makes the direction exclusive, and the sentence states an obligation.",
+  "image": "images/q_20220.png"
+ },
+ {
+  "n": 20221,
+  "it": "Il segnale raffigurato indica che si sta incrociando una biforcazione pericolosa",
+  "answer": false,
+  "en": "The sign shown indicates that you are approaching a dangerous fork.",
+  "keywords": [
+   {
+    "phrase": "si sta incrociando",
+    "why": "means you are encountering/coming to, not literally crossing"
+   },
+   {
+    "phrase": "biforcazione pericolosa",
+    "why": "refers to a dangerous fork, a warning-type idea"
+   }
+  ],
+  "trick": "The trap is the warning-style meaning of biforcazione pericolosa and the phrasing si sta incrociando.",
+  "image": "images/q_20221.png"
+ },
+ {
+  "n": 20222,
+  "it": "Il segnale raffigurato indica che bisogna in ogni caso avvicinarsi il più possibile all'asse della carreggiata",
+  "answer": false,
+  "en": "The sign shown indicates that in any case you must move as close as possible to the centre line of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "means in all cases, with no exception"
+   },
+   {
+    "phrase": "il più possibile",
+    "why": "means as much/as close as possible, not absolutely exactly"
+   }
+  ],
+  "trick": "The statement is strengthened by both obligation and the no-exception phrase in ogni caso.",
+  "image": "images/q_20222.png"
+ },
+ {
+  "n": 20223,
+  "it": "Il segnale raffigurato indica che le corsie disponibili diventano due",
+  "answer": false,
+  "en": "The sign shown indicates that the available lanes become two.",
+  "keywords": [],
+  "trick": "No major trap words; the issue is the factual meaning of the sign.",
+  "image": "images/q_20223.png"
+ },
+ {
+  "n": 20224,
+  "it": "Il segnale raffigurato obbliga i conducenti a passare a sinistra di un ostacolo",
+  "answer": true,
+  "en": "The sign shown requires drivers to pass to the left of an obstacle.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "Obbliga makes the action mandatory, and the left side is essential.",
+  "image": "images/q_20224.png"
+ },
+ {
+  "n": 20225,
+  "it": "Il segnale raffigurato obbliga i conducenti a passare a sinistra di un'isola di traffico",
+  "answer": true,
+  "en": "The sign shown requires drivers to pass to the left of a traffic island.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   }
+  ],
+  "trick": "The sentence imposes a mandatory passing side: left.",
+  "image": "images/q_20225.png"
+ },
+ {
+  "n": 20226,
+  "it": "Il segnale raffigurato obbliga i conducenti a passare a sinistra di un salvagente",
+  "answer": true,
+  "en": "The sign shown requires drivers to pass to the left of a pedestrian refuge island.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "the side matters and is easy to confuse"
+   },
+   {
+    "phrase": "salvagente",
+    "why": "in road context it means a pedestrian refuge island, not a life jacket"
+   }
+  ],
+  "trick": "The main traps are the obligation, the left side, and the special road meaning of salvagente.",
+  "image": "images/q_20226.png"
  }
 ];
