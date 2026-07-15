@@ -3,7 +3,7 @@
 **▶️ Play it live: https://mathkidsclub.github.io/Italian-Driving-Theory-Tester/**
 
 A tiny, self-contained web app to practise the Italian driving-theory (patente B)
-true/false questions — in Italian, with English translations and explanations of
+true/false questions — over 7,000 of them — in Italian, with English translations and explanations of
 the wording traps that catch learners out.
 
 Each question shows:
@@ -30,11 +30,11 @@ Served straight from `index.html`, no download needed:
 
 ## What's in here
 
-| File | Purpose |
-|------|---------|
-| `index.html` | The whole quiz UI (HTML + CSS + JS). |
+| File             | Purpose                                                                                         |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| `index.html`   | The whole quiz UI (HTML + CSS + JS).                                                            |
 | `questions.js` | The question data (`window.QUESTIONS = [...]`). Pre-generated — this is what the page reads. |
-| `images/` | Road-sign images referenced by some questions. |
+| `images/`      | Road-sign images referenced by some questions.                                                  |
 
 ## About the data
 
