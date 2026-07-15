@@ -82878,5 +82878,19371 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that heavy traffic does not give permission to use reserved bus or public service lanes.",
   "image": ""
+ },
+ {
+  "n": 22824,
+  "it": "I veicoli senza motore devono circolare il più possibile vicino al margine destro della carreggiata",
+  "answer": true,
+  "en": "Vehicles without an engine must travel as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "il più possibile vicino",
+    "why": "means as close as possible, not simply near"
+   }
+  ],
+  "trick": "Watch the obligation and the maximum-possible closeness requirement.",
+  "image": "images/q_22824.png"
+ },
+ {
+  "n": 22825,
+  "it": "Chi conduce gli animali li deve tenere il più possibile vicino al margine destro della carreggiata",
+  "answer": true,
+  "en": "Anyone leading animals must keep them as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "li deve tenere",
+    "why": "expresses obligation to keep them there"
+   },
+   {
+    "phrase": "il più possibile vicino",
+    "why": "means as close as possible, not simply near"
+   }
+  ],
+  "trick": "The sentence imposes a duty and strengthens it with as-close-as-possible wording.",
+  "image": "images/q_22825.png"
+ },
+ {
+  "n": 22826,
+  "it": "Su strade a doppio senso di marcia con due corsie, come in figura, incrociando altri veicoli occorre spostarsi il più vicino possibile al margine destro della carreggiata",
+  "answer": true,
+  "en": "On two-way roads with two lanes, as shown in the figure, when meeting other vehicles you must move as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "incrociando altri veicoli",
+    "why": "limits the rule to when meeting oncoming vehicles"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as possible, not just near"
+   }
+  ],
+  "trick": "The rule applies specifically when meeting other vehicles and requires a near-maximum move right.",
+  "image": "images/q_22826.png"
+ },
+ {
+  "n": 22827,
+  "it": "In una carreggiata a doppio senso di marcia con due corsie, come in figura, i veicoli devono circolare nella corsia di destra, impegnando quella di sinistra solo per il sorpasso",
+  "answer": true,
+  "en": "On a two-way carriageway with two lanes, as shown in the figure, vehicles must travel in the right lane, using the left lane only for overtaking.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the left lane to this case only"
+   }
+  ],
+  "trick": "The right lane is mandatory, and the left lane is allowed only for overtaking.",
+  "image": "images/q_22827.png"
+ },
+ {
+  "n": 22828,
+  "it": "Su strada a doppio senso di marcia con due corsie, come in figura, i veicoli che percorrono il tratto in salita di un dosso devono tenersi il più possibile vicino al margine destro della carreggiata",
+  "answer": true,
+  "en": "On a two-way road with two lanes, as shown in the figure, vehicles travelling on the uphill section of a humpback bridge must keep as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "il più possibile vicino",
+    "why": "means as close as possible, not simply near"
+   },
+   {
+    "phrase": "in salita",
+    "why": "limits the rule to the uphill part"
+   }
+  ],
+  "trick": "The obligation applies specifically on the uphill section and requires maximum practical closeness to the right edge.",
+  "image": "images/q_22828.png"
+ },
+ {
+  "n": 22829,
+  "it": "Su strada a senso unico i veicoli che percorrono una curva a sinistra devono tenersi in prossimità del margine sinistro della carreggiata",
+  "answer": false,
+  "en": "On a one-way road, vehicles going around a left-hand curve must keep near the left-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "changes the road type to one-way"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near or close to, not exactly on"
+   }
+  ],
+  "trick": "Pay attention to the one-way context and the obligation to stay near a specific edge.",
+  "image": "images/q_22829.png"
+ },
+ {
+  "n": 22830,
+  "it": "Su strada a due carreggiate separate, come in figura, i veicoli che percorrono un dosso devono tenersi vicino al margine sinistro della carreggiata",
+  "answer": false,
+  "en": "On a road with two separate carriageways, as shown in the figure, vehicles going over a humpback bridge must keep near the left-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "a due carreggiate separate",
+    "why": "specifies divided carriageways, changing the rule context"
+   },
+   {
+    "phrase": "vicino al margine sinistro",
+    "why": "the left edge is the key detail that can mislead"
+   }
+  ],
+  "trick": "The divided-road context matters, and the side named is the main trap.",
+  "image": ""
+ },
+ {
+  "n": 22831,
+  "it": "I veicoli che percorrono una curva, su strada a due corsie per ogni senso di marcia, come in figura, possono marciare oltrepassando la striscia discontinua se la strada è libera",
+  "answer": false,
+  "en": "Vehicles going around a curve, on a road with two lanes in each direction as shown in the figure, may drive across the broken line if the road is clear.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "oltrepassando la striscia discontinua",
+    "why": "means crossing beyond the broken line"
+   },
+   {
+    "phrase": "se la strada è libera",
+    "why": "makes it conditional, not general"
+   }
+  ],
+  "trick": "The statement gives conditional permission, which is the key trap.",
+  "image": ""
+ },
+ {
+  "n": 22832,
+  "it": "I veicoli che vogliono effettuare una svolta a sinistra devono tenersi il più possibile vicino al margine destro della carreggiata",
+  "answer": false,
+  "en": "Vehicles intending to make a left turn must keep as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "il più possibile vicino",
+    "why": "means as close as possible, not simply near"
+   },
+   {
+    "phrase": "margine destro",
+    "why": "the right edge is the crucial side detail"
+   }
+  ],
+  "trick": "The obligation is clear, but the named side of the carriageway is the trap.",
+  "image": ""
+ },
+ {
+  "n": 22833,
+  "it": "I filobus devono, di norma, circolare il più possibile vicino al margine sinistro della carreggiata",
+  "answer": false,
+  "en": "Trolleybuses must, as a rule, travel as close as possible to the left-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means as a rule, so not without exceptions"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "il più possibile vicino",
+    "why": "means as close as possible, not simply near"
+   }
+  ],
+  "trick": "The statement is generally binding, but di norma leaves room for exceptions.",
+  "image": ""
+ },
+ {
+  "n": 22834,
+  "it": "Su strade a 2 corsie per senso di marcia, in caso di intenso traffico i ciclomotori a due ruote possono circolare sulla corsia di sinistra",
+  "answer": false,
+  "en": "On roads with two lanes in each direction, in cases of heavy traffic, two-wheeled mopeds may use the left lane.",
+  "keywords": [
+   {
+    "phrase": "in caso di intenso traffico",
+    "why": "limits the claim to heavy-traffic situations"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is conditional permission in a specific traffic situation.",
+  "image": ""
+ },
+ {
+  "n": 22835,
+  "it": "Su strade a 2 corsie per senso di marcia, in caso di intenso traffico i ciclomotori possono circolare sulla corsia di sinistra",
+  "answer": false,
+  "en": "On roads with two lanes in each direction, in cases of heavy traffic, mopeds may use the left lane.",
+  "keywords": [
+   {
+    "phrase": "in caso di intenso traffico",
+    "why": "limits the claim to heavy-traffic situations"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The key trap is that the permission is presented only under a stated condition.",
+  "image": ""
+ },
+ {
+  "n": 22836,
+  "it": "In una carreggiata come in figura in caso di intenso traffico, ciclomotori e motocicli possono circolare sulla pista ciclabile se non superano la velocità di 20 km/h",
+  "answer": false,
+  "en": "On a carriageway like the one shown, in cases of heavy traffic, mopeds and motorcycles may use the cycle lane if they do not exceed 20 km/h.",
+  "keywords": [
+   {
+    "phrase": "in caso di intenso traffico",
+    "why": "limits the claim to heavy-traffic situations"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "se non superano",
+    "why": "sets a negative condition: only if they do not exceed"
+   }
+  ],
+  "trick": "This is a conditional-permission statement with a speed limit expressed through negation.",
+  "image": ""
+ },
+ {
+  "n": 22837,
+  "it": "In caso di traffico intenso, i motocicli possono circolare sulle corsie di emergenza",
+  "answer": false,
+  "en": "In cases of heavy traffic, motorcycles may use the emergency lanes.",
+  "keywords": [
+   {
+    "phrase": "in caso di traffico intenso",
+    "why": "limits the claim to heavy-traffic situations"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The statement is about permission, but only under a stated condition.",
+  "image": "images/q_22837.png"
+ },
+ {
+  "n": 22838,
+  "it": "Quando si vuole cambiare corsia non si deve creare intralcio o pericolo a chi si trova sulla corsia da impegnare",
+  "answer": true,
+  "en": "When you want to change lane, you must not create an obstruction or danger for anyone in the lane you are moving into.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "expresses prohibition through negative obligation"
+   },
+   {
+    "phrase": "corsia da impegnare",
+    "why": "means the lane you are about to enter, not the current one"
+   }
+  ],
+  "trick": "The sentence forbids causing obstruction or danger in the lane you intend to enter.",
+  "image": ""
+ },
+ {
+  "n": 22839,
+  "it": "Quando si vuole cambiare corsia si deve segnalare in anticipo la manovra da compiere",
+  "answer": true,
+  "en": "When you want to change lane, you must signal the manoeuvre in advance.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in anticipo",
+    "why": "requires signalling beforehand, not at the last moment"
+   }
+  ],
+  "trick": "The rule is mandatory and timing matters because the signal must come in advance.",
+  "image": ""
+ },
+ {
+  "n": 22840,
+  "it": "Quando si vuole cambiare corsia bisogna controllare che la corsia da impegnare sia libera davanti per un tratto sufficiente",
+  "answer": true,
+  "en": "When you want to change lane, you must check that the lane you are moving into is clear ahead for a sufficient distance.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "sia libera davanti",
+    "why": "means clear ahead, not just immediately beside you"
+   },
+   {
+    "phrase": "per un tratto sufficiente",
+    "why": "requires enough distance, not just a small gap"
+   }
+  ],
+  "trick": "The obligation concerns forward clearance over a sufficiently long stretch.",
+  "image": ""
+ },
+ {
+  "n": 22841,
+  "it": "Quando si vuole cambiare corsia si deve controllare che la striscia che divide le corsie sia tratteggiata",
+  "answer": true,
+  "en": "When you want to change lane, you must check that the line dividing the lanes is broken.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "sia tratteggiata",
+    "why": "means the line must be broken or dashed"
+   }
+  ],
+  "trick": "The manoeuvre is allowed only where the lane divider is a broken line.",
+  "image": ""
+ },
+ {
+  "n": 22842,
+  "it": "Quando si vuole cambiare corsia si deve segnalare la manovra, facendo uso dell'indicatore di direzione",
+  "answer": true,
+  "en": "When you want to change lane, you must signal the manoeuvre by using the direction indicator.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "facendo uso dell'indicatore di direzione",
+    "why": "specifies the indicator must be used"
+   }
+  ],
+  "trick": "The sentence imposes a duty and names the exact signal device to use.",
+  "image": ""
+ },
+ {
+  "n": 22843,
+  "it": "Quando si vuole cambiare corsia bisogna controllare che sulla corsia che si vuole occupare non stiano arrivando altri veicoli",
+  "answer": true,
+  "en": "When you want to change lane, you must check that no other vehicles are approaching in the lane you want to move into.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "non stiano arrivando",
+    "why": "negates the arrival of other vehicles"
+   },
+   {
+    "phrase": "si vuole occupare",
+    "why": "means the lane you intend to enter, not the one you are in"
+   }
+  ],
+  "trick": "The obligation is to ensure the target lane is free of approaching vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22844,
+  "it": "Nelle strade urbane è consentito, quando si vuole svoltare, circolare a cavallo delle strisce di corsia",
+  "answer": false,
+  "en": "On urban roads, when you want to turn, it is permitted to drive straddling the lane markings.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "a cavallo delle strisce di corsia",
+    "why": "means straddling the lane lines, not staying within one lane"
+   }
+  ],
+  "trick": "The trap is the phrase of permission and the idea of driving on top of the lane markings.",
+  "image": ""
+ },
+ {
+  "n": 22845,
+  "it": "Quando si vuole cambiare corsia l'uso dell'indicatore di direzione è facoltativo se ci sono le strisce discontinue (tratteggiate)",
+  "answer": false,
+  "en": "When you want to change lane, using the direction indicator is optional if there are broken (dashed) lines.",
+  "keywords": [
+   {
+    "phrase": "è facoltativo",
+    "why": "means optional, not required"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the statement to this condition only"
+   }
+  ],
+  "trick": "The key trap is that it wrongly makes the indicator optional under a specific condition.",
+  "image": ""
+ },
+ {
+  "n": 22846,
+  "it": "Quando si vuole cambiare corsia, per immettersi nella corsia di destra, non occorre alcuna particolare attenzione",
+  "answer": false,
+  "en": "When you want to change lane, to move into the right-hand lane, no particular attention is required.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "negates necessity"
+   },
+   {
+    "phrase": "alcuna particolare attenzione",
+    "why": "means no special care at all, an absolute claim"
+   }
+  ],
+  "trick": "The trap is the absolute negation of any need for special attention.",
+  "image": ""
+ },
+ {
+  "n": 22847,
+  "it": "In vicinanza degli incroci, come in figura si può sempre cambiare corsia fino alla striscia trasversale di arresto",
+  "answer": false,
+  "en": "Near intersections, as shown in the figure, you can always change lane up to the transverse stop line.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza degli incroci",
+    "why": "restricts the rule to the area near intersections"
+   },
+   {
+    "phrase": "si può sempre",
+    "why": "claims it is always allowed"
+   },
+   {
+    "phrase": "fino alla striscia trasversale di arresto",
+    "why": "extends the permission right up to the stop line"
+   }
+  ],
+  "trick": "The trap is the word sempre, which makes the permission absolute near an intersection.",
+  "image": ""
+ },
+ {
+  "n": 22848,
+  "it": "Quando si vuole cambiare corsia per un sorpasso è obbligatorio ridurre la velocità",
+  "answer": false,
+  "en": "When you want to change lane in order to overtake, it is compulsory to reduce speed.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per un sorpasso",
+    "why": "limits the statement to lane changes for overtaking"
+   }
+  ],
+  "trick": "The trap is that it presents reducing speed as a compulsory rule for this case.",
+  "image": ""
+ },
+ {
+  "n": 22849,
+  "it": "Quando si vuole cambiare direzione si deve azionare in anticipo l'indicatore di direzione",
+  "answer": true,
+  "en": "When you want to change direction, you must operate the direction indicator in advance.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in anticipo",
+    "why": "requires the signal before the maneuver, not at the last moment"
+   }
+  ],
+  "trick": "The key trap is the obligation to signal early, not merely to signal.",
+  "image": ""
+ },
+ {
+  "n": 22850,
+  "it": "Per svoltare a sinistra bisogna, di norma, lasciare il centro dell'incrocio alla nostra destra, come i veicoli in figura",
+  "answer": true,
+  "en": "To turn left, as a rule, you must leave the center of the intersection on your right, like the vehicles in the picture.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not always without exception"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "lasciare il centro dell'incrocio alla nostra destra",
+    "why": "this positioning detail is easy to reverse mentally"
+   }
+  ],
+  "trick": "The trap is the positioning rule, softened by di norma rather than stated as absolute.",
+  "image": ""
+ },
+ {
+  "n": 22851,
+  "it": "Su strada a senso unico per svoltare a sinistra bisogna tenersi sul margine sinistro",
+  "answer": true,
+  "en": "On a one-way road, to turn left you must keep to the left-hand edge.",
+  "keywords": [
+   {
+    "phrase": "a senso unico",
+    "why": "applies only on a one-way road"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sul margine sinistro",
+    "why": "specifies the exact road position required"
+   }
+  ],
+  "trick": "The trap is the specific obligation that applies only on a one-way road.",
+  "image": ""
+ },
+ {
+  "n": 22852,
+  "it": "Durante l'effettuazione dell'inversione di marcia l'indicatore di direzione deve rimanere in funzione per l'intera durata della manovra",
+  "answer": true,
+  "en": "While carrying out a U-turn, the direction indicator must remain on for the entire duration of the maneuver.",
+  "keywords": [
+   {
+    "phrase": "deve rimanere in funzione",
+    "why": "expresses continuing obligation"
+   },
+   {
+    "phrase": "per l'intera durata della manovra",
+    "why": "means throughout the whole maneuver"
+   }
+  ],
+  "trick": "The trap is that the indicator must stay on continuously for the whole maneuver.",
+  "image": ""
+ },
+ {
+  "n": 22853,
+  "it": "Il veicolo in figura, può svoltare a destra",
+  "answer": false,
+  "en": "The vehicle in the picture may turn right.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not certainty or obligation"
+   }
+  ],
+  "trick": "The trap is that può asks whether turning right is permitted.",
+  "image": ""
+ },
+ {
+  "n": 22854,
+  "it": "Per svoltare a sinistra bisogna girare intorno al centro dell'incrocio, come i veicoli in figura",
+  "answer": false,
+  "en": "To turn left, you must go around the center of the intersection, like the vehicles in the picture.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "girare intorno al centro dell'incrocio",
+    "why": "describes going around the center, which is easy to confuse with passing it on the right"
+   }
+  ],
+  "trick": "The trap is the exact path described around the center of the intersection.",
+  "image": ""
+ },
+ {
+  "n": 22855,
+  "it": "Quando si vuole cambiare direzione è obbligatorio fare uso delle segnalazioni acustiche (clacson o trombe)",
+  "answer": false,
+  "en": "When you want to change direction, it is compulsory to use audible signals (horn or trumpets).",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "segnalazioni acustiche",
+    "why": "means sound signals, not turn indicators"
+   }
+  ],
+  "trick": "The trap is that it wrongly makes horn use mandatory instead of the indicator.",
+  "image": ""
+ },
+ {
+  "n": 22856,
+  "it": "Viaggiando su semicarreggiata a tre corsie, come in figura, per svoltare a sinistra si deve utilizzare la corsia centrale",
+  "answer": false,
+  "en": "Travelling on a carriageway half with three lanes, as shown in the picture, to turn left you must use the middle lane.",
+  "keywords": [
+   {
+    "phrase": "si deve utilizzare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "corsia centrale",
+    "why": "specifies the middle lane, which is easy to misidentify"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to use the middle lane for the left turn.",
+  "image": ""
+ },
+ {
+  "n": 22857,
+  "it": "Su una strada a doppio senso di marcia per svoltare a sinistra non si deve prendere contromano la strada in cui si svolta",
+  "answer": true,
+  "en": "On a two-way road, to turn left you must not enter the road you are turning into on the wrong side.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "expresses prohibition through negated obligation"
+   },
+   {
+    "phrase": "contromano",
+    "why": "means against the proper direction of travel"
+   }
+  ],
+  "trick": "The trap is the prohibition against entering the new road on the wrong side.",
+  "image": "images/q_22857.png"
+ },
+ {
+  "n": 22858,
+  "it": "Su una strada a doppio senso di marcia nello svoltare a sinistra si deve, di norma, lasciare il centro dell'incrocio alla nostra destra, come i veicoli in figura",
+  "answer": true,
+  "en": "On a two-way road, when turning left, as a rule, you must leave the center of the intersection on your right, like the vehicles in the picture.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not absolutely always"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "lasciare il centro dell'incrocio alla nostra destra",
+    "why": "this positioning detail is easy to reverse"
+   }
+  ],
+  "trick": "The trap is the exact left-turn path, stated as the normal rule rather than an absolute one.",
+  "image": "images/q_22858.png"
+ },
+ {
+  "n": 22859,
+  "it": "Su una strada a doppio senso di marcia per svoltare a sinistra occorre inserirsi nelle corsie che consentono di proseguire in tale direzione",
+  "answer": true,
+  "en": "On a two-way road, to turn left you must move into the lanes that allow you to continue in that direction.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "consentono",
+    "why": "means allow, so only certain lanes qualify"
+   }
+  ],
+  "trick": "The trap is that only lanes permitting continuation in that direction may be used.",
+  "image": "images/q_22859.png"
+ },
+ {
+  "n": 22860,
+  "it": "Su una strada a doppio senso di marcia per svoltare a sinistra è necessario spostarsi a sinistra della linea continua di mezzeria",
+  "answer": false,
+  "en": "On a two-way road, to turn left it is necessary to move to the left of the continuous center line.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "a sinistra della linea continua di mezzeria",
+    "why": "places the vehicle beyond a continuous center line, a key legal detail"
+   }
+  ],
+  "trick": "The trap is the false claim that crossing left of a continuous center line is necessary.",
+  "image": ""
+ },
+ {
+  "n": 22861,
+  "it": "Su una strada a doppio senso di marcia per svoltare a sinistra ci si deve tenere lungo il margine destro della carreggiata",
+  "answer": false,
+  "en": "On a two-way road, to turn left you must keep along the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "ci si deve tenere",
+    "why": "expresses obligation about road position"
+   },
+   {
+    "phrase": "lungo il margine destro della carreggiata",
+    "why": "specifies the right edge, which is the opposite of what learners may expect for a left turn"
+   }
+  ],
+  "trick": "The trap is the misleading obligation to keep to the right edge while turning left.",
+  "image": ""
+ },
+ {
+  "n": 22862,
+  "it": "Su una strada a doppio senso di marcia per svoltare a sinistra è necessario arrestarsi prima di completare la manovra, anche se non sopraggiungono veicoli",
+  "answer": false,
+  "en": "On a two-way road, to turn left it is necessary to stop before completing the maneuver, even if no vehicles are approaching.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, so the rule is claimed to apply despite that condition"
+   },
+   {
+    "phrase": "non sopraggiungono veicoli",
+    "why": "negates the presence of approaching vehicles"
+   }
+  ],
+  "trick": "The trap is the absolute necessity claimed even when no vehicles are coming.",
+  "image": ""
+ },
+ {
+  "n": 22863,
+  "it": "Percorrendo una carreggiata a senso unico la svolta a sinistra si effettua segnalando in anticipo la manovra da compiere",
+  "answer": true,
+  "en": "While travelling on a one-way carriageway, a left turn is carried out by signalling the maneuver in advance.",
+  "keywords": [
+   {
+    "phrase": "a senso unico",
+    "why": "applies only on a one-way carriageway"
+   },
+   {
+    "phrase": "in anticipo",
+    "why": "requires signalling before the maneuver"
+   }
+  ],
+  "trick": "The trap is that the rule is specific to a one-way carriageway and requires early signalling.",
+  "image": ""
+ },
+ {
+  "n": 22864,
+  "it": "Durante la marcia per file parallele è consentito cambiare corsia per effettuare manovre di svolta.",
+  "answer": true,
+  "en": "While driving in parallel lines, it is permitted to change lane in order to make a turning manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "per effettuare manovre di svolta",
+    "why": "limits the permission to turning manoeuvres"
+   }
+  ],
+  "trick": "Watch that this says lane changing is allowed only for making a turn.",
+  "image": ""
+ },
+ {
+  "n": 22865,
+  "it": "La marcia per file parallele è ammessa quando viene autorizzata dagli agenti del traffico",
+  "answer": true,
+  "en": "Driving in parallel lines is allowed when it is authorized by traffic officers.",
+  "keywords": [
+   {
+    "phrase": "è ammessa",
+    "why": "means allowed/admitted, not required"
+   },
+   {
+    "phrase": "quando",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "autorizzata dagli agenti del traffico",
+    "why": "permission exists only if traffic officers authorize it"
+   }
+  ],
+  "trick": "The statement is conditional: parallel driving is allowed only if traffic officers authorize it.",
+  "image": ""
+ },
+ {
+  "n": 22866,
+  "it": "E' consentita la marcia per file parallele su strade a due corsie per senso di marcia ad un incrocio regolato da semaforo",
+  "answer": true,
+  "en": "Driving in parallel lines is permitted on roads with two lanes in each direction at a traffic-light-controlled intersection.",
+  "keywords": [
+   {
+    "phrase": "E' consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "a due corsie per senso di marcia",
+    "why": "sets a specific lane requirement"
+   },
+   {
+    "phrase": "ad un incrocio regolato da semaforo",
+    "why": "restricts the rule to a signal-controlled intersection"
+   }
+  ],
+  "trick": "The permission applies only in this specific road and intersection situation.",
+  "image": ""
+ },
+ {
+  "n": 22867,
+  "it": "Su strade con almeno due corsie per senso di marcia, come in figura, qualora il traffico sia intenso, si può viaggiare per file parallele",
+  "answer": true,
+  "en": "On roads with at least two lanes in each direction, as shown, if the traffic is heavy, you may travel in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "almeno",
+    "why": "means a minimum requirement, not exactly two"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "il traffico sia intenso",
+    "why": "the rule applies only in heavy traffic"
+   },
+   {
+    "phrase": "si può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "Do not miss the conditions: at least two lanes each way and heavy traffic.",
+  "image": ""
+ },
+ {
+  "n": 22868,
+  "it": "Di norma, è consentito viaggiare per file parallele lungo il tratto di strada che porta ad un incrocio regolato da agenti del traffico",
+  "answer": true,
+  "en": "As a rule, it is permitted to travel in parallel lines along the stretch of road leading to an intersection controlled by traffic officers.",
+  "keywords": [
+   {
+    "phrase": "Di norma",
+    "why": "means generally/as a rule, not always"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "regolato da agenti del traffico",
+    "why": "limits the rule to intersections controlled by officers"
+   }
+  ],
+  "trick": "The trap is 'di norma': generally allowed, not in every case.",
+  "image": ""
+ },
+ {
+  "n": 22869,
+  "it": "In condizioni di traffico intenso su carreggiata a senso unico a tre corsie, come in figura, è consentito viaggiare per file parallele",
+  "answer": true,
+  "en": "In heavy traffic conditions on a one-way carriageway with three lanes, as shown, it is permitted to travel in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "In condizioni di traffico intenso",
+    "why": "limits the rule to heavy traffic conditions"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "specifies one-way only"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "This is allowed only under the stated conditions, especially heavy traffic and one-way carriageway.",
+  "image": ""
+ },
+ {
+  "n": 22870,
+  "it": "Percorrendo una carreggiata a senso unico la svolta a sinistra si effettua immettendosi in una corsia qualsiasi, se si viaggia per file parallele",
+  "answer": false,
+  "en": "When driving on a one-way carriageway, a left turn is made by moving into any lane, if you are travelling in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "una corsia qualsiasi",
+    "why": "means any lane, which is an absolute claim"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   }
+  ],
+  "trick": "The trap is the absolute phrase 'any lane'.",
+  "image": ""
+ },
+ {
+  "n": 22871,
+  "it": "E' consentito viaggiare per file parallele lungo il tratto di strada che porta ad un incrocio non regolato da semaforo o da agenti del traffico",
+  "answer": false,
+  "en": "It is permitted to travel in parallel lines along the stretch of road leading to an intersection not controlled by traffic lights or by traffic officers.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "non regolato",
+    "why": "negates the controlled-intersection condition"
+   },
+   {
+    "phrase": "o",
+    "why": "either of the two controls would count, so the negation matters carefully"
+   }
+  ],
+  "trick": "The key trap is the negation: it says the intersection is not controlled by lights or officers.",
+  "image": ""
+ },
+ {
+  "n": 22872,
+  "it": "E' consentito viaggiare per file parallele su strada con due corsie e doppio senso di marcia, come quella in figura",
+  "answer": false,
+  "en": "It is permitted to travel in parallel lines on a road with two lanes and two-way traffic, like the one shown.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "doppio senso di marcia",
+    "why": "means two-way traffic, often confused with lanes per direction"
+   }
+  ],
+  "trick": "Do not confuse 'two lanes' with 'two lanes in each direction'; this says a two-way road with two lanes total.",
+  "image": ""
+ },
+ {
+  "n": 22873,
+  "it": "E' sempre consentito viaggiare per file parallele se la carreggiata a doppio senso ha almeno due corsie per ogni senso di marcia, come quella in figura",
+  "answer": false,
+  "en": "It is always permitted to travel in parallel lines if the two-way carriageway has at least two lanes for each direction of travel, as shown.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the claim absolute"
+   },
+   {
+    "phrase": "almeno",
+    "why": "means a minimum requirement, not exactly two"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The main trap is 'sempre': always is often too broad.",
+  "image": ""
+ },
+ {
+  "n": 22874,
+  "it": "Nei centri urbani è consentito marciare per file parallele in qualunque condizione di traffico",
+  "answer": false,
+  "en": "In built-up areas, it is permitted to drive in parallel lines in any traffic condition.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "in qualunque condizione di traffico",
+    "why": "makes the statement unrestricted in all traffic conditions"
+   }
+  ],
+  "trick": "The trap is the absolute scope: 'in any traffic condition'.",
+  "image": "images/q_22874.png"
+ },
+ {
+  "n": 22875,
+  "it": "E' obbligatorio viaggiare per file parallele sulle carreggiate a tre corsie per senso di marcia, come quella in figura",
+  "answer": false,
+  "en": "It is compulsory to travel in parallel lines on carriageways with three lanes in each direction, like the one shown.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not mere permission"
+   },
+   {
+    "phrase": "a tre corsie per senso di marcia",
+    "why": "sets a specific road layout condition"
+   }
+  ],
+  "trick": "The key trap is 'obbligatorio': required, not just allowed.",
+  "image": "images/q_22875.png"
+ },
+ {
+  "n": 22876,
+  "it": "Durante la marcia per file parallele, percorrendo la corsia di sinistra, bisogna mantenere in funzione l'indicatore di direzione sinistra",
+  "answer": false,
+  "en": "While driving in parallel lines, when travelling in the left lane, you must keep the left turn indicator on.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "mantenere in funzione",
+    "why": "means keep operating continuously, not just use briefly"
+   }
+  ],
+  "trick": "The trap is the obligation to keep the indicator continuously on.",
+  "image": "images/q_22876.png"
+ },
+ {
+  "n": 22877,
+  "it": "La marcia per file parallele non è ammessa se la strada è a una sola carreggiata",
+  "answer": false,
+  "en": "Driving in parallel lines is not allowed if the road has only one carriageway.",
+  "keywords": [
+   {
+    "phrase": "non è ammessa",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "a una sola carreggiata",
+    "why": "means a single carriageway, not one lane"
+   }
+  ],
+  "trick": "Do not confuse 'single carriageway' with 'single lane'; the negation is also crucial.",
+  "image": ""
+ },
+ {
+  "n": 22878,
+  "it": "Durante la marcia per file parallele i motocicli possono procedere passando tra i veicoli affiancati",
+  "answer": false,
+  "en": "While driving in parallel lines, motorcycles may proceed by passing between vehicles side by side.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "passando tra i veicoli affiancati",
+    "why": "specifies passing between side-by-side vehicles, a common trap"
+   }
+  ],
+  "trick": "The tricky part is the claimed permission for motorcycles to pass between vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22879,
+  "it": "Agli incroci è obbligatorio dare la precedenza ai veicoli circolanti su rotaie (tram e treni), salvo diversa segnalazione",
+  "answer": true,
+  "en": "At intersections, it is compulsory to give way to vehicles running on rails (trams and trains), unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs indicate otherwise"
+   }
+  ],
+  "trick": "The rule is mandatory, but there is an explicit exception if signage says otherwise.",
+  "image": ""
+ },
+ {
+  "n": 22880,
+  "it": "E' obbligatorio dare la precedenza a destra e a sinistra quando, da fermi, ci si immette nella circolazione",
+  "answer": true,
+  "en": "It is compulsory to give way to the right and to the left when, from a stationary position, you move into traffic.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a destra e a sinistra",
+    "why": "means both directions, not just the right"
+   },
+   {
+    "phrase": "da fermi",
+    "why": "limits the rule to setting off from a stationary position"
+   }
+  ],
+  "trick": "The trap is that you must give way in both directions when moving off from stationary.",
+  "image": ""
+ },
+ {
+  "n": 22881,
+  "it": "E' obbligatorio dare la precedenza a tutti i veicoli circolanti sulle strade quando si effettua l'inversione del senso di marcia",
+  "answer": true,
+  "en": "It is compulsory to give way to all vehicles travelling on the roads when making a U-turn.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a tutti i veicoli",
+    "why": "applies to all vehicles, not only some"
+   },
+   {
+    "phrase": "inversione del senso di marcia",
+    "why": "means a U-turn/change of direction, a specific manoeuvre"
+   }
+  ],
+  "trick": "The important point is the full obligation to give way to all vehicles during a U-turn.",
+  "image": ""
+ },
+ {
+  "n": 22882,
+  "it": "E' obbligatorio dare la precedenza a tutti i veicoli quando si effettua la retromarcia",
+  "answer": true,
+  "en": "It is compulsory to give way to all vehicles when reversing.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a tutti i veicoli",
+    "why": "applies to all vehicles without exception"
+   },
+   {
+    "phrase": "retromarcia",
+    "why": "means reversing, a specific manoeuvre"
+   }
+  ],
+  "trick": "The statement is absolute: when reversing, you must give way to all vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22883,
+  "it": "E' obbligatorio dare la precedenza a destra e a sinistra quando si esce da un passo carrabile",
+  "answer": true,
+  "en": "It is compulsory to give way to the right and to the left when exiting from a driveway.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a destra e a sinistra",
+    "why": "means both directions, not just the right"
+   },
+   {
+    "phrase": "passo carrabile",
+    "why": "means driveway/vehicle access, not a pedestrian crossing"
+   }
+  ],
+  "trick": "The traps are 'both right and left' and the meaning of 'passo carrabile' as a driveway exit.",
+  "image": ""
+ },
+ {
+  "n": 22884,
+  "it": "E' obbligatorio dare la precedenza a destra e a sinistra in presenza del segnale in figura",
+  "answer": true,
+  "en": "It is mandatory to give way to the right and to the left in the presence of the sign shown.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield/give way"
+   },
+   {
+    "phrase": "a destra e a sinistra",
+    "why": "includes both directions"
+   },
+   {
+    "phrase": "in presenza del",
+    "why": "limits the rule to when this sign is present"
+   }
+  ],
+  "trick": "Watch obligation wording and the fact that it says to yield both right and left only when that sign is present.",
+  "image": ""
+ },
+ {
+  "n": 22885,
+  "it": "E' obbligatorio dare la precedenza a destra e a sinistra in presenza del segnale in figura",
+  "answer": false,
+  "en": "It is mandatory to give way to the right and to the left in the presence of the sign shown.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield/give way"
+   },
+   {
+    "phrase": "a destra e a sinistra",
+    "why": "includes both directions"
+   },
+   {
+    "phrase": "in presenza del",
+    "why": "limits the rule to when this sign is present"
+   }
+  ],
+  "trick": "Watch obligation wording and the fact that it says to yield both right and left only when that sign is present.",
+  "image": ""
+ },
+ {
+  "n": 22886,
+  "it": "E' obbligatorio dare la precedenza a destra e a sinistra in presenza del segnale ROTATORIA",
+  "answer": false,
+  "en": "It is mandatory to give way to the right and to the left when the ROUNDABOUT sign is present.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield/give way"
+   },
+   {
+    "phrase": "a destra e a sinistra",
+    "why": "includes both directions"
+   },
+   {
+    "phrase": "in presenza del segnale ROTATORIA",
+    "why": "restricts the statement to the roundabout sign"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to yield both right and left specifically with the roundabout sign.",
+  "image": ""
+ },
+ {
+  "n": 22887,
+  "it": "E' obbligatorio dare la precedenza a tutti i veicoli circolanti negli incroci regolati da semaforo a luce gialla lampeggiante",
+  "answer": false,
+  "en": "It is mandatory to give way to all vehicles in circulation at intersections regulated by a flashing yellow traffic light.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield/give way"
+   },
+   {
+    "phrase": "a tutti i veicoli circolanti",
+    "why": "extends the rule to all moving vehicles"
+   },
+   {
+    "phrase": "regolati da semaforo a luce gialla lampeggiante",
+    "why": "sets a specific intersection condition"
+   }
+  ],
+  "trick": "The key trap is the absolute claim that you must yield to all moving vehicles under flashing yellow.",
+  "image": ""
+ },
+ {
+  "n": 22888,
+  "it": "E' obbligatorio dare la precedenza a tutti i veicoli circolanti quando si svolta a sinistra",
+  "answer": false,
+  "en": "It is mandatory to give way to all vehicles in circulation when turning left.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield/give way"
+   },
+   {
+    "phrase": "a tutti i veicoli circolanti",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "quando si svolta a sinistra",
+    "why": "restricts the rule to left turns"
+   }
+  ],
+  "trick": "The trap is the absolute phrase 'all vehicles' when turning left.",
+  "image": ""
+ },
+ {
+  "n": 22889,
+  "it": "E' obbligatorio dare la precedenza a tutti i veicoli circolanti in presenza del segnale in figura",
+  "answer": false,
+  "en": "It is mandatory to give way to all vehicles in circulation in the presence of the sign shown.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dare la precedenza",
+    "why": "means yield/give way"
+   },
+   {
+    "phrase": "a tutti i veicoli circolanti",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "in presenza del segnale in figura",
+    "why": "limits the claim to that pictured sign"
+   }
+  ],
+  "trick": "The trap is the absolute obligation to yield to all vehicles under that specific sign.",
+  "image": ""
+ },
+ {
+  "n": 22890,
+  "it": "Giungendo in vicinanza di un incrocio bisogna predisporsi ad osservare le norme di precedenza",
+  "answer": true,
+  "en": "When approaching an intersection, you must be ready to observe the right-of-way rules.",
+  "keywords": [
+   {
+    "phrase": "Giungendo in vicinanza di un incrocio",
+    "why": "means when approaching, not already at it"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "norme di precedenza",
+    "why": "refers to right-of-way rules"
+   }
+  ],
+  "trick": "The key is that approaching an intersection creates a duty to be ready to follow right-of-way rules.",
+  "image": ""
+ },
+ {
+  "n": 22891,
+  "it": "Giungendo in vicinanza di un incrocio ci si deve spostare per tempo sulla corsia destinata alla direzione che si intende prendere",
+  "answer": true,
+  "en": "When approaching an intersection, you must move in good time into the lane intended for the direction you mean to take.",
+  "keywords": [
+   {
+    "phrase": "Giungendo in vicinanza di un incrocio",
+    "why": "means when approaching, not already at it"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per tempo",
+    "why": "means in good time/early"
+   },
+   {
+    "phrase": "destinata alla direzione che si intende prendere",
+    "why": "refers to the lane assigned to your intended direction"
+   }
+  ],
+  "trick": "The trap is the obligation to get into the correct lane early, not at the last moment.",
+  "image": ""
+ },
+ {
+  "n": 22892,
+  "it": "Giungendo in vicinanza di un incrocio si deve segnalare per tempo l'intenzione di svoltare",
+  "answer": true,
+  "en": "When approaching an intersection, you must signal in good time your intention to turn.",
+  "keywords": [
+   {
+    "phrase": "Giungendo in vicinanza di un incrocio",
+    "why": "means when approaching, not already at it"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per tempo",
+    "why": "means in good time/early"
+   }
+  ],
+  "trick": "The key point is the obligation to indicate the turn early.",
+  "image": ""
+ },
+ {
+  "n": 22893,
+  "it": "Giungendo alla guida di un veicolo a due ruote in vicinanza di un incrocio, bisogna incolonnarsi dietro gli altri veicoli in attesa",
+  "answer": true,
+  "en": "When approaching an intersection while riding a two-wheeled vehicle, you must line up behind the other waiting vehicles.",
+  "keywords": [
+   {
+    "phrase": "alla guida di un veicolo a due ruote",
+    "why": "specifies this applies to two-wheeled vehicles"
+   },
+   {
+    "phrase": "in vicinanza di un incrocio",
+    "why": "means near/approaching an intersection"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "dietro gli altri veicoli in attesa",
+    "why": "requires staying behind queued vehicles"
+   }
+  ],
+  "trick": "The trap is that even on a two-wheeler you must queue behind other waiting vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22894,
+  "it": "Giungendo ad un incrocio è consentito impegnarlo solo se si ha la possibilità di proseguire e liberarlo",
+  "answer": true,
+  "en": "When approaching an intersection, it is permitted to enter it only if you have the possibility to continue and clear it.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "allows it only under this condition"
+   },
+   {
+    "phrase": "impegnarlo",
+    "why": "means enter/occupy the intersection"
+   },
+   {
+    "phrase": "proseguire e liberarlo",
+    "why": "requires both continuing and clearing the intersection"
+   }
+  ],
+  "trick": "The key trap is 'permitted only if': you may enter only when you can keep going and clear the junction.",
+  "image": ""
+ },
+ {
+  "n": 22895,
+  "it": "Giungendo in vicinanza di un incrocio si deve usare la massima prudenza per evitare incidenti",
+  "answer": true,
+  "en": "When approaching an intersection, you must use the utmost caution to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "Giungendo in vicinanza di un incrocio",
+    "why": "means when approaching, not already at it"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "massima prudenza",
+    "why": "means utmost caution"
+   }
+  ],
+  "trick": "The important point is the obligation to use maximum caution near an intersection.",
+  "image": ""
+ },
+ {
+  "n": 22896,
+  "it": "Giungendo in vicinanza di un incrocio bisogna passare sempre prima dei veicoli che arrivano da destra",
+  "answer": false,
+  "en": "When approaching an intersection, you must always go first before vehicles coming from the right.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "prima dei veicoli che arrivano da destra",
+    "why": "concerns priority over vehicles from the right"
+   }
+  ],
+  "trick": "The trap is the word 'always', which makes the priority claim absolute.",
+  "image": ""
+ },
+ {
+  "n": 22897,
+  "it": "Giungendo in vicinanza di un incrocio bisogna sorpassare velocemente a sinistra se si vuole svoltare a destra",
+  "answer": false,
+  "en": "When approaching an intersection, you must overtake quickly on the left if you want to turn right.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "sorpassare velocemente",
+    "why": "claims you must overtake quickly"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "si vuole svoltare a destra",
+    "why": "limits the statement to wanting to turn right"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to overtake quickly on the left in order to turn right.",
+  "image": ""
+ },
+ {
+  "n": 22898,
+  "it": "Giungendo in vicinanza di un incrocio nei centri abitati occorre suonare il clacson",
+  "answer": false,
+  "en": "When approaching an intersection in built-up areas, it is necessary to sound the horn.",
+  "keywords": [
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the statement to built-up areas"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   }
+  ],
+  "trick": "The key trap is the claimed necessity to use the horn specifically in built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 22899,
+  "it": "In vicinanza o in corrispondenza degli incroci non è consentito procedere a zig zag, anche se le corsie direzionali sono segnate da strisce discontinue (tratteggiate)",
+  "answer": true,
+  "en": "Near or at intersections, it is not permitted to proceed in a zigzag, even if the directional lanes are marked by broken dashed lines.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza o in corrispondenza degli incroci",
+    "why": "covers both near and at intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means the prohibition still applies despite this"
+   },
+   {
+    "phrase": "strisce discontinue (tratteggiate)",
+    "why": "could suggest lane changes are allowed, but not here"
+   }
+  ],
+  "trick": "The prohibition remains in force near intersections even if broken lane markings might normally allow movement.",
+  "image": ""
+ },
+ {
+  "n": 22900,
+  "it": "In vicinanza o in corrispondenza degli incroci non è consentito cambiare improvvisamente la direzione di marcia",
+  "answer": true,
+  "en": "Near or at intersections, it is not permitted to change direction of travel suddenly.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza o in corrispondenza degli incroci",
+    "why": "covers both near and at intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "improvvisamente",
+    "why": "adds the idea of suddenness"
+   }
+  ],
+  "trick": "The key is the prohibition on sudden direction changes near or at intersections.",
+  "image": ""
+ },
+ {
+  "n": 22901,
+  "it": "In vicinanza o in corrispondenza degli incroci non è consentito effettuare l'inversione di marcia",
+  "answer": true,
+  "en": "Near or at intersections, it is not permitted to make a U-turn.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza o in corrispondenza degli incroci",
+    "why": "covers both near and at intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "l'inversione di marcia",
+    "why": "means a U-turn, not a simple turn"
+   }
+  ],
+  "trick": "The trap is that U-turns are prohibited both near and at intersections.",
+  "image": ""
+ },
+ {
+  "n": 22902,
+  "it": "In corrispondenza di incroci extraurbani non è consentito effettuare la sosta",
+  "answer": true,
+  "en": "At rural intersections, it is not permitted to park.",
+  "keywords": [
+   {
+    "phrase": "In corrispondenza di incroci extraurbani",
+    "why": "limits the rule to rural intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "la sosta",
+    "why": "means parking, not just stopping briefly"
+   }
+  ],
+  "trick": "The key distinction is that 'sosta' means parking, which is prohibited at rural intersections.",
+  "image": ""
+ },
+ {
+  "n": 22903,
+  "it": "In corrispondenza di incroci extraurbani non è consentito effettuare la fermata",
+  "answer": true,
+  "en": "At rural intersections, it is not permitted to stop.",
+  "keywords": [
+   {
+    "phrase": "In corrispondenza di incroci extraurbani",
+    "why": "limits the rule to rural intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "la fermata",
+    "why": "means stopping, distinct from parking"
+   }
+  ],
+  "trick": "The key distinction is that 'fermata' means stopping, which is prohibited at rural intersections.",
+  "image": ""
+ },
+ {
+  "n": 22904,
+  "it": "In vicinanza o in corrispondenza degli incroci non è consentito sorpassare una bicicletta, se si deve occupare la corsia opposta di marcia",
+  "answer": true,
+  "en": "Near or at intersections, it is not permitted to overtake a bicycle if you have to move into the opposite lane.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negation"
+   },
+   {
+    "phrase": "sorpassare",
+    "why": "means overtake, not simply pass"
+   },
+   {
+    "phrase": "se si deve",
+    "why": "sets a condition involving obligation/necessity"
+   },
+   {
+    "phrase": "occupare la corsia opposta di marcia",
+    "why": "means entering the lane for oncoming traffic"
+   }
+  ],
+  "trick": "The statement forbids overtaking a bicycle near an intersection only when doing so requires using the oncoming lane.",
+  "image": ""
+ },
+ {
+  "n": 22905,
+  "it": "In vicinanza o in corrispondenza degli incroci non è consentito usare i fari anabbaglianti",
+  "answer": false,
+  "en": "Near or at intersections, it is not permitted to use dipped headlights.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negation"
+   },
+   {
+    "phrase": "fari anabbaglianti",
+    "why": "means dipped/low-beam headlights, not main beam"
+   }
+  ],
+  "trick": "The trap is the negative prohibition applied to dipped headlights.",
+  "image": ""
+ },
+ {
+  "n": 22906,
+  "it": "In vicinanza o in corrispondenza degli incroci extraurbani non è consentito superare la velocità di 60 km/h",
+  "answer": false,
+  "en": "Near or at rural intersections, it is not permitted to exceed a speed of 60 km/h.",
+  "keywords": [
+   {
+    "phrase": "extraurbani",
+    "why": "restricts the statement to rural/out-of-town intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negation"
+   },
+   {
+    "phrase": "superare la velocità di 60 km/h",
+    "why": "means exceed 60 km/h, not merely reach it"
+   }
+  ],
+  "trick": "The key traps are the rural-road restriction and the prohibition on exceeding a stated speed.",
+  "image": ""
+ },
+ {
+  "n": 22907,
+  "it": "In corrispondenza degli incroci urbani è consentito non azionare l'indicatore di direzione per svoltare a destra",
+  "answer": false,
+  "en": "At urban intersections, it is permitted not to use the direction indicator when turning right.",
+  "keywords": [
+   {
+    "phrase": "urbani",
+    "why": "restricts the statement to urban intersections"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "non azionare",
+    "why": "negates the action of using the indicator"
+   },
+   {
+    "phrase": "per svoltare a destra",
+    "why": "limits the claim to right turns"
+   }
+  ],
+  "trick": "The trap is that the sentence claims permission to omit the indicator specifically for right turns in urban intersections.",
+  "image": ""
+ },
+ {
+  "n": 22908,
+  "it": "In vicinanza o in corrispondenza degli incroci regolati da semaforo non è consentito il sorpasso",
+  "answer": false,
+  "en": "Near or at intersections controlled by traffic lights, overtaking is not permitted.",
+  "keywords": [
+   {
+    "phrase": "regolati da semaforo",
+    "why": "limits the statement to traffic-light-controlled intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negation"
+   },
+   {
+    "phrase": "sorpasso",
+    "why": "means overtaking, a specific manoeuvre"
+   }
+  ],
+  "trick": "The key trap is the restriction to signal-controlled intersections combined with a prohibition.",
+  "image": ""
+ },
+ {
+  "n": 22909,
+  "it": "In vicinanza o in corrispondenza degli incroci non si deve rallentare se il semaforo è a luce gialla lampeggiante",
+  "answer": false,
+  "en": "Near or at intersections, you must not slow down if the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "expresses prohibition/negative obligation"
+   },
+   {
+    "phrase": "se il semaforo è a luce gialla lampeggiante",
+    "why": "sets the rule in the case of a flashing yellow light"
+   }
+  ],
+  "trick": "The trap is the negative obligation: it says you must not slow down when the light is flashing yellow.",
+  "image": ""
+ },
+ {
+  "n": 22910,
+  "it": "In vicinanza o in corrispondenza degli incroci extraurbani non è consentito azionare i dispositivi di segnalazione acustica (clacson o trombe)",
+  "answer": false,
+  "en": "Near or at rural intersections, it is not permitted to use the audible warning devices (horn or trumpets).",
+  "keywords": [
+   {
+    "phrase": "extraurbani",
+    "why": "restricts the statement to rural/out-of-town intersections"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negation"
+   },
+   {
+    "phrase": "dispositivi di segnalazione acustica",
+    "why": "formal term for horn/sounding devices"
+   }
+  ],
+  "trick": "The trap is the prohibition, limited specifically to rural intersections.",
+  "image": ""
+ },
+ {
+  "n": 22911,
+  "it": "Se ad un incrocio giungono contemporaneamente da strade diverse due veicoli, l'obbligo di dare la precedenza spetta, di norma, al conducente del veicolo che arriva da sinistra",
+  "answer": true,
+  "en": "If two vehicles arrive at an intersection at the same time from different roads, the duty to give way normally falls on the driver of the vehicle coming from the left.",
+  "keywords": [
+   {
+    "phrase": "contemporaneamente",
+    "why": "applies only when both arrive at the same time"
+   },
+   {
+    "phrase": "l'obbligo di dare la precedenza",
+    "why": "expresses a legal duty to yield"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not without exception"
+   },
+   {
+    "phrase": "da sinistra",
+    "why": "left/right priority is a common learner trap"
+   }
+  ],
+  "trick": "The key is that, as a general rule, the vehicle coming from the left must give way when both arrive simultaneously.",
+  "image": ""
+ },
+ {
+  "n": 22912,
+  "it": "Se ad un incrocio giungono contemporaneamente da strade diverse due veicoli, entrambi hanno l'obbligo di moderare la velocità, per evitare incidenti",
+  "answer": true,
+  "en": "If two vehicles arrive at an intersection at the same time from different roads, both are obliged to reduce speed to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "contemporaneamente",
+    "why": "applies only when both arrive at the same time"
+   },
+   {
+    "phrase": "entrambi",
+    "why": "includes both drivers, not just one"
+   },
+   {
+    "phrase": "hanno l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "moderare la velocità",
+    "why": "means reduce/moderate speed, not necessarily stop"
+   }
+  ],
+  "trick": "The trap is that the obligation applies to both vehicles when they arrive simultaneously.",
+  "image": ""
+ },
+ {
+  "n": 22913,
+  "it": "Giungendo ad un incrocio, bisogna essere prudenti e tolleranti nei confronti di chi, pur non avendo la precedenza, passa ugualmente per primo",
+  "answer": true,
+  "en": "When approaching an intersection, you must be cautious and tolerant towards someone who, even without having priority, still goes first.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "pur non avendo la precedenza",
+    "why": "means despite not having right of way"
+   },
+   {
+    "phrase": "ugualmente",
+    "why": "means nevertheless/still"
+   }
+  ],
+  "trick": "The sentence requires caution even when the other road user wrongly goes first without priority.",
+  "image": ""
+ },
+ {
+  "n": 22914,
+  "it": "Uscendo con un veicolo da una proprietà privata, bisogna procedere con prudenza",
+  "answer": true,
+  "en": "When leaving a private property with a vehicle, you must proceed with caution.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "procedere con prudenza",
+    "why": "requires cautious movement, not just attention"
+   }
+  ],
+  "trick": "The trap is that this is an obligation, not a mere suggestion.",
+  "image": ""
+ },
+ {
+  "n": 22915,
+  "it": "Uscendo con un veicolo da una proprietà privata, bisogna dare la precedenza agli eventuali pedoni",
+  "answer": true,
+  "en": "When leaving a private property with a vehicle, you must give way to any pedestrians.",
+  "keywords": [
+   {
+    "phrase": "bisogna dare la precedenza",
+    "why": "expresses obligation to yield"
+   },
+   {
+    "phrase": "agli eventuali pedoni",
+    "why": "means any pedestrians who may be present"
+   }
+  ],
+  "trick": "The key point is the obligation to yield to pedestrians when exiting private property.",
+  "image": ""
+ },
+ {
+  "n": 22916,
+  "it": "Uscendo con un veicolo da una proprietà privata, bisogna procedere lentamente, specie se in retromarcia",
+  "answer": true,
+  "en": "When leaving a private property with a vehicle, you must proceed slowly, especially when reversing.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "lentamente",
+    "why": "imposes slow movement"
+   },
+   {
+    "phrase": "specie se in retromarcia",
+    "why": "adds emphasis for the case of reversing"
+   }
+  ],
+  "trick": "The sentence makes slow movement mandatory, with special emphasis on reversing.",
+  "image": ""
+ },
+ {
+  "n": 22917,
+  "it": "Se ad un incrocio giungono contemporaneamente da strade diverse due veicoli, l'obbligo di dare la precedenza spetta al conducente del veicolo che percorre la strada più stretta",
+  "answer": false,
+  "en": "If two vehicles arrive at an intersection at the same time from different roads, the duty to give way falls on the driver of the vehicle travelling on the narrower road.",
+  "keywords": [
+   {
+    "phrase": "contemporaneamente",
+    "why": "applies only when both arrive at the same time"
+   },
+   {
+    "phrase": "l'obbligo di dare la precedenza",
+    "why": "expresses a legal duty to yield"
+   },
+   {
+    "phrase": "la strada più stretta",
+    "why": "suggests a false criterion for priority"
+   }
+  ],
+  "trick": "The trap is the claimed rule based on the narrower road.",
+  "image": ""
+ },
+ {
+  "n": 22918,
+  "it": "Uscendo con un veicolo da una proprietà privata, è obbligatorio suonare il clacson",
+  "answer": false,
+  "en": "When leaving a private property with a vehicle, it is compulsory to sound the horn.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "suonare il clacson",
+    "why": "means sound the horn"
+   }
+  ],
+  "trick": "The key trap is the strong obligation expressed by 'it is compulsory'.",
+  "image": ""
+ },
+ {
+  "n": 22919,
+  "it": "Uscendo con un veicolo da una proprietà privata, si ha la precedenza sui pedoni",
+  "answer": false,
+  "en": "When leaving a private property with a vehicle, you have priority over pedestrians.",
+  "keywords": [
+   {
+    "phrase": "si ha la precedenza",
+    "why": "states having right of way"
+   },
+   {
+    "phrase": "sui pedoni",
+    "why": "specifically claims priority over pedestrians"
+   }
+  ],
+  "trick": "The trap is the incorrect claim of having right of way over pedestrians.",
+  "image": ""
+ },
+ {
+  "n": 22920,
+  "it": "Se un autotreno intende svoltare a destra in una strada stretta, i conducenti degli altri veicoli debbono tener presente che potrebbe diminuire notevolmente la velocità",
+  "answer": true,
+  "en": "If an articulated lorry intends to turn right into a narrow road, the drivers of other vehicles must bear in mind that it could slow down considerably.",
+  "keywords": [
+   {
+    "phrase": "debbono tener presente",
+    "why": "expresses an obligation to take into account"
+   },
+   {
+    "phrase": "potrebbe",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "diminuire notevolmente la velocità",
+    "why": "means slow down significantly"
+   }
+  ],
+  "trick": "The key is that other drivers must allow for the possibility of the lorry slowing down a lot.",
+  "image": ""
+ },
+ {
+  "n": 22921,
+  "it": "Se un autotreno intende svoltare a destra in una strada stretta, i conducenti degli altri veicoli debbono tener presente che nella manovra si sposti a sinistra(si allarghi)",
+  "answer": true,
+  "en": "If an articulated lorry intends to turn right into a narrow road, the drivers of other vehicles must bear in mind that during the manoeuvre it may move to the left (swing out).",
+  "keywords": [
+   {
+    "phrase": "debbono tener presente",
+    "why": "expresses an obligation to take into account"
+   },
+   {
+    "phrase": "si sposti a sinistra",
+    "why": "means it may move left while turning right"
+   },
+   {
+    "phrase": "si allarghi",
+    "why": "explains the vehicle swings out wide"
+   }
+  ],
+  "trick": "The trap is that a large vehicle turning right may first swing left.",
+  "image": ""
+ },
+ {
+  "n": 22922,
+  "it": "Se un autotreno intende svoltare a destra in una strada stretta, non bisogna stargli troppo vicino, per non essere d'intralcio, in caso sia necessaria la manovra di retromarcia",
+  "answer": true,
+  "en": "If an articulated lorry intends to turn right, you must not stay too close to it, so as not to obstruct it, in case a reversing manoeuvre is necessary.",
+  "keywords": [
+   {
+    "phrase": "non bisogna",
+    "why": "expresses prohibition/negative obligation"
+   },
+   {
+    "phrase": "troppo vicino",
+    "why": "restricts following distance"
+   },
+   {
+    "phrase": "in caso sia necessaria",
+    "why": "introduces a possible exception/contingency"
+   },
+   {
+    "phrase": "manovra di retromarcia",
+    "why": "means reversing manoeuvre"
+   }
+  ],
+  "trick": "The sentence forbids staying too close because the lorry may need to reverse.",
+  "image": ""
+ },
+ {
+  "n": 22923,
+  "it": "Se un autotreno intende svoltare a destra in un incrocio, occorre rinunciare a sorpassarlo, perché potrebbe impedire la vista di segnali o di veicoli provenienti lateralmente",
+  "answer": true,
+  "en": "If an articulated lorry intends to turn right at an intersection, you should give up overtaking it, because it could block your view of signs or of vehicles coming from the side.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/strong advice"
+   },
+   {
+    "phrase": "rinunciare a sorpassarlo",
+    "why": "means do not overtake it"
+   },
+   {
+    "phrase": "potrebbe",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "provenienti lateralmente",
+    "why": "means coming from the side"
+   }
+  ],
+  "trick": "The trap is the necessity to avoid overtaking because the lorry may hide side traffic or signs.",
+  "image": ""
+ },
+ {
+  "n": 22924,
+  "it": "Se un autotreno intende svoltare a destra in una strada stretta, bisogna sorpassarlo subito a sinistra",
+  "answer": false,
+  "en": "If an articulated lorry intends to turn right into a narrow road, you must overtake it immediately on the left.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "subito",
+    "why": "means immediately, making the statement stronger"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "specifies the side of the manoeuvre"
+   }
+  ],
+  "trick": "Watch obligation and immediacy: it says you must overtake immediately on the left.",
+  "image": ""
+ },
+ {
+  "n": 22925,
+  "it": "Se un autotreno intende svoltare a destra in una strada stretta, i conducenti dei veicoli che seguono devono sorpassarlo appena aziona l'indicatore di direzione",
+  "answer": false,
+  "en": "If an articulated lorry intends to turn right into a narrow road, the drivers of the vehicles behind must overtake it as soon as it switches on its direction indicator.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "appena",
+    "why": "means as soon as, creating immediacy"
+   }
+  ],
+  "trick": "The trap is the forced timing: it says they must overtake as soon as the indicator is used.",
+  "image": ""
+ },
+ {
+  "n": 22926,
+  "it": "Se un autotreno intende svoltare a destra in una strada stretta, i conducenti dei veicoli che seguono debbono azionare la segnalazione luminosa di pericolo.",
+  "answer": false,
+  "en": "If an articulated lorry intends to turn right into a narrow road, the drivers of the vehicles behind must switch on the hazard warning lights.",
+  "keywords": [
+   {
+    "phrase": "debbono",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is obligation: it says following drivers must use the hazard lights.",
+  "image": ""
+ },
+ {
+  "n": 22927,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso deve dare la precedenza ai veicoli che sopraggiungono",
+  "answer": true,
+  "en": "A driver intending to make a U-turn on a two-way road must give way to vehicles approaching.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The statement imposes a duty: the driver must give way.",
+  "image": ""
+ },
+ {
+  "n": 22928,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso deve rinunciare a compiere la manovra, qualora vi sia traffico intenso e continuo",
+  "answer": true,
+  "en": "A driver intending to make a U-turn on a two-way road must give up the manoeuvre if there is heavy and continuous traffic.",
+  "keywords": [
+   {
+    "phrase": "deve rinunciare",
+    "why": "expresses obligation not to proceed"
+   },
+   {
+    "phrase": "qualora",
+    "why": "formal conditional meaning if/in the event that"
+   }
+  ],
+  "trick": "The trap is that the driver is required to abandon the manoeuvre if traffic is heavy and continuous.",
+  "image": ""
+ },
+ {
+  "n": 22929,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso deve rinunciare ad eseguire la manovra, se vi è scarsa visibilità",
+  "answer": true,
+  "en": "A driver intending to make a U-turn on a two-way road must give up carrying out the manoeuvre if visibility is poor.",
+  "keywords": [
+   {
+    "phrase": "deve rinunciare",
+    "why": "expresses obligation not to proceed"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the condition for the rule"
+   }
+  ],
+  "trick": "The key meaning is conditional prohibition: with poor visibility, the manoeuvre must be abandoned.",
+  "image": ""
+ },
+ {
+  "n": 22930,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso deve azionare l'indicatore di direzione",
+  "answer": true,
+  "en": "A driver intending to make a U-turn on a two-way road must use the direction indicator.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The trap is simple obligation: the indicator must be used.",
+  "image": ""
+ },
+ {
+  "n": 22931,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso non deve creare pericolo o intralcio agli altri utenti della strada",
+  "answer": true,
+  "en": "A driver intending to make a U-turn on a two-way road must not create danger or obstruction for other road users.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "negates the obligation, creating a prohibition"
+   }
+  ],
+  "trick": "The important trap is the negated duty: the driver must not cause danger or obstruction.",
+  "image": ""
+ },
+ {
+  "n": 22932,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso deve azionare la segnalazione luminosa di pericolo",
+  "answer": false,
+  "en": "A driver intending to make a U-turn on a two-way road must switch on the hazard warning lights.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is obligation: it says hazard lights must be used.",
+  "image": ""
+ },
+ {
+  "n": 22933,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso può compiere la manovra anche in curva, se dà precedenza a tutti i veicoli",
+  "answer": false,
+  "en": "A driver intending to make a U-turn on a two-way road may carry out the manoeuvre even on a bend, if they give way to all vehicles.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the rule to an additional case"
+   },
+   {
+    "phrase": "se",
+    "why": "sets a condition that may mislead learners"
+   }
+  ],
+  "trick": "The trap is false permission: it says the manoeuvre is allowed even on a bend if priority is given.",
+  "image": ""
+ },
+ {
+  "n": 22934,
+  "it": "Il conducente che può effettuare l'inversione di marcia su una strada a doppio senso deve accertarsi se la linea di mezzeria è continua",
+  "answer": false,
+  "en": "A driver who is allowed to make a U-turn on a two-way road must check whether the centre line is solid.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility/being allowed"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence mixes permission and obligation: a driver allowed to turn must check for a solid centre line.",
+  "image": ""
+ },
+ {
+  "n": 22935,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso può compiere la manovra anche con scarsa visibilità, se la linea di mezzeria è tratteggiata",
+  "answer": false,
+  "en": "A driver intending to make a U-turn on a two-way road may carry out the manoeuvre even with poor visibility, if the centre line is broken.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends permission to a risky case"
+   },
+   {
+    "phrase": "se",
+    "why": "sets a condition that can mislead"
+   }
+  ],
+  "trick": "The trap is the claimed permission: it says a U-turn is allowed even with poor visibility if the line is broken.",
+  "image": ""
+ },
+ {
+  "n": 22936,
+  "it": "Il conducente che intende effettuare l'inversione di marcia su una strada a doppio senso può effettuarla solo sulle strade larghe, che permettono di eseguirla con una sola manovra",
+  "answer": false,
+  "en": "A driver intending to make a U-turn on a two-way road may do it only on wide roads that allow it to be completed in a single manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "una sola manovra",
+    "why": "adds a strict limiting condition"
+   }
+  ],
+  "trick": "The trap is restriction: it says a U-turn is allowed only on wide roads and in one single manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 22937,
+  "it": "Nelle strade a doppio senso di circolazione non è consentito effettuare l'inversione del senso di marcia in vicinanza o in corrispondenza di curve",
+  "answer": true,
+  "en": "On two-way roads, making a U-turn is not allowed near or at bends.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in vicinanza o in corrispondenza di",
+    "why": "extends the ban to near as well as at the place"
+   }
+  ],
+  "trick": "The key trap is prohibition covering both near bends and exactly at bends.",
+  "image": ""
+ },
+ {
+  "n": 22938,
+  "it": "L'inversione del senso di marcia non è consentita in vicinanza o in corrispondenza degli incroci",
+  "answer": true,
+  "en": "A U-turn is not allowed near or at intersections.",
+  "keywords": [
+   {
+    "phrase": "non è consentita",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in vicinanza o in corrispondenza di",
+    "why": "extends the ban to near as well as at the place"
+   }
+  ],
+  "trick": "The prohibition applies both near intersections and at them, not just inside them.",
+  "image": ""
+ },
+ {
+  "n": 22939,
+  "it": "Nelle strade a doppio senso non è consentito effettuare l'inversione del senso di marcia in tutti i casi di scarsa visibilità",
+  "answer": true,
+  "en": "On two-way roads, making a U-turn is not allowed in all cases of poor visibility.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in tutti i casi",
+    "why": "makes the rule apply in every such case"
+   }
+  ],
+  "trick": "The trap is the absolute wording: the prohibition applies in all cases of poor visibility.",
+  "image": ""
+ },
+ {
+  "n": 22940,
+  "it": "Nelle strade a doppio senso di circolazione non è consentito effettuare l'inversione del senso di marcia in vicinanza o in corrispondenza di dossi",
+  "answer": true,
+  "en": "On two-way roads, making a U-turn is not allowed near or at crests.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in vicinanza o in corrispondenza di",
+    "why": "extends the ban to near as well as at the place"
+   }
+  ],
+  "trick": "The key trap is prohibition covering both near crests and directly at them.",
+  "image": ""
+ },
+ {
+  "n": 22941,
+  "it": "Quando manca la segnaletica orizzontale non è consentito effettuare manovre di inversione del senso di marcia",
+  "answer": false,
+  "en": "When road markings are missing, making a U-turn is not allowed.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "Quando manca",
+    "why": "sets the condition under which the claim applies"
+   }
+  ],
+  "trick": "The trap is the blanket prohibition: it claims U-turns are forbidden whenever markings are absent.",
+  "image": ""
+ },
+ {
+  "n": 22942,
+  "it": "Qualora la linea di margine della carreggiata sia continua, non è consentito effettuare l'inversione di marcia",
+  "answer": false,
+  "en": "If the edge line of the carriageway is solid, making a U-turn is not allowed.",
+  "keywords": [
+   {
+    "phrase": "Qualora",
+    "why": "formal conditional meaning if/in the event that"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The statement claims a prohibition triggered by a solid edge line.",
+  "image": ""
+ },
+ {
+  "n": 22943,
+  "it": "Fuori dai centri abitati non è consentito effettuare l'inversione di marcia",
+  "answer": false,
+  "en": "Outside built-up areas, making a U-turn is not allowed.",
+  "keywords": [
+   {
+    "phrase": "Fuori dai centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the location-based prohibition: it says U-turns are forbidden outside built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 22944,
+  "it": "Sulle autostrade a tre corsie per ogni senso di marcia è consentito l'inversione del senso di marcia",
+  "answer": false,
+  "en": "On three-lane motorways for each direction of travel, making a U-turn is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is the permission phrase 'è consentito', which means 'is permitted'.",
+  "image": ""
+ },
+ {
+  "n": 22945,
+  "it": "Giungendo ad un incrocio in cui la circolazione è regolata con rotatoria, bisogna dare la precedenza ai veicoli provenienti da sinistra, solo se vi è il segnale DARE PRECEDENZA",
+  "answer": true,
+  "en": "When approaching an intersection with a roundabout, you must give way to vehicles coming from the left, only if there is a GIVE WAY sign.",
+  "keywords": [
+   {
+    "phrase": "bisogna dare la precedenza",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this condition only"
+   }
+  ],
+  "trick": "'Solo se' limits the duty to give way to cases where the GIVE WAY sign is present.",
+  "image": ""
+ },
+ {
+  "n": 22946,
+  "it": "Negli incroci regolati con circolazione rotatoria, in assenza di specifico segnale, vale la regola generale di dare la precedenza a destra",
+  "answer": true,
+  "en": "At intersections controlled by roundabout traffic, in the absence of a specific sign, the general rule of giving way to the right applies.",
+  "keywords": [
+   {
+    "phrase": "in assenza di",
+    "why": "sets an exception based on missing signage"
+   },
+   {
+    "phrase": "vale la regola generale",
+    "why": "signals the default rule applies"
+   }
+  ],
+  "trick": "The key is that the right-priority rule applies only when there is no specific sign.",
+  "image": ""
+ },
+ {
+  "n": 22947,
+  "it": "Negli incroci regolati con rotatoria, la circolazione può essere disciplinata in modo che i veicoli in entrata diano la precedenza a quelli già circolanti nell'anello",
+  "answer": true,
+  "en": "At intersections with a roundabout, traffic may be regulated so that vehicles entering give way to those already circulating in the ring.",
+  "keywords": [
+   {
+    "phrase": "può essere disciplinata",
+    "why": "shows possibility, not a universal rule"
+   },
+   {
+    "phrase": "diano la precedenza",
+    "why": "expresses obligation to give way"
+   }
+  ],
+  "trick": "The phrase 'può essere' means this arrangement is possible, not always mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22948,
+  "it": "In un incrocio regolato con circolazione rotatoria, l'obbligo di dare la precedenza può essere imposto ai veicoli che stanno per immettersi",
+  "answer": true,
+  "en": "At an intersection controlled by roundabout traffic, the obligation to give way may be imposed on vehicles about to enter.",
+  "keywords": [
+   {
+    "phrase": "l'obbligo di dare la precedenza",
+    "why": "expresses a duty, not a choice"
+   },
+   {
+    "phrase": "può essere imposto",
+    "why": "shows it may be required, not always"
+   }
+  ],
+  "trick": "The sentence says the duty to give way can be imposed on entering vehicles, not that it always is.",
+  "image": ""
+ },
+ {
+  "n": 22949,
+  "it": "Giungendo ad un incrocio, regolato con circolazione rotatoria, prima di immettersi è opportuno moderare la velocità ed usare la massima prudenza, controllando nel contempo il comportamento degli altri utenti",
+  "answer": true,
+  "en": "When approaching an intersection controlled by roundabout traffic, before entering it is advisable to slow down and use the utmost caution, while at the same time checking the behaviour of other road users.",
+  "keywords": [],
+  "trick": "There are no major trap words here; it is straightforward advice about caution.",
+  "image": ""
+ },
+ {
+  "n": 22950,
+  "it": "Se in una strada a forte pendenza, il passaggio tra veicoli non è facilmente possibile, in genere spetta al conducente che procede in discesa arrestarsi ed eventualmente fare retromarcia",
+  "answer": true,
+  "en": "If on a steep road passing between vehicles is not easily possible, generally it is the driver going downhill who must stop and, if necessary, reverse.",
+  "keywords": [
+   {
+    "phrase": "in genere",
+    "why": "means generally, not always without exception"
+   },
+   {
+    "phrase": "spetta al conducente che procede in discesa",
+    "why": "assigns the duty specifically to the downhill driver"
+   },
+   {
+    "phrase": "eventualmente",
+    "why": "means if necessary, not necessarily"
+   }
+  ],
+  "trick": "The main traps are that the rule is general, applies to the downhill driver, and reversing is only if needed.",
+  "image": ""
+ },
+ {
+  "n": 22951,
+  "it": "In presenza del segnale DARE PRECEDENZA, se occorre arrestarsi, bisogna che ciò avvenga in corrispondenza della striscia trasversale, formata da una serie di triangoli bianchi",
+  "answer": true,
+  "en": "In the presence of the GIVE WAY sign, if it is necessary to stop, this must be done at the transverse line formed by a series of white triangles.",
+  "keywords": [
+   {
+    "phrase": "se occorre arrestarsi",
+    "why": "makes stopping conditional, not always required"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "Stopping is mandatory at the marked line only if stopping is actually necessary.",
+  "image": ""
+ },
+ {
+  "n": 22952,
+  "it": "Giungendo ad un incrocio in cui la circolazione è regolata con rotatoria, è obbligatorio dare la precedenza ai veicoli provenienti da sinistra",
+  "answer": false,
+  "en": "When approaching an intersection with a roundabout, it is compulsory to give way to vehicles coming from the left.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "provenienti da sinistra",
+    "why": "can mislead because roundabout priority is not always automatic"
+   }
+  ],
+  "trick": "The trap is the absolute obligation wording, which is not always true at roundabouts.",
+  "image": ""
+ },
+ {
+  "n": 22953,
+  "it": "Per immettersi in un incrocio, regolato con circolazione rotatoria, bisogna dare sempre la precedenza ai veicoli già circolanti all'interno della rotatoria",
+  "answer": false,
+  "en": "To enter an intersection controlled by roundabout traffic, you must always give way to vehicles already circulating inside the roundabout.",
+  "keywords": [
+   {
+    "phrase": "bisogna dare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   }
+  ],
+  "trick": "The word 'sempre' is the trap because giving way is not always required in every roundabout case.",
+  "image": ""
+ },
+ {
+  "n": 22954,
+  "it": "In un incrocio regolato con circolazione rotatoria, i veicoli circolanti nell'anello possono effettuare manovre di retromarcia",
+  "answer": false,
+  "en": "At an intersection controlled by roundabout traffic, vehicles circulating in the ring may perform reversing manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is the permission word 'possono', suggesting reversing is allowed.",
+  "image": ""
+ },
+ {
+  "n": 22956,
+  "it": "Quando un incrocio è regolato con rotatoria, i veicoli circolanti all'interno dell'anello possono sorpassare sia a destra che a sinistra",
+  "answer": false,
+  "en": "When an intersection is controlled by a roundabout, vehicles circulating inside the ring may overtake both on the right and on the left.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sia a destra che a sinistra",
+    "why": "extends permission to both sides"
+   }
+  ],
+  "trick": "The sentence is tricky because it claims overtaking is permitted on both sides inside the roundabout.",
+  "image": ""
+ },
+ {
+  "n": 22957,
+  "it": "Se in una strada a forte pendenza, il passaggio tra veicoli non è facilmente possibile, in genere spetta al conducente che procede in discesa arrestarsi ed eventualmente fare retromarcia",
+  "answer": true,
+  "en": "If on a steep road passing between vehicles is not easily possible, generally it is the driver going downhill who must stop and, if necessary, reverse.",
+  "keywords": [
+   {
+    "phrase": "in genere",
+    "why": "means generally, not always without exception"
+   },
+   {
+    "phrase": "spetta al conducente che procede in discesa",
+    "why": "assigns the duty specifically to the downhill driver"
+   },
+   {
+    "phrase": "eventualmente",
+    "why": "means if necessary, not necessarily"
+   }
+  ],
+  "trick": "The main traps are that the rule is general, applies to the downhill driver, and reversing is only if needed.",
+  "image": ""
+ },
+ {
+  "n": 22958,
+  "it": "Qualora in una strada a forte pendenza il passaggio tra veicoli risulti difficoltoso, se uno dei due conducenti si trova in vicinanza di una piazzola di scambio, spetta a lui accostare e lasciar passare l'altro conducente",
+  "answer": true,
+  "en": "If on a steep road passing between vehicles is difficult, if one of the two drivers is near a passing place, it is up to that driver to pull over and let the other driver pass.",
+  "keywords": [
+   {
+    "phrase": "Qualora",
+    "why": "introduces a conditional case"
+   },
+   {
+    "phrase": "se",
+    "why": "sets a specific condition"
+   },
+   {
+    "phrase": "spetta a lui",
+    "why": "assigns the duty specifically to that driver"
+   }
+  ],
+  "trick": "The duty applies specifically when one driver is near a passing place.",
+  "image": ""
+ },
+ {
+  "n": 22959,
+  "it": "In presenza del segnale DARE PRECEDENZA occorre usare prudenza e moderare la velocità, ma occorre arrestarsi solo in caso di necessità",
+  "answer": true,
+  "en": "In the presence of the GIVE WAY sign, you must be cautious and slow down, but you need to stop only if necessary.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "ma",
+    "why": "contrasts slowing down with stopping"
+   },
+   {
+    "phrase": "solo in caso di necessità",
+    "why": "limits stopping to necessary cases only"
+   }
+  ],
+  "trick": "The key trap is that the sign requires caution and slowing down, but stopping only when necessary.",
+  "image": ""
+ },
+ {
+  "n": 22960,
+  "it": "In presenza del segnale di STOP non occorre arrestarsi, se non vi è la linea trasversale di arresto e non si vedono sopraggiungere veicoli",
+  "answer": false,
+  "en": "In the presence of the STOP sign, you do not need to stop if there is no transverse stop line and no vehicles can be seen approaching.",
+  "keywords": [
+   {
+    "phrase": "non occorre arrestarsi",
+    "why": "negates the duty to stop"
+   },
+   {
+    "phrase": "se non vi è",
+    "why": "sets a condition based on absence"
+   },
+   {
+    "phrase": "e non si vedono",
+    "why": "adds another negative condition"
+   }
+  ],
+  "trick": "The statement is tricky because it wrongly removes the duty to stop by using negative conditions.",
+  "image": ""
+ },
+ {
+  "n": 22961,
+  "it": "Se in una strada a forte pendenza, il passaggio tra veicoli non è facilmente possibile, in genere spetta al conducente che procede in salita arrestarsi",
+  "answer": false,
+  "en": "If on a steep road passing between vehicles is not easily possible, generally it is the driver going uphill who must stop.",
+  "keywords": [
+   {
+    "phrase": "non è facilmente possibile",
+    "why": "negative condition affects when the rule applies"
+   },
+   {
+    "phrase": "in genere",
+    "why": "means generally, not absolutely"
+   },
+   {
+    "phrase": "spetta al conducente che procede in salita",
+    "why": "assigns the duty specifically to the uphill driver"
+   }
+  ],
+  "trick": "The trap is who has the duty: the sentence assigns it to the uphill driver.",
+  "image": ""
+ },
+ {
+  "n": 22962,
+  "it": "In vicinanza di un incrocio semaforizzato è consentito arrestarsi sulle strisce pedonali, se il semaforo per i pedoni è disposto al rosso",
+  "answer": false,
+  "en": "Near a signal-controlled intersection, it is permitted to stop on the pedestrian crossing if the pedestrian traffic light is red.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   }
+  ],
+  "trick": "The trap is the false permission to stop on the crossing under a stated condition.",
+  "image": ""
+ },
+ {
+  "n": 22963,
+  "it": "I conducenti devono attenersi alle segnalazioni di pericolo o alle prescrizioni che appaiono, con scritte luminose, sui veicoli della polizia",
+  "answer": true,
+  "en": "Drivers must comply with warning signals or instructions that appear as illuminated messages on police vehicles.",
+  "keywords": [
+   {
+    "phrase": "devono attenersi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "o",
+    "why": "includes either warnings or instructions"
+   }
+  ],
+  "trick": "The key trap is the obligation: drivers must follow both types of displayed messages.",
+  "image": ""
+ },
+ {
+  "n": 22964,
+  "it": "Se un'auto della polizia, con sirena in funzione, vi sorpassa ponendosi davanti e sul tetto ha un display con la scritta luminosa \"ACCOSTARE\", avete l'obbligo di arrestarvi",
+  "answer": true,
+  "en": "If a police car, with siren operating, overtakes you and moves in front of you and has a roof display with the illuminated message 'PULL OVER', you are obliged to stop.",
+  "keywords": [
+   {
+    "phrase": "con sirena in funzione",
+    "why": "adds an important condition"
+   },
+   {
+    "phrase": "avete l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "arrestarvi",
+    "why": "means to stop, not just slow down"
+   }
+  ],
+  "trick": "The displayed order 'ACCOSTARE' together with the siren creates an obligation to stop.",
+  "image": ""
+ },
+ {
+  "n": 22965,
+  "it": "Se un'auto della polizia, con sirena in funzione, vi sorpassa ponendosi davanti e sul tetto ha un display con la scritta luminosa \"ALT POLIZIA\", solo voi avete l'obbligo di arrestarvi",
+  "answer": true,
+  "en": "If a police car, with its siren on, overtakes you, moves in front of you, and has a roof display showing the illuminated message \"STOP POLICE\", only you are required to stop.",
+  "keywords": [
+   {
+    "phrase": "solo voi",
+    "why": "restricts the obligation to you alone"
+   },
+   {
+    "phrase": "ha l'obbligo di arrestarvi",
+    "why": "expresses a legal obligation to stop"
+   }
+  ],
+  "trick": "The trap is \"solo voi\": the order applies only to the vehicle being singled out.",
+  "image": ""
+ },
+ {
+  "n": 22966,
+  "it": "Quando si vede sul tetto dell'auto della polizia un display con la scritta luminosa \"INCIDENTE\", bisogna diminuire la velocità",
+  "answer": true,
+  "en": "When you see a police car roof display showing the illuminated message \"ACCIDENT\", you must reduce speed.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The key trap is \"bisogna\", which makes slowing down mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22967,
+  "it": "Quando vedete sul tetto di un'auto della polizia un display con la scritta luminosa \"INCIDENTE\", significa che quella zona è ad alto rischio di incidenti",
+  "answer": false,
+  "en": "When you see a police car roof display showing the illuminated message \"ACCIDENT\", it means that area is at high risk of accidents.",
+  "keywords": [],
+  "trick": "The trap is the assumed meaning of the display: it refers to an actual incident, not a generally high-risk area.",
+  "image": ""
+ },
+ {
+  "n": 22968,
+  "it": "Se un'auto della polizia, con sirena in funzione, vi sorpassa ponendosi davanti e sul tetto ha un display con la scritta luminosa \"ACCOSTARE\", significa che avete l'obbligo di svoltare",
+  "answer": false,
+  "en": "If a police car, with its siren on, overtakes you, moves in front of you, and has a roof display showing the illuminated message \"PULL OVER\", it means you are required to turn.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "svoltare",
+    "why": "means turn, not pull over"
+   }
+  ],
+  "trick": "The trap is confusing \"accostare\" with \"svoltare\": pull over does not mean turn.",
+  "image": ""
+ },
+ {
+  "n": 22969,
+  "it": "Se sul tetto di un'auto della polizia è presente un display con la scritta luminosa \"RALLENTARE\", l'obbligo è rivolto ai soli veicoli pesanti.",
+  "answer": false,
+  "en": "If a police car has a roof display showing the illuminated message \"SLOW DOWN\", the obligation is addressed only to heavy vehicles.",
+  "keywords": [
+   {
+    "phrase": "l'obbligo",
+    "why": "expresses a mandatory instruction"
+   },
+   {
+    "phrase": "ai soli veicoli pesanti",
+    "why": "restricts the rule to only heavy vehicles"
+   }
+  ],
+  "trick": "The key trap is \"ai soli\": it falsely limits the order to heavy vehicles only.",
+  "image": ""
+ },
+ {
+  "n": 22970,
+  "it": "Il conducente che intende immettersi nel flusso della circolazione deve assicurarsi di poter effettuare la manovra senza creare pericolo o intralcio agli altri utenti della strada",
+  "answer": true,
+  "en": "A driver intending to merge into the flow of traffic must make sure the maneuver can be carried out without creating danger or obstruction for other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\", which makes this a duty, not a choice.",
+  "image": ""
+ },
+ {
+  "n": 22971,
+  "it": "Il conducente che intende immettersi nel flusso della circolazione deve tenere conto della posizione, distanza, direzione degli altri utenti della strada",
+  "answer": true,
+  "en": "A driver intending to merge into the flow of traffic must take into account the position, distance, and direction of other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\", showing this is mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22972,
+  "it": "Il conducente che intende immettersi nel flusso della circolazione deve azionare l'indicatore di direzione per segnalare con sufficiente anticipo l' intenzione di effettuare tale manovra",
+  "answer": true,
+  "en": "A driver intending to merge into the flow of traffic must use the direction indicator to signal, with sufficient advance notice, the intention to carry out that maneuver.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\": using the indicator is compulsory.",
+  "image": ""
+ },
+ {
+  "n": 22973,
+  "it": "Il conducente che intende immettersi nel flusso della circolazione deve dare la precedenza ai veicoli in transito",
+  "answer": true,
+  "en": "A driver intending to merge into the flow of traffic must give way to vehicles already in transit.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses a mandatory duty to yield"
+   }
+  ],
+  "trick": "The key trap is that giving way is mandatory when merging.",
+  "image": ""
+ },
+ {
+  "n": 22974,
+  "it": "Il conducente che intende immettersi nel flusso della circolazione può evitare di azionare l'indicatore di direzione se non sopraggiungono altri veicoli",
+  "answer": false,
+  "en": "A driver intending to merge into the flow of traffic may avoid using the direction indicator if no other vehicles are approaching.",
+  "keywords": [
+   {
+    "phrase": "può evitare",
+    "why": "suggests permission to omit an action"
+   },
+   {
+    "phrase": "se non sopraggiungono altri veicoli",
+    "why": "limits the claim to a specific condition"
+   }
+  ],
+  "trick": "The trap is the false permission: the indicator is still required even if no one is approaching.",
+  "image": ""
+ },
+ {
+  "n": 22975,
+  "it": "Il conducente che intende immettersi nel flusso della circolazione deve dare la precedenza ai veicoli in transito solo in presenza di apposito segnale",
+  "answer": false,
+  "en": "A driver intending to merge into the flow of traffic must give way to vehicles already in transit only when there is a specific sign.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses a mandatory duty to yield"
+   },
+   {
+    "phrase": "solo",
+    "why": "wrongly restricts the rule to one case"
+   },
+   {
+    "phrase": "in presenza di apposito segnale",
+    "why": "limits the obligation to the presence of a sign"
+   }
+  ],
+  "trick": "The key trap is \"solo\": yielding when merging is not limited to cases with a sign.",
+  "image": ""
+ },
+ {
+  "n": 22976,
+  "it": "Il conducente che si immette nel flusso della circolazione deve dare la precedenza ai veicoli in transito ad eccezione delle biciclette",
+  "answer": false,
+  "en": "A driver merging into the flow of traffic must give way to vehicles already in transit, with the exception of bicycles.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses a mandatory duty to yield"
+   },
+   {
+    "phrase": "ad eccezione delle biciclette",
+    "why": "creates a false exception to the rule"
+   }
+  ],
+  "trick": "The key trap is the exception: bicycles are not excluded from the duty to give way.",
+  "image": ""
+ },
+ {
+  "n": 22977,
+  "it": "Il conducente di un motociclo che parte dal margine della carreggiata e si immette nel flusso della circolazione deve indossare ed allacciare il casco",
+  "answer": true,
+  "en": "The rider of a motorcycle who sets off from the edge of the carriageway and merges into the flow of traffic must wear and fasten a helmet.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\": the helmet must already be worn and fastened.",
+  "image": ""
+ },
+ {
+  "n": 22978,
+  "it": "Il conducente di un autoveicolo che parte dal margine della carreggiata e si immette nel flusso della circolazione deve allacciare la cintura di sicurezza salvo che non sia esentato",
+  "answer": true,
+  "en": "The driver of a motor vehicle who sets off from the edge of the carriageway and merges into the flow of traffic must fasten the seat belt unless exempt.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "salvo che non sia esentato",
+    "why": "introduces a legal exception"
+   }
+  ],
+  "trick": "The key trap is the exception: the seat belt is required unless the driver is exempt.",
+  "image": ""
+ },
+ {
+  "n": 22979,
+  "it": "Il conducente di un motociclo che parte dal margine della carreggiata e si immette nel flusso della circolazione deve accendere il proiettore anabbagliante",
+  "answer": true,
+  "en": "The rider of a motorcycle who sets off from the edge of the carriageway and merges into the flow of traffic must switch on the dipped headlight.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\", making the headlight use mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22980,
+  "it": "Il conducente che parte dal margine della carreggiata e si immette nel flusso della circolazione deve accertarsi che la strada sia libera, guardando anche negli specchietti retrovisori",
+  "answer": true,
+  "en": "A driver setting off from the edge of the carriageway and merging into the flow of traffic must make sure the road is clear, also by checking the rear-view mirrors.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra required check, not an alternative"
+   }
+  ],
+  "trick": "The key trap is \"anche\": mirrors must also be checked, not just the road ahead.",
+  "image": ""
+ },
+ {
+  "n": 22981,
+  "it": "Il conducente che parte dal margine della carreggiata e si immette nel flusso della circolazione può allacciare la cintura di sicurezza dopo avere concluso tale manovra",
+  "answer": false,
+  "en": "A driver setting off from the edge of the carriageway and merging into the flow of traffic may fasten the seat belt after completing that maneuver.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "suggests permission"
+   },
+   {
+    "phrase": "dopo avere concluso tale manovra",
+    "why": "moves the action to after the maneuver"
+   }
+  ],
+  "trick": "The trap is the false permission to fasten the seat belt only after merging.",
+  "image": ""
+ },
+ {
+  "n": 22982,
+  "it": "Il motociclista che parte dal margine della carreggiata e si immette nel flusso della circolazione può indossare il casco dopo avere concluso tale manovra",
+  "answer": false,
+  "en": "A motorcyclist setting off from the edge of the carriageway and merging into the flow of traffic may put on the helmet after completing that maneuver.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "suggests permission"
+   },
+   {
+    "phrase": "dopo avere concluso tale manovra",
+    "why": "moves the action to after the maneuver"
+   }
+  ],
+  "trick": "The trap is the false permission to wear the helmet only after the maneuver.",
+  "image": ""
+ },
+ {
+  "n": 22990,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve effettuare la manovra senza creare pericolo o intralcio agli altri utenti della strada",
+  "answer": true,
+  "en": "A driver intending to stop at the right-hand edge of the carriageway must carry out the maneuver without creating danger or obstruction for other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\", showing this is a mandatory requirement.",
+  "image": ""
+ },
+ {
+  "n": 22991,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve tenere conto della posizione, distanza, direzione degli altri utenti della strada",
+  "answer": true,
+  "en": "A driver intending to stop at the right-hand edge of the carriageway must take into account the position, distance, and direction of other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is \"deve\", which makes this a duty.",
+  "image": ""
+ },
+ {
+  "n": 22992,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve evitare di creare pericolo ai conducenti di veicoli a due ruote sopraggiungenti",
+  "answer": true,
+  "en": "A driver intending to stop at the right edge of the carriageway must avoid creating danger for approaching two-wheeled vehicle riders.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "evitare",
+    "why": "requires preventing the risk from happening"
+   },
+   {
+    "phrase": "sopraggiungenti",
+    "why": "means approaching from behind/incoming to the situation"
+   }
+  ],
+  "trick": "Watch the obligation and the duty to avoid danger, especially to approaching two-wheeled vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22993,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve segnalare con sufficiente anticipo la sua intenzione di effettuare tale manovra",
+  "answer": true,
+  "en": "A driver intending to stop at the right edge of the carriageway must signal this intention sufficiently in advance before carrying out the manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "con sufficiente anticipo",
+    "why": "requires signaling early enough, not at the last moment"
+   }
+  ],
+  "trick": "The key trap is that signaling is mandatory and must be done with enough advance notice.",
+  "image": ""
+ },
+ {
+  "n": 22994,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve evitare brusche frenate, per garantire la sicurezza degli altri utenti della strada",
+  "answer": true,
+  "en": "A driver intending to stop at the right edge of the carriageway must avoid sudden braking, in order to ensure the safety of other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "evitare",
+    "why": "requires not doing the action"
+   },
+   {
+    "phrase": "brusche frenate",
+    "why": "means sudden braking, a specific unsafe behavior"
+   }
+  ],
+  "trick": "The sentence imposes a duty not to brake suddenly when stopping.",
+  "image": ""
+ },
+ {
+  "n": 22995,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve eseguire la manovra lampeggiando ripetutamente",
+  "answer": false,
+  "en": "A driver intending to stop at the right edge of the carriageway must carry out the manoeuvre by flashing repeatedly.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "lampeggiando ripetutamente",
+    "why": "suggests repeated flashing as the required signal"
+   }
+  ],
+  "trick": "The trap is the false claim that repeated flashing is the required way to perform the manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 22996,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata deve segnalare con sufficiente anticipo azionando la segnalazione luminosa di pericolo(quattro frecce lampeggianti simultaneamente)",
+  "answer": false,
+  "en": "A driver intending to stop at the right edge of the carriageway must signal sufficiently in advance by using the hazard warning lights (all four indicators flashing simultaneously).",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "con sufficiente anticipo",
+    "why": "requires signaling early enough"
+   },
+   {
+    "phrase": "segnalazione luminosa di pericolo",
+    "why": "means hazard warning lights, not the normal turn indicator"
+   }
+  ],
+  "trick": "The trap is confusing the required turn signal with hazard warning lights.",
+  "image": ""
+ },
+ {
+  "n": 22997,
+  "it": "Il conducente che intende fermarsi sul margine destro della carreggiata può evitare di segnalare la sua intenzione di effettuare tale manovra se il traffico è scarso",
+  "answer": false,
+  "en": "A driver intending to stop at the right edge of the carriageway may avoid signaling the intention to carry out this manoeuvre if traffic is light.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "evitare di segnalare",
+    "why": "allows omission of signaling"
+   },
+   {
+    "phrase": "se il traffico è scarso",
+    "why": "adds a conditional exception that can mislead"
+   }
+  ],
+  "trick": "The tricky part is the false permission to skip signaling when traffic is light.",
+  "image": ""
+ },
+ {
+  "n": 22998,
+  "it": "Il mancato rispetto delle norme prescritte per immettersi nel flusso della circolazione comporta, tra l'altro, la perdita di punti dalla patente",
+  "answer": true,
+  "en": "Failure to comply with the prescribed rules for entering the traffic flow entails, among other things, the loss of points from the driving licence.",
+  "keywords": [
+   {
+    "phrase": "Il mancato rispetto",
+    "why": "means failure to comply, giving the sentence a negative legal meaning"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "means among other things, so the consequence listed is not the only one"
+   }
+  ],
+  "trick": "The key is that non-compliance does lead to a legal consequence, including licence-point loss.",
+  "image": ""
+ },
+ {
+  "n": 22999,
+  "it": "Il mancato rispetto delle norme prescritte per immettersi nel flusso della circolazione non comporta la sottrazione di punti dalla patente, ma sanzione pecuniaria",
+  "answer": false,
+  "en": "Failure to comply with the prescribed rules for entering the traffic flow does not entail the deduction of points from the driving licence, but only a monetary penalty.",
+  "keywords": [
+   {
+    "phrase": "Il mancato rispetto",
+    "why": "means failure to comply, giving the sentence a negative legal meaning"
+   },
+   {
+    "phrase": "non comporta",
+    "why": "negates the legal consequence"
+   },
+   {
+    "phrase": "ma",
+    "why": "sets up a contrast that changes the rule"
+   }
+  ],
+  "trick": "The trap is the negation claiming there is no point deduction, only a fine.",
+  "image": ""
+ },
+ {
+  "n": 23000,
+  "it": "In caso di fermata sul margine destro della carreggiata senza segnalare con sufficiente anticipo l'intenzione di effettuare tale manovra, è disposta la sottrazione di 4 punti dalla patente del conducente",
+  "answer": false,
+  "en": "In the event of stopping at the right edge of the carriageway without signaling sufficiently in advance the intention to carry out this manoeuvre, a deduction of 4 points from the driver's licence is imposed.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this specific situation"
+   },
+   {
+    "phrase": "senza",
+    "why": "introduces absence of the required action"
+   },
+   {
+    "phrase": "con sufficiente anticipo",
+    "why": "requires signaling early enough"
+   },
+   {
+    "phrase": "è disposta",
+    "why": "states an official penalty is imposed"
+   }
+  ],
+  "trick": "The important traps are the conditional situation, the missing signal, and the stated 4-point penalty.",
+  "image": ""
+ },
+ {
+  "n": 23001,
+  "it": "Gli specchi retrovisori contribuiscono alla visione panoramica del conducente",
+  "answer": true,
+  "en": "Rear-view mirrors contribute to the driver's overall field of vision.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward statement.",
+  "image": ""
+ },
+ {
+  "n": 23002,
+  "it": "Lo specchio retrovisore centrale di un autoveicolo deve essere regolato in modo da garantire una buona visione posteriore",
+  "answer": true,
+  "en": "The central rear-view mirror of a motor vehicle must be adjusted so as to ensure good rearward vision.",
+  "keywords": [
+   {
+    "phrase": "deve essere regolato",
+    "why": "expresses obligation to adjust it properly"
+   }
+  ],
+  "trick": "The key point is that proper adjustment of the central mirror is mandatory.",
+  "image": ""
+ },
+ {
+  "n": 23003,
+  "it": "Gli specchi retrovisori centrali e laterali di un autoveicolo, devono essere regolati dopo che è stata regolata la posizione del sedile di guida",
+  "answer": true,
+  "en": "The central and side rear-view mirrors of a motor vehicle must be adjusted after the driving seat position has been adjusted.",
+  "keywords": [
+   {
+    "phrase": "devono essere regolati",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "dopo che",
+    "why": "sets the required order of actions"
+   }
+  ],
+  "trick": "The trap is the sequence: first adjust the seat, then the mirrors.",
+  "image": ""
+ },
+ {
+  "n": 23004,
+  "it": "Lo specchio retrovisore centrale di un autoveicolo deve essere regolato in modo da garantire la visione dell'intero lunotto posteriore",
+  "answer": true,
+  "en": "The central rear-view mirror of a motor vehicle must be adjusted so as to ensure visibility of the entire rear window.",
+  "keywords": [
+   {
+    "phrase": "deve essere regolato",
+    "why": "expresses obligation to adjust it properly"
+   },
+   {
+    "phrase": "intero",
+    "why": "means the whole rear window, not just part of it"
+   }
+  ],
+  "trick": "The key trap is the full extent required: the entire rear window must be visible.",
+  "image": ""
+ },
+ {
+  "n": 23005,
+  "it": "Lo specchio retrovisore centrale di un autoveicolo deve essere posizionato in modo da rientrare nel campo visivo del conducente",
+  "answer": true,
+  "en": "The central rear-view mirror of a motor vehicle must be positioned so that it falls within the driver's field of vision.",
+  "keywords": [
+   {
+    "phrase": "deve essere posizionato",
+    "why": "expresses obligation, not suggestion"
+   }
+  ],
+  "trick": "The sentence is mainly about the mandatory positioning of the mirror within the driver's view.",
+  "image": ""
+ },
+ {
+  "n": 23006,
+  "it": "Lo specchio retrovisore centrale di un autoveicolo è in genere realizzato in modo da ridurre al minimo la distorsione della distanza dei veicoli che seguono",
+  "answer": true,
+  "en": "The central rear-view mirror of a motor vehicle is generally designed so as to reduce to a minimum the distortion of the distance of following vehicles.",
+  "keywords": [
+   {
+    "phrase": "in genere",
+    "why": "means generally, not always"
+   },
+   {
+    "phrase": "ridurre al minimo",
+    "why": "means minimize, not eliminate completely"
+   }
+  ],
+  "trick": "The traps are that the statement is general rather than absolute, and distortion is minimized, not fully removed.",
+  "image": ""
+ },
+ {
+  "n": 23007,
+  "it": "Gli specchi retrovisori devono essere utilizzati dal conducente per controllare, prima di svoltare, che non sopraggiungano veicoli da dietro",
+  "answer": true,
+  "en": "Rear-view mirrors must be used by the driver to check, before turning, that no vehicles are approaching from behind.",
+  "keywords": [
+   {
+    "phrase": "devono essere utilizzati",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di svoltare",
+    "why": "sets a required time before the action"
+   },
+   {
+    "phrase": "che non sopraggiungano",
+    "why": "negative check meaning to make sure no vehicles are approaching"
+   }
+  ],
+  "trick": "The key is the mandatory mirror check before turning to ensure no vehicle is approaching from behind.",
+  "image": ""
+ },
+ {
+  "n": 23008,
+  "it": "Lo specchio retrovisore centrale di un autoveicolo ha una posizione antiriflesso da utilizzare nelle ore notturne",
+  "answer": true,
+  "en": "The central rear-view mirror of a motor vehicle has an anti-glare position to be used during nighttime hours.",
+  "keywords": [
+   {
+    "phrase": "da utilizzare",
+    "why": "indicates intended/required use"
+   },
+   {
+    "phrase": "nelle ore notturne",
+    "why": "limits the use to nighttime"
+   }
+  ],
+  "trick": "The trap is the specific intended use of the anti-glare position at night.",
+  "image": ""
+ },
+ {
+  "n": 23009,
+  "it": "La posizione antiriflesso dello specchio retrovisore centrale di un autoveicolo serve a ridurre il fastidio agli occhi causato dai proiettori accesi dei veicoli che seguono",
+  "answer": true,
+  "en": "The anti-glare position of the central rear-view mirror of a motor vehicle serves to reduce discomfort to the eyes caused by the lit headlights of following vehicles.",
+  "keywords": [
+   {
+    "phrase": "serve a",
+    "why": "states the function or purpose"
+   },
+   {
+    "phrase": "veicoli che seguono",
+    "why": "means vehicles following behind, not those ahead"
+   }
+  ],
+  "trick": "The key is the function of the anti-glare setting against lights from vehicles behind.",
+  "image": ""
+ },
+ {
+  "n": 23010,
+  "it": "Gli specchi retrovisori devono essere utilizzati per un controllo della strada dietro al veicolo, prima di iniziare una manovra di parcheggio in retromarcia",
+  "answer": true,
+  "en": "Rear-view mirrors must be used to check the road behind the vehicle before starting a reversing parking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "devono essere utilizzati",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di iniziare",
+    "why": "sets a required time before the manoeuvre"
+   },
+   {
+    "phrase": "in retromarcia",
+    "why": "specifically means reversing/backing up"
+   }
+  ],
+  "trick": "The trap is that mirror use is mandatory before beginning a reverse parking manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23011,
+  "it": "Gli specchi retrovisori devono essere utilizzati per un controllo della strada dietro al veicolo, prima di iniziare una manovra di sorpasso",
+  "answer": true,
+  "en": "Rear-view mirrors must be used to check the road behind the vehicle before starting an overtaking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "devono essere utilizzati",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di iniziare",
+    "why": "sets a required time before the manoeuvre"
+   },
+   {
+    "phrase": "sorpasso",
+    "why": "specifically means overtaking, not just passing generally"
+   }
+  ],
+  "trick": "The key point is the mandatory mirror check before starting to overtake.",
+  "image": ""
+ },
+ {
+  "n": 23012,
+  "it": "Il controllo degli specchi retrovisori permette di completare in sicurezza la manovra di sorpasso",
+  "answer": true,
+  "en": "Checking the rear-view mirrors allows you to complete an overtaking manoeuvre safely.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 23013,
+  "it": "La posizione antiriflesso dello specchio retrovisore centrale di un autoveicolo non deve essere utilizzata di notte",
+  "answer": false,
+  "en": "The anti-glare position of a motor vehicle’s central rear-view mirror must not be used at night.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negated obligation"
+   }
+  ],
+  "trick": "Watch 'non deve': it means 'must not', not 'does not have to'.",
+  "image": ""
+ },
+ {
+  "n": 23014,
+  "it": "La posizione antiriflesso dello specchio retrovisore centrale di un autoveicolo non può essere utilizzata quando si circola su autostrada",
+  "answer": false,
+  "en": "The anti-glare position of a motor vehicle’s central rear-view mirror cannot be used when driving on the motorway.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "expresses impossibility/prohibition, not lack of permission only"
+   }
+  ],
+  "trick": "Watch 'non può': it means 'cannot'/'must not be able to use' in context.",
+  "image": ""
+ },
+ {
+  "n": 23015,
+  "it": "Gli specchi retrovisori devono essere utilizzati per un controllo della strada dietro al veicolo, ogni volta che a un incrocio si intende proseguire diritto",
+  "answer": false,
+  "en": "The rear-view mirrors must be used to check the road behind the vehicle every time, at an intersection, you intend to go straight on.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ogni volta che",
+    "why": "makes the rule apply in every such case"
+   }
+  ],
+  "trick": "The trap is the absolute obligation created by 'devono' and 'ogni volta che'.",
+  "image": ""
+ },
+ {
+  "n": 23016,
+  "it": "L'illuminazione interna dello specchio retrovisore si accende con l'accensione delle luci di posizione del veicolo",
+  "answer": false,
+  "en": "The internal illumination of the rear-view mirror comes on when the vehicle’s sidelights are switched on.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 23017,
+  "it": "Le dimensioni degli specchi retrovisori sono proporzionali alla cilindrata del veicolo",
+  "answer": false,
+  "en": "The size of the rear-view mirrors is proportional to the engine capacity of the vehicle.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 23018,
+  "it": "Lo specchio retrovisore centrale di un autoveicolo può essere rimosso se il veicolo è dotato di specchio laterale sinistro",
+  "answer": false,
+  "en": "A motor vehicle’s central rear-view mirror may be removed if the vehicle is fitted with a left side mirror.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not possibility only"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the claim to a specific condition"
+   }
+  ],
+  "trick": "The trap is the claimed permission under the condition introduced by 'se'.",
+  "image": ""
+ },
+ {
+  "n": 23019,
+  "it": "Durante una manovra di parcheggio in retromarcia, non è necessario utilizzare gli specchi retrovisori se il veicolo è dotato di sensori di parcheggio",
+  "answer": false,
+  "en": "During a reverse parking manoeuvre, it is not necessary to use the rear-view mirrors if the vehicle is equipped with parking sensors.",
+  "keywords": [
+   {
+    "phrase": "non è necessario",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "se",
+    "why": "creates a condition that may mislead"
+   }
+  ],
+  "trick": "Watch 'non è necessario': it says there is no need, not merely that it is optional in general.",
+  "image": ""
+ },
+ {
+  "n": 23020,
+  "it": "Gli specchi retrovisori, nel loro complesso, consentono al conducente di vedere l'intera area di strada dietro e intorno al veicolo",
+  "answer": false,
+  "en": "Taken as a whole, the rear-view mirrors allow the driver to see the entire road area behind and around the vehicle.",
+  "keywords": [
+   {
+    "phrase": "nel loro complesso",
+    "why": "means considered together, not individually"
+   },
+   {
+    "phrase": "l'intera",
+    "why": "makes the claim absolute: the whole area"
+   }
+  ],
+  "trick": "The trap is the absolute idea in 'l'intera' combined with 'considered as a whole'.",
+  "image": ""
+ },
+ {
+  "n": 23021,
+  "it": "Gli autocaravan possono non essere dotati di specchi retrovisori se li rendono troppo ingombranti in larghezza",
+  "answer": false,
+  "en": "Motor caravans may be without rear-view mirrors if these would make them too bulky in width.",
+  "keywords": [
+   {
+    "phrase": "possono non essere dotati",
+    "why": "means they may lack them, not that they are required to lack them"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the claim to a specific condition"
+   }
+  ],
+  "trick": "Watch 'possono non essere dotati': it claims an exception allowing absence.",
+  "image": ""
+ },
+ {
+  "n": 23022,
+  "it": "La regolazione degli specchi retrovisori deve di norma essere effettuata con il veicolo in marcia",
+  "answer": false,
+  "en": "As a rule, the rear-view mirrors should be adjusted while the vehicle is moving.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not always without exception"
+   },
+   {
+    "phrase": "in marcia",
+    "why": "means while moving/in motion"
+   }
+  ],
+  "trick": "The trap is 'di norma': it softens the rule to 'generally', not 'always'.",
+  "image": ""
+ },
+ {
+  "n": 23023,
+  "it": "Gli specchi retrovisori esterni degli autoveicoli possono essere sostituiti con altri di tipo differente, purché di superficie maggiore",
+  "answer": false,
+  "en": "External rear-view mirrors on motor vehicles may be replaced with others of a different type, provided they have a larger surface area.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a restrictive condition"
+   }
+  ],
+  "trick": "The trap is the condition in 'purché', which means 'only provided that'.",
+  "image": ""
+ },
+ {
+  "n": 23024,
+  "it": "Si può circolare con un autoveicolo in cui mancano temporaneamente gli specchi retrovisori, purché a velocità non superiore a 50 km/h e tenendo in azione la segnalazione luminosa di pericolo",
+  "answer": false,
+  "en": "You may drive a motor vehicle whose rear-view mirrors are temporarily missing, provided you do not exceed 50 km/h and keep the hazard warning lights operating.",
+  "keywords": [
+   {
+    "phrase": "Si può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces strict conditions/exceptions"
+   },
+   {
+    "phrase": "non superiore a",
+    "why": "sets a maximum limit, not approximate speed"
+   }
+  ],
+  "trick": "The trap is the apparent permission narrowed by strict conditions introduced by 'purché'.",
+  "image": ""
+ },
+ {
+  "n": 23025,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere regolato in modo da scorgere, nel suo terzo di destra, la coda del veicolo",
+  "answer": true,
+  "en": "The left side rear-view mirror must be adjusted so that the rear of the vehicle can be seen in its right-hand third.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "Watch 'deve': it states a required adjustment, not a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 23026,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere regolato in modo da poter osservare, prevalentemente, la porzione di strada a fianco del veicolo",
+  "answer": true,
+  "en": "The left side rear-view mirror must be adjusted so that it shows mainly the stretch of road alongside the vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prevalentemente",
+    "why": "means mainly, not exclusively"
+   }
+  ],
+  "trick": "The trap is 'prevalentemente': the mirror should show mostly, not only, the road beside the vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23027,
+  "it": "Lo specchio retrovisore laterale sinistro falsa la percezione della distanza e della velocità dei veicoli sopraggiungenti",
+  "answer": true,
+  "en": "The left side rear-view mirror distorts the perception of the distance and speed of approaching vehicles.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 23028,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere utilizzato prima di iniziare una manovra di cambio corsia verso sinistra",
+  "answer": true,
+  "en": "The left side rear-view mirror must be used before starting a lane-change manoeuvre to the left.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the action timing as before, not during or after"
+   }
+  ],
+  "trick": "The trap is the obligation plus the timing: it must be used before the manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23029,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere utilizzato prima di iniziare una manovra di sorpasso",
+  "answer": true,
+  "en": "The left side rear-view mirror must be used before starting an overtaking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the action timing as before, not during or after"
+   }
+  ],
+  "trick": "The trap is the obligation plus the timing: it must be used before the manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23030,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere utilizzato prima di iniziare una manovra di svolta a sinistra",
+  "answer": true,
+  "en": "The left side rear-view mirror must be used before starting a left turn manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the action timing as before, not during or after"
+   }
+  ],
+  "trick": "The trap is the obligation plus the timing: it must be used before the manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23031,
+  "it": "Lo specchio retrovisore laterale sinistro ha un angolo cieco molto ampio",
+  "answer": true,
+  "en": "The left side rear-view mirror has a very wide blind spot.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 23032,
+  "it": "Il controllo dello specchio retrovisore laterale sinistro deve essere integrato con un rapido controllo visivo laterale diretto, prima di iniziare un sorpasso",
+  "answer": true,
+  "en": "Checking the left side rear-view mirror must be supplemented with a quick direct visual check to the side before starting an overtaking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve essere integrato",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the action that must happen beforehand"
+   }
+  ],
+  "trick": "\"Deve essere integrato\" makes it mandatory, and \"prima di\" fixes the required sequence.",
+  "image": ""
+ },
+ {
+  "n": 23033,
+  "it": "Prima di immettere il veicolo nel flusso della circolazione, è necessario controllare lo specchio retrovisore laterale sinistro nonché verificare con un controllo visivo diretto che la strada sia sufficientemente libera dietro e a fianco del veicolo",
+  "answer": true,
+  "en": "Before merging the vehicle into the flow of traffic, it is necessary to check the left side rear-view mirror and also verify, with a direct visual check, that the road is sufficiently clear behind and alongside the vehicle.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "nonché",
+    "why": "adds an extra required action, not an alternative"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the action that must happen beforehand"
+   }
+  ],
+  "trick": "The sentence requires both checks before moving into traffic.",
+  "image": ""
+ },
+ {
+  "n": 23034,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere regolato in modo da poter controllare il comportamento di eventuali bambini seduti nella parte posteriore del veicolo",
+  "answer": false,
+  "en": "The left side rear-view mirror must be adjusted so that you can monitor the behaviour of any children seated in the rear part of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve essere regolato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in modo da poter",
+    "why": "states the intended purpose of the adjustment"
+   },
+   {
+    "phrase": "eventuali",
+    "why": "means possible/any, not specific children"
+   }
+  ],
+  "trick": "The trap is the claimed purpose of the mirror adjustment, not the obligation form itself.",
+  "image": ""
+ },
+ {
+  "n": 23035,
+  "it": "Lo specchio retrovisore laterale sinistro deve essere chiuso quando si circola su strade strette di montagna",
+  "answer": false,
+  "en": "The left side rear-view mirror must be folded in when driving on narrow mountain roads.",
+  "keywords": [
+   {
+    "phrase": "deve essere chiuso",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the claim to this situation only"
+   }
+  ],
+  "trick": "\"Deve essere chiuso\" makes it sound mandatory specifically in that circumstance.",
+  "image": ""
+ },
+ {
+  "n": 23036,
+  "it": "Nei centri abitati non è necessario utilizzare gli specchi retrovisori",
+  "answer": false,
+  "en": "In built-up areas, it is not necessary to use the rear-view mirrors.",
+  "keywords": [
+   {
+    "phrase": "non è necessario",
+    "why": "negates necessity"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the statement to built-up areas"
+   }
+  ],
+  "trick": "The key trap is the negation of necessity limited to urban areas.",
+  "image": ""
+ },
+ {
+  "n": 23037,
+  "it": "Se durante una manovra di inserimento nella circolazione si utilizza lo specchio retrovisore è bene non controllare anche con uno sguardo diretto per non distrarre l'attenzione dalla guida",
+  "answer": false,
+  "en": "If, during a manoeuvre to merge into traffic, you use the rear-view mirror, it is better not to check with a direct glance as well, so as not to distract attention from driving.",
+  "keywords": [
+   {
+    "phrase": "non controllare anche",
+    "why": "negates an additional action"
+   },
+   {
+    "phrase": "anche",
+    "why": "means 'as well', adding a second check"
+   },
+   {
+    "phrase": "è bene non",
+    "why": "recommends against an action, which can mislead learners"
+   }
+  ],
+  "trick": "The sentence wrongly discourages also making a direct visual check.",
+  "image": ""
+ },
+ {
+  "n": 23038,
+  "it": "Gli specchi retrovisori dei veicoli a due ruote sono fissi e senza possibilità di regolazione a causa delle vibrazioni del veicolo che tendono a spostarli dalla posizione originale",
+  "answer": false,
+  "en": "The rear-view mirrors of two-wheeled vehicles are fixed and cannot be adjusted because vibrations from the vehicle tend to move them from their original position.",
+  "keywords": [
+   {
+    "phrase": "senza possibilità di regolazione",
+    "why": "means adjustment is not possible"
+   },
+   {
+    "phrase": "a causa delle",
+    "why": "introduces the supposed reason for the claim"
+   }
+  ],
+  "trick": "The trap is the absolute claim that adjustment is impossible because of vibrations.",
+  "image": ""
+ },
+ {
+  "n": 23039,
+  "it": "La regolazione degli specchi retrovisori va effettuata, di media, ogni mille chilometri circa",
+  "answer": false,
+  "en": "Rear-view mirrors should be adjusted, on average, about every thousand kilometres.",
+  "keywords": [
+   {
+    "phrase": "va effettuata",
+    "why": "expresses something that is supposed to be done"
+   },
+   {
+    "phrase": "di media",
+    "why": "means on average, softening but not removing the claim"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, making the false claim sound plausible"
+   }
+  ],
+  "trick": "Approximate wording can make the incorrect maintenance interval sound believable.",
+  "image": ""
+ },
+ {
+  "n": 23040,
+  "it": "Gli autoveicoli dotati di poggiatesta posteriori non sono muniti di specchio retrovisore centrale perché inutilizzabile",
+  "answer": false,
+  "en": "Motor vehicles fitted with rear head restraints are not equipped with a central rear-view mirror because it would be unusable.",
+  "keywords": [
+   {
+    "phrase": "non sono muniti",
+    "why": "negates possession/presence"
+   },
+   {
+    "phrase": "perché inutilizzabile",
+    "why": "states a reason that may sound convincing"
+   }
+  ],
+  "trick": "The statement falsely claims the central mirror is absent because it would be unusable.",
+  "image": ""
+ },
+ {
+  "n": 23041,
+  "it": "Lo specchio retrovisore centrale può essere utilizzato come schermo per il navigatore satellitare",
+  "answer": false,
+  "en": "The central rear-view mirror may be used as a screen for the satellite navigator.",
+  "keywords": [
+   {
+    "phrase": "può essere utilizzato",
+    "why": "expresses permission/possibility"
+   }
+  ],
+  "trick": "The trap is the implied permission to use the mirror as a display.",
+  "image": ""
+ },
+ {
+  "n": 23457,
+  "it": "Il conducente che intende sorpassare deve accertarsi che la visibilità sia tale da consentire la manovra",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that visibility is such as to allow the manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "tale da consentire",
+    "why": "means sufficient to make the manoeuvre possible"
+   }
+  ],
+  "trick": "The driver is obliged to ensure visibility is sufficient for overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23458,
+  "it": "Il conducente che intende sorpassare deve accertarsi che la manovra possa compiersi senza costituire intralcio",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that the manoeuvre can be completed without causing obstruction.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "senza",
+    "why": "introduces a required absence of obstruction"
+   }
+  ],
+  "trick": "The key requirement is that overtaking must not hinder others.",
+  "image": ""
+ },
+ {
+  "n": 23459,
+  "it": "Il conducente che intende sorpassare deve accertarsi che il conducente che lo precede nella stessa corsia non abbia segnalato di voler compiere analoga manovra",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that the driver ahead in the same lane has not signalled an intention to carry out a similar manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non abbia segnalato",
+    "why": "negates the other driver's signalled intention"
+   },
+   {
+    "phrase": "analoga manovra",
+    "why": "means a similar manoeuvre, i.e. overtaking too"
+   }
+  ],
+  "trick": "You must check that the driver ahead has not already indicated the same manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23460,
+  "it": "Il conducente che intende sorpassare deve accertarsi che il conducente che lo segue sulla stessa carreggiata non abbia iniziato il sorpasso",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that the driver behind on the same carriageway has not already started overtaking.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non abbia iniziato",
+    "why": "negates the start of the other vehicle's manoeuvre"
+   },
+   {
+    "phrase": "sulla stessa carreggiata",
+    "why": "limits the check to the same carriageway"
+   }
+  ],
+  "trick": "The driver must ensure no one behind on the same carriageway is already overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23461,
+  "it": "Il conducente che intende sorpassare deve accertarsi che la strada sia libera per consentire la completa esecuzione del sorpasso",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that the road is clear so as to allow the complete execution of the overtaking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sia libera",
+    "why": "requires the road to be clear"
+   },
+   {
+    "phrase": "completa esecuzione",
+    "why": "means the whole manoeuvre must be possible, not just the start"
+   }
+  ],
+  "trick": "The road must be clear enough to complete the entire overtake safely.",
+  "image": ""
+ },
+ {
+  "n": 23462,
+  "it": "Il conducente che intende sorpassare deve valutare lo spazio necessario per la manovra anche in relazione alla differenza di velocità tra il proprio veicolo e quello da sorpassare",
+  "answer": true,
+  "en": "A driver intending to overtake must assess the space needed for the manoeuvre also in relation to the difference in speed between their own vehicle and the one being overtaken.",
+  "keywords": [
+   {
+    "phrase": "deve valutare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche in relazione a",
+    "why": "adds another factor that must be considered"
+   }
+  ],
+  "trick": "The required assessment includes speed difference as an additional factor.",
+  "image": ""
+ },
+ {
+  "n": 23463,
+  "it": "Il conducente che intende sorpassare deve tener conto di eventuali veicoli che provengono dalla direzione opposta",
+  "answer": true,
+  "en": "A driver intending to overtake must take into account any vehicles coming from the opposite direction.",
+  "keywords": [
+   {
+    "phrase": "deve tener conto",
+    "why": "expresses obligation to consider"
+   },
+   {
+    "phrase": "eventuali",
+    "why": "means any possible vehicles, not only visible ones"
+   }
+  ],
+  "trick": "The driver must consider possible oncoming vehicles, not ignore the risk.",
+  "image": ""
+ },
+ {
+  "n": 23464,
+  "it": "Il conducente che intende sorpassare deve valutare lo spazio necessario in relazione alla lunghezza del proprio veicolo e di quello da sorpassare",
+  "answer": true,
+  "en": "A driver intending to overtake must assess the space needed in relation to the length of their own vehicle and that of the vehicle being overtaken.",
+  "keywords": [
+   {
+    "phrase": "deve valutare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in relazione a",
+    "why": "links the assessment to specific factors that matter"
+   }
+  ],
+  "trick": "The required space depends on both vehicles' lengths.",
+  "image": ""
+ },
+ {
+  "n": 23465,
+  "it": "Il conducente che intende sorpassare deve accertarsi che la larghezza della carreggiata consenta la manovra in condizioni di sicurezza",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that the width of the carriageway allows the manoeuvre in safe conditions.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "consenta",
+    "why": "means the road width must permit the manoeuvre"
+   },
+   {
+    "phrase": "in condizioni di sicurezza",
+    "why": "adds the condition of safety, not mere possibility"
+   }
+  ],
+  "trick": "It is not enough that overtaking is possible; it must be possible safely.",
+  "image": ""
+ },
+ {
+  "n": 23466,
+  "it": "Il conducente che intende sorpassare deve accertarsi che nessun segnale verticale vieti la manovra",
+  "answer": true,
+  "en": "A driver intending to overtake must make sure that no vertical road sign prohibits the manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "nessun",
+    "why": "means no sign at all"
+   },
+   {
+    "phrase": "vieti",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The driver must ensure there is no sign that prohibits overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23467,
+  "it": "Il conducente che intende sorpassare deve accertarsi semplicemente che nessun veicolo provenga dalla direzione opposta",
+  "answer": false,
+  "en": "A driver intending to overtake must simply make sure that no vehicle is coming from the opposite direction.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "semplicemente",
+    "why": "limits the requirement to only this check"
+   },
+   {
+    "phrase": "nessun",
+    "why": "negates the presence of any vehicle"
+   }
+  ],
+  "trick": "The trap is \"semplicemente\": it falsely reduces overtaking checks to just one condition.",
+  "image": ""
+ },
+ {
+  "n": 23468,
+  "it": "Il conducente che intende sorpassare ha come unico obbligo quello di azionare l'indicatore di direzione (frecce)",
+  "answer": false,
+  "en": "A driver intending to overtake has the sole obligation of using the direction indicator (turn signal).",
+  "keywords": [
+   {
+    "phrase": "unico obbligo",
+    "why": "restricts the duty to only this one action"
+   }
+  ],
+  "trick": "The trap is \"unico obbligo\": it wrongly says this is the only duty required.",
+  "image": ""
+ },
+ {
+  "n": 23469,
+  "it": "Il conducente che intende sorpassare deve unicamente accertarsi che non vi sia nessun segnale di divieto di sorpasso",
+  "answer": false,
+  "en": "A driver intending to overtake must only make sure that there is no no-overtaking sign.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "unicamente",
+    "why": "limits the requirement to only this check"
+   },
+   {
+    "phrase": "non vi sia nessun",
+    "why": "double negative meaning there is no sign"
+   }
+  ],
+  "trick": "The trap is \"unicamente\": it falsely reduces the required checks to just the sign.",
+  "image": ""
+ },
+ {
+  "n": 23470,
+  "it": "Prima di iniziare una manovra di sorpasso occorre azionare l'indicatore di direzione",
+  "answer": true,
+  "en": "Before starting an overtaking manoeuvre, you must use the direction indicator.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   }
+  ],
+  "trick": "The key trap is \"occorre\", which means the action is required.",
+  "image": ""
+ },
+ {
+  "n": 23471,
+  "it": "La manovra di sorpasso si effettua, di norma, a sinistra",
+  "answer": true,
+  "en": "As a rule, the overtaking manoeuvre is carried out on the left.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not always"
+   }
+  ],
+  "trick": "The trap is \"di norma\": it states the normal rule, allowing exceptions.",
+  "image": ""
+ },
+ {
+  "n": 23472,
+  "it": "Il sorpasso si effettua tenendo una adeguata distanza laterale dal veicolo che si sorpassa",
+  "answer": true,
+  "en": "Overtaking is carried out while keeping an adequate lateral distance from the vehicle being overtaken.",
+  "keywords": [],
+  "trick": "There are no major trap words here; it states a straightforward rule.",
+  "image": ""
+ },
+ {
+  "n": 23473,
+  "it": "Dopo aver effettuato una manovra di sorpasso il conducente del veicolo deve riportarsi a destra appena possibile senza creare pericolo o intralcio",
+  "answer": true,
+  "en": "After carrying out an overtaking manoeuvre, the driver must return to the right as soon as possible without creating danger or obstruction.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "appena possibile",
+    "why": "means as soon as possible, not immediately at any cost"
+   },
+   {
+    "phrase": "senza",
+    "why": "introduces a prohibition/condition"
+   }
+  ],
+  "trick": "The trap is \"appena possibile senza creare pericolo o intralcio\": return right promptly, but only safely.",
+  "image": ""
+ },
+ {
+  "n": 23474,
+  "it": "Il conducente del veicolo che viene sorpassato deve agevolare la manovra di sorpasso e non accelerare",
+  "answer": true,
+  "en": "The driver of the vehicle being overtaken must facilitate the overtaking manoeuvre and must not accelerate.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non accelerare",
+    "why": "prohibits accelerating"
+   }
+  ],
+  "trick": "The key trap is the combination of obligation to help and prohibition on accelerating.",
+  "image": ""
+ },
+ {
+  "n": 23475,
+  "it": "Il conducente del veicolo che viene sorpassato, nelle strade ad una corsia per senso di marcia, deve tenersi il più vicino possibile al margine destro",
+  "answer": true,
+  "en": "The driver of the vehicle being overtaken, on roads with one lane in each direction, must keep as close as possible to the right-hand edge.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as possible, not exactly on the edge"
+   }
+  ],
+  "trick": "The trap is \"il più vicino possibile\": it requires staying very near the right edge.",
+  "image": ""
+ },
+ {
+  "n": 23476,
+  "it": "La manovra di sorpasso non va effettuata se lo spazio visibile risulta insufficiente per completarla in sicurezza",
+  "answer": true,
+  "en": "The overtaking manoeuvre must not be carried out if the visible space is insufficient to complete it safely.",
+  "keywords": [
+   {
+    "phrase": "non va effettuata",
+    "why": "means it must not be done"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the condition when the prohibition applies"
+   },
+   {
+    "phrase": "insufficiente",
+    "why": "shows the safety condition is not met"
+   }
+  ],
+  "trick": "The trap is the prohibition \"non va effettuata\" when visibility is insufficient.",
+  "image": ""
+ },
+ {
+  "n": 23477,
+  "it": "La manovra di sorpasso non va effettuata se la carreggiata non è sufficientemente larga",
+  "answer": true,
+  "en": "The overtaking manoeuvre must not be carried out if the carriageway is not wide enough.",
+  "keywords": [
+   {
+    "phrase": "non va effettuata",
+    "why": "means it must not be done"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the condition when the prohibition applies"
+   },
+   {
+    "phrase": "non è sufficientemente larga",
+    "why": "negates the required road width"
+   }
+  ],
+  "trick": "The trap is the prohibition triggered when the carriageway is not wide enough.",
+  "image": ""
+ },
+ {
+  "n": 23478,
+  "it": "Il conducente che intende effettuare il sorpasso ha l'obbligo di azionare il segnale acustico",
+  "answer": false,
+  "en": "A driver intending to overtake is obliged to sound the horn.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation, not mere possibility"
+   }
+  ],
+  "trick": "The trap is \"ha l'obbligo di\": it wrongly presents horn use as mandatory.",
+  "image": ""
+ },
+ {
+  "n": 23479,
+  "it": "Il conducente che intende iniziare una manovra di sorpasso non ha l'obbligo di azionare l'indicatore di direzione",
+  "answer": false,
+  "en": "A driver intending to start an overtaking manoeuvre is not obliged to use the direction indicator.",
+  "keywords": [
+   {
+    "phrase": "non ha l'obbligo di",
+    "why": "removes the obligation"
+   },
+   {
+    "phrase": "iniziare",
+    "why": "focuses on the start of the manoeuvre"
+   }
+  ],
+  "trick": "The trap is \"non ha l'obbligo di\", which incorrectly denies a required signal.",
+  "image": ""
+ },
+ {
+  "n": 23480,
+  "it": "Dopo il sorpasso il veicolo può immediatamente spostarsi a destra se taglia la strada a quello sorpassato",
+  "answer": false,
+  "en": "After overtaking, the vehicle may immediately move back to the right if it cuts off the vehicle that has been overtaken.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "immediatamente",
+    "why": "suggests doing it at once"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the condition for the claimed permission"
+   }
+  ],
+  "trick": "The trap is false permission: \"può immediatamente\" even though it would cut off the other vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23481,
+  "it": "Il conducente del veicolo sorpassato può gareggiare in velocità con il conducente del veicolo che lo sta sorpassando",
+  "answer": false,
+  "en": "The driver of the overtaken vehicle may race in speed with the driver of the vehicle that is overtaking him.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is \"può\": it falsely suggests this behaviour is allowed.",
+  "image": ""
+ },
+ {
+  "n": 23482,
+  "it": "La manovra di sorpasso si effettua anche se lo spazio visibile risulta insufficiente per completarla in sicurezza",
+  "answer": false,
+  "en": "The overtaking manoeuvre is carried out even if the visible space is insufficient to complete it safely.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "means even if, allowing the action despite a bad condition"
+   },
+   {
+    "phrase": "insufficiente",
+    "why": "shows the safety condition is not met"
+   }
+  ],
+  "trick": "The trap is \"anche se\": it wrongly allows overtaking despite insufficient visible space.",
+  "image": ""
+ },
+ {
+  "n": 23483,
+  "it": "Dopo aver eseguito una prima manovra di sorpasso, in strade ad almeno due corsie per senso di marcia, è possibile eseguirne un' altra senza rientrare a destra, se non si crea intralcio",
+  "answer": true,
+  "en": "After completing a first overtaking manoeuvre, on roads with at least two lanes in each direction, it is possible to carry out another one without moving back to the right, if no obstruction is caused.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza rientrare a destra",
+    "why": "allows an exception to the usual return-right rule"
+   },
+   {
+    "phrase": "se non si crea intralcio",
+    "why": "sets the condition for that permission"
+   },
+   {
+    "phrase": "almeno",
+    "why": "means at least, setting a minimum requirement"
+   }
+  ],
+  "trick": "The trap is the conditional exception: another overtake is allowed without returning right only in this case.",
+  "image": ""
+ },
+ {
+  "n": 23484,
+  "it": "La manovra di sorpasso deve essere eseguita a destra se il conducente del veicolo da sorpassare ha segnalato l'intenzione di voler svoltare a sinistra",
+  "answer": true,
+  "en": "The overtaking manoeuvre must be carried out on the right if the driver of the vehicle to be overtaken has signalled the intention to turn left.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a destra",
+    "why": "reverses the usual side for overtaking"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the condition for the rule"
+   }
+  ],
+  "trick": "The trap is the exception to the normal rule: here overtaking must be on the right.",
+  "image": ""
+ },
+ {
+  "n": 23485,
+  "it": "La manovra di sorpasso deve essere eseguita a destra se, su strada a senso unico, il conducente del veicolo da sorpassare ha segnalato l'intenzione di voler accostare a sinistra",
+  "answer": true,
+  "en": "The overtaking manoeuvre must be carried out on the right if, on a one-way road, the driver of the vehicle to be overtaken has signalled the intention to pull over on the left.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a destra",
+    "why": "reverses the usual side for overtaking"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "limits the rule to a one-way road"
+   }
+  ],
+  "trick": "The trap is the specific exception: on a one-way road, overtaking must be on the right in this case.",
+  "image": ""
+ },
+ {
+  "n": 23486,
+  "it": "La manovra di sorpasso del tram può effettuarsi su ambo i lati se la strada è a senso unico e la larghezza della carreggiata lo consente",
+  "answer": true,
+  "en": "A tram may be overtaken on either side if the road is one-way and the width of the carriageway allows it.",
+  "keywords": [
+   {
+    "phrase": "su ambo i lati",
+    "why": "means on either side, an exception to the usual rule"
+   },
+   {
+    "phrase": "se",
+    "why": "sets the conditions for the exception"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "limits the rule to a one-way road"
+   },
+   {
+    "phrase": "lo consente",
+    "why": "means only if the road width permits it"
+   }
+  ],
+  "trick": "The trap is the conditional exception: a tram can be overtaken on either side only if both conditions are met.",
+  "image": ""
+ },
+ {
+  "n": 23487,
+  "it": "Se il tram o il filobus sono fermi la manovra di sorpasso può effettuarsi a destra se esiste il salvagente",
+  "answer": true,
+  "en": "If the tram or trolleybus is stopped, the overtaking manoeuvre may be carried out on the right if there is a safety island.",
+  "keywords": [
+   {
+    "phrase": "può effettuarsi",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking is an exception"
+   },
+   {
+    "phrase": "se esiste il salvagente",
+    "why": "makes the rule conditional on this feature"
+   }
+  ],
+  "trick": "The key trap is that overtaking on the right is allowed only if a safety island exists.",
+  "image": ""
+ },
+ {
+  "n": 23488,
+  "it": "Se il tram o il filobus sono fermi la manovra di sorpasso non può effettuarsi a destra se manca il salvagente",
+  "answer": true,
+  "en": "If the tram or trolleybus is stopped, the overtaking manoeuvre cannot be carried out on the right if there is no safety island.",
+  "keywords": [
+   {
+    "phrase": "non può effettuarsi",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking is the specific issue"
+   },
+   {
+    "phrase": "se manca il salvagente",
+    "why": "sets the condition that removes the exception"
+   }
+  ],
+  "trick": "The key trap is the negation: right-side overtaking is not allowed when the safety island is missing.",
+  "image": ""
+ },
+ {
+  "n": 23489,
+  "it": "Se il tram o il filobus sono fermi per la salita e la discesa dei passeggeri, la manovra di sorpasso può sempre effettuarsi a destra",
+  "answer": false,
+  "en": "If the tram or trolleybus is stopped for passengers to get on and off, the overtaking manoeuvre may always be carried out on the right.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "può effettuarsi",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking is only allowed in limited cases"
+   }
+  ],
+  "trick": "The trap is sempre, because overtaking on the right is not allowed in every such case.",
+  "image": ""
+ },
+ {
+  "n": 23490,
+  "it": "E' sempre vietato effettuare la manovra di sorpasso a destra",
+  "answer": false,
+  "en": "It is always forbidden to carry out the overtaking manoeuvre on the right.",
+  "keywords": [
+   {
+    "phrase": "sempre vietato",
+    "why": "absolute prohibition with no exceptions"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking can be allowed in some cases"
+   }
+  ],
+  "trick": "The trap is the absolute phrase sempre vietato, because there are exceptions.",
+  "image": ""
+ },
+ {
+  "n": 23491,
+  "it": "La manovra di sorpasso può, di norma, effettuarsi a destra sulle autostrade",
+  "answer": false,
+  "en": "The overtaking manoeuvre may, as a rule, be carried out on the right on motorways.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not always"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking is generally not the normal rule"
+   }
+  ],
+  "trick": "The trap is di norma, which wrongly suggests that right-side overtaking is normally allowed on motorways.",
+  "image": ""
+ },
+ {
+  "n": 23492,
+  "it": "La manovra di sorpasso può effettuarsi a sinistra soltanto se il veicolo da sorpassare sta svoltando a destra",
+  "answer": false,
+  "en": "The overtaking manoeuvre may be carried out on the left only if the vehicle being overtaken is turning right.",
+  "keywords": [
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "può effettuarsi",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sta svoltando a destra",
+    "why": "this condition is the opposite of the usual exception"
+   }
+  ],
+  "trick": "The trap is soltanto, because overtaking on the left is not limited to this incorrect case.",
+  "image": ""
+ },
+ {
+  "n": 23493,
+  "it": "E' vietato effettuare un secondo sorpasso senza prima essersi riportati a destra",
+  "answer": false,
+  "en": "It is forbidden to carry out a second overtaking manoeuvre without first moving back to the right.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "senza prima",
+    "why": "adds a required prior action before continuing"
+   }
+  ],
+  "trick": "The trap is the prohibition, because returning to the right first is not always required before a second overtake.",
+  "image": ""
+ },
+ {
+  "n": 23494,
+  "it": "Il sorpasso è vietato in prossimità delle curve su strade a due corsie a doppio senso di marcia",
+  "answer": true,
+  "en": "Overtaking is forbidden near bends on two-lane roads with two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near, not only on the bend itself"
+   },
+   {
+    "phrase": "a due corsie a doppio senso di marcia",
+    "why": "limits the rule to this road type"
+   }
+  ],
+  "trick": "The trap is in prossimità, which extends the ban to the approach to the bend as well.",
+  "image": ""
+ },
+ {
+  "n": 23495,
+  "it": "Il sorpasso è vietato in prossimità dei dossi su strade a due corsie a doppio senso di marcia",
+  "answer": true,
+  "en": "Overtaking is forbidden near crests on two-lane roads with two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near, not only exactly on the crest"
+   },
+   {
+    "phrase": "a due corsie a doppio senso di marcia",
+    "why": "limits the rule to this road type"
+   }
+  ],
+  "trick": "The trap is in prossimità, because the prohibition applies before reaching the crest too.",
+  "image": ""
+ },
+ {
+  "n": 23496,
+  "it": "Il sorpasso è vietato in caso di scarsa visibilità",
+  "answer": true,
+  "en": "Overtaking is forbidden in case of poor visibility.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "introduces the condition under which the rule applies"
+   },
+   {
+    "phrase": "scarsa visibilità",
+    "why": "covers any reduced visibility situation"
+   }
+  ],
+  "trick": "The trap is the conditional phrase in caso di, which makes the ban apply whenever visibility is poor.",
+  "image": ""
+ },
+ {
+  "n": 23497,
+  "it": "Il sorpasso è consentito in curva se la strada è a due carreggiate separate con almeno due corsie per ogni senso di marcia",
+  "answer": true,
+  "en": "Overtaking is permitted on a bend if the road has two separate carriageways with at least two lanes for each direction of travel.",
+  "keywords": [
+   {
+    "phrase": "consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in curva",
+    "why": "normally a risky place, so the exception matters"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   },
+   {
+    "phrase": "almeno due corsie per ogni senso di marcia",
+    "why": "sets the minimum lane requirement"
+   }
+  ],
+  "trick": "The key trap is that the permission in a bend applies only under these road-layout conditions.",
+  "image": ""
+ },
+ {
+  "n": 23498,
+  "it": "Il sorpasso è consentito su dossi se la strada è a due carreggiate separate e a due corsie per senso di marcia",
+  "answer": true,
+  "en": "Overtaking is permitted on crests if the road has two separate carriageways and two lanes for each direction of travel.",
+  "keywords": [
+   {
+    "phrase": "consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "su dossi",
+    "why": "normally a risky place, so the exception matters"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   },
+   {
+    "phrase": "a due corsie per senso di marcia",
+    "why": "sets the lane requirement for the exception"
+   }
+  ],
+  "trick": "The key trap is that overtaking on crests is allowed only under this specific road configuration.",
+  "image": ""
+ },
+ {
+  "n": 23499,
+  "it": "E' vietato il sorpasso di un veicolo che ne stia superando un altro se ciò impone di spostarsi sul lato riservato all'altro senso di marcia",
+  "answer": true,
+  "en": "It is forbidden to overtake a vehicle that is overtaking another one if this requires moving onto the side reserved for oncoming traffic.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the ban conditional"
+   },
+   {
+    "phrase": "lato riservato all'altro senso di marcia",
+    "why": "means the side for oncoming traffic"
+   }
+  ],
+  "trick": "The trap is the condition: the prohibition applies when you would have to enter the oncoming side.",
+  "image": ""
+ },
+ {
+  "n": 23500,
+  "it": "E' vietato il sorpasso di veicoli fermi ai passaggi a livello, se bisogna impegnare la semicarreggiata opposta",
+  "answer": true,
+  "en": "It is forbidden to overtake stationary vehicles at level crossings if it is necessary to occupy the opposite half of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se bisogna",
+    "why": "states the condition that triggers the ban"
+   },
+   {
+    "phrase": "semicarreggiata opposta",
+    "why": "means the half of the road for opposite traffic"
+   }
+  ],
+  "trick": "The trap is the condition about occupying the opposite half of the road, which makes the overtake forbidden.",
+  "image": ""
+ },
+ {
+  "n": 23501,
+  "it": "E' vietato il sorpasso di veicoli in lento movimento ai passaggi a livello quando, a tal fine è necessario spostarsi sul lato riservato all'altro senso di marcia",
+  "answer": true,
+  "en": "It is forbidden to overtake slow-moving vehicles at level crossings when, for that purpose, it is necessary to move onto the side reserved for oncoming traffic.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "a tal fine",
+    "why": "means for that purpose"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "states the condition that triggers the ban"
+   },
+   {
+    "phrase": "lato riservato all'altro senso di marcia",
+    "why": "means the side for oncoming traffic"
+   }
+  ],
+  "trick": "The trap is that the ban applies specifically when overtaking would require using the oncoming side.",
+  "image": ""
+ },
+ {
+  "n": 23502,
+  "it": "E' vietato il sorpasso di veicoli fermi ai semafori quando, a tal fine è necessario spostarsi sul lato riservato all'altro senso di marcia",
+  "answer": true,
+  "en": "It is forbidden to overtake stationary vehicles at traffic lights when, for that purpose, it is necessary to move onto the side reserved for oncoming traffic.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "a tal fine",
+    "why": "means for that purpose"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "states the condition that triggers the ban"
+   },
+   {
+    "phrase": "lato riservato all'altro senso di marcia",
+    "why": "means the side for oncoming traffic"
+   }
+  ],
+  "trick": "The trap is the condition: the ban applies if overtaking at the lights requires entering the oncoming side.",
+  "image": ""
+ },
+ {
+  "n": 23503,
+  "it": "E' vietato il sorpasso di veicoli in lento movimento a causa di congestione della circolazione quando, a tal fine è necessario spostarsi sul lato riservato all'altro senso di marcia",
+  "answer": true,
+  "en": "It is forbidden to overtake slow-moving vehicles due to traffic congestion when, for that purpose, it is necessary to move onto the side reserved for oncoming traffic.",
+  "keywords": [
+   {
+    "phrase": "vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "a causa di congestione della circolazione",
+    "why": "specifies the reason the vehicles are moving slowly"
+   },
+   {
+    "phrase": "a tal fine",
+    "why": "means for that purpose"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "states the condition that triggers the ban"
+   }
+  ],
+  "trick": "The trap is that the prohibition depends on needing to use the oncoming side, even in congestion.",
+  "image": ""
+ },
+ {
+  "n": 23504,
+  "it": "E' consentito il sorpasso in prossimità o in corrispondenza delle intersezioni se regolate dai semafori",
+  "answer": true,
+  "en": "Overtaking is permitted near or at intersections if they are controlled by traffic lights.",
+  "keywords": [
+   {
+    "phrase": "consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in prossimità o in corrispondenza",
+    "why": "covers both near and at the intersection"
+   },
+   {
+    "phrase": "se regolate dai semafori",
+    "why": "makes the permission conditional on traffic lights"
+   }
+  ],
+  "trick": "The key trap is that the permission applies both near and at intersections, but only if they are traffic-light controlled.",
+  "image": ""
+ },
+ {
+  "n": 23505,
+  "it": "E' consentito il sorpasso a destra nelle intersezioni regolate da semaforo, se il veicolo da sorpassare ha indicato di voler svoltare a sinistra ed ha iniziato la manovra",
+  "answer": true,
+  "en": "Overtaking on the right is permitted at traffic-light-controlled intersections if the vehicle being overtaken has indicated that it intends to turn left and has started the manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking is an exception"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   },
+   {
+    "phrase": "ha indicato di voler svoltare a sinistra",
+    "why": "requires a signalled intention to turn left"
+   },
+   {
+    "phrase": "ha iniziato la manovra",
+    "why": "adds a further required condition"
+   }
+  ],
+  "trick": "The trap is that right-side overtaking is allowed here only if both conditions are met.",
+  "image": ""
+ },
+ {
+  "n": 23506,
+  "it": "E' consentito il sorpasso nelle intersezioni se la strada è a precedenza purché a due carreggiate separate e le corsie siano delimitate dall'apposita segnaletica orizzontale",
+  "answer": true,
+  "en": "Overtaking is permitted at intersections if the road has priority, provided that it has two separate carriageways and the lanes are marked by the appropriate road markings.",
+  "keywords": [
+   {
+    "phrase": "consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "means provided that, adding mandatory conditions"
+   },
+   {
+    "phrase": "a due carreggiate separate",
+    "why": "sets a specific road-layout requirement"
+   },
+   {
+    "phrase": "corsie siano delimitate dall'apposita segnaletica orizzontale",
+    "why": "adds another required condition about lane markings"
+   }
+  ],
+  "trick": "The key trap is purché, because the permission applies only when all the listed conditions are satisfied.",
+  "image": ""
+ },
+ {
+  "n": 23507,
+  "it": "E' consentito il sorpasso in corrispondenza delle intersezioni se si supera un veicolo a due ruote non a motore e non si invade il lato riservato al senso opposto",
+  "answer": true,
+  "en": "Overtaking at intersections is allowed if you are passing a non-motorised two-wheeled vehicle and you do not encroach on the side reserved for oncoming traffic.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "non a motore",
+    "why": "limits the rule to non-motorised vehicles only"
+   },
+   {
+    "phrase": "non si invade",
+    "why": "negative condition that must be respected"
+   },
+   {
+    "phrase": "lato riservato al senso opposto",
+    "why": "means the lane/side for oncoming traffic"
+   }
+  ],
+  "trick": "The statement is true only in this specific exception: passing a non-motorised two-wheeler without entering the oncoming side.",
+  "image": ""
+ },
+ {
+  "n": 23508,
+  "it": "E' consentito il sorpasso nelle intersezioni regolate da agenti del traffico",
+  "answer": true,
+  "en": "Overtaking is allowed at intersections controlled by traffic officers.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "regolate da agenti del traffico",
+    "why": "restricts the rule to intersections controlled by officers"
+   }
+  ],
+  "trick": "The key is that this permission applies specifically when traffic officers are controlling the intersection.",
+  "image": ""
+ },
+ {
+  "n": 23509,
+  "it": "E' consentito il sorpasso in prossimità o in corrispondenza di passaggi a livello senza barriere se la circolazione è regolata da semafori",
+  "answer": true,
+  "en": "Overtaking is allowed near or at level crossings without barriers if traffic is controlled by traffic lights.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "in prossimità o in corrispondenza di",
+    "why": "covers both near and exactly at the place"
+   },
+   {
+    "phrase": "senza barriere",
+    "why": "limits the rule to crossings without barriers"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "è regolata da semafori",
+    "why": "sets the specific condition for the exception"
+   }
+  ],
+  "trick": "This is a conditional exception: overtaking is allowed near or at an unbarred level crossing only when traffic lights regulate traffic.",
+  "image": ""
+ },
+ {
+  "n": 23510,
+  "it": "E' vietato il sorpasso di un veicolo che si sia arrestato in corrispondenza di un passaggio pedonale per consentire l'attraversamento di pedoni",
+  "answer": true,
+  "en": "It is forbidden to overtake a vehicle that has stopped at a pedestrian crossing to allow pedestrians to cross.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "si sia arrestato",
+    "why": "means has stopped, not merely slowed down"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "explains the reason that triggers the rule"
+   }
+  ],
+  "trick": "The ban applies when the other vehicle has stopped at the crossing to let pedestrians cross.",
+  "image": ""
+ },
+ {
+  "n": 23511,
+  "it": "E' vietato il sorpasso di un veicolo che abbia rallentato in corrispondenza di un passaggio pedonale per consentire l'attraversamento dei pedoni",
+  "answer": true,
+  "en": "It is forbidden to overtake a vehicle that has slowed down at a pedestrian crossing to allow pedestrians to cross.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "abbia rallentato",
+    "why": "means slowed down, not stopped"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "explains the reason that triggers the rule"
+   }
+  ],
+  "trick": "Even slowing down, not just stopping, creates the prohibition if it is to let pedestrians cross.",
+  "image": ""
+ },
+ {
+  "n": 23512,
+  "it": "E' vietato sorpassare sulle corsie di accelerazione o di decelerazione",
+  "answer": true,
+  "en": "It is forbidden to overtake in acceleration or deceleration lanes.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "corsie di accelerazione o di decelerazione",
+    "why": "specifies these particular lanes only"
+   }
+  ],
+  "trick": "The trap is the specific location: overtaking is banned in acceleration and deceleration lanes.",
+  "image": ""
+ },
+ {
+  "n": 23513,
+  "it": "E' vietato il sorpasso se si deve valicare la striscia longitudinale bianca continua semplice o doppia",
+  "answer": true,
+  "en": "Overtaking is forbidden if you must cross a single or double continuous white longitudinal line.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "si deve",
+    "why": "means it would be necessary to do so"
+   },
+   {
+    "phrase": "striscia longitudinale bianca continua semplice o doppia",
+    "why": "includes both single and double solid white lines"
+   }
+  ],
+  "trick": "The prohibition applies whenever overtaking would require crossing any solid white line, single or double.",
+  "image": ""
+ },
+ {
+  "n": 23514,
+  "it": "Lo spazio necessario al sorpasso aumenta se il veicolo da sorpassare accelera",
+  "answer": true,
+  "en": "The space needed for overtaking increases if the vehicle being overtaken accelerates.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   },
+   {
+    "phrase": "da sorpassare accelera",
+    "why": "the overtaken vehicle speeds up, increasing risk"
+   }
+  ],
+  "trick": "The key condition is that the vehicle being passed accelerates, which lengthens the space needed.",
+  "image": ""
+ },
+ {
+  "n": 23515,
+  "it": "Lo spazio necessario al sorpasso aumenta in relazione alla maggiore lunghezza del veicolo da sorpassare",
+  "answer": true,
+  "en": "The space needed for overtaking increases in relation to the greater length of the vehicle being overtaken.",
+  "keywords": [
+   {
+    "phrase": "in relazione alla maggiore lunghezza",
+    "why": "means it increases as length increases"
+   },
+   {
+    "phrase": "del veicolo da sorpassare",
+    "why": "refers to the vehicle being overtaken"
+   }
+  ],
+  "trick": "The trap is which vehicle matters here: the longer the vehicle being passed, the more space is needed.",
+  "image": ""
+ },
+ {
+  "n": 23516,
+  "it": "Lo spazio necessario alla manovra di sorpasso aumenta in relazione alla maggiore lunghezza del veicolo che sorpassa",
+  "answer": true,
+  "en": "The space needed for the overtaking manoeuvre increases in relation to the greater length of the overtaking vehicle.",
+  "keywords": [
+   {
+    "phrase": "in relazione alla maggiore lunghezza",
+    "why": "means it increases as length increases"
+   },
+   {
+    "phrase": "del veicolo che sorpassa",
+    "why": "refers to the vehicle doing the overtaking"
+   }
+  ],
+  "trick": "The important distinction is that this refers to the length of the overtaking vehicle, not the one being overtaken.",
+  "image": ""
+ },
+ {
+  "n": 23517,
+  "it": "Lo spazio necessario al sorpasso è maggiore se vi è poca differenza di velocità tra i veicoli",
+  "answer": true,
+  "en": "The space needed for overtaking is greater if there is little difference in speed between the vehicles.",
+  "keywords": [
+   {
+    "phrase": "è maggiore",
+    "why": "indicates an increase, not merely possibility"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   },
+   {
+    "phrase": "poca differenza di velocità",
+    "why": "small speed difference makes overtaking take longer"
+   }
+  ],
+  "trick": "A small speed difference is the key factor because it makes the manoeuvre longer and needs more space.",
+  "image": ""
+ },
+ {
+  "n": 23518,
+  "it": "La distanza di sicurezza va rispettata anche quando si inizia la manovra di sorpasso",
+  "answer": true,
+  "en": "The safety distance must also be maintained when starting the overtaking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "va rispettata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds that the rule still applies in this case"
+   }
+  ],
+  "trick": "The trap is anche: the safety distance is required here too, not only in normal driving.",
+  "image": ""
+ },
+ {
+  "n": 23519,
+  "it": "E' consentito il sorpasso sul tratto discendente di un dosso in una strada a due corsie a doppio senso di marcia",
+  "answer": true,
+  "en": "Overtaking is allowed on the descending side of a hump on a two-lane road with two-way traffic.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "tratto discendente di un dosso",
+    "why": "means the downhill side after the crest"
+   },
+   {
+    "phrase": "a doppio senso di marcia",
+    "why": "means traffic flows in both directions"
+   }
+  ],
+  "trick": "The statement refers specifically to the descending side of the hump, not the crest itself.",
+  "image": ""
+ },
+ {
+  "n": 23520,
+  "it": "E' obbligatorio accertarsi prima di effettuare il sorpasso che non vi siano segnali che lo vietino",
+  "answer": true,
+  "en": "Before overtaking, it is obligatory to make sure that there are no signs prohibiting it.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "accertarsi prima di effettuare il sorpasso",
+    "why": "requires checking before the manoeuvre"
+   },
+   {
+    "phrase": "non vi siano segnali che lo vietino",
+    "why": "negative condition about prohibiting signs"
+   }
+  ],
+  "trick": "The key meaning is obligation: you must check beforehand that no sign forbids overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23521,
+  "it": "La pericolosità del sorpasso nasce dalla possibilità di urtare altri veicoli che, davanti o dietro, intendano compiere la stessa manovra",
+  "answer": true,
+  "en": "The danger of overtaking arises from the possibility of hitting other vehicles that, ahead or behind, intend to carry out the same manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "davanti o dietro",
+    "why": "includes vehicles both ahead and behind"
+   },
+   {
+    "phrase": "intendano compiere la stessa manovra",
+    "why": "means they may also be about to overtake"
+   }
+  ],
+  "trick": "The trap is that danger can come from vehicles in front or behind that may be making the same manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23522,
+  "it": "E' vietato il sorpasso se il veicolo da superare si è fermato per dare precedenza ai pedoni, anche fuori dagli attraversamenti pedonali",
+  "answer": true,
+  "en": "It is forbidden to overtake if the vehicle to be passed has stopped to give way to pedestrians, even outside pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "si è fermato",
+    "why": "means has stopped, not just slowed"
+   },
+   {
+    "phrase": "anche fuori dagli attraversamenti pedonali",
+    "why": "extends the rule even beyond marked crossings"
+   }
+  ],
+  "trick": "The key trap is anche fuori: the prohibition still applies even when pedestrians are not at a marked crossing.",
+  "image": ""
+ },
+ {
+  "n": 23523,
+  "it": "E' pericoloso effettuare il rientro dopo il sorpasso se la manovra costringe i veicoli sorpassati a frenare bruscamente",
+  "answer": true,
+  "en": "It is dangerous to move back in after overtaking if the manoeuvre forces the overtaken vehicles to brake sharply.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   },
+   {
+    "phrase": "costringe",
+    "why": "means forces, showing a dangerous consequence"
+   },
+   {
+    "phrase": "frenare bruscamente",
+    "why": "means brake suddenly/sharply"
+   }
+  ],
+  "trick": "The danger arises when re-entering forces the passed vehicles to brake sharply.",
+  "image": ""
+ },
+ {
+  "n": 23524,
+  "it": "Prima di rientrare nella corsia di destra dopo il sorpasso, occorre controllare la posizione del veicolo sorpassato attraverso gli specchietti retrovisori",
+  "answer": true,
+  "en": "Before moving back into the right lane after overtaking, you must check the position of the overtaken vehicle using the rear-view mirrors.",
+  "keywords": [
+   {
+    "phrase": "Prima di rientrare",
+    "why": "sets a required action before doing something"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "attraverso gli specchietti retrovisori",
+    "why": "specifies how the check must be made"
+   }
+  ],
+  "trick": "The key is obligation before re-entering: you must check the overtaken vehicle's position in the mirrors.",
+  "image": ""
+ },
+ {
+  "n": 23525,
+  "it": "Il sorpasso è consentito in caso di scarsa visibilità purché si lampeggi durante la manovra",
+  "answer": false,
+  "en": "Overtaking is allowed in case of poor visibility provided that you flash your lights during the manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in caso di scarsa visibilità",
+    "why": "sets a risky condition that often changes the truth of the statement"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a strict condition meaning provided that"
+   }
+  ],
+  "trick": "The trap is purché: it suggests a condition makes overtaking allowed, but poor visibility does not become acceptable just by flashing.",
+  "image": ""
+ },
+ {
+  "n": 23526,
+  "it": "Il sorpasso è vietato in curva anche se la strada è a due carreggiate separate",
+  "answer": false,
+  "en": "Overtaking is forbidden on a bend even if the road has two separate carriageways.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, introducing a supposed exception"
+   },
+   {
+    "phrase": "a due carreggiate separate",
+    "why": "means two separate carriageways, which changes the rule"
+   }
+  ],
+  "trick": "The trap is anche se: separate carriageways can make the blanket prohibition on bends false.",
+  "image": ""
+ },
+ {
+  "n": 23527,
+  "it": "Il sorpasso è vietato in curva anche se la strada è ad almeno due corsie per senso di marcia",
+  "answer": false,
+  "en": "Overtaking is prohibited on a bend, even if the road has at least two lanes in each direction.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in curva",
+    "why": "limits the rule to bends"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, so the prohibition still applies"
+   },
+   {
+    "phrase": "ad almeno due corsie per senso di marcia",
+    "why": "adds a condition that may seem to create an exception"
+   }
+  ],
+  "trick": "The key trap is anche se: the statement says the ban still applies despite that condition.",
+  "image": ""
+ },
+ {
+  "n": 23528,
+  "it": "E' consentito il sorpasso di veicoli fermi ai passaggi a livello senza barriere se il treno è distante",
+  "answer": false,
+  "en": "Overtaking vehicles stopped at level crossings without barriers is permitted if the train is far away.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "fermi",
+    "why": "specifies the vehicles are stationary"
+   },
+   {
+    "phrase": "ai passaggi a livello senza barriere",
+    "why": "names a specific risky location"
+   },
+   {
+    "phrase": "se il treno è distante",
+    "why": "adds a condition that may look like an exception"
+   }
+  ],
+  "trick": "The trap is the conditional clause, which suggests permission in a place where overtaking is still forbidden.",
+  "image": ""
+ },
+ {
+  "n": 23529,
+  "it": "E' consentito il sorpasso di veicoli in lento movimento ai passaggi a livello senza barriere se il treno è distante",
+  "answer": false,
+  "en": "Overtaking slowly moving vehicles at level crossings without barriers is permitted if the train is far away.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in lento movimento",
+    "why": "limits the statement to slowly moving vehicles"
+   },
+   {
+    "phrase": "ai passaggi a livello senza barriere",
+    "why": "names a specific risky location"
+   },
+   {
+    "phrase": "se il treno è distante",
+    "why": "adds a condition that may look like an exception"
+   }
+  ],
+  "trick": "The trap is that the condition about the train being far away does not make overtaking there allowed.",
+  "image": ""
+ },
+ {
+  "n": 23530,
+  "it": "E' consentito il sorpasso sulle intersezioni purché non provenga nessuno dalla destra",
+  "answer": false,
+  "en": "Overtaking at intersections is permitted provided that no one is coming from the right.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sulle intersezioni",
+    "why": "refers to a specific place with special rules"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition that may seem sufficient"
+   },
+   {
+    "phrase": "non provenga nessuno dalla destra",
+    "why": "negative condition that can mislead"
+   }
+  ],
+  "trick": "The trap is purché: it presents a condition as if it were enough to allow overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23531,
+  "it": "E' consentito il sorpasso sulle corsie d'accelerazione purché la manovra venga effettuata con attenzione",
+  "answer": false,
+  "en": "Overtaking on acceleration lanes is permitted provided that the maneuver is carried out carefully.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sulle corsie d'accelerazione",
+    "why": "refers to a specific lane type"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition that may seem sufficient"
+   },
+   {
+    "phrase": "con attenzione",
+    "why": "sounds reasonable but does not by itself make it legal"
+   }
+  ],
+  "trick": "The trap is the conditional wording, which makes careful execution sound like enough to permit the maneuver.",
+  "image": ""
+ },
+ {
+  "n": 23532,
+  "it": "E' sempre consentito superare un veicolo a due ruote",
+  "answer": false,
+  "en": "It is always permitted to pass a two-wheeled vehicle.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is sempre, because absolute statements in road rules are often false.",
+  "image": ""
+ },
+ {
+  "n": 23533,
+  "it": "E' vietato il sorpasso nelle strade a senso unico",
+  "answer": false,
+  "en": "Overtaking is prohibited on one-way roads.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nelle strade a senso unico",
+    "why": "limits the statement to one-way roads"
+   }
+  ],
+  "trick": "The trap is the blanket prohibition applied to all one-way roads.",
+  "image": ""
+ },
+ {
+  "n": 23534,
+  "it": "E' vietato il sorpasso di veicoli della polizia",
+  "answer": false,
+  "en": "Overtaking police vehicles is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "veicoli della polizia",
+    "why": "may suggest a special exception or ban"
+   }
+  ],
+  "trick": "The trap is assuming police vehicles can never be overtaken just because of who they are.",
+  "image": ""
+ },
+ {
+  "n": 23535,
+  "it": "In autostrada si può sorpassare indifferentemente a destra e a sinistra",
+  "answer": false,
+  "en": "On motorways, you may overtake equally on the right and on the left.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "indifferentemente",
+    "why": "means equally either way, making it absolute"
+   },
+   {
+    "phrase": "a destra e a sinistra",
+    "why": "suggests both sides are equally allowed"
+   }
+  ],
+  "trick": "The key trap is indifferentemente, which wrongly suggests no difference between overtaking on the two sides.",
+  "image": ""
+ },
+ {
+  "n": 23536,
+  "it": "Il sorpasso tra motocicli si può effettuare sia a destra che a sinistra",
+  "answer": false,
+  "en": "Overtaking between motorcycles may be carried out either on the right or on the left.",
+  "keywords": [
+   {
+    "phrase": "si può effettuare",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sia a destra che a sinistra",
+    "why": "suggests both sides are equally allowed"
+   }
+  ],
+  "trick": "The trap is the both-sides wording, which makes the rule sound broader than it is.",
+  "image": ""
+ },
+ {
+  "n": 23537,
+  "it": "Lo spazio necessario per il sorpasso aumenta se il veicolo da sorpassare rallenta",
+  "answer": false,
+  "en": "The space needed for overtaking increases if the vehicle being overtaken slows down.",
+  "keywords": [
+   {
+    "phrase": "aumenta",
+    "why": "states an increase that may seem intuitive"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "rallenta",
+    "why": "can mislead because a slower vehicle usually needs less passing space"
+   }
+  ],
+  "trick": "The trap is the seemingly intuitive idea that more space is needed when the other vehicle slows down.",
+  "image": ""
+ },
+ {
+  "n": 23538,
+  "it": "Lo spazio necessario per il sorpasso è indipendente dalla lunghezza dei veicoli",
+  "answer": false,
+  "en": "The space needed for overtaking is independent of the length of the vehicles.",
+  "keywords": [
+   {
+    "phrase": "è indipendente da",
+    "why": "states there is no connection"
+   },
+   {
+    "phrase": "lunghezza dei veicoli",
+    "why": "this factor actually affects overtaking space"
+   }
+  ],
+  "trick": "The trap is the claim of independence, which denies an important factor in overtaking distance.",
+  "image": ""
+ },
+ {
+  "n": 23539,
+  "it": "E' vietato il sorpasso di un autobus fermo per la salita e la discesa dei passeggeri",
+  "answer": false,
+  "en": "Overtaking a bus stopped for passengers to get on and off is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "fermo",
+    "why": "specifies the bus is stopped"
+   },
+   {
+    "phrase": "per la salita e la discesa dei passeggeri",
+    "why": "adds a specific situation that may sound automatically prohibited"
+   }
+  ],
+  "trick": "The trap is assuming this specific bus-stop situation always creates a ban on overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23540,
+  "it": "Il sorpasso è vietato sulle curve e sui dossi delle strade a senso unico",
+  "answer": false,
+  "en": "Overtaking is prohibited on bends and on crests on one-way roads.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sulle curve e sui dossi",
+    "why": "refers to places with special visibility rules"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "this road type may create an exception learners forget"
+   }
+  ],
+  "trick": "The trap is ignoring that one-way roads can change the usual overtaking rule in these places.",
+  "image": ""
+ },
+ {
+  "n": 23541,
+  "it": "Il sorpasso è vietato se si è costretti a superare la linea longitudinale tratteggiata",
+  "answer": false,
+  "en": "Overtaking is prohibited if you are forced to cross the broken longitudinal line.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition for the claimed ban"
+   },
+   {
+    "phrase": "si è costretti a",
+    "why": "states necessity, which can mislead"
+   },
+   {
+    "phrase": "linea longitudinale tratteggiata",
+    "why": "a broken line is often passable, unlike a continuous line"
+   }
+  ],
+  "trick": "The trap is linea tratteggiata: crossing a broken line is not in itself what makes overtaking forbidden.",
+  "image": ""
+ },
+ {
+  "n": 23542,
+  "it": "E' consentito il sorpasso a destra dei motocicli se vi è spazio sufficiente",
+  "answer": false,
+  "en": "Overtaking motorcycles on the right is permitted if there is sufficient space.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a destra",
+    "why": "right-side overtaking is a common trap"
+   },
+   {
+    "phrase": "se vi è spazio sufficiente",
+    "why": "adds a condition that may seem sufficient"
+   }
+  ],
+  "trick": "The trap is that enough space does not by itself make overtaking on the right legal.",
+  "image": ""
+ },
+ {
+  "n": 23543,
+  "it": "In caso di intenso traffico è consentito ai motociclisti utilizzare per il sorpasso le corsie riservate",
+  "answer": false,
+  "en": "In heavy traffic, motorcyclists are allowed to use reserved lanes for overtaking.",
+  "keywords": [
+   {
+    "phrase": "In caso di intenso traffico",
+    "why": "sets a condition that may seem to justify an exception"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "corsie riservate",
+    "why": "reserved lanes have special restrictions"
+   }
+  ],
+  "trick": "The trap is the heavy-traffic condition, which does not create permission to use reserved lanes.",
+  "image": ""
+ },
+ {
+  "n": 23544,
+  "it": "Quando si inizia il sorpasso è consentito segnalare la manovra ai veicoli che precedono lampeggiando con i proiettori abbaglianti",
+  "answer": true,
+  "en": "When you begin overtaking, it is permitted to signal the maneuver to the vehicles ahead by flashing the main-beam headlights.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "Quando si inizia il sorpasso",
+    "why": "limits the permission to the start of overtaking"
+   },
+   {
+    "phrase": "lampeggiando con i proiettori abbaglianti",
+    "why": "specific signaling method that learners may confuse with misuse"
+   }
+  ],
+  "trick": "The key trap is that flashing main beams here is a permitted warning signal, not automatically a misuse.",
+  "image": ""
+ },
+ {
+  "n": 23545,
+  "it": "Nell'eseguire la manovra di sorpasso occorre regolare la velocità in relazione a quella del veicolo da sorpassare",
+  "answer": true,
+  "en": "When carrying out the overtaking maneuver, you must adjust your speed in relation to that of the vehicle being overtaken.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in relazione a quella del veicolo da sorpassare",
+    "why": "means your speed must be adjusted relative to the other vehicle"
+   }
+  ],
+  "trick": "The key trap is occorre, which means this is required, not optional advice.",
+  "image": ""
+ },
+ {
+  "n": 23546,
+  "it": "Per eseguire la manovra di sorpasso nei centri urbani si possono momentaneamente superare i limiti di velocità",
+  "answer": false,
+  "en": "To carry out an overtaking maneuver in built-up areas, you may temporarily exceed the speed limits.",
+  "keywords": [
+   {
+    "phrase": "si possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "momentaneamente",
+    "why": "suggests a temporary exception"
+   },
+   {
+    "phrase": "superare i limiti di velocità",
+    "why": "claims speed limits may be exceeded"
+   }
+  ],
+  "trick": "The trap is momentaneamente, which falsely suggests a temporary legal exception to speed limits.",
+  "image": ""
+ },
+ {
+  "n": 23547,
+  "it": "Nell'eseguire la manovra di sorpasso bisogna mantenere strettamente la destra",
+  "answer": false,
+  "en": "When carrying out the overtaking manoeuvre, you must keep strictly to the right.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "strettamente",
+    "why": "makes the statement absolute: strictly"
+   }
+  ],
+  "trick": "The trap is the obligation plus the absolute idea of staying strictly to the right.",
+  "image": ""
+ },
+ {
+  "n": 23548,
+  "it": "Nell'eseguire la manovra di sorpasso non bisogna accelerare",
+  "answer": false,
+  "en": "When carrying out the overtaking manoeuvre, you must not accelerate.",
+  "keywords": [
+   {
+    "phrase": "non bisogna",
+    "why": "negates an obligation: must not"
+   }
+  ],
+  "trick": "The key trap is the negative obligation 'must not accelerate'.",
+  "image": ""
+ },
+ {
+  "n": 23549,
+  "it": "Dopo il sorpasso bisogna rientrare immediatamente a destra, rallentando",
+  "answer": false,
+  "en": "After overtaking, you must return immediately to the right, slowing down.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "immediatamente",
+    "why": "makes the timing absolute: immediately"
+   },
+   {
+    "phrase": "rallentando",
+    "why": "adds the condition of slowing down"
+   }
+  ],
+  "trick": "The traps are the obligation, the absolute timing 'immediately', and the added condition 'slowing down'.",
+  "image": ""
+ },
+ {
+  "n": 23550,
+  "it": "È vietato il sorpasso degli autobus in servizio pubblico di linea",
+  "answer": false,
+  "en": "Overtaking public service route buses is prohibited.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The main trap is the prohibition wording 'is prohibited'.",
+  "image": ""
+ },
+ {
+  "n": 23551,
+  "it": "È vietato il sorpasso quando il veicolo che precede ha azionato l'indicatore di direzione destro",
+  "answer": false,
+  "en": "Overtaking is prohibited when the vehicle in front has switched on its right turn indicator.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quando",
+    "why": "restricts the rule to this situation"
+   }
+  ],
+  "trick": "The trap is a prohibition that applies specifically when the vehicle ahead signals right.",
+  "image": ""
+ },
+ {
+  "n": 23552,
+  "it": "È vietato il sorpasso se nevica",
+  "answer": false,
+  "en": "Overtaking is prohibited if it is snowing.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition: if"
+   }
+  ],
+  "trick": "The trap is the prohibition stated as conditional on snowing.",
+  "image": ""
+ },
+ {
+  "n": 23553,
+  "it": "È vietato il sorpasso in corrispondenza dei passi carrabili",
+  "answer": false,
+  "en": "Overtaking is prohibited at driveways.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza di",
+    "why": "means at the location of or by"
+   }
+  ],
+  "trick": "The trap is the prohibition linked to a specific location.",
+  "image": ""
+ },
+ {
+  "n": 23554,
+  "it": "È vietato il sorpasso in prossimità degli ospedali",
+  "answer": false,
+  "en": "Overtaking is prohibited near hospitals.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   }
+  ],
+  "trick": "The trap is the prohibition tied to being near a place, not necessarily at it.",
+  "image": ""
+ },
+ {
+  "n": 23555,
+  "it": "È vietato il sorpasso in prossimità delle stazioni di servizio",
+  "answer": false,
+  "en": "Overtaking is prohibited near service stations.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   }
+  ],
+  "trick": "The trap is the prohibition applying in the vicinity of service stations.",
+  "image": ""
+ },
+ {
+  "n": 23556,
+  "it": "Il sorpasso in prossimità di un dosso è consentito sulle strade a senso unico",
+  "answer": true,
+  "en": "Overtaking near the crest of a hill is permitted on one-way roads.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is that the statement gives permission in this specific situation.",
+  "image": ""
+ },
+ {
+  "n": 23557,
+  "it": "Il sorpasso in prossimità di un dosso è consentito sulle carreggiate a senso unico",
+  "answer": true,
+  "en": "Overtaking near the crest of a hill is permitted on one-way carriageways.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is that overtaking is stated as permitted near a crest on one-way carriageways.",
+  "image": ""
+ },
+ {
+  "n": 23558,
+  "it": "Il sorpasso in prossimità di un dosso è consentito sulle strade a due corsie per senso di marcia",
+  "answer": true,
+  "en": "Overtaking near the crest of a hill is permitted on roads with two lanes in each direction.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is the permission to overtake in this particular road layout.",
+  "image": ""
+ },
+ {
+  "n": 23559,
+  "it": "Il sorpasso in prossimità di un dosso è consentito sulle strade a due carreggiate separate",
+  "answer": true,
+  "en": "Overtaking near the crest of a hill is permitted on roads with two separate carriageways.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is that the sentence grants permission near a crest on divided roads.",
+  "image": ""
+ },
+ {
+  "n": 23560,
+  "it": "E'vietato sorpassare accodandosi ad un'ambulanza in servizio di emergenza",
+  "answer": true,
+  "en": "It is prohibited to overtake by following closely behind an ambulance on emergency service.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "accodandosi",
+    "why": "means by tailing closely behind another vehicle"
+   },
+   {
+    "phrase": "in servizio di emergenza",
+    "why": "limits it to emergency operation"
+   }
+  ],
+  "trick": "The trap is the prohibition on overtaking by tailing an ambulance specifically during emergency service.",
+  "image": ""
+ },
+ {
+  "n": 23562,
+  "it": "Su carreggiate a due corsie e a doppio senso in prossimità di un dosso, è consentito sorpassare veicoli a trazione animale",
+  "answer": false,
+  "en": "On two-lane, two-way carriageways near the crest of a hill, it is permitted to overtake animal-drawn vehicles.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is that the sentence claims permission to overtake in a situation where learners may expect a ban.",
+  "image": ""
+ },
+ {
+  "n": 23563,
+  "it": "Su carreggiate a due corsie a doppio senso di marcia in prossimità di un dosso, è consentito sorpassare nella scia del veicolo che precede",
+  "answer": false,
+  "en": "On two-lane, two-way carriageways near the crest of a hill, it is permitted to overtake in the slipstream of the vehicle ahead.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "nella scia",
+    "why": "means following in the wake/slipstream"
+   }
+  ],
+  "trick": "The trap is the claimed permission to overtake while following in the wake of the vehicle ahead.",
+  "image": ""
+ },
+ {
+  "n": 23564,
+  "it": "In prossimità di un dosso è consentito invadere l'opposta semicarreggiata, per sorpassare autobus di linea fermi per la salita e discesa dei passeggeri",
+  "answer": false,
+  "en": "Near the crest of a hill, it is permitted to move into the opposite half-carriageway in order to overtake route buses stopped for passengers to get on and off.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "invadere l'opposta semicarreggiata",
+    "why": "means entering the oncoming half of the road"
+   }
+  ],
+  "trick": "The trap is the claimed permission to enter the opposite side of the road near a crest.",
+  "image": ""
+ },
+ {
+  "n": 23565,
+  "it": "Non si può sorpassare in corrispondenza dei dossi su carreggiata a senso unico a due corsie",
+  "answer": false,
+  "en": "You cannot overtake at the crest of hills on a one-way carriageway with two lanes.",
+  "keywords": [
+   {
+    "phrase": "Non si può",
+    "why": "expresses prohibition as cannot/may not"
+   },
+   {
+    "phrase": "in corrispondenza di",
+    "why": "means exactly at the location of"
+   }
+  ],
+  "trick": "The trap is the negative form 'you cannot overtake' tied to being exactly at the crest.",
+  "image": ""
+ },
+ {
+  "n": 23566,
+  "it": "Non si può sorpassare un veicolo che abbia segnalato l'intenzione di accostarsi al margine destro della carreggiata",
+  "answer": false,
+  "en": "You cannot overtake a vehicle that has signalled its intention to pull over to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "Non si può",
+    "why": "expresses prohibition as cannot/may not"
+   },
+   {
+    "phrase": "abbia segnalato l'intenzione",
+    "why": "means has indicated an intention, not completed it"
+   }
+  ],
+  "trick": "The trap is the prohibition based on the other vehicle merely signalling its intention.",
+  "image": ""
+ },
+ {
+  "n": 23567,
+  "it": "Non si può sorpassare in corrispondenza dell'uscita di un pubblico parcheggio",
+  "answer": false,
+  "en": "You cannot overtake at the exit of a public car park.",
+  "keywords": [
+   {
+    "phrase": "Non si può",
+    "why": "expresses prohibition as cannot/may not"
+   },
+   {
+    "phrase": "in corrispondenza di",
+    "why": "means at the location of or by"
+   }
+  ],
+  "trick": "The trap is the negative rule applied to a specific location: the car park exit.",
+  "image": ""
+ },
+ {
+  "n": 23568,
+  "it": "E' vietato il sorpasso se alla sinistra del veicolo si trova una linea bianca discontinua affiancata da una continua",
+  "answer": false,
+  "en": "Overtaking is prohibited if, to the left of the vehicle, there is a broken white line alongside a continuous one.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the rule to this condition"
+   },
+   {
+    "phrase": "affiancata da una continua",
+    "why": "the continuous line changes the rule"
+   }
+  ],
+  "trick": "Watch the prohibition and the exact road-marking condition.",
+  "image": ""
+ },
+ {
+  "n": 23569,
+  "it": "Non si può sorpassare sulla destra il tram che marcia al centro della carreggiata",
+  "answer": false,
+  "en": "You may not overtake on the right a tram travelling in the middle of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "Non si può",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "sulla destra",
+    "why": "specifies the side, which changes the rule"
+   },
+   {
+    "phrase": "al centro della carreggiata",
+    "why": "restricts the case to this position"
+   }
+  ],
+  "trick": "The trap is the negated permission and the specific case of a tram in the middle.",
+  "image": ""
+ },
+ {
+  "n": 23570,
+  "it": "Nella fase di sorpasso, il conducente è tenuto a evitare di stringere o di tagliare la strada al veicolo sorpassato",
+  "answer": true,
+  "en": "During the overtaking phase, the driver is required to avoid squeezing or cutting off the overtaken vehicle.",
+  "keywords": [
+   {
+    "phrase": "è tenuto a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "evitare",
+    "why": "requires not doing the action"
+   }
+  ],
+  "trick": "The key trap is that this is a duty, not a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 23571,
+  "it": "La pericolosità del sorpasso è determinata dal rischio di urtare altri veicoli che manifestano l'intenzione di compiere la stessa manovra",
+  "answer": true,
+  "en": "The danger of overtaking is determined by the risk of hitting other vehicles that show the intention of carrying out the same manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "manifestano l'intenzione",
+    "why": "means they indicate an intended action, not one already started"
+   },
+   {
+    "phrase": "la stessa manovra",
+    "why": "refers to the same manoeuvre, which can be overlooked"
+   }
+  ],
+  "trick": "The trick is noticing vehicles intending to do the same manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 23572,
+  "it": "La pericolosità del sorpasso è determinata dal rischio di collisione, in fase di avvicinamento, con il veicolo da sorpassare",
+  "answer": true,
+  "en": "The danger of overtaking is determined by the risk of collision, during the approach phase, with the vehicle to be overtaken.",
+  "keywords": [
+   {
+    "phrase": "in fase di avvicinamento",
+    "why": "limits the risk to the approach phase"
+   },
+   {
+    "phrase": "veicolo da sorpassare",
+    "why": "means the vehicle being overtaken, not an oncoming one"
+   }
+  ],
+  "trick": "The trap is the specific stage of overtaking and which vehicle is involved.",
+  "image": ""
+ },
+ {
+  "n": 23573,
+  "it": "La pericolosità del sorpasso è determinata dal rischio di collisione, in fase di rientro in corsia, con il veicolo sorpassato",
+  "answer": true,
+  "en": "The danger of overtaking is determined by the risk of collision, when moving back into the lane, with the overtaken vehicle.",
+  "keywords": [
+   {
+    "phrase": "in fase di rientro in corsia",
+    "why": "limits the risk to the return-to-lane phase"
+   },
+   {
+    "phrase": "veicolo sorpassato",
+    "why": "means the vehicle already overtaken"
+   }
+  ],
+  "trick": "The key trap is the specific risk during re-entry into the lane.",
+  "image": ""
+ },
+ {
+  "n": 23574,
+  "it": "La pericolosità del sorpasso è determinata dal rischio di urto frontale con un veicolo che provenga dal senso contrario",
+  "answer": true,
+  "en": "The danger of overtaking is determined by the risk of a head-on collision with a vehicle coming from the opposite direction.",
+  "keywords": [
+   {
+    "phrase": "urto frontale",
+    "why": "specifies a head-on impact"
+   },
+   {
+    "phrase": "senso contrario",
+    "why": "means the opposite direction of travel"
+   }
+  ],
+  "trick": "The trap is the specific danger from oncoming traffic.",
+  "image": ""
+ },
+ {
+  "n": 23575,
+  "it": "La pericolosità del sorpasso è determinata dalla ridotta larghezza della carreggiata",
+  "answer": true,
+  "en": "The danger of overtaking is determined by the reduced width of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "ridotta larghezza",
+    "why": "indicates insufficient road width, affecting safety"
+   }
+  ],
+  "trick": "The key point is that a narrow carriageway increases overtaking danger.",
+  "image": ""
+ },
+ {
+  "n": 23576,
+  "it": "Nella fase di sorpasso, il conducente è tenuto a mantenersi il più a lungo possibile nella corsia di sorpasso",
+  "answer": false,
+  "en": "During the overtaking phase, the driver is required to remain in the overtaking lane for as long as possible.",
+  "keywords": [
+   {
+    "phrase": "è tenuto a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più a lungo possibile",
+    "why": "means as long as possible, an absolute-sounding phrase"
+   }
+  ],
+  "trick": "The trap is the obligation wording combined with the extreme phrase 'as long as possible'.",
+  "image": ""
+ },
+ {
+  "n": 23577,
+  "it": "Nella fase di sorpasso, il conducente è tenuto a segnalare continuamente con l'avvisatore acustico l'effettuazione della manovra",
+  "answer": false,
+  "en": "During the overtaking phase, the driver is required to signal the manoeuvre continuously with the horn.",
+  "keywords": [
+   {
+    "phrase": "è tenuto a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "continuamente",
+    "why": "absolute term that often makes statements false"
+   },
+   {
+    "phrase": "avvisatore acustico",
+    "why": "means horn, not general signalling"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to use the horn continuously.",
+  "image": ""
+ },
+ {
+  "n": 23578,
+  "it": "Nella fase di sorpasso, il conducente è tenuto a mantenere una velocità almeno doppia di quella del veicolo sorpassato",
+  "answer": false,
+  "en": "During the overtaking phase, the driver is required to keep a speed at least double that of the overtaken vehicle.",
+  "keywords": [
+   {
+    "phrase": "è tenuto a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno doppia",
+    "why": "sets a strict minimum that is easy to overread"
+   }
+  ],
+  "trick": "The trap is the very strong claimed minimum-speed requirement.",
+  "image": ""
+ },
+ {
+  "n": 23579,
+  "it": "La pericolosità del sorpasso è determinata dalla presenza, sulla strada, di delineatori normali di margine",
+  "answer": false,
+  "en": "The danger of overtaking is determined by the presence of normal edge delineator posts on the road.",
+  "keywords": [
+   {
+    "phrase": "dalla presenza",
+    "why": "claims mere presence is the cause"
+   },
+   {
+    "phrase": "delineatori normali di margine",
+    "why": "technical term that may sound more dangerous than it is"
+   }
+  ],
+  "trick": "The trick is not to assume ordinary edge markers make overtaking dangerous.",
+  "image": ""
+ },
+ {
+  "n": 23580,
+  "it": "Il sorpasso è vietato di notte, nei centri urbani con pubblica illuminazione insufficiente",
+  "answer": false,
+  "en": "Overtaking is prohibited at night, in built-up areas with insufficient public lighting.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "di notte",
+    "why": "limits the rule to nighttime"
+   },
+   {
+    "phrase": "con pubblica illuminazione insufficiente",
+    "why": "adds a specific condition that can mislead"
+   }
+  ],
+  "trick": "The trap is the conditional prohibition based on nighttime and poor lighting.",
+  "image": ""
+ },
+ {
+  "n": 23581,
+  "it": "Il sorpasso è vietato quando sulla carreggiata è tracciata la linea tratteggiata di mezzeria",
+  "answer": false,
+  "en": "Overtaking is prohibited when the broken centre line is marked on the carriageway.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quando",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "linea tratteggiata di mezzeria",
+    "why": "a broken centre line usually affects whether overtaking is allowed"
+   }
+  ],
+  "trick": "The trick is the road marking: a broken centre line does not automatically prohibit overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23582,
+  "it": "Il sorpasso è vietato quando sulle strade di montagna si è preceduti da un autobus di linea",
+  "answer": false,
+  "en": "Overtaking is prohibited when, on mountain roads, you are preceded by a scheduled bus.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quando",
+    "why": "introduces the condition"
+   },
+   {
+    "phrase": "si è preceduti da",
+    "why": "means you are travelling behind this vehicle"
+   },
+   {
+    "phrase": "autobus di linea",
+    "why": "scheduled bus is a specific vehicle category"
+   }
+  ],
+  "trick": "The trap is the claimed prohibition in this very specific situation.",
+  "image": ""
+ },
+ {
+  "n": 23583,
+  "it": "Nella fase di rientro dal sorpasso in autostrada, il conducente deve distanziarsi di almeno 100 m dal veicolo sorpassato",
+  "answer": false,
+  "en": "When moving back in after overtaking on a motorway, the driver must keep at least 100 m away from the overtaken vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno 100 m",
+    "why": "strict minimum distance can mislead"
+   },
+   {
+    "phrase": "in autostrada",
+    "why": "limits the statement to motorways"
+   }
+  ],
+  "trick": "The trap is the supposed motorway obligation of at least 100 metres.",
+  "image": ""
+ },
+ {
+  "n": 23584,
+  "it": "Nella fase di rientro dal sorpasso il conducente deve segnalare acusticamente la manovra al veicolo sorpassato",
+  "answer": false,
+  "en": "When moving back in after overtaking, the driver must signal the manoeuvre acoustically to the overtaken vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "segnalare acusticamente",
+    "why": "means using the horn, not indicators"
+   }
+  ],
+  "trick": "The trap is the false obligation to use an audible signal during re-entry.",
+  "image": ""
+ },
+ {
+  "n": 23585,
+  "it": "Il sorpasso a destra è consentito quando il filobus è fermo per la salita e la discesa dei passeggeri, anche se non esiste salvagente",
+  "answer": false,
+  "en": "Overtaking on the right is allowed when the trolleybus is stopped for passengers to get on and off, even if there is no refuge island.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, adding an exception-like condition"
+   },
+   {
+    "phrase": "non esiste salvagente",
+    "why": "absence of a refuge island changes the rule"
+   }
+  ],
+  "trick": "The trap is the permission claim despite there being no refuge island.",
+  "image": ""
+ },
+ {
+  "n": 23586,
+  "it": "Il sorpasso a destra è consentito quando si percorre una strada extraurbana a senso unico",
+  "answer": false,
+  "en": "Overtaking on the right is allowed when travelling on a one-way extra-urban road.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "one-way roads often change overtaking rules"
+   },
+   {
+    "phrase": "strada extraurbana",
+    "why": "the road type is legally important"
+   }
+  ],
+  "trick": "The trap is assuming a one-way extra-urban road automatically allows overtaking on the right.",
+  "image": ""
+ },
+ {
+  "n": 23587,
+  "it": "Il conducente che intende sorpassare deve assicurarsi che la potenza del motore del proprio veicolo sia maggiore di quella del veicolo da sorpassare",
+  "answer": false,
+  "en": "A driver intending to overtake must make sure that the engine power of their vehicle is greater than that of the vehicle to be overtaken.",
+  "keywords": [
+   {
+    "phrase": "intende sorpassare",
+    "why": "refers to intention before acting"
+   },
+   {
+    "phrase": "deve assicurarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sia maggiore di",
+    "why": "sets a comparative requirement that sounds technical but is false"
+   }
+  ],
+  "trick": "The trap is the false technical-sounding obligation about engine power.",
+  "image": ""
+ },
+ {
+  "n": 23588,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di non gareggiare in velocità con il veicolo sorpassante",
+  "answer": true,
+  "en": "The driver of the vehicle being overtaken has the obligation not to compete in speed with the overtaking vehicle.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the action"
+   }
+  ],
+  "trick": "The trap is the obligation not to do something, not a simple recommendation.",
+  "image": ""
+ },
+ {
+  "n": 23589,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di non accelerare la propria andatura",
+  "answer": true,
+  "en": "The driver of the vehicle being overtaken has the obligation not to accelerate their speed.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non accelerare",
+    "why": "forbids increasing speed"
+   }
+  ],
+  "trick": "It requires the driver not to speed up while being overtaken.",
+  "image": ""
+ },
+ {
+  "n": 23590,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di fermarsi appena possibile per far defluire il traffico se guida un veicolo molto lento",
+  "answer": true,
+  "en": "The driver of the vehicle being overtaken has the obligation to stop as soon as possible to let the traffic flow if driving a very slow vehicle.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "appena possibile",
+    "why": "means as soon as practicable, not immediately always"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the rule to this condition"
+   }
+  ],
+  "trick": "The duty applies only if the driver is operating a very slow vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23591,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di tenersi il più possibile vicino al margine destro su strade ad unica corsia per senso di marcia",
+  "answer": true,
+  "en": "The driver of the vehicle being overtaken has the obligation to keep as close as possible to the right edge on roads with one lane in each direction.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più possibile",
+    "why": "means as much as practicable, not absolutely"
+   },
+   {
+    "phrase": "ad unica corsia per senso di marcia",
+    "why": "restricts the rule to this road type"
+   }
+  ],
+  "trick": "The obligation is conditional on a one-lane-per-direction road and is qualified by practicability.",
+  "image": ""
+ },
+ {
+  "n": 23592,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di portarsi al centro della carreggiata per evitare sorpassi in scia",
+  "answer": false,
+  "en": "The driver of the vehicle being overtaken has the obligation to move to the center of the carriageway to prevent slipstream overtaking.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "states intended purpose, which can mislead"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to move to the center, which is not a real rule.",
+  "image": ""
+ },
+ {
+  "n": 23593,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di azionare la segnalazione luminosa di pericolo(lampeggio simultaneo di tutte le frecce) per segnalare che la strada è sgombra",
+  "answer": false,
+  "en": "The driver of the vehicle being overtaken has the obligation to switch on the hazard lights (simultaneous flashing of all indicators) to signal that the road is clear.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "segnalazione luminosa di pericolo",
+    "why": "means hazard lights, not a general light signal"
+   }
+  ],
+  "trick": "It falsely presents hazard lights as a required signal that the road is clear.",
+  "image": ""
+ },
+ {
+  "n": 23594,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di ridurre sempre la propria velocità",
+  "answer": false,
+  "en": "The driver of the vehicle being overtaken has the obligation to always reduce their speed.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   }
+  ],
+  "trick": "The absolute word 'always' makes the rule too broad.",
+  "image": ""
+ },
+ {
+  "n": 23595,
+  "it": "Il conducente del veicolo da sorpassare ha l'obbligo di inserire le marce più basse per facilitare il sorpasso",
+  "answer": false,
+  "en": "The driver of the vehicle being overtaken has the obligation to shift into lower gears to make overtaking easier.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The trap is the false claim of a specific obligation about lower gears.",
+  "image": ""
+ },
+ {
+  "n": 23596,
+  "it": "Per effettuare il sorpasso bisogna considerare che un veicolo trainante un caravan non può mai essere superato in una discesa a forte pendenza",
+  "answer": false,
+  "en": "To carry out an overtaking maneuver, one must consider that a vehicle towing a caravan can never be overtaken on a steep downhill slope.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "non può mai",
+    "why": "absolute prohibition with never"
+   },
+   {
+    "phrase": "a forte pendenza",
+    "why": "restricts the statement to steep slopes"
+   }
+  ],
+  "trick": "The key trap is the absolute phrase 'can never be overtaken'.",
+  "image": ""
+ },
+ {
+  "n": 23597,
+  "it": "E' consentito sorpassare un'auto della Polizia, se non è in servizio di emergenza e non vi sono altri tipi di impedimenti",
+  "answer": true,
+  "en": "It is permitted to overtake a police car if it is not on an emergency call and there are no other impediments.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se non è in servizio di emergenza",
+    "why": "sets a condition limiting permission"
+   },
+   {
+    "phrase": "non vi sono altri tipi di impedimenti",
+    "why": "adds another limiting condition"
+   }
+  ],
+  "trick": "Permission applies only when the police car is not in emergency service and no other obstacle exists.",
+  "image": ""
+ },
+ {
+  "n": 23598,
+  "it": "Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, è consigliabile ridurre la velocità",
+  "answer": true,
+  "en": "If you are being overtaken while a vehicle is approaching from the opposite direction, it is advisable to reduce speed.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "is advice, not a strict obligation"
+   },
+   {
+    "phrase": "mentre sopraggiunge un veicolo dal senso opposto",
+    "why": "sets the specific situation"
+   }
+  ],
+  "trick": "The statement gives recommended action, not a legal duty phrased as obligation.",
+  "image": ""
+ },
+ {
+  "n": 23599,
+  "it": "Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, occorre spostarsi il più vicino possibile al margine destro della carreggiata",
+  "answer": true,
+  "en": "If you are being overtaken while a vehicle is approaching from the opposite direction, you must move as close as possible to the right edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as practicable, not perfectly"
+   },
+   {
+    "phrase": "mentre sopraggiunge un veicolo dal senso opposto",
+    "why": "sets the specific situation"
+   }
+  ],
+  "trick": "The duty arises in that specific danger situation and is qualified by practicability.",
+  "image": ""
+ },
+ {
+  "n": 23600,
+  "it": "Se si viene sorpassati ed avviene un incidente, si può avere una parte di responsabilità, se non si è fatto il possibile per facilitare la manovra di sorpasso",
+  "answer": true,
+  "en": "If you are being overtaken and an accident occurs, you may bear part of the responsibility if you did not do everything possible to facilitate the overtaking maneuver.",
+  "keywords": [
+   {
+    "phrase": "si può avere",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "se non si è fatto il possibile",
+    "why": "conditional negative affecting liability"
+   }
+  ],
+  "trick": "Responsibility is only possible and depends on not having done all possible to help.",
+  "image": ""
+ },
+ {
+  "n": 23601,
+  "it": "E' vietato sorpassare un'auto della Polizia, non in servizio di emergenza, per non ostacolarne la marcia",
+  "answer": false,
+  "en": "It is forbidden to overtake a police car that is not on an emergency call, so as not to hinder its progress.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non in servizio di emergenza",
+    "why": "negative condition that changes the rule"
+   }
+  ],
+  "trick": "The trap is the false prohibition even when the police car is not in emergency service.",
+  "image": ""
+ },
+ {
+  "n": 23602,
+  "it": "Sulle autostrade a tre corsie per senso di marcia è consentito sorpassare un'auto della polizia, anche se in servizio di emergenza",
+  "answer": false,
+  "en": "On motorways with three lanes in each direction, it is permitted to overtake a police car, even if it is on an emergency call.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, extending the claim"
+   },
+   {
+    "phrase": "in servizio di emergenza",
+    "why": "this condition is crucial and changes legality"
+   }
+  ],
+  "trick": "The key trap is 'even if on emergency service,' which wrongly extends permission.",
+  "image": ""
+ },
+ {
+  "n": 23603,
+  "it": "Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, occorre tenere accesi i proiettori abbaglianti, come segnale di pericolo",
+  "answer": false,
+  "en": "If you are being overtaken while a vehicle is approaching from the opposite direction, you must keep the main-beam headlights on as a danger signal.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "proiettori abbaglianti",
+    "why": "means main beams, not normal headlights"
+   },
+   {
+    "phrase": "come segnale di pericolo",
+    "why": "states a supposed warning purpose"
+   }
+  ],
+  "trick": "It falsely presents using main beams as a required danger signal.",
+  "image": ""
+ },
+ {
+  "n": 23604,
+  "it": "Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, si ha l'obbligo di mantenere la stessa velocità",
+  "answer": false,
+  "en": "If you are being overtaken while a vehicle is approaching from the opposite direction, you have the obligation to maintain the same speed.",
+  "keywords": [
+   {
+    "phrase": "si ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "la stessa velocità",
+    "why": "imposes no change in speed, which is the trap"
+   }
+  ],
+  "trick": "The statement wrongly makes maintaining the same speed an obligation.",
+  "image": ""
+ },
+ {
+  "n": 23605,
+  "it": "Se si viene sorpassati mentre sopraggiunge un veicolo dal senso opposto, occorre azionare l'indicatore di direzione destro, come segnale di pericolo",
+  "answer": false,
+  "en": "If you are being overtaken while a vehicle is approaching from the opposite direction, you must activate the right turn indicator as a danger signal.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "indicatore di direzione destro",
+    "why": "specific signal can mislead learners"
+   },
+   {
+    "phrase": "come segnale di pericolo",
+    "why": "states a supposed warning purpose"
+   }
+  ],
+  "trick": "The trap is the false claim that the right indicator should be used as a danger signal.",
+  "image": ""
+ },
+ {
+  "n": 23606,
+  "it": "Durante un sorpasso in autostrada, la scarsa attenzione posta ai veicoli che seguono può essere causa di incidente",
+  "answer": true,
+  "en": "During an overtaking maneuver on a motorway, insufficient attention paid to following vehicles can cause an accident.",
+  "keywords": [
+   {
+    "phrase": "può essere causa di",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "The statement says it can cause an accident, not that it always will.",
+  "image": ""
+ },
+ {
+  "n": 23607,
+  "it": "Durante un sorpasso in autostrada, l'insufficiente distanza di sicurezza può essere causa di incidente",
+  "answer": true,
+  "en": "During an overtaking maneuver on a motorway, insufficient safety distance can cause an accident.",
+  "keywords": [
+   {
+    "phrase": "può essere causa di",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "The wording expresses a possible cause, not an automatic outcome.",
+  "image": ""
+ },
+ {
+  "n": 23608,
+  "it": "Durante un sorpasso in autostrada, può essere causa di incidente l'improvviso spostamento sulla corsia di sorpasso di uno dei veicoli che precedono",
+  "answer": true,
+  "en": "During an overtaking manoeuvre on the motorway, the sudden movement into the overtaking lane by one of the vehicles ahead may cause an accident.",
+  "keywords": [
+   {
+    "phrase": "può essere causa di incidente",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "improvviso spostamento",
+    "why": "highlights the sudden action as the danger"
+   },
+   {
+    "phrase": "che precedono",
+    "why": "means the vehicles ahead, not behind"
+   }
+  ],
+  "trick": "Watch the possibility wording and who is moving: a vehicle ahead suddenly pulling into the overtaking lane can cause a crash.",
+  "image": ""
+ },
+ {
+  "n": 23609,
+  "it": "Durante un sorpasso in autostrada, mantenersi troppo a lungo sulla corsia di sorpasso può essere motivo di intralcio",
+  "answer": true,
+  "en": "During an overtaking manoeuvre on the motorway, staying too long in the overtaking lane may be an obstruction.",
+  "keywords": [
+   {
+    "phrase": "troppo a lungo",
+    "why": "makes it excessive, not just any time"
+   },
+   {
+    "phrase": "può essere motivo di intralcio",
+    "why": "expresses possible obstruction, not a fixed outcome"
+   }
+  ],
+  "trick": "The trap is the excess: remaining in the overtaking lane for too long may obstruct traffic.",
+  "image": ""
+ },
+ {
+  "n": 23610,
+  "it": "Il sorpasso in autostrada può essere motivo di incidente, se viene effettuato accodandosi ad un veicolo che sta sorpassando",
+  "answer": true,
+  "en": "Overtaking on the motorway may cause an accident if it is carried out by tailing a vehicle that is overtaking.",
+  "keywords": [
+   {
+    "phrase": "può essere motivo di incidente",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "accodandosi",
+    "why": "means following closely behind, a risky action"
+   },
+   {
+    "phrase": "che sta sorpassando",
+    "why": "refers to a vehicle already overtaking"
+   }
+  ],
+  "trick": "The danger is overtaking while closely following another vehicle that is already overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23611,
+  "it": "Il sorpasso in autostrada può essere motivo di incidente, se il forte vento laterale compromette la stabilità dei veicoli",
+  "answer": true,
+  "en": "Overtaking on the motorway may cause an accident if strong crosswinds affect the stability of the vehicles.",
+  "keywords": [
+   {
+    "phrase": "può essere motivo di incidente",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "forte vento laterale",
+    "why": "means strong side wind, not wind in general"
+   },
+   {
+    "phrase": "compromette la stabilità",
+    "why": "means undermines stability, creating risk"
+   }
+  ],
+  "trick": "The key idea is that strong side winds can destabilize vehicles during overtaking.",
+  "image": ""
+ },
+ {
+  "n": 23612,
+  "it": "Il sorpasso in autostrada può essere motivo di incidente, se viene effettuato in vicinanza di una piazzola di sosta",
+  "answer": false,
+  "en": "Overtaking on the motorway may cause an accident if it is carried out near an emergency stopping area.",
+  "keywords": [
+   {
+    "phrase": "può essere motivo di incidente",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "in vicinanza di",
+    "why": "means near, not necessarily inside or at"
+   },
+   {
+    "phrase": "piazzola di sosta",
+    "why": "means an emergency stopping area/lay-by"
+   }
+  ],
+  "trick": "The possible danger is overtaking near a stopping bay, where vehicles may enter or leave.",
+  "image": ""
+ },
+ {
+  "n": 23613,
+  "it": "Il sorpasso in autostrada può essere motivo di incidente, se si viaggia con le luci anabbaglianti sempre accese",
+  "answer": false,
+  "en": "Overtaking on the motorway may cause an accident if you are driving with the dipped headlights always on.",
+  "keywords": [
+   {
+    "phrase": "può essere motivo di incidente",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "sempre accese",
+    "why": "means always on"
+   },
+   {
+    "phrase": "'sempre' often changes the meaning",
+    "why": ""
+   }
+  ],
+  "trick": "The trap word is 'sempre': it claims headlights being always on would make overtaking dangerous.",
+  "image": ""
+ },
+ {
+  "n": 23614,
+  "it": "Se si parcheggia in una zona regolamentata con parchimetro, occorre esporre l'apposito tagliando, in modo che sia ben visibile",
+  "answer": true,
+  "en": "If you park in an area regulated by a parking meter, you must display the appropriate ticket so that it is clearly visible.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in modo che sia ben visibile",
+    "why": "requires clear visibility, not just displaying it"
+   }
+  ],
+  "trick": "The rule is mandatory: the parking ticket must be displayed clearly where it can be seen.",
+  "image": ""
+ },
+ {
+  "n": 23615,
+  "it": "Per parcheggiare in una zona regolamentata mediante disco orario, bisogna esporre in modo ben visibile l'orario di arrivo",
+  "answer": true,
+  "en": "To park in an area regulated by a parking disc, you must display your arrival time clearly visibly.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in modo ben visibile",
+    "why": "requires clear visibility of the displayed time"
+   },
+   {
+    "phrase": "orario di arrivo",
+    "why": "means arrival time, not departure time"
+   }
+  ],
+  "trick": "The key trap is that the disc shows the arrival time, and it must be clearly visible.",
+  "image": ""
+ },
+ {
+  "n": 23616,
+  "it": "In una zona in cui la sosta è regolamentata con parchimetro, non occorre utilizzarlo se ci si ferma soltanto per far salire o scendere un passeggero",
+  "answer": true,
+  "en": "In an area where parking is regulated by a parking meter, you do not need to use it if you stop only to let a passenger get in or out.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "limits the exception to only this case"
+   },
+   {
+    "phrase": "far salire o scendere un passeggero",
+    "why": "refers to stopping only for boarding or alighting"
+   }
+  ],
+  "trick": "This is a narrow exception: no meter is needed only for a brief stop to pick up or drop off a passenger.",
+  "image": ""
+ },
+ {
+  "n": 23617,
+  "it": "Nelle aree di parcheggio a tempo limitato, i veicoli al servizio di persone diversamente abili non sono obbligati a rispettare il limite di tempo stabilito per la sosta.",
+  "answer": true,
+  "en": "In time-limited parking areas, vehicles serving people with disabilities are not required to comply with the time limit set for parking.",
+  "keywords": [
+   {
+    "phrase": "a tempo limitato",
+    "why": "limits the rule to time-restricted parking areas"
+   },
+   {
+    "phrase": "non sono obbligati",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "limite di tempo stabilito",
+    "why": "refers specifically to the set parking time limit"
+   }
+  ],
+  "trick": "The important point is the exemption: these vehicles are not bound by the stated parking time limit.",
+  "image": ""
+ },
+ {
+  "n": 23618,
+  "it": "Per parcheggiare in una zona regolamentata mediante disco orario, bisogna indicare sul disco l'orario di fine della sosta, oppure trascriverlo su un foglio di carta",
+  "answer": false,
+  "en": "To park in an area regulated by a parking disc, you must indicate on the disc the end time of the parking period, or write it on a sheet of paper.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "orario di fine della sosta",
+    "why": "means end time, which can be confused with arrival time"
+   },
+   {
+    "phrase": "oppure",
+    "why": "offers an alternative option"
+   }
+  ],
+  "trick": "The trap is the wrong time reference: it says end time instead of arrival time, and even suggests paper as an alternative.",
+  "image": ""
+ },
+ {
+  "n": 23619,
+  "it": "In una zona in cui la sosta è regolamentata mediante disco orario, prima che scada il tempo di validità della sosta è consentito aggiornare l'orario, senza che il veicolo venga spostato",
+  "answer": false,
+  "en": "In an area where parking is regulated by a parking disc, before the parking validity time expires it is permitted to update the time without moving the vehicle.",
+  "keywords": [
+   {
+    "phrase": "prima che scada",
+    "why": "sets a time condition before expiry"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza che il veicolo venga spostato",
+    "why": "means without moving the vehicle at all"
+   }
+  ],
+  "trick": "The trick is the claimed permission to reset the parking time before expiry without moving the vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23620,
+  "it": "In una zona in cui la sosta è regolamentata con parchimetro, non occorre utilizzare il parchimetro se si effettua una breve sosta",
+  "answer": false,
+  "en": "In an area where parking is regulated by a parking meter, you do not need to use the parking meter if you make a short stop.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "breve sosta",
+    "why": "can mislead"
+   },
+   {
+    "phrase": "a short parking stop is still parking, not mere stopping",
+    "why": ""
+   }
+  ],
+  "trick": "The trap is treating a 'short parking stop' as an exception from paying at the meter.",
+  "image": ""
+ },
+ {
+  "n": 23621,
+  "it": "Se si parcheggia in una zona regolamentata mediante disco orario, bisogna trascrivere su un foglio di carta l'ora di arrivo, senza indicare i minuti",
+  "answer": false,
+  "en": "If you park in an area regulated by a parking disc, you must write your arrival time on a sheet of paper without indicating the minutes.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "senza indicare i minuti",
+    "why": "excludes the minutes, changing the requirement"
+   },
+   {
+    "phrase": "su un foglio di carta",
+    "why": "suggests paper as a substitute for the disc"
+   }
+  ],
+  "trick": "The statement is tricky because it wrongly replaces the disc with paper and omits the minutes.",
+  "image": ""
+ },
+ {
+  "n": 23622,
+  "it": "Il conducente di un autoveicolo in sosta sul lato destro di una strada urbana, prima di aprire la portiera, deve fare particolare attenzione ai veicoli che sopraggiungono",
+  "answer": true,
+  "en": "The driver of a motor vehicle parked on the right-hand side of an urban road, before opening the door, must pay particular attention to vehicles approaching.",
+  "keywords": [
+   {
+    "phrase": "prima di aprire la portiera",
+    "why": "sets the action that must happen beforehand"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "veicoli che sopraggiungono",
+    "why": "means approaching/oncoming vehicles"
+   }
+  ],
+  "trick": "The obligation is to check carefully for approaching vehicles before opening the door.",
+  "image": ""
+ },
+ {
+  "n": 23623,
+  "it": "Il conducente di un autoveicolo in sosta su una strada stretta, prima di scendere deve controllare che non sopraggiungano veicoli",
+  "answer": true,
+  "en": "The driver of a motor vehicle parked on a narrow road, before getting out, must check that no vehicles are approaching.",
+  "keywords": [
+   {
+    "phrase": "prima di scendere",
+    "why": "sets the action that must happen beforehand"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "che non sopraggiungano veicoli",
+    "why": "requires checking that no vehicles are coming"
+   }
+  ],
+  "trick": "The key is the obligation to make sure no vehicles are approaching before getting out.",
+  "image": ""
+ },
+ {
+  "n": 23624,
+  "it": "E' opportuno che il conducente di un autoveicolo in sosta sul lato sinistro in una strada urbana a senso unico, ricordi al passeggero di prestare particolare attenzione ai veicoli che sopraggiungono, prima di aprire la portiera",
+  "answer": true,
+  "en": "It is advisable that the driver of a motor vehicle parked on the left-hand side of a one-way urban road remind the passenger to pay particular attention to approaching vehicles before opening the door.",
+  "keywords": [
+   {
+    "phrase": "E' opportuno",
+    "why": "means advisable, not strictly mandatory"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "limits the case to a one-way road"
+   },
+   {
+    "phrase": "prima di aprire la portiera",
+    "why": "sets the action that must happen beforehand"
+   }
+  ],
+  "trick": "The statement gives advice, not a strict legal obligation, and it applies on a one-way urban road.",
+  "image": ""
+ },
+ {
+  "n": 23625,
+  "it": "E' opportuno che il conducente di un autoveicolo, in sosta sul lato destro di una strada urbana, ricordi al passeggero che apre la portiera di destra di fare attenzione ai pedoni in transito",
+  "answer": true,
+  "en": "It is advisable that the driver of a motor vehicle, parked on the right-hand side of an urban road, remind the passenger opening the right-hand door to watch out for passing pedestrians.",
+  "keywords": [
+   {
+    "phrase": "E' opportuno",
+    "why": "means advisable, not strictly mandatory"
+   },
+   {
+    "phrase": "pedoni in transito",
+    "why": "means pedestrians passing by nearby"
+   }
+  ],
+  "trick": "The key trap is that 'opportuno' is advice, and the attention here is specifically for passing pedestrians.",
+  "image": ""
+ },
+ {
+  "n": 23626,
+  "it": "Il conducente di un autoveicolo può lasciare il motore acceso se sosta per poco tempo",
+  "answer": false,
+  "en": "The driver of a motor vehicle may leave the engine running if stopping for a short time.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se sosta per poco tempo",
+    "why": "adds a limiting condition that may mislead"
+   }
+  ],
+  "trick": "The trap is the claimed permission: it says the engine may be left on if the stop is short.",
+  "image": ""
+ },
+ {
+  "n": 23627,
+  "it": "Il conducente di un autoveicolo in sosta su una strada stretta, prima di scendere deve preoccuparsi dei veicoli che sopraggiungono da dietro, ma non di quelli di fronte",
+  "answer": false,
+  "en": "The driver of a motor vehicle parked on a narrow road, before getting out, must worry about vehicles approaching from behind, but not those in front.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a misleading exclusion"
+   },
+   {
+    "phrase": "da dietro",
+    "why": "limits attention to vehicles from behind only"
+   }
+  ],
+  "trick": "The trap is the exclusion: it wrongly says to consider only vehicles from behind and not those in front.",
+  "image": ""
+ },
+ {
+  "n": 23628,
+  "it": "Prima di iniziare a guidare un autoveicolo è opportuno regolare il sedile e il poggiatesta, secondo la propria statura",
+  "answer": true,
+  "en": "Before starting to drive a motor vehicle, it is advisable to adjust the seat and headrest according to your height.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, not strictly mandatory"
+   },
+   {
+    "phrase": "secondo la propria statura",
+    "why": "means according to one's own height/build"
+   }
+  ],
+  "trick": "Watch that è opportuno gives advice rather than a legal obligation.",
+  "image": ""
+ },
+ {
+  "n": 23629,
+  "it": "Prima di iniziare a guidare un autoveicolo è opportuno regolare gli specchi retrovisori interni ed esterni",
+  "answer": true,
+  "en": "Before starting to drive a motor vehicle, it is advisable to adjust the interior and exterior rear-view mirrors.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, not strictly mandatory"
+   }
+  ],
+  "trick": "The key trap is that the statement is advice, not an obligation.",
+  "image": ""
+ },
+ {
+  "n": 23630,
+  "it": "Prima di iniziare a guidare un motociclo è opportuno regolare gli specchi secondo la propria statura",
+  "answer": true,
+  "en": "Before starting to ride a motorcycle, it is advisable to adjust the mirrors according to your height.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, not strictly mandatory"
+   },
+   {
+    "phrase": "secondo la propria statura",
+    "why": "means according to one's own height/build"
+   }
+  ],
+  "trick": "Do not turn advisable wording into must or should in a legal sense.",
+  "image": ""
+ },
+ {
+  "n": 23631,
+  "it": "Quando si guida un veicolo a motore, bisogna avere con sé tutti i documenti necessari per la guida (carta di circolazione, certificato di assicurazione, patente ecc.), e in corso di validità",
+  "answer": true,
+  "en": "When driving a motor vehicle, you must have all the documents required for driving with you (registration certificate, insurance certificate, driving licence, etc.), and they must be valid.",
+  "keywords": [
+   {
+    "phrase": "bisogna avere con sé",
+    "why": "expresses obligation to carry them with you"
+   },
+   {
+    "phrase": "necessari",
+    "why": "limits the rule to required documents only"
+   },
+   {
+    "phrase": "in corso di validità",
+    "why": "means currently valid, not just possessed"
+   }
+  ],
+  "trick": "The sentence imposes an obligation both to carry the documents and for them to be valid.",
+  "image": ""
+ },
+ {
+  "n": 23632,
+  "it": "Prima di iniziare a guidare un veicolo a motore bisogna essere certi che la categoria di patente posseduta ne consenta la guida",
+  "answer": true,
+  "en": "Before starting to drive a motor vehicle, you must make sure that the category of licence you hold allows you to drive it.",
+  "keywords": [
+   {
+    "phrase": "bisogna essere certi",
+    "why": "expresses obligation to be sure"
+   },
+   {
+    "phrase": "ne consenta la guida",
+    "why": "means permits driving that vehicle"
+   }
+  ],
+  "trick": "The trap is the permission idea: your licence category must authorize that specific vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23633,
+  "it": "Prima di iniziare a guidare un veicolo, bisogna essere certi del perfetto stato di efficienza del mezzo",
+  "answer": true,
+  "en": "Before starting to drive a vehicle, you must make sure that it is in perfect working condition.",
+  "keywords": [
+   {
+    "phrase": "bisogna essere certi",
+    "why": "expresses obligation to be sure"
+   },
+   {
+    "phrase": "perfetto stato di efficienza",
+    "why": "requires full roadworthy condition"
+   }
+  ],
+  "trick": "The sentence states a duty to ensure the vehicle is fully efficient.",
+  "image": ""
+ },
+ {
+  "n": 23634,
+  "it": "Prima di iniziare a guidare un veicolo bisogna accertarsi che gli oggetti trasportati siano sistemati in modo da evitarne la caduta o dispersione",
+  "answer": true,
+  "en": "Before starting to drive a vehicle, you must make sure that the objects being carried are arranged in such a way as to prevent them from falling or being dispersed.",
+  "keywords": [
+   {
+    "phrase": "bisogna accertarsi",
+    "why": "expresses obligation to make sure"
+   },
+   {
+    "phrase": "in modo da",
+    "why": "states the required preventive purpose"
+   },
+   {
+    "phrase": "evitarne la caduta o dispersione",
+    "why": "covers both falling and scattering"
+   }
+  ],
+  "trick": "The key is the obligation to arrange the load so it cannot fall or scatter.",
+  "image": ""
+ },
+ {
+  "n": 23635,
+  "it": "Prima di iniziare a guidare un veicolo, bisogna controllare che non sia compromessa la visibilità posteriore e laterale, per la presenza di passeggeri o per il carico mal posizionato",
+  "answer": true,
+  "en": "Before starting to drive a vehicle, you must check that rear and side visibility is not impaired by the presence of passengers or by a badly positioned load.",
+  "keywords": [
+   {
+    "phrase": "bisogna controllare",
+    "why": "expresses obligation to check"
+   },
+   {
+    "phrase": "non sia compromessa",
+    "why": "negates impairment, not visibility itself"
+   },
+   {
+    "phrase": "per la presenza di",
+    "why": "introduces the cause that may limit visibility"
+   }
+  ],
+  "trick": "The main trap is the negation: visibility must not be compromised.",
+  "image": ""
+ },
+ {
+  "n": 23636,
+  "it": "Prima di iniziare a guidare un autoveicolo, bisogna individuare i comandi (leve e pulsanti) necessari per la guida e comprenderne bene il funzionamento",
+  "answer": true,
+  "en": "Before starting to drive a motor vehicle, you must identify the controls (levers and buttons) needed for driving and understand היטheir operation well.",
+  "keywords": [
+   {
+    "phrase": "bisogna individuare",
+    "why": "expresses obligation to identify"
+   },
+   {
+    "phrase": "necessari per la guida",
+    "why": "limits this to controls needed for driving"
+   },
+   {
+    "phrase": "comprenderne bene il funzionamento",
+    "why": "requires properly understanding how they work"
+   }
+  ],
+  "trick": "The statement requires both finding the relevant controls and understanding them well.",
+  "image": ""
+ },
+ {
+  "n": 23637,
+  "it": "Prima di iniziare a guidare un'autovettura, bisogna controllare che i passeggeri abbiano regolarmente allacciato le cinture di sicurezza",
+  "answer": true,
+  "en": "Before starting to drive a car, you must check that the passengers have properly fastened their seat belts.",
+  "keywords": [
+   {
+    "phrase": "bisogna controllare",
+    "why": "expresses obligation to check"
+   },
+   {
+    "phrase": "regolarmente allacciato",
+    "why": "means correctly/properly fastened"
+   }
+  ],
+  "trick": "The trap is that the driver must verify proper belt fastening by passengers.",
+  "image": ""
+ },
+ {
+  "n": 23638,
+  "it": "Prima di iniziare a guidare un veicolo a motore bisogna regolare il contachilometri parziale",
+  "answer": false,
+  "en": "Before starting to drive a motor vehicle, you must adjust the trip odometer.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "contachilometri parziale",
+    "why": "means trip odometer, not the main odometer"
+   }
+  ],
+  "trick": "The wording makes this sound mandatory because of bisogna.",
+  "image": ""
+ },
+ {
+  "n": 23639,
+  "it": "Prima di iniziare a guidare un veicolo a motore bisogna disinserire l'airbag del lato conducente",
+  "answer": false,
+  "en": "Before starting to drive a motor vehicle, you must deactivate the driver's side airbag.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "disinserire",
+    "why": "means deactivate or switch off"
+   }
+  ],
+  "trick": "The trap is the strong obligation wording applied to deactivating the airbag.",
+  "image": ""
+ },
+ {
+  "n": 23640,
+  "it": "Prima di iniziare a guidare un autoveicolo, bisogna verificare che le cinture di sicurezza siano dotate di pretensionatore",
+  "answer": false,
+  "en": "Before starting to drive a motor vehicle, you must check that the seat belts are fitted with pretensioners.",
+  "keywords": [
+   {
+    "phrase": "bisogna verificare",
+    "why": "expresses obligation to check"
+   },
+   {
+    "phrase": "siano dotate di",
+    "why": "means are equipped with"
+   }
+  ],
+  "trick": "The sentence sounds mandatory because it requires checking for a specific feature.",
+  "image": ""
+ },
+ {
+  "n": 23641,
+  "it": "Prima di iniziare a guidare un veicolo, bisogna verificarne lo stato di efficienza solo se si deve intraprendere un lungo viaggio",
+  "answer": false,
+  "en": "Before starting to drive a vehicle, you must check its state of efficiency only if you are about to set out on a long journey.",
+  "keywords": [
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation or intended necessity"
+   },
+   {
+    "phrase": "lungo viaggio",
+    "why": "limits the condition to a long trip"
+   }
+  ],
+  "trick": "The key trap is solo se, which wrongly limits the check to long journeys only.",
+  "image": ""
+ },
+ {
+  "n": 23642,
+  "it": "L'arresto è l'interruzione della marcia del veicolo dovuta ad esigenze della circolazione, come ad esempio ad un semaforo rosso",
+  "answer": true,
+  "en": "Stopping is the interruption of a vehicle's movement due to traffic requirements, for example at a red traffic light.",
+  "keywords": [
+   {
+    "phrase": "dovuta ad esigenze della circolazione",
+    "why": "limits the cause to traffic conditions"
+   }
+  ],
+  "trick": "The important distinction is that arresto is caused by traffic needs, not the driver's choice.",
+  "image": ""
+ },
+ {
+  "n": 23643,
+  "it": "La fermata di un veicolo è la temporanea sospensione della marcia per consentire la salita o la discesa delle persone",
+  "answer": true,
+  "en": "A stop is the temporary suspension of movement to allow people to get in or out.",
+  "keywords": [
+   {
+    "phrase": "temporanea sospensione della marcia",
+    "why": "defines a stop as temporary"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "states the specific permitted purpose"
+   }
+  ],
+  "trick": "The key is the specific purpose: allowing boarding or alighting.",
+  "image": ""
+ },
+ {
+  "n": 23644,
+  "it": "La fermata di un veicolo è la temporanea sospensione della marcia per esigenze di brevissima durata, come ad esempio per chiedere informazioni agli agenti del traffico",
+  "answer": true,
+  "en": "A stop is the temporary suspension of movement for needs of a very short duration, for example to ask traffic officers for information.",
+  "keywords": [
+   {
+    "phrase": "temporanea sospensione della marcia",
+    "why": "defines a stop as temporary"
+   },
+   {
+    "phrase": "brevissima durata",
+    "why": "restricts it to a very short time"
+   }
+  ],
+  "trick": "The trap is brevissima durata, which makes this shorter than ordinary waiting.",
+  "image": ""
+ },
+ {
+  "n": 23645,
+  "it": "La fermata di un veicolo è la temporanea sospensione della marcia per esigenze di brevissima durata.",
+  "answer": true,
+  "en": "A stop is the temporary suspension of movement for needs of a very short duration.",
+  "keywords": [
+   {
+    "phrase": "temporanea sospensione della marcia",
+    "why": "defines a stop as temporary"
+   },
+   {
+    "phrase": "brevissima durata",
+    "why": "restricts it to a very short time"
+   }
+  ],
+  "trick": "The definition hinges on the very short duration.",
+  "image": ""
+ },
+ {
+  "n": 23646,
+  "it": "L'arresto è la temporanea sospensione della marcia per esigenze del conducente o dei passeggeri di un veicolo",
+  "answer": false,
+  "en": "Stopping is the temporary suspension of movement for the needs of the driver or the passengers of a vehicle.",
+  "keywords": [
+   {
+    "phrase": "per esigenze del conducente o dei passeggeri",
+    "why": "indicates needs of the driver or passengers, not traffic"
+   }
+  ],
+  "trick": "The trap is confusing personal needs with traffic-related stopping definitions.",
+  "image": ""
+ },
+ {
+  "n": 23647,
+  "it": "La fermata è l'interruzione della marcia del veicolo dovuta ad esigenze della circolazione",
+  "answer": false,
+  "en": "A stop is the interruption of a vehicle's movement due to traffic requirements.",
+  "keywords": [
+   {
+    "phrase": "dovuta ad esigenze della circolazione",
+    "why": "limits the cause to traffic conditions"
+   }
+  ],
+  "trick": "This is tricky because that definition belongs to arresto, not fermata.",
+  "image": ""
+ },
+ {
+  "n": 23648,
+  "it": "La fermata per esigenze del conducente può avere la durata massima di dieci minuti",
+  "answer": false,
+  "en": "Stopping for the driver's needs may last a maximum of ten minutes.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "durata massima",
+    "why": "sets a maximum time limit"
+   }
+  ],
+  "trick": "The trap is the claimed maximum limit of ten minutes.",
+  "image": ""
+ },
+ {
+  "n": 23649,
+  "it": "La fermata di un veicolo è vietata se i passeggeri che scendono sono più di uno",
+  "answer": false,
+  "en": "Stopping a vehicle is prohibited if the passengers getting out are more than one.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "più di uno",
+    "why": "restricts the case to more than one passenger"
+   }
+  ],
+  "trick": "The statement falsely makes stopping depend on there being more than one passenger getting out.",
+  "image": ""
+ },
+ {
+  "n": 23650,
+  "it": "La fermata non deve arrecare intralcio alla circolazione",
+  "answer": true,
+  "en": "Stopping must not cause obstruction to traffic.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negated obligation"
+   }
+  ],
+  "trick": "The key trap is the negated obligation: it must not obstruct traffic.",
+  "image": ""
+ },
+ {
+  "n": 23651,
+  "it": "Durante la fermata il conducente non deve impedire con il proprio autoveicolo il normale flusso del traffico",
+  "answer": true,
+  "en": "During a stop, the driver must not, with their vehicle, hinder the normal flow of traffic.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negated obligation"
+   }
+  ],
+  "trick": "The important point is that the driver is forbidden from impeding normal traffic flow.",
+  "image": ""
+ },
+ {
+  "n": 23652,
+  "it": "Durante la fermata il conducente deve comportarsi in modo da non costituire pericolo agli altri utenti della strada",
+  "answer": true,
+  "en": "During a stop, the driver must behave in such a way as not to create danger for other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non costituire pericolo",
+    "why": "negates creating danger"
+   }
+  ],
+  "trick": "The statement imposes a duty to avoid creating danger for others.",
+  "image": ""
+ },
+ {
+  "n": 23653,
+  "it": "Durante la fermata il conducente deve essere sempre presente e pronto a riprendere la marcia",
+  "answer": true,
+  "en": "During a stop, the driver must always be present and ready to move off again.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the rule apply in every case"
+   }
+  ],
+  "trick": "The trap is the absolute requirement that the driver must always stay present and ready.",
+  "image": ""
+ },
+ {
+  "n": 23654,
+  "it": "Durante la fermata il conducente deve sempre adottare le opportune cautele atte ad evitare incidenti",
+  "answer": true,
+  "en": "During a stop, the driver must always take the appropriate precautions to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "deve sempre",
+    "why": "expresses constant obligation"
+   }
+  ],
+  "trick": "The key point is the ongoing obligation to always take suitable precautions.",
+  "image": ""
+ },
+ {
+  "n": 23655,
+  "it": "Non è consentito fermarsi per chiedere informazioni agli agenti del traffico, quando ciò possa causare intralcio o rallentamento alla circolazione",
+  "answer": true,
+  "en": "It is not permitted to stop to ask traffic officers for information when this may cause obstruction or slowing of traffic.",
+  "keywords": [
+   {
+    "phrase": "Non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the prohibition to this condition"
+   },
+   {
+    "phrase": "possa",
+    "why": "means it is enough that it may cause obstruction"
+   }
+  ],
+  "trick": "The ban applies when stopping could cause obstruction or slow traffic.",
+  "image": ""
+ },
+ {
+  "n": 23656,
+  "it": "Durante la fermata il conducente può allontanarsi per brevissimo tempo prima di riprendere la marcia",
+  "answer": false,
+  "en": "During a stop, the driver may move away for a very short time before setting off again.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "brevissimo tempo",
+    "why": "suggests a tiny exception that can mislead"
+   }
+  ],
+  "trick": "The trap is the suggested permission to move away even briefly during a stop.",
+  "image": ""
+ },
+ {
+  "n": 23657,
+  "it": "La fermata di un veicolo è sempre consentita per chiedere informazioni agli agenti del traffico",
+  "answer": false,
+  "en": "During a stop, it is always permitted to ask traffic officers for information.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the permission absolute"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The word 'always' wrongly turns a limited permission into an absolute one.",
+  "image": ""
+ },
+ {
+  "n": 23658,
+  "it": "Durante la fermata il conducente, se si allontana, deve lasciare il veicolo con il motore acceso",
+  "answer": false,
+  "en": "During a stop, if the driver moves away, they must leave the vehicle with the engine running.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The false trap is the supposed obligation to leave the engine running if the driver goes away.",
+  "image": ""
+ },
+ {
+  "n": 23659,
+  "it": "In caso di fermata, ove non esista marciapiede rialzato, il conducente deve lasciare uno spazio non inferiore ad un metro per il transito dei pedoni",
+  "answer": true,
+  "en": "In the event of a stop, where there is no raised sidewalk, the driver must leave a space of no less than one metre for pedestrians to pass.",
+  "keywords": [
+   {
+    "phrase": "ove non esista",
+    "why": "sets a condition with negation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non inferiore ad un metro",
+    "why": "sets a minimum required space"
+   }
+  ],
+  "trick": "The rule applies only if there is no raised sidewalk and requires at least one metre for pedestrians.",
+  "image": ""
+ },
+ {
+  "n": 23660,
+  "it": "Fuori dei centri abitati, il conducente, in caso di fermata, deve collocare, se possibile, il veicolo fuori della carreggiata",
+  "answer": true,
+  "en": "Outside built-up areas, in the event of a stop, the driver must place the vehicle off the carriageway, if possible.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to roads outside built-up areas"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se possibile",
+    "why": "makes the obligation conditional on feasibility"
+   }
+  ],
+  "trick": "The obligation applies outside built-up areas, but only where possible.",
+  "image": ""
+ },
+ {
+  "n": 23661,
+  "it": "Fuori dei centri abitati, il conducente, in caso di fermata, deve collocare il veicolo fuori della carreggiata, ma non sulle piste ciclabili",
+  "answer": true,
+  "en": "Outside built-up areas, in the event of a stop, the driver must place the vehicle off the carriageway, but not on cycle paths.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to roads outside built-up areas"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ma non",
+    "why": "adds an important exclusion"
+   }
+  ],
+  "trick": "The key trap is the exception: off the carriageway yes, but not on cycle paths.",
+  "image": ""
+ },
+ {
+  "n": 23662,
+  "it": "Fuori dei centri abitati, se non è possibile collocare il veicolo fuori della carreggiata, il conducente deve effettuare la fermata il più vicino possibile al margine destro della carreggiata",
+  "answer": true,
+  "en": "Outside built-up areas, if it is not possible to place the vehicle off the carriageway, the driver must stop as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "se non è possibile",
+    "why": "creates a conditional exception with negation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "requires the nearest practicable position"
+   }
+  ],
+  "trick": "If stopping off the carriageway is impossible, the driver must keep as close as possible to the right edge.",
+  "image": ""
+ },
+ {
+  "n": 23663,
+  "it": "In caso di fermata su strada urbana in cui non esiste il marciapiede rialzato, il conducente deve collocare il veicolo il più vicino possibile al margine destro della carreggiata",
+  "answer": false,
+  "en": "In the event of a stop on an urban road where there is no raised sidewalk, the driver must place the vehicle as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "non esiste",
+    "why": "sets a condition with negation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "requires the nearest practicable position"
+   }
+  ],
+  "trick": "The trap is the claimed obligation on an urban road without a raised sidewalk.",
+  "image": ""
+ },
+ {
+  "n": 23664,
+  "it": "Fuori dei centri abitati, il conducente, in caso di fermata ha l'obbligo di collocare il veicolo fuori della carreggiata, eventualmente su una pista ciclabile",
+  "answer": false,
+  "en": "Outside built-up areas, in the event of a stop, the driver is obliged to place the vehicle off the carriageway, possibly on a cycle path.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "eventualmente",
+    "why": "suggests a possible exception or option"
+   }
+  ],
+  "trick": "The misleading part is the suggestion that a cycle path may be used as an option.",
+  "image": ""
+ },
+ {
+  "n": 23665,
+  "it": "La fermata è vietata in corrispondenza o in prossimità dei passaggi a livello",
+  "answer": true,
+  "en": "Stopping is prohibited at or near level crossings.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza o in prossimità",
+    "why": "extends the ban to at and near the place"
+   }
+  ],
+  "trick": "The ban covers both exactly at and near level crossings.",
+  "image": ""
+ },
+ {
+  "n": 23666,
+  "it": "La fermata è vietata sui binari di linee ferroviarie o tranviarie o così vicino ad essi da intralciare la marcia dei veicoli su rotaia",
+  "answer": true,
+  "en": "Stopping is prohibited on railway or tram tracks, or so close to them as to obstruct the movement of rail vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "o così vicino ad essi da",
+    "why": "extends the ban to a distance that causes obstruction"
+   }
+  ],
+  "trick": "The prohibition includes not only on the tracks but also close enough to obstruct rail vehicles.",
+  "image": ""
+ },
+ {
+  "n": 23667,
+  "it": "La fermata è vietata nelle gallerie, salvo diversa segnalazione.",
+  "answer": true,
+  "en": "Stopping is prohibited in tunnels, unless otherwise indicated.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The rule is a prohibition, but it can be overridden by different signage.",
+  "image": ""
+ },
+ {
+  "n": 23668,
+  "it": "La fermata è vietata nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici, salvo diversa segnalazione.",
+  "answer": true,
+  "en": "Stopping is prohibited in underpasses, under overpasses, under archways and arcades, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The key trap is the prohibition, limited by an exception for different signage.",
+  "image": ""
+ },
+ {
+  "n": 23669,
+  "it": "La fermata è vietata sui dossi.",
+  "answer": true,
+  "en": "Stopping is prohibited on humps.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The sentence simply states a prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23670,
+  "it": "Fuori dai centri abitati e sulle strade urbane di scorrimento la fermata è vietata in prossimità dei dossi.",
+  "answer": true,
+  "en": "Outside built-up areas and on urban through roads, stopping is prohibited near humps.",
+  "keywords": [
+   {
+    "phrase": "Fuori dai centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità dei dossi",
+    "why": "means near humps, not only on them"
+   }
+  ],
+  "trick": "The trap is that the ban applies near humps and only in the stated road contexts.",
+  "image": ""
+ },
+ {
+  "n": 23671,
+  "it": "La fermata è vietata nelle curve e, fuori dei centri abitati e sulle strade urbane di scorrimento, anche in loro prossimità",
+  "answer": true,
+  "en": "Stopping is prohibited on bends and, outside built-up areas and on urban through roads, also near them.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "fuori dei centri abitati e sulle strade urbane di scorrimento",
+    "why": "limits the extra rule to these road contexts"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra case, not just on bends"
+   },
+   {
+    "phrase": "in loro prossimità",
+    "why": "extends the rule to nearby areas"
+   }
+  ],
+  "trick": "The sentence bans stopping on bends, and in some contexts also near bends.",
+  "image": ""
+ },
+ {
+  "n": 23672,
+  "it": "La fermata è vietata sul margine destro della carreggiata",
+  "answer": false,
+  "en": "Stopping is prohibited on the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the prohibition wording itself.",
+  "image": ""
+ },
+ {
+  "n": 23673,
+  "it": "La fermata è vietata lungo il margine sinistro di una carreggiata a senso unico di circolazione",
+  "answer": false,
+  "en": "Stopping is prohibited along the left-hand edge of a one-way carriageway.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "a senso unico di circolazione",
+    "why": "restricts the statement to a one-way carriageway"
+   }
+  ],
+  "trick": "The statement uses prohibition and limits it to a one-way carriageway.",
+  "image": ""
+ },
+ {
+  "n": 23674,
+  "it": "La fermata di breve durata è consentita anche in curva.",
+  "answer": false,
+  "en": "Brief stopping is permitted even on a bend.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends permission even to this case"
+   }
+  ],
+  "trick": "The trap is that it claims permission, even in a normally risky place.",
+  "image": "images/q_23674.png"
+ },
+ {
+  "n": 23675,
+  "it": "La fermata è vietata allo sbocco dei passi carrabili",
+  "answer": false,
+  "en": "Stopping is prohibited at the exit of driveways.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23676,
+  "it": "La fermata è vietata sulle aree destinate al mercato o al carico e allo scarico delle merci",
+  "answer": false,
+  "en": "Stopping is prohibited in areas designated for markets or for loading and unloading goods.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The statement is framed as a prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23677,
+  "it": "La fermata è vietata in prossimità e in corrispondenza di segnali stradali verticali in modo da occultarne la vista",
+  "answer": true,
+  "en": "Stopping is prohibited near and at vertical road signs in such a way as to obscure them from view.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità e in corrispondenza",
+    "why": "covers both near and exactly at the location"
+   },
+   {
+    "phrase": "in modo da occultarne la vista",
+    "why": "makes the ban depend on obscuring visibility"
+   }
+  ],
+  "trick": "The ban applies only when stopping near or at signs would hide them from view.",
+  "image": ""
+ },
+ {
+  "n": 23678,
+  "it": "La fermata è vietata in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+  "answer": true,
+  "en": "Stopping is prohibited near and at traffic lights in such a way as to obscure them from view.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità e in corrispondenza",
+    "why": "covers both near and exactly at the location"
+   },
+   {
+    "phrase": "in modo da occultarne la vista",
+    "why": "makes the ban depend on obscuring visibility"
+   }
+  ],
+  "trick": "The prohibition depends on stopping in a position that hides the traffic lights.",
+  "image": ""
+ },
+ {
+  "n": 23679,
+  "it": "La fermata è vietata in corrispondenza dei segnali orizzontali di preselezione e lungo le corsie di canalizzazione",
+  "answer": true,
+  "en": "Stopping is prohibited at the road markings for lane selection and along channelizing lanes.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza",
+    "why": "means at the location of, not merely near"
+   }
+  ],
+  "trick": "The trap is the prohibition and the precise location indicated by the wording.",
+  "image": ""
+ },
+ {
+  "n": 23680,
+  "it": "Fuori dei centri abitati, la fermata è vietata in corrispondenza e in prossimità delle aree di intersezione",
+  "answer": true,
+  "en": "Outside built-up areas, stopping is prohibited at and near intersection areas.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza e in prossimità",
+    "why": "covers both at and near the intersection"
+   }
+  ],
+  "trick": "The ban applies outside built-up areas and includes both at and near intersections.",
+  "image": ""
+ },
+ {
+  "n": 23681,
+  "it": "Nei centri abitati, la fermata e la sosta sono vietate in corrispondenza delle aree di intersezione e in prossimità di esse a meno di 5 metri, salvo diversa segnalazione.",
+  "answer": true,
+  "en": "In built-up areas, stopping and parking are prohibited at intersection areas and near them within less than 5 metres, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza",
+    "why": "means exactly at the location"
+   },
+   {
+    "phrase": "in prossimità di esse a meno di 5 metri",
+    "why": "sets the limit as within less than 5 metres"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The key traps are the 5-metre limit and the exception for different signage.",
+  "image": ""
+ },
+ {
+  "n": 23682,
+  "it": "La fermata è vietata limitatamente alle ore di esercizio, in corrispondenza dei distributori di carburante",
+  "answer": false,
+  "en": "Stopping is prohibited, limited to the hours of operation, at fuel stations.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "limitatamente alle ore di esercizio",
+    "why": "limits the rule to operating hours"
+   },
+   {
+    "phrase": "in corrispondenza dei distributori di carburante",
+    "why": "means at the fuel station location"
+   }
+  ],
+  "trick": "The prohibition is not general; it is limited to the hours when the station operates.",
+  "image": ""
+ },
+ {
+  "n": 23683,
+  "it": "La fermata è vietata dopo il segnale DIVIETO DI SOSTA",
+  "answer": false,
+  "en": "Stopping is prohibited after the NO PARKING sign.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dopo il segnale DIVIETO DI SOSTA",
+    "why": "may confuse no parking with no stopping"
+   }
+  ],
+  "trick": "The trap is mixing up the no parking sign with a ban on stopping.",
+  "image": ""
+ },
+ {
+  "n": 23684,
+  "it": "La fermata è vietata in prossimità dei segnali stradali, anche se il veicolo non ne occulta la vista",
+  "answer": false,
+  "en": "Stopping is prohibited near road signs, even if the vehicle does not obscure them from view.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche se",
+    "why": "introduces a concession meaning even if"
+   },
+   {
+    "phrase": "non ne occulta la vista",
+    "why": "negates the condition of obscuring visibility"
+   }
+  ],
+  "trick": "The sentence claims a ban even without obscuring the signs, which is the key trap.",
+  "image": ""
+ },
+ {
+  "n": 23685,
+  "it": "La fermata è vietata lungo le autostrade, anche in caso di emergenza",
+  "answer": false,
+  "en": "Stopping is prohibited on motorways, even in an emergency.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche in caso di emergenza",
+    "why": "extends the claim even to emergencies"
+   }
+  ],
+  "trick": "The trap is the word even, which wrongly extends the ban to emergencies.",
+  "image": ""
+ },
+ {
+  "n": 23686,
+  "it": "Nei centri abitati la fermata è vietata in prossimità delle aree di intersezione, a più di 5 metri",
+  "answer": false,
+  "en": "In built-up areas, stopping is prohibited near intersection areas at more than 5 metres away.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near, not exactly at"
+   },
+   {
+    "phrase": "a più di 5 metri",
+    "why": "sets a distance over 5 metres, which changes the rule"
+   }
+  ],
+  "trick": "The distance wording is the trap because the real limit concerns less than 5 metres.",
+  "image": ""
+ },
+ {
+  "n": 23687,
+  "it": "La fermata è consentita sulle corsie di accelerazione, purché brevissima",
+  "answer": false,
+  "en": "Stopping is permitted on acceleration lanes, provided it is very brief.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition meaning provided that"
+   },
+   {
+    "phrase": "brevissima",
+    "why": "restricts the permission to an extremely short stop"
+   }
+  ],
+  "trick": "The trap is that it appears to allow stopping if very brief, but only under a condition.",
+  "image": ""
+ },
+ {
+  "n": 23688,
+  "it": "La sosta e la fermata sono sempre vietate sugli attraversamenti pedonali",
+  "answer": true,
+  "en": "Stopping and parking are always prohibited on pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "sempre vietate",
+    "why": "absolute prohibition with no exceptions"
+   }
+  ],
+  "trick": "Watch absolute ban wording: 'sempre vietate' means always prohibited.",
+  "image": ""
+ },
+ {
+  "n": 23689,
+  "it": "La sosta e la fermata sono vietate in ogni caso sulle piste ciclabili e agli sbocchi di esse",
+  "answer": true,
+  "en": "Stopping and parking are prohibited in all cases on cycle lanes and at their exits.",
+  "keywords": [
+   {
+    "phrase": "vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "makes the prohibition absolute"
+   }
+  ],
+  "trick": "The trap is the absolute prohibition: banned in all cases, including at the exits.",
+  "image": ""
+ },
+ {
+  "n": 23690,
+  "it": "La sosta e la fermata sono vietate sui marciapiedi, salvo diversa segnalazione",
+  "answer": true,
+  "en": "Stopping and parking are prohibited on sidewalks, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "introduces an exception to the rule"
+   }
+  ],
+  "trick": "The statement is true because the ban applies except where different signage allows otherwise.",
+  "image": ""
+ },
+ {
+  "n": 23691,
+  "it": "La fermata è consentita allo sbocco dei passi carrabili",
+  "answer": true,
+  "en": "Stopping is permitted at the exit of driveways.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "allo sbocco dei passi carrabili",
+    "why": "specific location that learners often confuse with a prohibition"
+   }
+  ],
+  "trick": "The key trap is 'è consentita': stopping is allowed at driveway exits.",
+  "image": ""
+ },
+ {
+  "n": 23692,
+  "it": "La fermata è consentita davanti ai cassonetti dei rifiuti urbani",
+  "answer": true,
+  "en": "Stopping is permitted in front of urban waste bins.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The key meaning is permission: stopping is allowed here.",
+  "image": ""
+ },
+ {
+  "n": 23693,
+  "it": "La fermata è consentita sugli attraversamenti pedonali per far scendere un passeggero",
+  "answer": false,
+  "en": "Stopping is permitted on pedestrian crossings to let a passenger get out.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "sugli attraversamenti pedonali",
+    "why": "location where stopping is actually prohibited"
+   }
+  ],
+  "trick": "The trap is the false permission claim: stopping on pedestrian crossings is not allowed, even briefly.",
+  "image": ""
+ },
+ {
+  "n": 23694,
+  "it": "La fermata per esigenze di brevissima durata è vietata sulle piste ciclabili ma non agli sbocchi di esse",
+  "answer": false,
+  "en": "Stopping for a very short time is prohibited on cycle lanes but not at their exits.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast by excluding the second case"
+   }
+  ],
+  "trick": "The trap is 'ma non': the statement wrongly excludes the exits, but the ban applies there too.",
+  "image": ""
+ },
+ {
+  "n": 23695,
+  "it": "La fermata è vietata allo sbocco dei passi carrabili",
+  "answer": false,
+  "en": "Stopping is prohibited at the exit of driveways.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "allo sbocco dei passi carrabili",
+    "why": "specific place often confused with a stopping ban"
+   }
+  ],
+  "trick": "The trap is the prohibition wording: at driveway exits, stopping is actually allowed.",
+  "image": ""
+ },
+ {
+  "n": 23696,
+  "it": "La fermata è sempre vietata in seconda fila",
+  "answer": false,
+  "en": "Stopping in a second row is always prohibited.",
+  "keywords": [
+   {
+    "phrase": "sempre vietata",
+    "why": "absolute prohibition with no exceptions"
+   }
+  ],
+  "trick": "The trap is 'sempre': second-row stopping is not always prohibited in every case.",
+  "image": ""
+ },
+ {
+  "n": 23697,
+  "it": "La fermata è vietata in ogni caso nelle ore notturne",
+  "answer": false,
+  "en": "Stopping is prohibited in all cases during nighttime hours.",
+  "keywords": [
+   {
+    "phrase": "vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "makes the rule absolute"
+   }
+  ],
+  "trick": "The trap is the absolute wording: nighttime alone does not make stopping always prohibited.",
+  "image": ""
+ },
+ {
+  "n": 23698,
+  "it": "La sosta è la sospensione della marcia del veicolo protratta nel tempo, con possibilità del conducente di allontanarsi",
+  "answer": true,
+  "en": "Parking is the suspension of a vehicle's movement prolonged over time, with the possibility for the driver to move away.",
+  "keywords": [
+   {
+    "phrase": "protratta nel tempo",
+    "why": "distinguishes parking from a brief stop"
+   },
+   {
+    "phrase": "con possibilità del conducente di allontanarsi",
+    "why": "key feature defining parking"
+   }
+  ],
+  "trick": "These phrases define parking: it lasts over time and the driver may leave the vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23699,
+  "it": "Durante la sosta il conducente può allontanarsi dal veicolo",
+  "answer": true,
+  "en": "During parking, the driver may move away from the vehicle.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission/possibility, not obligation"
+   }
+  ],
+  "trick": "The key trap is 'può': the driver is allowed to move away.",
+  "image": ""
+ },
+ {
+  "n": 23700,
+  "it": "Durante la sosta il conducente deve adottare le opportune cautele atte ad evitare incidenti",
+  "answer": true,
+  "en": "During parking, the driver must take suitable precautions to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key meaning is obligation: the driver must take precautions.",
+  "image": ""
+ },
+ {
+  "n": 23701,
+  "it": "Durante la sosta il conducente deve impedire l'uso del veicolo senza il suo consenso",
+  "answer": true,
+  "en": "During parking, the driver must prevent the vehicle from being used without his consent.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "senza il suo consenso",
+    "why": "adds a condition restricting unauthorized use"
+   }
+  ],
+  "trick": "The key trap is obligation: the driver must prevent use without consent.",
+  "image": ""
+ },
+ {
+  "n": 23702,
+  "it": "Durante la sosta nelle ore notturne il conducente deve lasciare in ogni caso accese le luci di posizione",
+  "answer": false,
+  "en": "During parking at night, the driver must in all cases leave the position lights on.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "makes the obligation absolute"
+   }
+  ],
+  "trick": "The trap is the absolute obligation: position lights are not required in every nighttime parking situation.",
+  "image": ""
+ },
+ {
+  "n": 23703,
+  "it": "Durante la sosta il conducente non può allontanarsi dal veicolo per più di tre ore",
+  "answer": false,
+  "en": "During parking, the driver may not move away from the vehicle for more than three hours.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "per più di tre ore",
+    "why": "adds a specific time limit that may mislead"
+   }
+  ],
+  "trick": "The trap is the false time restriction: the code does not set this three-hour limit.",
+  "image": ""
+ },
+ {
+  "n": 23704,
+  "it": "Durante la sosta è opportuno che il conducente azioni il freno di stazionamento ed inserisca il rapporto più basso del cambio di velocità",
+  "answer": true,
+  "en": "During parking, it is advisable for the driver to apply the parking brake and engage the lowest gear.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, not strictly mandatory"
+   },
+   {
+    "phrase": "il rapporto più basso",
+    "why": "specific mechanical wording that can confuse learners"
+   }
+  ],
+  "trick": "The key trap is 'è opportuno': this is recommended practice, not phrased as a strict obligation.",
+  "image": ""
+ },
+ {
+  "n": 23705,
+  "it": "Durante la sosta il conducente deve adottare accorgimenti atti a garantire l'immobilità del veicolo, indipendentemente dal grado di pendenza della strada",
+  "answer": true,
+  "en": "During parking, the driver must take measures to guarantee the vehicle remains stationary, regardless of the slope of the road.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "indipendentemente",
+    "why": "means the rule applies regardless of condition"
+   }
+  ],
+  "trick": "The rule is mandatory and applies whatever the road gradient is.",
+  "image": ""
+ },
+ {
+  "n": 23706,
+  "it": "Durante la sosta nelle strade a forte pendenza, è opportuno che il conducente azioni il freno di stazionamento, inserisca il rapporto più basso del cambio di velocità e lasci il veicolo con le ruote sterzate verso il marciapiede",
+  "answer": true,
+  "en": "During parking on steep roads, it is advisable for the driver to apply the parking brake, engage the lowest gear and leave the vehicle with the wheels turned toward the sidewalk.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, not strictly mandatory"
+   },
+   {
+    "phrase": "a forte pendenza",
+    "why": "restricts the advice to steep roads"
+   }
+  ],
+  "trick": "The trap is that this recommendation applies specifically on steep roads.",
+  "image": ""
+ },
+ {
+  "n": 23707,
+  "it": "Durante la sosta il conducente deve lasciare il veicolo con il motore spento",
+  "answer": true,
+  "en": "During parking, the driver must leave the vehicle with the engine switched off.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key meaning is obligation: the engine must be off during parking.",
+  "image": ""
+ },
+ {
+  "n": 23708,
+  "it": "Durante la sosta il conducente che lascia il veicolo su strada in salita, deve avere cura di inserire la quarta marcia",
+  "answer": false,
+  "en": "When parking, a driver who leaves the vehicle on an uphill road must make sure to engage fourth gear.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The trap is the obligation word deve.",
+  "image": ""
+ },
+ {
+  "n": 23709,
+  "it": "Durante la sosta il conducente deve posizionare il cambio di velocità dell'autovettura in folle",
+  "answer": false,
+  "en": "When parking, the driver must place the car's gearbox in neutral.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in folle",
+    "why": "means in neutral, a specific gear position"
+   }
+  ],
+  "trick": "The statement is about an obligation to leave the gearbox in neutral.",
+  "image": ""
+ },
+ {
+  "n": 23710,
+  "it": "Salvo diversa segnalazione il conducente, in caso di sosta nei centri abitati, deve collocare il veicolo il più vicino possibile al margine destro della carreggiata, parallelamente ad esso e secondo il senso di marcia, purché esista il marciapiede rialzato",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, when parking in built-up areas, the driver must place the vehicle as close as possible to the right-hand edge of the carriageway, parallel to it and in the direction of travel, provided that there is a raised sidewalk.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "creates an exception if signs say otherwise"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "purché",
+    "why": "makes the rule valid only under this condition"
+   }
+  ],
+  "trick": "Watch the exception from signs and the condition introduced by purché.",
+  "image": ""
+ },
+ {
+  "n": 23711,
+  "it": "In caso di sosta ove non esista marciapiede rialzato, il conducente deve lasciare uno spazio non inferiore ad un metro per il transito dei pedoni",
+  "answer": true,
+  "en": "When parking where there is no raised sidewalk, the driver must leave a space of at least one metre for pedestrians to pass.",
+  "keywords": [
+   {
+    "phrase": "ove non esista",
+    "why": "limits the rule to cases where it does not exist"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "non inferiore ad un metro",
+    "why": "means at least one metre, a minimum requirement"
+   }
+  ],
+  "trick": "The key traps are the negative condition and the minimum space requirement.",
+  "image": ""
+ },
+ {
+  "n": 23712,
+  "it": "Fuori dei centri abitati, il conducente che deve sostare ha l'obbligo di collocare il veicolo, ove possibile, fuori della carreggiata",
+  "answer": true,
+  "en": "Outside built-up areas, a driver who has to park is required to place the vehicle, where possible, off the carriageway.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses a legal obligation"
+   },
+   {
+    "phrase": "ove possibile",
+    "why": "makes the obligation apply only if possible"
+   },
+   {
+    "phrase": "fuori della carreggiata",
+    "why": "means off the carriageway, not just at the edge"
+   }
+  ],
+  "trick": "The rule is mandatory but only where possible and only outside built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 23713,
+  "it": "Fuori dei centri abitati, il conducente che deve sostare ha l'obbligo di collocare il veicolo fuori della carreggiata, ma non sulle piste ciclabili",
+  "answer": true,
+  "en": "Outside built-up areas, a driver who has to park is required to place the vehicle off the carriageway, but not on cycle lanes.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses a legal obligation"
+   },
+   {
+    "phrase": "fuori della carreggiata",
+    "why": "means off the carriageway, not just at the edge"
+   },
+   {
+    "phrase": "ma non",
+    "why": "excludes this option from the rule"
+   }
+  ],
+  "trick": "The trap is that parking must be off the carriageway, but cycle lanes are excluded.",
+  "image": ""
+ },
+ {
+  "n": 23714,
+  "it": "Fuori dei centri abitati il conducente deve collocare il veicolo in sosta fuori della carreggiata, ma non sulle banchine, salvo diversa segnalazione",
+  "answer": true,
+  "en": "Outside built-up areas, the driver must park the vehicle off the carriageway, but not on the shoulders, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "ma non",
+    "why": "excludes this option from the rule"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The statement combines an obligation, a prohibition, and an exception.",
+  "image": ""
+ },
+ {
+  "n": 23715,
+  "it": "Fuori dei centri abitati, in caso di impossibilità a collocare il veicolo fuori della carreggiata, il conducente deve sostare il più vicino possibile al margine destro della carreggiata",
+  "answer": true,
+  "en": "Outside built-up areas, if it is impossible to place the vehicle off the carriageway, the driver must park as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "in caso di impossibilità",
+    "why": "applies only in the case of impossibility"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "requires the nearest possible position"
+   }
+  ],
+  "trick": "The obligation applies only if parking off the carriageway is impossible.",
+  "image": ""
+ },
+ {
+  "n": 23716,
+  "it": "In caso di sosta in un centro abitato, il conducente deve collocare il veicolo il più vicino possibile al margine destro della carreggiata, anche dove non esiste il marciapiede rialzato",
+  "answer": false,
+  "en": "When parking in a built-up area, the driver must place the vehicle as close as possible to the right-hand edge of the carriageway, even where there is no raised sidewalk.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the rule to this additional case"
+   },
+   {
+    "phrase": "non esiste",
+    "why": "negates the presence of the raised sidewalk"
+   }
+  ],
+  "trick": "The trap is anche, which wrongly extends the rule to places without a raised sidewalk.",
+  "image": ""
+ },
+ {
+  "n": 23717,
+  "it": "Fuori dei centri abitati, il conducente in caso di sosta deve collocare il veicolo fuori della carreggiata, eventualmente anche sulle piste ciclabili",
+  "answer": false,
+  "en": "Outside built-up areas, when parking, the driver must place the vehicle off the carriageway, possibly even on cycle lanes.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "eventualmente anche",
+    "why": "suggests this additional option is allowed"
+   },
+   {
+    "phrase": "piste ciclabili",
+    "why": "cycle lanes are a restricted area and often a trap"
+   }
+  ],
+  "trick": "The trap is the added suggestion that cycle lanes could also be used.",
+  "image": ""
+ },
+ {
+  "n": 23718,
+  "it": "Fuori dei centri abitati, in caso di impossibilità di collocare il veicolo fuori della carreggiata, il conducente non deve effettuare la sosta",
+  "answer": false,
+  "en": "Outside built-up areas, if it is impossible to place the vehicle off the carriageway, the driver must not park.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "in caso di impossibilità",
+    "why": "applies only in the case of impossibility"
+   },
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition by negating obligation"
+   }
+  ],
+  "trick": "The key trap is non deve, which means must not.",
+  "image": ""
+ },
+ {
+  "n": 23719,
+  "it": "Nelle strade urbane a senso unico di marcia, la sosta è consentita anche lungo il margine sinistro della carreggiata, purché rimanga uno spazio sufficiente al transito almeno di una fila di veicoli",
+  "answer": true,
+  "en": "On one-way urban roads, parking is also permitted along the left-hand edge of the carriageway, provided that enough space remains for at least one line of vehicles to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra permitted case"
+   },
+   {
+    "phrase": "purché",
+    "why": "makes the permission conditional"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum requirement"
+   }
+  ],
+  "trick": "The permission to park on the left exists only if the stated condition is met.",
+  "image": ""
+ },
+ {
+  "n": 23720,
+  "it": "Nelle strade urbane a senso unico di marcia, la sosta è consentita anche lungo il margine sinistro della carreggiata, purché rimanga uno spazio non inferiore a tre metri di larghezza per il transito dei veicoli",
+  "answer": true,
+  "en": "On one-way urban roads, parking is also permitted along the left-hand edge of the carriageway, provided that a space of no less than three metres in width remains for vehicles to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra permitted case"
+   },
+   {
+    "phrase": "purché",
+    "why": "makes the permission conditional"
+   },
+   {
+    "phrase": "non inferiore a tre metri",
+    "why": "means at least three metres, a minimum requirement"
+   }
+  ],
+  "trick": "The left-side parking permission is conditional on a minimum width remaining.",
+  "image": ""
+ },
+ {
+  "n": 23721,
+  "it": "Nelle zone predisposte per la sosta, il conducente deve collocare il veicolo nel modo prescritto dalla segnaletica",
+  "answer": true,
+  "en": "In areas set aside for parking, the driver must place the vehicle in the manner prescribed by the signs.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "prescritto dalla segnaletica",
+    "why": "means the signs determine the required method"
+   }
+  ],
+  "trick": "The rule is mandatory and follows what the signs prescribe.",
+  "image": ""
+ },
+ {
+  "n": 23722,
+  "it": "Nelle zone nelle quali gli spazi di sosta sono delimitati da segnaletica orizzontale, il conducente deve sempre sistemare il proprio veicolo entro uno degli appositi spazi(stalli), senza invadere quelli contigui",
+  "answer": true,
+  "en": "In areas where parking spaces are marked by road markings, the driver must always position their vehicle within one of the designated spaces, without encroaching on adjacent ones.",
+  "keywords": [
+   {
+    "phrase": "deve sempre",
+    "why": "expresses an absolute obligation"
+   },
+   {
+    "phrase": "entro uno degli appositi spazi",
+    "why": "restricts parking to within a marked space"
+   },
+   {
+    "phrase": "senza invadere",
+    "why": "forbids encroaching on adjacent spaces"
+   }
+  ],
+  "trick": "Sempre makes this an absolute rule: stay within one marked bay only.",
+  "image": ""
+ },
+ {
+  "n": 23723,
+  "it": "Nelle strade urbane a senso unico di marcia, la sosta è sempre consentita anche lungo il margine sinistro della carreggiata",
+  "answer": false,
+  "en": "On one-way urban roads, parking is always permitted also along the left-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "è sempre consentita",
+    "why": "always makes the permission unconditional"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra permitted case"
+   }
+  ],
+  "trick": "The trap is sempre, which wrongly removes the normal condition.",
+  "image": ""
+ },
+ {
+  "n": 23724,
+  "it": "E' vietato sostare con autoveicoli o motocicli nei centri abitati, quando non esistano le apposite strisce",
+  "answer": false,
+  "en": "It is forbidden to park cars or motorcycles in built-up areas when there are no special lines.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "quando non esistano",
+    "why": "creates a negative condition"
+   }
+  ],
+  "trick": "The statement wrongly turns the absence of lines into a general prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23725,
+  "it": "Nelle zone nelle quali gli spazi di sosta sono delimitati da segnaletica orizzontale, il conducente può sistemare il proprio veicolo anche fuori dall'apposito spazio (stallo) ad esso destinato, a condizione che la sosta sia di brevissima durata",
+  "answer": false,
+  "en": "In areas where parking spaces are marked by road markings, the driver may place their vehicle even outside the designated parking space assigned to it, provided that the parking lasts for a very short time.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche fuori",
+    "why": "extends permission beyond the marked bay"
+   },
+   {
+    "phrase": "a condizione che",
+    "why": "makes the permission conditional"
+   }
+  ],
+  "trick": "The trap is the false permission to park outside the bay if only briefly.",
+  "image": ""
+ },
+ {
+  "n": 23726,
+  "it": "In una zona in cui la sosta è regolata con parchimetro, non occorre utilizzarlo se la sosta è di breve durata",
+  "answer": false,
+  "en": "In an area where parking is regulated by a parking meter, it is not necessary to use it if the parking is for a short time.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "means it is not necessary"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   },
+   {
+    "phrase": "di breve durata",
+    "why": "suggests a short-stay exception"
+   }
+  ],
+  "trick": "The trap is the claimed exception that short parking would not require the meter.",
+  "image": ""
+ },
+ {
+  "n": 23727,
+  "it": "La sosta è vietata in corrispondenza o in prossimità dei passaggi a livello",
+  "answer": true,
+  "en": "Parking is prohibited at or near level crossings.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza o in prossimità",
+    "why": "covers both exactly at and near the place"
+   }
+  ],
+  "trick": "The prohibition applies both at the level crossing and nearby.",
+  "image": ""
+ },
+ {
+  "n": 23728,
+  "it": "La sosta è vietata sui binari di linee ferroviarie o tranviarie o così vicino ad essi da intralciare la marcia dei veicoli su rotaia",
+  "answer": true,
+  "en": "Parking is prohibited on railway or tram tracks, or so close to them that it obstructs the movement of rail vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "o così vicino ad essi da",
+    "why": "extends the ban to being close enough to obstruct"
+   }
+  ],
+  "trick": "The trap is that the prohibition applies both on the tracks and also near them if rail traffic is obstructed.",
+  "image": ""
+ },
+ {
+  "n": 23729,
+  "it": "La sosta è vietata nelle gallerie, salvo diversa segnalazione",
+  "answer": true,
+  "en": "Parking is prohibited in tunnels, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The key trap is the exception: parking is banned in tunnels unless signage provides otherwise.",
+  "image": ""
+ },
+ {
+  "n": 23730,
+  "it": "La sosta è vietata nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici, salvo diversa segnalazione",
+  "answer": true,
+  "en": "Parking is prohibited in underpasses, under overpasses, under arches and arcades, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The important point is that the rule is a prohibition with a possible signage-based exception.",
+  "image": ""
+ },
+ {
+  "n": 23731,
+  "it": "La sosta è vietata sui dossi.",
+  "answer": true,
+  "en": "Parking is prohibited on crests of hills.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is simply that this is a prohibition, not a warning or recommendation.",
+  "image": ""
+ },
+ {
+  "n": 23732,
+  "it": "Fuori dai centri abitati e sulle strade urbane di scorrimento, la sosta è vietata in prossimità dei dossi",
+  "answer": true,
+  "en": "Outside built-up areas and on urban through roads, parking is prohibited near crests of hills.",
+  "keywords": [
+   {
+    "phrase": "Fuori dai centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "sulle strade urbane di scorrimento",
+    "why": "adds a specific road type where the rule applies"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near, not only exactly at the place"
+   }
+  ],
+  "trick": "The trap is that the ban applies in these specific places and also near the crest, not just on it.",
+  "image": ""
+ },
+ {
+  "n": 23733,
+  "it": "La sosta è vietata in corrispondenza dei passaggi a livello ma non in loro prossimità",
+  "answer": false,
+  "en": "Parking is prohibited at level crossings but not near them.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and excludes the second case"
+   },
+   {
+    "phrase": "in loro prossimità",
+    "why": "refers to the nearby area, not just the exact spot"
+   }
+  ],
+  "trick": "The trap is the exclusion 'but not near them', which changes the rule's scope.",
+  "image": ""
+ },
+ {
+  "n": 23734,
+  "it": "La sosta è vietata sui binari delle linee ferroviarie ma non di quelle tranviarie",
+  "answer": false,
+  "en": "Parking is prohibited on railway tracks but not on tram tracks.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and excludes the second case"
+   }
+  ],
+  "trick": "The trap is the contrast claiming the ban applies to railway tracks only and not tram tracks.",
+  "image": ""
+ },
+ {
+  "n": 23735,
+  "it": "La sosta è consentita nelle gallerie illuminate",
+  "answer": false,
+  "en": "Parking is permitted in lit tunnels.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "illuminate",
+    "why": "may wrongly suggest lighting creates an exception"
+   }
+  ],
+  "trick": "The trap is that 'permitted' and 'lit' together suggest a false exception to the normal ban.",
+  "image": ""
+ },
+ {
+  "n": 23736,
+  "it": "La sosta, ma non la fermata, è vietata nei sottovia, sotto i sovrapassaggi, sotto i fornici e i portici",
+  "answer": false,
+  "en": "Parking, but not stopping, is prohibited in underpasses, under overpasses, under arches and arcades.",
+  "keywords": [
+   {
+    "phrase": "ma non la fermata",
+    "why": "excludes stopping from the prohibition"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the contrast between parking and stopping, which changes which actions are banned.",
+  "image": ""
+ },
+ {
+  "n": 23737,
+  "it": "Fuori dei centri abitati e sulle strade urbane di scorrimento, è consentita la sosta in prossimità dei dossi.",
+  "answer": false,
+  "en": "Outside built-up areas and on urban through roads, parking is permitted near crests of hills.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "sulle strade urbane di scorrimento",
+    "why": "adds a specific road type where the rule applies"
+   },
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not prohibition"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near, not only exactly at the place"
+   }
+  ],
+  "trick": "The trap is that the sentence uses permission for a location where parking is actually banned nearby.",
+  "image": ""
+ },
+ {
+  "n": 23738,
+  "it": "La sosta e la fermata sono vietate nelle curve e, fuori dei centri abitati e sulle strade urbane di scorrimento, anche in loro prossimità",
+  "answer": true,
+  "en": "Parking and stopping are prohibited on bends and, outside built-up areas and on urban through roads, also near them.",
+  "keywords": [
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the extra rule to outside built-up areas"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra case to the prohibition"
+   },
+   {
+    "phrase": "in loro prossimità",
+    "why": "extends the ban to the nearby area"
+   }
+  ],
+  "trick": "The trap is that both parking and stopping are banned, and in some places the ban also extends nearby.",
+  "image": ""
+ },
+ {
+  "n": 23739,
+  "it": "La sosta e la fermata sono vietate in prossimità e in corrispondenza di segnali stradali verticali in modo da occultarne la vista",
+  "answer": true,
+  "en": "Parking and stopping are prohibited near and at vertical road signs in such a way as to hide them from view.",
+  "keywords": [
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità e in corrispondenza",
+    "why": "covers both near and exactly at the location"
+   },
+   {
+    "phrase": "in modo da occultarne la vista",
+    "why": "restricts the ban to cases where visibility is obscured"
+   }
+  ],
+  "trick": "The trap is that the ban applies both near and at the signs, but specifically when their visibility is blocked.",
+  "image": ""
+ },
+ {
+  "n": 23740,
+  "it": "La sosta e la fermata sono vietate in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+  "answer": true,
+  "en": "Parking and stopping are prohibited near and at traffic lights in such a way as to hide them from view.",
+  "keywords": [
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità e in corrispondenza",
+    "why": "covers both near and exactly at the location"
+   },
+   {
+    "phrase": "in modo da occultarne la vista",
+    "why": "restricts the ban to cases where visibility is obscured"
+   }
+  ],
+  "trick": "The trap is that the ban covers both nearby and directly at traffic lights when they are obscured.",
+  "image": ""
+ },
+ {
+  "n": 23741,
+  "it": "La sosta e la fermata sono vietate in corrispondenza dei segnali orizzontali di preselezione e lungo le corsie di canalizzazione",
+  "answer": true,
+  "en": "Parking and stopping are prohibited at lane-direction road markings and along channelizing lanes.",
+  "keywords": [
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza",
+    "why": "means at the location, not merely nearby"
+   },
+   {
+    "phrase": "e lungo",
+    "why": "adds another prohibited area, along the lanes"
+   }
+  ],
+  "trick": "The trap is that the ban applies both at the markings and along the channelizing lanes.",
+  "image": ""
+ },
+ {
+  "n": 23742,
+  "it": "Fuori dei centri abitati, la sosta e la fermata sono vietate in corrispondenza e in prossimità delle aree di intersezione",
+  "answer": true,
+  "en": "Outside built-up areas, parking and stopping are prohibited at and near intersection areas.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza e in prossimità",
+    "why": "covers both at and near the location"
+   }
+  ],
+  "trick": "The trap is that the prohibition outside built-up areas applies both at intersections and near them.",
+  "image": ""
+ },
+ {
+  "n": 23743,
+  "it": "La sosta è vietata nelle curve ma, fuori dei centri abitati e sulle strade di scorrimento, non è vietata in loro prossimità",
+  "answer": false,
+  "en": "Parking is prohibited on bends but, outside built-up areas and on through roads, it is not prohibited near them.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a contrast that changes the rule"
+   },
+   {
+    "phrase": "non è vietata",
+    "why": "negates the prohibition"
+   },
+   {
+    "phrase": "in loro prossimità",
+    "why": "refers to the nearby area, not just the exact spot"
+   }
+  ],
+  "trick": "The trap is the negated second part, which wrongly removes the ban near bends in certain places.",
+  "image": ""
+ },
+ {
+  "n": 23744,
+  "it": "La sosta, ma non la fermata, è vietata in prossimità e in corrispondenza di segnali semaforici in modo da occultarne la vista",
+  "answer": false,
+  "en": "Parking, but not stopping, is prohibited near and at traffic lights in such a way as to hide them from view.",
+  "keywords": [
+   {
+    "phrase": "ma non la fermata",
+    "why": "excludes stopping from the prohibition"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in prossimità e in corrispondenza",
+    "why": "covers both near and exactly at the location"
+   }
+  ],
+  "trick": "The trap is the exclusion of stopping, while in reality both parking and stopping are banned.",
+  "image": ""
+ },
+ {
+  "n": 23745,
+  "it": "La sosta è vietata in corrispondenza dei segnali orizzontali di preselezione ma non lungo le corsie di canalizzazione",
+  "answer": false,
+  "en": "Parking is prohibited at lane-direction road markings but not along channelizing lanes.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and excludes the second case"
+   },
+   {
+    "phrase": "lungo le corsie di canalizzazione",
+    "why": "refers to an additional area often forgotten"
+   }
+  ],
+  "trick": "The trap is the false exclusion of channelizing lanes from the prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23746,
+  "it": "Fuori dei centri abitati, la sosta è vietata in corrispondenza delle aree di intersezione ma non in loro prossimità",
+  "answer": false,
+  "en": "Outside built-up areas, parking is prohibited at intersection areas but not near them.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and excludes the second case"
+   },
+   {
+    "phrase": "in loro prossimità",
+    "why": "refers to the nearby area, not just the exact spot"
+   }
+  ],
+  "trick": "The trap is the claim that the ban does not apply near intersections, which changes the true scope.",
+  "image": ""
+ },
+ {
+  "n": 23747,
+  "it": "La sosta è vietata allo sbocco dei passi carrabili",
+  "answer": true,
+  "en": "Parking is prohibited at the exit of driveways.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "allo sbocco",
+    "why": "means at the exit point, a specific location"
+   }
+  ],
+  "trick": "The trap is that the prohibition applies specifically at driveway exits.",
+  "image": ""
+ },
+ {
+  "n": 23748,
+  "it": "La sosta ma non la fermata è vietata sugli attraversamenti pedonali",
+  "answer": false,
+  "en": "Parking, but not stopping, is prohibited on pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and excludes the second item"
+   },
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the contrast: parking is prohibited, but stopping is not.",
+  "image": ""
+ },
+ {
+  "n": 23749,
+  "it": "La sosta è vietata sulle piste ciclabili, ma non agli sbocchi di esse nel caso sia di breve durata",
+  "answer": false,
+  "en": "Parking is prohibited on cycle paths, but not at their exits if it is of short duration.",
+  "keywords": [
+   {
+    "phrase": "ma non",
+    "why": "creates an exception-like contrast"
+   },
+   {
+    "phrase": "nel caso sia di breve durata",
+    "why": "limits the statement to a short-duration case"
+   }
+  ],
+  "trick": "The trap is the claimed exception for short-duration parking at the exits.",
+  "image": ""
+ },
+ {
+  "n": 23750,
+  "it": "La sosta è consentita sui marciapiedi, solo se di breve durata",
+  "answer": false,
+  "en": "Parking is permitted on sidewalks only if it is for a short time.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The trap is the restricted permission suggested by 'only if'.",
+  "image": ""
+ },
+ {
+  "n": 23751,
+  "it": "La sosta è vietata se si impedisce l'accesso ad altro veicolo già regolarmente in sosta",
+  "answer": true,
+  "en": "Parking is prohibited if access to another vehicle already legally parked is blocked.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "già regolarmente in sosta",
+    "why": "limits the case to a vehicle already lawfully parked"
+   }
+  ],
+  "trick": "The trap is the condition: the prohibition applies when access to a legally parked vehicle is blocked.",
+  "image": ""
+ },
+ {
+  "n": 23752,
+  "it": "La sosta è vietata dovunque venga impedito lo spostamento di veicoli in sosta",
+  "answer": true,
+  "en": "Parking is prohibited wherever the movement of parked vehicles is prevented.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dovunque",
+    "why": "extends the rule to any place where the condition occurs"
+   }
+  ],
+  "trick": "The trap is the broad scope: anywhere parked vehicles cannot be moved.",
+  "image": ""
+ },
+ {
+  "n": 23753,
+  "it": "La sosta è vietata in seconda fila, salvo che si tratti di veicoli a due ruote",
+  "answer": true,
+  "en": "Parking in a second row is prohibited, except in the case of two-wheeled vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo che",
+    "why": "introduces an exception"
+   }
+  ],
+  "trick": "The trap is the exception: two-wheeled vehicles are excluded from the ban.",
+  "image": ""
+ },
+ {
+  "n": 23754,
+  "it": "La sosta è vietata negli spazi riservati allo stazionamento e alla fermata degli autobus, dei filobus e dei veicoli circolanti su rotaia",
+  "answer": true,
+  "en": "Parking is prohibited in spaces reserved for the standing and stopping of buses, trolleybuses, and rail vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "riservati",
+    "why": "shows the spaces are reserved, not general-use"
+   }
+  ],
+  "trick": "The trap is that these reserved public transport spaces are not available for parking.",
+  "image": ""
+ },
+ {
+  "n": 23755,
+  "it": "La sosta è vietata a meno di 15 metri dal segnale di fermata di autobus, filobus e veicoli circolanti su rotaia, qualora gli spazi di stazionamento non siano delimitati",
+  "answer": true,
+  "en": "Parking is prohibited within 15 metres of the bus, trolleybus, or rail-vehicle stop sign, if the stopping areas are not marked out.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "a meno di 15 metri",
+    "why": "sets a distance limit"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non siano delimitati",
+    "why": "negates the condition about marked areas"
+   }
+  ],
+  "trick": "The trap is the conditional distance rule: it applies if the stopping areas are not marked out.",
+  "image": ""
+ },
+ {
+  "n": 23756,
+  "it": "La sosta degli autoveicoli in doppia fila è consentita per pochi minuti, azionando le luci di emergenza",
+  "answer": false,
+  "en": "Parking motor vehicles in a double row is permitted for a few minutes if the hazard warning lights are switched on.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per pochi minuti",
+    "why": "limits the claim to a short time"
+   },
+   {
+    "phrase": "azionando le luci di emergenza",
+    "why": "adds a condition that may seem to justify it"
+   }
+  ],
+  "trick": "The trap is the false idea that double parking becomes allowed for a few minutes with hazard lights.",
+  "image": ""
+ },
+ {
+  "n": 23757,
+  "it": "La sosta degli autoveicoli in doppia fila è consentita purché rimanga spazio sufficiente per la circolazione di due file di veicoli",
+  "answer": false,
+  "en": "Parking motor vehicles in a double row is permitted provided there is enough space left for two lines of vehicles to pass.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition that may seem to allow it"
+   }
+  ],
+  "trick": "The trap is the conditional wording suggesting double parking is allowed if enough space remains.",
+  "image": ""
+ },
+ {
+  "n": 23758,
+  "it": "La sosta è consentita negli spazi riservati allo stazionamento e alla fermata degli autobus, dei filobus e dei veicoli circolanti su rotaia purché sia di breve durata",
+  "answer": false,
+  "en": "Parking is permitted in spaces reserved for the standing and stopping of buses, trolleybuses, and rail vehicles, provided it is for a short time.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché sia di breve durata",
+    "why": "adds a limiting condition that may seem to allow it"
+   }
+  ],
+  "trick": "The trap is the false conditional permission for short-duration parking in reserved public transport spaces.",
+  "image": ""
+ },
+ {
+  "n": 23759,
+  "it": "La sosta è vietata negli spazi riservati allo stazionamento dei veicoli in servizio di piazza",
+  "answer": true,
+  "en": "Parking is prohibited in spaces reserved for the standing of public hire vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "riservati",
+    "why": "shows the spaces are reserved, not general-use"
+   }
+  ],
+  "trick": "The trap is that reserved public hire vehicle spaces are not for ordinary parking.",
+  "image": ""
+ },
+ {
+  "n": 23760,
+  "it": "La sosta è vietata sulle aree destinate al mercato e ai veicoli per il carico e lo scarico di cose, nelle ore stabilite",
+  "answer": true,
+  "en": "Parking is prohibited in areas intended for the market and for vehicles loading and unloading goods, during the specified hours.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "nelle ore stabilite",
+    "why": "limits the rule to the specified hours"
+   }
+  ],
+  "trick": "The trap is the time limitation: the ban applies during the specified hours.",
+  "image": ""
+ },
+ {
+  "n": 23761,
+  "it": "La sosta è vietata sulle banchine, salvo diversa segnalazione",
+  "answer": true,
+  "en": "Parking is prohibited on verges, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The trap is the exception: signs can provide a different rule.",
+  "image": ""
+ },
+ {
+  "n": 23762,
+  "it": "La sosta è vietata negli spazi riservati alla fermata o alla sosta dei veicoli per persone invalide",
+  "answer": true,
+  "en": "Parking is prohibited in spaces reserved for the stopping or parking of vehicles for disabled persons.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "riservati",
+    "why": "shows the spaces are reserved, not general-use"
+   }
+  ],
+  "trick": "The trap is that disabled-reserved spaces are off-limits for ordinary parking.",
+  "image": ""
+ },
+ {
+  "n": 23763,
+  "it": "La sosta è vietata in corrispondenza degli scivoli o dei raccordi tra i marciapiedi e la carreggiata utilizzati dai veicoli per persone invalide",
+  "answer": true,
+  "en": "Parking is prohibited at ramps or connections between sidewalks and the carriageway used by vehicles for disabled persons.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in corrispondenza di",
+    "why": "means at the location of or by these points"
+   },
+   {
+    "phrase": "utilizzati",
+    "why": "limits the rule to those used by disabled persons' vehicles"
+   }
+  ],
+  "trick": "The trap is the location-specific ban at ramps and connections used by disabled persons' vehicles.",
+  "image": ""
+ },
+ {
+  "n": 23764,
+  "it": "La sosta è consentita negli spazi riservati allo stazionamento dei taxi solo se non si protrae per lungo tempo",
+  "answer": false,
+  "en": "Parking is permitted in spaces reserved for taxi standing only if it does not continue for a long time.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the claim to this case only"
+   },
+   {
+    "phrase": "non si protrae per lungo tempo",
+    "why": "negates long duration as a condition"
+   }
+  ],
+  "trick": "The trap is the false limited permission based on not staying too long.",
+  "image": ""
+ },
+ {
+  "n": 23765,
+  "it": "La sosta è consentita sulle aree destinate ai veicoli per il carico e lo scarico di cose, nelle ore stabilite, soltanto se di breve durata",
+  "answer": false,
+  "en": "Parking is permitted in areas intended for vehicles loading and unloading goods, during the specified hours, only if it is of short duration.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "nelle ore stabilite",
+    "why": "limits the statement to certain hours"
+   },
+   {
+    "phrase": "soltanto se",
+    "why": "restricts the claim to this case only"
+   },
+   {
+    "phrase": "di breve durata",
+    "why": "adds a short-duration limitation"
+   }
+  ],
+  "trick": "The trap is the claimed short-duration permission during specified hours.",
+  "image": ""
+ },
+ {
+  "n": 23766,
+  "it": "La sosta è consentita negli spazi riservati alla fermata o alla sosta dei veicoli per persone invalide purché di breve durata",
+  "answer": false,
+  "en": "Parking is permitted in spaces reserved for the stopping or parking of vehicles for disabled persons, provided it is for a short time.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "riservati",
+    "why": "shows the spaces are reserved, not general-use"
+   },
+   {
+    "phrase": "purché di breve durata",
+    "why": "adds a limiting condition that may seem to allow it"
+   }
+  ],
+  "trick": "The trap is the false idea that brief parking is allowed in disabled-reserved spaces.",
+  "image": ""
+ },
+ {
+  "n": 23767,
+  "it": "La sosta è vietata nelle corsie o carreggiate riservate ai mezzi pubblici",
+  "answer": true,
+  "en": "Parking is prohibited in lanes or carriageways reserved for public transport.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "riservate",
+    "why": "shows the lanes or carriageways are reserved, not general-use"
+   }
+  ],
+  "trick": "The trap is that reserved public transport lanes or carriageways cannot be used for parking.",
+  "image": ""
+ },
+ {
+  "n": 23768,
+  "it": "La sosta è vietata nelle aree pedonali urbane",
+  "answer": true,
+  "en": "Parking is prohibited in urban pedestrian areas.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition, not mere advice"
+   }
+  ],
+  "trick": "The key trap is the prohibition: parking is not allowed there.",
+  "image": ""
+ },
+ {
+  "n": 23769,
+  "it": "La sosta è vietata nelle zone a traffico limitato per i veicoli non autorizzati",
+  "answer": true,
+  "en": "Parking is prohibited in limited traffic zones for unauthorized vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition, not mere advice"
+   },
+   {
+    "phrase": "non autorizzati",
+    "why": "limits the rule to vehicles without authorization"
+   }
+  ],
+  "trick": "The ban applies specifically to unauthorized vehicles, not all vehicles.",
+  "image": ""
+ },
+ {
+  "n": 23770,
+  "it": "La sosta è vietata negli spazi destinati a servizi di emergenza o di igiene pubblica indicati dalla apposita segnaletica",
+  "answer": true,
+  "en": "Parking is prohibited in spaces designated for emergency services or public hygiene services, as indicated by the appropriate signs.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition, not mere advice"
+   },
+   {
+    "phrase": "indicati dalla apposita segnaletica",
+    "why": "restricts the rule to spaces marked by specific signage"
+   }
+  ],
+  "trick": "The prohibition applies to those marked spaces and depends on the specific signage.",
+  "image": ""
+ },
+ {
+  "n": 23771,
+  "it": "La sosta è vietata davanti ai cassonetti dei rifiuti urbani",
+  "answer": true,
+  "en": "Parking is prohibited in front of urban waste bins.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition, not mere advice"
+   }
+  ],
+  "trick": "The statement bans parking, not stopping in general.",
+  "image": ""
+ },
+ {
+  "n": 23772,
+  "it": "Brevi soste sono consentite nelle aree pedonali urbane",
+  "answer": false,
+  "en": "Short stops are permitted in urban pedestrian areas.",
+  "keywords": [
+   {
+    "phrase": "sono consentite",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "Brevi",
+    "why": "limits the claim to short stops only"
+   }
+  ],
+  "trick": "The trap is that it claims permission, even if only for short stops.",
+  "image": ""
+ },
+ {
+  "n": 23773,
+  "it": "La sosta, ed anche la fermata, sono vietate negli spazi destinati a servizi di emergenza o di igiene pubblica indicati dalla apposita segnaletica",
+  "answer": false,
+  "en": "Parking, and also stopping, are prohibited in spaces designated for emergency services or public hygiene services, as indicated by the appropriate signs.",
+  "keywords": [
+   {
+    "phrase": "ed anche la fermata",
+    "why": "extends the ban to stopping as well"
+   },
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "indicati dalla apposita segnaletica",
+    "why": "restricts the rule to spaces marked by specific signage"
+   }
+  ],
+  "trick": "The tricky part is the added claim that stopping too is prohibited, not just parking.",
+  "image": ""
+ },
+ {
+  "n": 23774,
+  "it": "La sosta così come la fermata sono vietate davanti ai cassonetti dei rifiuti urbani",
+  "answer": false,
+  "en": "Parking, as well as stopping, is prohibited in front of urban waste bins.",
+  "keywords": [
+   {
+    "phrase": "così come la fermata",
+    "why": "extends the ban to stopping as well"
+   },
+   {
+    "phrase": "sono vietate",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the extension from parking to stopping too.",
+  "image": ""
+ },
+ {
+  "n": 23776,
+  "it": "Nei centri abitati il conducente non deve lasciare in sosta un rimorchio staccato dalla motrice, salvo diversa segnalazione",
+  "answer": true,
+  "en": "In built-up areas, the driver must not leave a trailer parked when detached from the towing vehicle, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negative obligation"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The rule is a prohibition, but it can be overridden by different signage.",
+  "image": ""
+ },
+ {
+  "n": 23777,
+  "it": "Nel caso in cui la sosta è espressamente vietata da una norma del codice stradale, l'osservanza di tale divieto non è condizionata dalla presenza di cartelli segnaletici",
+  "answer": true,
+  "en": "Where parking is expressly prohibited by a rule of the highway code, compliance with that prohibition is not dependent on the presence of road signs.",
+  "keywords": [
+   {
+    "phrase": "espressamente vietata",
+    "why": "states a clear legal prohibition"
+   },
+   {
+    "phrase": "non è condizionata dalla presenza di cartelli segnaletici",
+    "why": "means signs are not required for the rule to apply"
+   }
+  ],
+  "trick": "The key trap is that the prohibition applies even without signs.",
+  "image": ""
+ },
+ {
+  "n": 23778,
+  "it": "La sosta è vietata in corrispondenza dei distributori di carburante, sino a 5 metri prima e dopo, anche quando i distributori sono chiusi",
+  "answer": false,
+  "en": "Parking is prohibited at fuel stations, up to 5 metres before and after them, even when the stations are closed.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sino a 5 metri prima e dopo",
+    "why": "sets a distance limit before and after"
+   },
+   {
+    "phrase": "anche quando",
+    "why": "extends the claim even to the case when they are closed"
+   }
+  ],
+  "trick": "The trap is the added extension 'even when closed' together with the 5-metre rule.",
+  "image": ""
+ },
+ {
+  "n": 23779,
+  "it": "Nel caso in cui la sosta è espressamente vietata da una norma del codice della strada, l'osservanza di tale divieto è comunque condizionata dalla presenza di cartelli segnaletici",
+  "answer": false,
+  "en": "Where parking is expressly prohibited by a rule of the highway code, compliance with that prohibition is nonetheless dependent on the presence of road signs.",
+  "keywords": [
+   {
+    "phrase": "espressamente vietata",
+    "why": "states a clear legal prohibition"
+   },
+   {
+    "phrase": "comunque",
+    "why": "adds 'nonetheless/still', strengthening the claim"
+   },
+   {
+    "phrase": "è condizionata dalla presenza di cartelli segnaletici",
+    "why": "means signs are claimed to be required"
+   }
+  ],
+  "trick": "The trap is the claim that signs are still necessary despite a legal prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23780,
+  "it": "La sosta negli spazi riservati allo stazionamento e alla fermata di autobus, filobus e veicoli circolanti su rotaia comporta, tra l'altro, la sottrazione di punti dalla patente.",
+  "answer": true,
+  "en": "Parking in spaces reserved for the standing and stopping of buses, trolleybuses and rail vehicles results, among other things, in points being deducted from the driving licence.",
+  "keywords": [
+   {
+    "phrase": "riservati",
+    "why": "shows the spaces are reserved and not for general use"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "means this is only one of several consequences"
+   }
+  ],
+  "trick": "The key meaning is that licence point deduction is one consequence among others.",
+  "image": ""
+ },
+ {
+  "n": 23781,
+  "it": "La sosta, a meno di 15 metri dal segnale di fermata degli autobus, qualora gli spazi di fermata non siano delimitati, comporta tra l'altro, la sottrazione di punti dalla patente",
+  "answer": true,
+  "en": "Parking less than 15 metres from the bus stop sign, where the stopping areas are not marked, results, among other things, in points being deducted from the driving licence.",
+  "keywords": [
+   {
+    "phrase": "a meno di 15 metri",
+    "why": "sets a strict distance limit"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces a condition: only if"
+   },
+   {
+    "phrase": "non siano delimitati",
+    "why": "limits the rule to cases where the areas are not marked"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   }
+  ],
+  "trick": "The rule depends on both the 15-metre limit and the condition that the stopping areas are not marked.",
+  "image": ""
+ },
+ {
+  "n": 23782,
+  "it": "La sosta negli spazi riservati alla fermata e alla sosta dei veicoli per persone invalide, comporta, tra l'altro, la sottrazione di punti dalla patente",
+  "answer": true,
+  "en": "Parking in spaces reserved for the stopping and parking of vehicles for disabled persons results, among other things, in points being deducted from the driving licence.",
+  "keywords": [
+   {
+    "phrase": "riservati",
+    "why": "shows the spaces are reserved and not for general use"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "means this is only one of several consequences"
+   }
+  ],
+  "trick": "The key point is that licence point deduction is one of multiple consequences.",
+  "image": ""
+ },
+ {
+  "n": 23783,
+  "it": "La sosta in corrispondenza degli scivoli o dei raccordi tra i marciapiedi e la carreggiata utilizzati dai veicoli per persone invalide comporta, tra l'altro, la sottrazione di punti dalla patente",
+  "answer": true,
+  "en": "Parking at ramps or connections between pavements and the carriageway used by vehicles for disabled persons results, among other things, in points being deducted from the driving licence.",
+  "keywords": [
+   {
+    "phrase": "in corrispondenza",
+    "why": "means at the location of or in correspondence with, not just near"
+   },
+   {
+    "phrase": "utilizzati dai veicoli per persone invalide",
+    "why": "restricts the rule to those used by vehicles for disabled persons"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "means this is only one of several consequences"
+   }
+  ],
+  "trick": "The trap is the precise location and that point deduction is one consequence among others.",
+  "image": ""
+ },
+ {
+  "n": 23784,
+  "it": "La sosta nelle corsie o carreggiate riservate ai mezzi pubblici comporta, tra l'altro, la sottrazione di punti dalla patente",
+  "answer": true,
+  "en": "Parking in lanes or carriageways reserved for public transport results, among other things, in points being deducted from the driving licence.",
+  "keywords": [
+   {
+    "phrase": "riservate",
+    "why": "shows the lanes/carriageways are reserved only for certain vehicles"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "means this is only one of several consequences"
+   }
+  ],
+  "trick": "The important meaning is that parking there leads to licence point deduction among other penalties.",
+  "image": ""
+ },
+ {
+  "n": 23785,
+  "it": "La sosta negli spazi riservati allo stazionamento e alla fermata di autobus, filobus e veicoli circolanti su rotaia, è consentita se si utilizza il disco orario",
+  "answer": false,
+  "en": "Parking in spaces reserved for the standing and stopping of buses, trolleybuses and rail vehicles is permitted if the parking disc is used.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition for the claimed permission"
+   }
+  ],
+  "trick": "The trap is the false permission created by the condition 'if the parking disc is used'.",
+  "image": ""
+ },
+ {
+  "n": 23786,
+  "it": "La sosta a meno di 15 metri dal segnale di fermata autobus, qualora gli spazi di stazionamento non siano delimitati, è consentita azionando la segnalazione luminosa di pericolo (quattro frecce lampeggianti simultaneamente)",
+  "answer": false,
+  "en": "Parking less than 15 metres from the bus stop sign, where the standing areas are not marked, is permitted by using the hazard warning lights (all four indicators flashing simultaneously).",
+  "keywords": [
+   {
+    "phrase": "a meno di 15 metri",
+    "why": "sets a strict distance limit"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces a condition: only if"
+   },
+   {
+    "phrase": "non siano delimitati",
+    "why": "limits the rule to cases where the standing areas are not marked"
+   },
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "azionando la segnalazione luminosa di pericolo",
+    "why": "suggests a method that supposedly makes it allowed"
+   }
+  ],
+  "trick": "The key trap is the false idea that hazard lights make this parking permitted.",
+  "image": ""
+ },
+ {
+  "n": 23787,
+  "it": "La sosta negli spazi riservati alla fermata e alla sosta dei veicoli per persone invalide comporta una sanzione pecuniaria, ma non la sottrazione di punti dalla patente del conducente",
+  "answer": false,
+  "en": "Parking in spaces reserved for the stopping and parking of vehicles for disabled persons carries a monetary penalty, but not the deduction of points from the driver's licence.",
+  "keywords": [
+   {
+    "phrase": "ma non",
+    "why": "negates the second consequence while contrasting with the first"
+   },
+   {
+    "phrase": "sottrazione di punti",
+    "why": "refers specifically to deduction of licence points"
+   }
+  ],
+  "trick": "The tricky part is the contrast: fine yes, but allegedly no points deducted.",
+  "image": ""
+ },
+ {
+  "n": 23788,
+  "it": "La sosta in corrispondenza degli scivoli o dei raccordi tra i marciapiedi e la carreggiata utilizzati dai veicoli per persone invalide, comporta la sospensione della patente",
+  "answer": false,
+  "en": "Parking at ramps or connections between pavements and the carriageway used by vehicles for disabled persons results in licence suspension.",
+  "keywords": [
+   {
+    "phrase": "in corrispondenza",
+    "why": "means at the location of or in correspondence with, not just near"
+   },
+   {
+    "phrase": "utilizzati dai veicoli per persone invalide",
+    "why": "restricts the rule to those used by vehicles for disabled persons"
+   },
+   {
+    "phrase": "comporta",
+    "why": "indicates a legal consequence"
+   }
+  ],
+  "trick": "The trap is the claimed consequence: licence suspension.",
+  "image": ""
+ },
+ {
+  "n": 23789,
+  "it": "La sosta nelle corsie o carreggiate riservate ai mezzi pubblici, è consentita, nei centri abitati, dalle ore 22.00 alle ore 8.00",
+  "answer": false,
+  "en": "Parking in lanes or carriageways reserved for public transport is permitted, in built-up areas, from 10:00 p.m. to 8:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "riservate ai mezzi pubblici",
+    "why": "limits the rule only to public-transport reserved lanes"
+   },
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas only"
+   }
+  ],
+  "trick": "Watch the permission and the limits: only in built-up areas and only for public-transport reserved lanes.",
+  "image": ""
+ },
+ {
+  "n": 23790,
+  "it": "La sosta di emergenza è l'interruzione della marcia nel caso in cui il veicolo è inutilizzabile per avaria",
+  "answer": true,
+  "en": "Emergency stopping is the interruption of driving when the vehicle is unusable due to a breakdown.",
+  "keywords": [
+   {
+    "phrase": "sosta di emergenza",
+    "why": "specific legal term, not ordinary parking"
+   },
+   {
+    "phrase": "inutilizzabile per avaria",
+    "why": "restricts it to breakdown making the vehicle unusable"
+   }
+  ],
+  "trick": "The key is that emergency stopping applies when a breakdown makes the vehicle unusable.",
+  "image": ""
+ },
+ {
+  "n": 23791,
+  "it": "La sosta di emergenza è l'interruzione della marcia nel caso in cui il veicolo deve arrestarsi per malessere fisico del conducente o di un passeggero",
+  "answer": true,
+  "en": "Emergency stopping is the interruption of driving when the vehicle must stop because of illness of the driver or a passenger.",
+  "keywords": [
+   {
+    "phrase": "sosta di emergenza",
+    "why": "specific legal term, not ordinary parking"
+   },
+   {
+    "phrase": "deve arrestarsi",
+    "why": "expresses necessity, not choice"
+   }
+  ],
+  "trick": "The trap is the obligation to stop because of illness, which counts as emergency stopping.",
+  "image": ""
+ },
+ {
+  "n": 23792,
+  "it": "La sosta di emergenza è l'interruzione della marcia dovuta ad esigenze della circolazione",
+  "answer": false,
+  "en": "Emergency stopping is the interruption of driving due to traffic requirements.",
+  "keywords": [
+   {
+    "phrase": "sosta di emergenza",
+    "why": "specific legal term, not ordinary parking"
+   },
+   {
+    "phrase": "dovuta ad esigenze della circolazione",
+    "why": "refers to traffic conditions, not an emergency"
+   }
+  ],
+  "trick": "Do not confuse traffic-related stopping with emergency stopping.",
+  "image": ""
+ },
+ {
+  "n": 23793,
+  "it": "La sosta di emergenza è la temporanea sospensione della marcia per consentire la discesa di persona invalida",
+  "answer": false,
+  "en": "Emergency stopping is the temporary interruption of driving to allow a disabled person to get out.",
+  "keywords": [
+   {
+    "phrase": "sosta di emergenza",
+    "why": "specific legal term, not ordinary parking"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "shows purpose, not emergency cause"
+   }
+  ],
+  "trick": "The purpose of letting someone get out is not an emergency reason.",
+  "image": ""
+ },
+ {
+  "n": 23794,
+  "it": "La sosta di emergenza è la temporanea sospensione della marcia per consentire ad una persona invalida di salire sul veicolo",
+  "answer": false,
+  "en": "Emergency stopping is the temporary interruption of driving to allow a disabled person to get into the vehicle.",
+  "keywords": [
+   {
+    "phrase": "sosta di emergenza",
+    "why": "specific legal term, not ordinary parking"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "shows purpose, not emergency cause"
+   }
+  ],
+  "trick": "Letting someone board is a purpose, not an emergency condition.",
+  "image": ""
+ },
+ {
+  "n": 23795,
+  "it": "Quando si aprono le porte di un veicolo, bisogna assicurarsi che ciò non costituisca pericolo o intralcio per gli altri utenti della strada",
+  "answer": true,
+  "en": "When opening a vehicle's doors, you must make sure that this does not create danger or obstruction for other road users.",
+  "keywords": [
+   {
+    "phrase": "bisogna assicurarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non costituisca",
+    "why": "negates the risk or obstruction"
+   }
+  ],
+  "trick": "The sentence imposes a duty to ensure no danger or obstruction is caused.",
+  "image": ""
+ },
+ {
+  "n": 23796,
+  "it": "Prima di aprire lo sportello di un veicolo dal lato rivolto verso il centro della strada bisogna assicurarsi che non sopraggiungano altri veicoli",
+  "answer": true,
+  "en": "Before opening a vehicle door on the side facing the centre of the road, you must make sure that no other vehicles are approaching.",
+  "keywords": [
+   {
+    "phrase": "Prima di",
+    "why": "sets a required action before doing something"
+   },
+   {
+    "phrase": "bisogna assicurarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non sopraggiungano",
+    "why": "negates the presence of approaching vehicles"
+   }
+  ],
+  "trick": "The trap is the required check before opening the door, with explicit negation of approaching vehicles.",
+  "image": ""
+ },
+ {
+  "n": 23797,
+  "it": "Prima di aprire lo sportello di un veicolo dal lato rivolto verso il marciapiede bisogna assicurarsi che non sopraggiungano pedoni",
+  "answer": true,
+  "en": "Before opening a vehicle door on the side facing the pavement, you must make sure that no pedestrians are approaching.",
+  "keywords": [
+   {
+    "phrase": "Prima di",
+    "why": "sets a required action before doing something"
+   },
+   {
+    "phrase": "bisogna assicurarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non sopraggiungano",
+    "why": "negates the presence of approaching pedestrians"
+   }
+  ],
+  "trick": "You must check beforehand that pedestrians are not approaching on the pavement side.",
+  "image": ""
+ },
+ {
+  "n": 23798,
+  "it": "Quando si scende da un veicolo bisogna assicurarsi che ciò non costituisca pericolo o intralcio per gli altri utenti della strada",
+  "answer": true,
+  "en": "When getting out of a vehicle, you must make sure that this does not create danger or obstruction for other road users.",
+  "keywords": [
+   {
+    "phrase": "bisogna assicurarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non costituisca",
+    "why": "negates the risk or obstruction"
+   }
+  ],
+  "trick": "The key is the obligation to ensure that getting out causes no danger or obstruction.",
+  "image": ""
+ },
+ {
+  "n": 23799,
+  "it": "Allorché si accinge a scendere dall'autoveicolo, il conducente deve assicurarsi, anche mediante lo specchietto retrovisore, che non sopraggiungano altri veicoli",
+  "answer": true,
+  "en": "When preparing to get out of the motor vehicle, the driver must make sure, also by means of the rear-view mirror, that no other vehicles are approaching.",
+  "keywords": [
+   {
+    "phrase": "deve assicurarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche mediante lo specchietto retrovisore",
+    "why": "adds an extra permitted means to check"
+   },
+   {
+    "phrase": "non sopraggiungano",
+    "why": "negates the presence of approaching vehicles"
+   }
+  ],
+  "trick": "The duty is to check for approaching vehicles, including by using the rear-view mirror.",
+  "image": ""
+ },
+ {
+  "n": 23800,
+  "it": "Prima di scendere dal veicolo in sosta, il conducente deve assicurarsi di avere spento il motore",
+  "answer": true,
+  "en": "Before getting out of a parked vehicle, the driver must make sure that he has switched off the engine.",
+  "keywords": [
+   {
+    "phrase": "Prima di",
+    "why": "sets a required action before doing something"
+   },
+   {
+    "phrase": "deve assicurarsi",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence imposes a check before leaving the parked vehicle: the engine must be off.",
+  "image": ""
+ },
+ {
+  "n": 23801,
+  "it": "L'apertura di uno sportello del veicolo dal lato del marciapiede comporta l'obbligo di attivare l'indicatore di direzione da quel lato",
+  "answer": false,
+  "en": "Opening a vehicle door on the pavement side entails the obligation to activate the direction indicator on that side.",
+  "keywords": [
+   {
+    "phrase": "comporta l'obbligo di",
+    "why": "expresses a legal obligation"
+   },
+   {
+    "phrase": "da quel lato",
+    "why": "restricts it to that side only"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to use the indicator specifically on that side.",
+  "image": ""
+ },
+ {
+  "n": 23802,
+  "it": "L'apertura degli sportelli del veicolo dal lato rivolto verso il centro della strada è vietato",
+  "answer": false,
+  "en": "Opening the vehicle doors on the side facing the centre of the road is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dal lato rivolto verso il centro della strada",
+    "why": "limits the statement to the road-centre side"
+   }
+  ],
+  "trick": "This states a prohibition, but only for doors on the side facing the centre of the road.",
+  "image": ""
+ },
+ {
+  "n": 23803,
+  "it": "Il conducente può lasciare il veicolo in sosta con il motore acceso per consentire il funzionamento dell'aria condizionata",
+  "answer": false,
+  "en": "The driver may leave the vehicle parked with the engine running to allow the air conditioning to operate.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "states the purpose of the action"
+   }
+  ],
+  "trick": "The trap is the claimed permission to leave the engine running for air conditioning.",
+  "image": ""
+ },
+ {
+  "n": 23804,
+  "it": "Prima di scendere dal veicolo in sosta, il conducente deve azionare il freno a mano del veicolo, su tutte le strade in discesa ma non in quelle in salita",
+  "answer": false,
+  "en": "Before getting out of a parked vehicle, the driver must apply the handbrake on all downhill roads but not on uphill ones.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "su tutte le strade in discesa ma non in quelle in salita",
+    "why": "creates a misleading contrast and exclusion"
+   }
+  ],
+  "trick": "The trap is the false limitation: obligation is claimed only for downhill roads, excluding uphill ones.",
+  "image": ""
+ },
+ {
+  "n": 23805,
+  "it": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve provvedere a rimuovere il carico, se possibile",
+  "answer": true,
+  "en": "If the carriageway is obstructed because the load has accidentally fallen, the driver must remove the load, if possible.",
+  "keywords": [
+   {
+    "phrase": "deve provvedere a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se possibile",
+    "why": "limits the obligation to feasible cases"
+   }
+  ],
+  "trick": "The obligation stands, but only where removal is possible.",
+  "image": ""
+ },
+ {
+  "n": 23806,
+  "it": "Su strada extraurbana, nel caso di ingombro della carreggiata per caduta accidentale del carico, il conducente deve presegnalare l'ostacolo mediante il segnale di veicolo fermo (triangolo)",
+  "answer": true,
+  "en": "On an extra-urban road, if the carriageway is obstructed because the load has accidentally fallen, the driver must warn in advance of the obstacle by means of the stopped-vehicle sign (warning triangle).",
+  "keywords": [
+   {
+    "phrase": "Su strada extraurbana",
+    "why": "restricts the rule to extra-urban roads"
+   },
+   {
+    "phrase": "deve presegnalare",
+    "why": "expresses obligation to warn in advance"
+   },
+   {
+    "phrase": "mediante il segnale di veicolo fermo",
+    "why": "specifies the correct warning device"
+   }
+  ],
+  "trick": "The key traps are the road type, the obligation, and the specific use of the warning triangle.",
+  "image": ""
+ },
+ {
+  "n": 23807,
+  "it": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve rendere sollecitamente libero, per quanto possibile, il transito",
+  "answer": true,
+  "en": "If the carriageway is obstructed because the load has accidentally fallen, the driver must promptly make the passage as clear as possible.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sollecitamente",
+    "why": "means promptly, adding urgency"
+   },
+   {
+    "phrase": "per quanto possibile",
+    "why": "limits the duty to what is feasible"
+   }
+  ],
+  "trick": "The duty is urgent but only to the extent possible.",
+  "image": ""
+ },
+ {
+  "n": 23808,
+  "it": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve presegnalare l'ostacolo mediante il segnale di STOP",
+  "answer": false,
+  "en": "If the carriageway is obstructed because the load has accidentally fallen, the driver must warn in advance of the obstacle by means of the STOP sign.",
+  "keywords": [
+   {
+    "phrase": "deve presegnalare",
+    "why": "expresses obligation to warn in advance"
+   },
+   {
+    "phrase": "mediante il segnale di STOP",
+    "why": "names a specific sign, which can mislead learners"
+   }
+  ],
+  "trick": "The trap is the specific sign named for advance warning of the obstacle.",
+  "image": ""
+ },
+ {
+  "n": 23809,
+  "it": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve restare a bordo del veicolo in attesa dei soccorsi",
+  "answer": false,
+  "en": "If the carriageway is obstructed due to the accidental fall of the load, the driver must remain on board the vehicle while waiting for assistance.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in attesa dei soccorsi",
+    "why": "sets the condition while waiting for help"
+   }
+  ],
+  "trick": "\"Deve\" makes it a duty, not a choice.",
+  "image": ""
+ },
+ {
+  "n": 23810,
+  "it": "In caso di ingombro della carreggiata per avaria del veicolo, il conducente deve sollecitamente rendere libero il transito per il traffico sopraggiungente",
+  "answer": true,
+  "en": "If the carriageway is obstructed because of a vehicle breakdown, the driver must promptly clear the way for oncoming traffic.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sollecitamente",
+    "why": "means promptly, adding urgency"
+   },
+   {
+    "phrase": "sopraggiungente",
+    "why": "means approaching/oncoming traffic"
+   }
+  ],
+  "trick": "The sentence imposes a prompt duty to free traffic flow.",
+  "image": ""
+ },
+ {
+  "n": 23811,
+  "it": "In caso di ingombro della carreggiata per avaria del veicolo, il conducente deve spingere il veicolo stesso fuori della carreggiata o, se ciò non è possibile, collocarlo sul margine destro della carreggiata",
+  "answer": true,
+  "en": "If the carriageway is obstructed because of a vehicle breakdown, the driver must push the vehicle off the carriageway or, if that is not possible, place it on the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "o, se ciò non è possibile",
+    "why": "introduces an exception if the first action cannot be done"
+   },
+   {
+    "phrase": "margine destro",
+    "why": "specifies the right edge, not just any side"
+   }
+  ],
+  "trick": "It states a duty with a fallback option only if the first one is impossible.",
+  "image": ""
+ },
+ {
+  "n": 23812,
+  "it": "In caso di ingombro della carreggiata per caduta del carico o per qualsiasi altra causa, il conducente deve rimuovere l'ingombro, per quanto possibile",
+  "answer": true,
+  "en": "If the carriageway is obstructed because the load has fallen or for any other reason, the driver must remove the obstruction as far as possible.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per qualsiasi altra causa",
+    "why": "extends the rule to any other cause"
+   },
+   {
+    "phrase": "per quanto possibile",
+    "why": "limits the duty to what is feasible"
+   }
+  ],
+  "trick": "The obligation applies broadly, but only within what is possible.",
+  "image": ""
+ },
+ {
+  "n": 23813,
+  "it": "In caso di ingombro della carreggiata per avaria del veicolo, il conducente non è tenuto a spostarlo, in attesa dei soccorsi, se il traffico è scarso",
+  "answer": false,
+  "en": "If the carriageway is obstructed because of a vehicle breakdown, the driver is not required to move it, while waiting for assistance, if traffic is light.",
+  "keywords": [
+   {
+    "phrase": "non è tenuto a",
+    "why": "means there is no obligation"
+   },
+   {
+    "phrase": "in attesa dei soccorsi",
+    "why": "sets the waiting-for-help condition"
+   },
+   {
+    "phrase": "se il traffico è scarso",
+    "why": "adds a limiting condition"
+   }
+  ],
+  "trick": "The key trap is the negated obligation with a specific condition.",
+  "image": ""
+ },
+ {
+  "n": 23814,
+  "it": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve evitare di spostarlo per consentire la ricostruzione corretta dell'accaduto",
+  "answer": false,
+  "en": "If the carriageway is obstructed due to the accidental fall of the load, the driver must avoid moving it in order to allow the correct reconstruction of what happened.",
+  "keywords": [
+   {
+    "phrase": "deve evitare di",
+    "why": "expresses an obligation not to do something"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "gives the stated purpose/reason"
+   }
+  ],
+  "trick": "The trap is that it orders the driver not to move the load.",
+  "image": ""
+ },
+ {
+  "n": 23816,
+  "it": "Su strada extraurbana, nel caso di incidente che provochi l'ingombro della carreggiata per la presenza di veicoli danneggiati che non è possibile rimuovere, il conducente o i passeggeri devono presegnalare la zona mediante il segnale triangolare mobile di pericolo",
+  "answer": true,
+  "en": "On an extra-urban road, in the event of an accident that causes obstruction of the carriageway because of damaged vehicles that cannot be removed, the driver or passengers must give advance warning of the area by means of the portable warning triangle.",
+  "keywords": [
+   {
+    "phrase": "che non è possibile rimuovere",
+    "why": "limits the rule to vehicles that cannot be removed"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "o",
+    "why": "means either the driver or the passengers can do it"
+   }
+  ],
+  "trick": "The obligation applies when the damaged vehicles cannot be removed.",
+  "image": ""
+ },
+ {
+  "n": 23817,
+  "it": "Nel caso di ingombro della carreggiata per avaria del veicolo che non è possibile spostare , il conducente deve informare l'organo di polizia, senza dover opportunamente presegnalare la zona.",
+  "answer": false,
+  "en": "If the carriageway is obstructed because of a vehicle breakdown that cannot be moved, the driver must inform the police authority, without having to suitably give advance warning of the area.",
+  "keywords": [
+   {
+    "phrase": "che non è possibile spostare",
+    "why": "limits the case to a vehicle that cannot be moved"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "senza dover",
+    "why": "removes an obligation that might otherwise be expected"
+   }
+  ],
+  "trick": "The trap is the phrase denying the need to pre-warn the area.",
+  "image": ""
+ },
+ {
+  "n": 23818,
+  "it": "Nel caso di ingombro della carreggiata per caduta del carico non removibile, il conducente può evitare di informare un organo di polizia se presegnala la zona con efficaci segnali manuali",
+  "answer": false,
+  "en": "If the carriageway is obstructed by a fallen load that cannot be removed, the driver may avoid informing a police authority if he gives advance warning of the area with effective hand signals.",
+  "keywords": [
+   {
+    "phrase": "può evitare",
+    "why": "suggests permission to omit an action"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition for that permission"
+   },
+   {
+    "phrase": "non removibile",
+    "why": "limits the case to a non-removable load"
+   }
+  ],
+  "trick": "The key trap is the claimed permission not to inform the police under a condition.",
+  "image": ""
+ },
+ {
+  "n": 23819,
+  "it": "Chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o comunque pericolose, deve, tra l'altro, presegnalare la zona con il segnale mobile di pericolo anche in mezzo alla carreggiata",
+  "answer": true,
+  "en": "Anyone who has been unable to prevent the fall or spillage of slippery, flammable, or otherwise dangerous substances must, among other things, give advance warning of the area with the portable warning sign even in the middle of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "non abbia potuto evitare",
+    "why": "means was unable to prevent it"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "shows this is one duty among others"
+   },
+   {
+    "phrase": "anche in mezzo alla carreggiata",
+    "why": "means even in the middle of the carriageway"
+   }
+  ],
+  "trick": "It imposes a duty, and \"anche\" expands it to include the middle of the road.",
+  "image": ""
+ },
+ {
+  "n": 23820,
+  "it": "Su strada extraurbana, chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o comunque pericolose deve, tra l'altro, presegnalare la zona con il segnale mobile di pericolo posto anche in mezzo alla carreggiata",
+  "answer": true,
+  "en": "On an extra-urban road, anyone who has been unable to prevent the fall or spillage of slippery, flammable, or otherwise dangerous substances must, among other things, give advance warning of the area with the portable warning sign placed even in the middle of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "non abbia potuto evitare",
+    "why": "means was unable to prevent it"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "tra l'altro",
+    "why": "shows this is one duty among others"
+   },
+   {
+    "phrase": "anche in mezzo alla carreggiata",
+    "why": "means even in the middle of the carriageway"
+   }
+  ],
+  "trick": "The sentence requires warning placement, including even in the middle of the carriageway.",
+  "image": ""
+ },
+ {
+  "n": 23821,
+  "it": "Chiunque non abbia potuto evitare la caduta o lo spargimento di materie pericolose, deve, tra l'altro, eseguire segnali manuali per impedire il transito dei veicoli dalla parte dove non è stato posto il segnale mobile di pericolo",
+  "answer": true,
+  "en": "Anyone who has been unable to prevent the fall or spillage of dangerous substances must, among other things, make hand signals to prevent vehicles from passing on the side where the portable warning sign has not been placed.",
+  "keywords": [
+   {
+    "phrase": "non abbia potuto evitare",
+    "why": "means was unable to prevent it"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "impedire il transito",
+    "why": "means prevent passage, not merely warn"
+   },
+   {
+    "phrase": "dalla parte dove non è stato posto",
+    "why": "refers to the side where the sign was not placed"
+   }
+  ],
+  "trick": "The trap is that manual signals are required on the side without the warning sign.",
+  "image": ""
+ },
+ {
+  "n": 23822,
+  "it": "Chiunque non abbia potuto evitare la caduta o lo spargimento di materie viscide, infiammabili o pericolose, deve, tra l'altro, rimuoverle o spargere sul terreno, se possibile, sabbia, terra, segatura o altro materiale idoneo a ripristinare l'aderenza",
+  "answer": true,
+  "en": "Anyone who has been unable to prevent the fall or spillage of slippery, flammable, or dangerous substances must, among other things, remove them or spread sand, earth, sawdust, or other suitable material on the ground, if possible, in order to restore grip.",
+  "keywords": [
+   {
+    "phrase": "non abbia potuto evitare",
+    "why": "means was unable to prevent it"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "o",
+    "why": "offers an alternative action"
+   },
+   {
+    "phrase": "se possibile",
+    "why": "limits the action to when feasible"
+   }
+  ],
+  "trick": "It sets an obligation with alternatives, qualified by feasibility.",
+  "image": ""
+ },
+ {
+  "n": 23823,
+  "it": "Chiunque non abbia potuto evitare la caduta o lo spargimento di materie pericolose deve, tra l'altro, eseguire segnali manuali atti a segnalare il pericolo, solo dalla parte dove è stato posto il segnale triangolare mobile di pericolo",
+  "answer": false,
+  "en": "Anyone who has been unable to prevent the fall or spillage of dangerous substances must, among other things, make hand signals intended to warn of the danger only on the side where the portable warning triangle has been placed.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only that side"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dove è stato posto",
+    "why": "specifies the side where the triangle has been placed"
+   }
+  ],
+  "trick": "The key trap is \"solo,\" which wrongly restricts the manual signals to one side.",
+  "image": ""
+ },
+ {
+  "n": 23824,
+  "it": "Il conducente di un autoveicolo che non abbia potuto evitare lo spargimento di materie pericolose, può evitare di presegnalare la zona con il segnale mobile di pericolo se esegue segnali sonori per allontanare gli altri veicoli",
+  "answer": false,
+  "en": "The driver of a motor vehicle who has been unable to prevent the spillage of dangerous substances may avoid giving advance warning of the area with the portable warning sign if he uses sound signals to drive other vehicles away.",
+  "keywords": [
+   {
+    "phrase": "può evitare",
+    "why": "suggests permission to omit an action"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition for that permission"
+   },
+   {
+    "phrase": "non abbia potuto evitare",
+    "why": "means was unable to prevent it"
+   }
+  ],
+  "trick": "The trap is the claimed permission to skip the warning sign under a condition.",
+  "image": ""
+ },
+ {
+  "n": 23825,
+  "it": "Chiunque non abbia potuto evitare la caduta di materie viscide, deve deviare il traffico in attesa che l'ente proprietario della strada intervenga per ripristinare le condizioni ottimali",
+  "answer": false,
+  "en": "Anyone who has been unable to prevent the fall of slippery substances must divert traffic while waiting for the road authority to intervene to restore optimal conditions.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in attesa che",
+    "why": "means while waiting for another action to happen"
+   }
+  ],
+  "trick": "The sentence creates a duty to divert traffic while waiting for intervention.",
+  "image": ""
+ },
+ {
+  "n": 23826,
+  "it": "Fuori dei centri abitati, di notte, quando mancano o sono insufficienti le luci posteriori di posizione o di emergenza, è obbligatorio presegnalare il veicolo, fermo sulla carreggiata, con il segnale triangolare mobile di pericolo",
+  "answer": true,
+  "en": "Outside built-up areas, at night, when the rear position lights or hazard lights are missing or insufficient, it is compulsory to give advance warning of the vehicle, stopped on the carriageway, with the portable warning triangle.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "di notte",
+    "why": "limits the rule to nighttime"
+   },
+   {
+    "phrase": "quando",
+    "why": "introduces the condition under which the rule applies"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The obligation applies only under the stated place, time, and lighting conditions.",
+  "image": ""
+ },
+ {
+  "n": 23827,
+  "it": "Fuori dei centri abitati, di notte, è obbligatorio presegnalare con il segnale triangolare mobile di pericolo ogni carico caduto accidentalmente dal veicolo sulla carreggiata",
+  "answer": true,
+  "en": "Outside built-up areas, at night, it is compulsory to give advance warning with the portable warning triangle of any load that has accidentally fallen from the vehicle onto the carriageway.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "di notte",
+    "why": "limits the rule to nighttime"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ogni",
+    "why": "means every load, without exception"
+   }
+  ],
+  "trick": "The trap is the broad obligation covering any fallen load at night outside built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 23828,
+  "it": "Fuori dei centri abitati, è obbligatorio anche di giorno presegnalare un veicolo fermo sulla carreggiata mediante il segnale triangolare di pericolo quando non può essere visto nettamente a 100 metri di distanza",
+  "answer": true,
+  "en": "Outside built-up areas, it is compulsory even during the day to give advance warning of a vehicle stopped on the carriageway by means of the warning triangle when it cannot be clearly seen from 100 metres away.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche di giorno",
+    "why": "extends the rule to daytime as well"
+   },
+   {
+    "phrase": "quando",
+    "why": "introduces the condition for the rule"
+   },
+   {
+    "phrase": "non può essere visto nettamente a 100 metri di distanza",
+    "why": "sets the visibility threshold"
+   }
+  ],
+  "trick": "The key trap is that the obligation applies in daytime too, but only under the visibility condition.",
+  "image": ""
+ },
+ {
+  "n": 23829,
+  "it": "Fuori dei centri abitati è obbligatorio, anche di giorno, presegnalare un carico accidentalmente caduto sulla carreggiata mediante il segnale triangolare mobile di pericolo, quando l'ingombro non può essere visto nettamente a 100 metri di distanza",
+  "answer": true,
+  "en": "Outside built-up areas, it is compulsory, even during the day, to give advance warning of a load accidentally fallen onto the carriageway by means of the portable warning triangle when the obstruction cannot be clearly seen from 100 metres away.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche di giorno",
+    "why": "extends the rule to daytime as well"
+   },
+   {
+    "phrase": "quando",
+    "why": "introduces the condition for the rule"
+   },
+   {
+    "phrase": "non può essere visto nettamente a 100 metri di distanza",
+    "why": "sets the visibility threshold"
+   }
+  ],
+  "trick": "The obligation also applies by day, but only when the obstruction is not clearly visible at 100 metres.",
+  "image": ""
+ },
+ {
+  "n": 23830,
+  "it": "Il segnale mobile triangolare di pericolo fa parte dell'equipaggiamento obbligatorio degli autoveicoli",
+  "answer": true,
+  "en": "The portable triangular warning sign is part of the mandatory equipment of motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "obbligatorio",
+    "why": "expresses a legal requirement"
+   }
+  ],
+  "trick": "Watch for obligation words that make something compulsory, not optional.",
+  "image": ""
+ },
+ {
+  "n": 23831,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto dietro al veicolo o all'ostacolo da segnalare, ad almeno 50 metri",
+  "answer": true,
+  "en": "The portable triangular warning sign must be placed behind the vehicle or obstacle to be signalled, at least 50 metres away.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad almeno 50 metri",
+    "why": "sets a minimum distance, not an exact one"
+   }
+  ],
+  "trick": "The sentence is strict about both placement and the minimum distance required.",
+  "image": ""
+ },
+ {
+  "n": 23832,
+  "it": "Nel caso di intersezione a distanza inferiore a 50 metri, il segnale mobile triangolare di pericolo deve essere posto dietro al veicolo nella posizione più idonea ad essere avvistato",
+  "answer": true,
+  "en": "In the case of an intersection less than 50 metres away, the portable triangular warning sign must be placed behind the vehicle in the most suitable position to be seen.",
+  "keywords": [
+   {
+    "phrase": "a distanza inferiore a 50 metri",
+    "why": "limits the rule to when the distance is under 50 metres"
+   },
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "più idonea",
+    "why": "means the most suitable position, not a fixed standard spot"
+   }
+  ],
+  "trick": "This rule applies only in the special case of a nearby intersection and still remains mandatory.",
+  "image": ""
+ },
+ {
+  "n": 23833,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata in modo che sia visibile ad una distanza di almeno 100 metri dai veicoli sopraggiungenti",
+  "answer": true,
+  "en": "The portable triangular warning sign must be placed on the carriageway so that it is visible to approaching vehicles from a distance of at least 100 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad almeno 100 metri",
+    "why": "sets a minimum visibility distance"
+   }
+  ],
+  "trick": "Do not weaken the rule: the sign must be positioned to guarantee at least 100 metres of visibility.",
+  "image": ""
+ },
+ {
+  "n": 23834,
+  "it": "Fuori dei centri abitati, di notte, quando mancano o sono insufficienti le luci posteriori di posizione o di emergenza, è consigliabile presegnalare il veicolo fermo sulla carreggiata, con il segnale triangolare mobile di pericolo",
+  "answer": false,
+  "en": "Outside built-up areas, at night, when the rear position lights or hazard lights are missing or insufficient, it is advisable to warn in advance of a vehicle stopped on the carriageway with the portable triangular warning sign.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "quando mancano o sono insufficienti",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "è consigliabile",
+    "why": "means advisable, not mandatory"
+   }
+  ],
+  "trick": "The trap is that the statement uses a recommendation, whereas the real rule is stronger.",
+  "image": ""
+ },
+ {
+  "n": 23835,
+  "it": "Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo per avaria di notte, se l'ostacolo non è visibile ad almeno 150 metri di distanza",
+  "answer": false,
+  "en": "The portable warning triangle must be used compulsorily to signal a vehicle stopped because of a breakdown at night if the obstacle is not visible from at least 150 metres away.",
+  "keywords": [
+   {
+    "phrase": "deve essere obbligatoriamente usato",
+    "why": "strongly expresses obligation"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non è visibile",
+    "why": "negates visibility condition"
+   },
+   {
+    "phrase": "ad almeno 150 metri",
+    "why": "sets a minimum distance threshold"
+   }
+  ],
+  "trick": "The key traps are the strong obligation and the exact visibility distance condition.",
+  "image": ""
+ },
+ {
+  "n": 23836,
+  "it": "Fuori dei centri abitati, è facoltativo presegnalare, anche di giorno, un carico accidentalmente caduto sulla carreggiata mediante il segnale di pericolo, quando non può essere visto nettamente a 100 metri di distanza",
+  "answer": false,
+  "en": "Outside built-up areas, it is optional to warn in advance, even during the day, of a load accidentally fallen onto the carriageway by means of the warning sign, when it cannot be clearly seen from 100 metres away.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "è facoltativo",
+    "why": "means optional, not compulsory"
+   },
+   {
+    "phrase": "anche di giorno",
+    "why": "extends the statement to daytime too"
+   },
+   {
+    "phrase": "non può essere visto",
+    "why": "negates visibility"
+   },
+   {
+    "phrase": "a 100 metri di distanza",
+    "why": "sets the visibility threshold"
+   }
+  ],
+  "trick": "The main trap is 'optional': in this situation the law actually requires advance warning.",
+  "image": ""
+ },
+ {
+  "n": 23837,
+  "it": "Di notte, quando mancano o sono insufficienti le luci posteriori di posizione o di emergenza, è obbligatorio presegnalare il veicolo fermo con il segnale triangolare mobile di pericolo anche nei centri abitati",
+  "answer": false,
+  "en": "At night, when the rear position lights or hazard lights are missing or insufficient, it is compulsory to warn in advance of the stopped vehicle with the portable triangular warning sign even in built-up areas.",
+  "keywords": [
+   {
+    "phrase": "quando mancano o sono insufficienti",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche nei centri abitati",
+    "why": "extends the rule even to built-up areas"
+   }
+  ],
+  "trick": "The trap is the extension 'even in built-up areas', which makes the statement broader than the real rule.",
+  "image": ""
+ },
+ {
+  "n": 23838,
+  "it": "Di notte, quando mancano o sono insufficienti le luci posteriori di posizione, è obbligatorio presegnalare velocipedi, ciclomotori e motocicli fermi con il segnale triangolare mobile di pericolo anche nei centri abitati",
+  "answer": false,
+  "en": "At night, when the rear position lights are missing or insufficient, it is compulsory to warn in advance of stationary bicycles, mopeds and motorcycles with the portable triangular warning sign even in built-up areas.",
+  "keywords": [
+   {
+    "phrase": "quando mancano o sono insufficienti",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche nei centri abitati",
+    "why": "extends the rule even to built-up areas"
+   }
+  ],
+  "trick": "The statement is tricky because it wrongly makes the triangle compulsory for these vehicles too.",
+  "image": ""
+ },
+ {
+  "n": 23839,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto sul carico accidentalmente caduto sulla carreggiata",
+  "answer": false,
+  "en": "The portable triangular warning sign must be placed on the load accidentally fallen onto the carriageway.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sul carico",
+    "why": "changes the exact placement required"
+   }
+  ],
+  "trick": "The trap is the specific placement: the sign is not placed on top of the fallen load.",
+  "image": ""
+ },
+ {
+  "n": 23840,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata in modo che sia visibile ad una distanza di almeno 50 metri dai veicoli sopraggiungenti",
+  "answer": false,
+  "en": "The portable triangular warning sign must be placed on the carriageway so that it is visible to approaching vehicles from a distance of at least 50 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad almeno 50 metri",
+    "why": "sets a minimum distance, but here the figure is the trap"
+   }
+  ],
+  "trick": "The obligation is correct in form, but the visibility distance given is the misleading part.",
+  "image": ""
+ },
+ {
+  "n": 23841,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto sulla corsia occupata dal veicolo fermo o dal carico caduto",
+  "answer": true,
+  "en": "The portable triangular warning sign must be placed in the lane occupied by the stopped vehicle or by the fallen load.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "corsia occupata",
+    "why": "specifies the exact lane, not a nearby one"
+   }
+  ],
+  "trick": "The sentence hinges on the exact lane where the sign must be placed.",
+  "image": ""
+ },
+ {
+  "n": 23842,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata ad almeno un metro dal bordo esterno di essa",
+  "answer": true,
+  "en": "The portable triangular warning sign must be placed on the carriageway at least one metre from its outer edge.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad almeno un metro",
+    "why": "sets a minimum distance from the edge"
+   }
+  ],
+  "trick": "The rule is mandatory and includes a precise minimum lateral distance.",
+  "image": ""
+ },
+ {
+  "n": 23843,
+  "it": "Nel caso di carreggiata a più corsie, il segnale mobile triangolare di pericolo deve essere posto sulla corsia immediatamente a sinistra del veicolo fermo o del carico caduto",
+  "answer": false,
+  "en": "In the case of a carriageway with several lanes, the portable triangular warning sign must be placed in the lane immediately to the left of the stopped vehicle or fallen load.",
+  "keywords": [
+   {
+    "phrase": "a più corsie",
+    "why": "limits the rule to multi-lane carriageways"
+   },
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "immediatamente a sinistra",
+    "why": "specifies a different exact lane"
+   }
+  ],
+  "trick": "The trap is the lane indicated: 'immediately to the left' is not the correct placement rule.",
+  "image": ""
+ },
+ {
+  "n": 23844,
+  "it": "Il segnale mobile triangolare di pericolo deve essere posto sulla carreggiata ad almeno un metro dalla striscia di separazione dei sensi di marcia",
+  "answer": false,
+  "en": "The portable triangular warning sign must be placed on the carriageway at least one metre from the line separating the directions of traffic.",
+  "keywords": [
+   {
+    "phrase": "deve essere posto",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ad almeno un metro",
+    "why": "sets a minimum distance"
+   },
+   {
+    "phrase": "striscia di separazione dei sensi di marcia",
+    "why": "changes the reference point for measuring distance"
+   }
+  ],
+  "trick": "The misleading part is the wrong reference line used for the one-metre distance.",
+  "image": ""
+ },
+ {
+  "n": 23845,
+  "it": "Durante le operazioni di presegnalazione con il segnale mobile di pericolo il conducente deve rendersi visibile indossando il giubbotto o le bretelle retroriflettenti ad alta visibilità",
+  "answer": true,
+  "en": "During advance-warning operations with the portable warning sign, the driver must make himself visible by wearing the high-visibility reflective jacket or braces.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "rendersi visibile",
+    "why": "states the required purpose of the action"
+   }
+  ],
+  "trick": "The sentence is mandatory: the driver has to wear high-visibility gear while placing the sign.",
+  "image": ""
+ },
+ {
+  "n": 23846,
+  "it": "Il giubbotto o le bretelle retroriflettenti ad alta visibilità da usare durante le operazioni di presegnalazione con il segnale mobile di pericolo devono essere di tipo approvato",
+  "answer": true,
+  "en": "The high-visibility reflective jacket or braces to be used during advance-warning operations with the portable warning sign must be of an approved type.",
+  "keywords": [
+   {
+    "phrase": "devono essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di tipo approvato",
+    "why": "requires official approval, not just any item"
+   }
+  ],
+  "trick": "The legal trap is that the gear must be approved, not merely high-visibility.",
+  "image": ""
+ },
+ {
+  "n": 23847,
+  "it": "Durante le operazioni di presegnalazione con il segnale mobile di pericolo il conducente deve indossare il giubbotto ad alta visibilità anche se si trova sulle corsie di emergenza o sulle piazzole di sosta",
+  "answer": true,
+  "en": "During advance-warning operations with the portable warning sign, the driver must wear the high-visibility jacket even if he is on the emergency lanes or in lay-bys.",
+  "keywords": [
+   {
+    "phrase": "deve indossare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche se",
+    "why": "extends the rule even in this case"
+   }
+  ],
+  "trick": "The phrase 'even if' broadens the obligation to emergency lanes and lay-bys too.",
+  "image": ""
+ },
+ {
+  "n": 23848,
+  "it": "Per effettuare le operazioni di presegnalazione con il segnale mobile di pericolo è vietato al conducente scendere dal veicolo e circolare sulla strada senza indossare il giubbotto ad alta visibilità",
+  "answer": true,
+  "en": "To carry out advance-warning operations with the portable warning sign, the driver is forbidden to get out of the vehicle and move about on the road without wearing the high-visibility jacket.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "senza indossare",
+    "why": "states the forbidden condition by using negation"
+   }
+  ],
+  "trick": "The sentence prohibits being on the road without the jacket during these operations.",
+  "image": ""
+ },
+ {
+  "n": 23849,
+  "it": "Durante le operazioni di presegnalazione con il segnale mobile di pericolo è facoltativo l'uso del giubbotto o delle bretelle retroriflettenti ad alta visibilità",
+  "answer": false,
+  "en": "During advance-warning operations with the portable warning sign, the use of the high-visibility reflective jacket or braces is optional.",
+  "keywords": [
+   {
+    "phrase": "è facoltativo",
+    "why": "means optional, not compulsory"
+   }
+  ],
+  "trick": "The key trap is 'optional': here the use of high-visibility gear is actually mandatory.",
+  "image": ""
+ },
+ {
+  "n": 23850,
+  "it": "Durante le operazioni di presegnalazione con il segnale mobile di pericolo il conducente non deve indossare il giubbotto ad alta visibilità se si trova sulle corsie di emergenza o sulle piazzole di sosta",
+  "answer": false,
+  "en": "During advance warning operations with the portable danger warning sign, the driver must not wear the high-visibility vest if they are on the emergency lanes or in the lay-bys.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "negates an obligation: says must not"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the statement to this condition"
+   }
+  ],
+  "trick": "The trap is the negated obligation “must not” applied only in that specific case.",
+  "image": ""
+ },
+ {
+  "n": 23851,
+  "it": "Il conducente deve indossare il giubbotto ad alta visibilità di notte, anche nei centri abitati, qualora debba fermarsi sulla carreggiata perché il suo veicolo ha un guasto",
+  "answer": false,
+  "en": "The driver must wear the high-visibility vest at night, even in built-up areas, if they have to stop on the carriageway because their vehicle has broken down.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra case: even there"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces the condition under which it applies"
+   }
+  ],
+  "trick": "The key is that wearing the vest is presented as obligatory, including even in built-up areas, but only in that situation.",
+  "image": ""
+ },
+ {
+  "n": 23852,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di velocipedi, ciclomotori, motocicli di cilindrata inferiore a 150 cm3",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of bicycles, mopeds, and motorcycles with an engine capacity of less than 150 cc is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "inferiore a 150 cm3",
+    "why": "sets a strict threshold: below 150 cc"
+   }
+  ],
+  "trick": "The important traps are the prohibition and the engine-size limit below 150 cc.",
+  "image": ""
+ },
+ {
+  "n": 23853,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di autovetture che non sono in grado di sviluppare per costruzione la velocità in piano di almeno 80 km/h",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of passenger cars that are not capable by design of reaching a level-road speed of at least 80 km/h is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non sono in grado",
+    "why": "negates capability"
+   },
+   {
+    "phrase": "almeno 80 km/h",
+    "why": "sets a minimum threshold"
+   }
+  ],
+  "trick": "The rule prohibits cars that cannot, by design, reach at least 80 km/h.",
+  "image": ""
+ },
+ {
+  "n": 23854,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di macchine agricole",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of agricultural machines is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is that this is a prohibition, not advice or a limitation.",
+  "image": ""
+ },
+ {
+  "n": 23855,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli con carico disordinato e non solidamente assicurato o sporgente oltre i limiti consentiti",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of vehicles with a disordered load, a load not securely fastened, or a load projecting beyond the permitted limits is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non solidamente assicurato",
+    "why": "negates the required secure fastening"
+   },
+   {
+    "phrase": "oltre i limiti consentiti",
+    "why": "means beyond the allowed limits"
+   }
+  ],
+  "trick": "The statement bans circulation when the load is insecure or extends beyond permitted limits.",
+  "image": ""
+ },
+ {
+  "n": 23856,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli a tenuta non stagna e con carico scoperto, se trasportano materiali che possono disperdersi",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of non-watertight vehicles with an uncovered load is prohibited if they are carrying materials that may be dispersed.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "possono disperdersi",
+    "why": "indicates potential risk, not certainty"
+   }
+  ],
+  "trick": "The prohibition applies only if they carry materials that could be dispersed.",
+  "image": ""
+ },
+ {
+  "n": 23857,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli le cui condizioni di uso, equipaggiamento e gommatura possono costituire pericolo per la circolazione",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of vehicles whose condition of use, equipment, and tyres may constitute a danger to traffic is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "possono costituire pericolo",
+    "why": "means they may pose a danger, not only if danger is certain"
+   }
+  ],
+  "trick": "The trap is that possible danger is enough for the prohibition.",
+  "image": ""
+ },
+ {
+  "n": 23858,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di autobus per trasporto di studenti",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, the circulation of buses transporting students is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The statement claims a prohibition, which is the key point to notice.",
+  "image": ""
+ },
+ {
+  "n": 23859,
+  "it": "Sulle autostrade e strade extraurbane principali è consigliabile evitare la circolazione di veicoli a tenuta non stagna e con carico scoperto, se trasportano materiali che possono disperdersi",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, it is advisable to avoid the circulation of non-watertight vehicles with an uncovered load if they are carrying materials that may be dispersed.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "means advisable, not mandatory or prohibited"
+   },
+   {
+    "phrase": "evitare",
+    "why": "suggests avoidance rather than a legal ban"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   }
+  ],
+  "trick": "The trap is that this gives advice, not a prohibition, and only in that condition.",
+  "image": ""
+ },
+ {
+  "n": 23860,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di veicoli che trasportano animali vivi.",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, the circulation of vehicles carrying live animals is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the claimed prohibition on vehicles transporting live animals.",
+  "image": ""
+ },
+ {
+  "n": 23861,
+  "it": "Sono ammessi a circolare su autostrade e strade extraurbane principali i ciclomotori che sviluppano una velocità di almeno 50 km/h",
+  "answer": false,
+  "en": "Mopeds that can reach a speed of at least 50 km/h are allowed to circulate on motorways and main extra-urban roads.",
+  "keywords": [
+   {
+    "phrase": "Sono ammessi",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "almeno 50 km/h",
+    "why": "sets a minimum threshold"
+   }
+  ],
+  "trick": "The statement grants permission based on a minimum speed threshold.",
+  "image": ""
+ },
+ {
+  "n": 23862,
+  "it": "Sono ammesse a circolare su autostrade e strade extraurbane principali le macchine agricole, non trainanti un rimorchio",
+  "answer": false,
+  "en": "Agricultural machines not towing a trailer are allowed to circulate on motorways and main extra-urban roads.",
+  "keywords": [
+   {
+    "phrase": "Sono ammesse",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non trainanti un rimorchio",
+    "why": "restricts the statement to machines not towing a trailer"
+   }
+  ],
+  "trick": "The trap is the permission claim, limited to the case of not towing a trailer.",
+  "image": ""
+ },
+ {
+  "n": 23863,
+  "it": "Sono ammessi a circolare su autostrade e strade extraurbane principali i veicoli non muniti di pneumatici, se assicurati",
+  "answer": false,
+  "en": "Vehicles not fitted with tyres are allowed to circulate on motorways and main extra-urban roads, if insured.",
+  "keywords": [
+   {
+    "phrase": "Sono ammessi",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non muniti di pneumatici",
+    "why": "negates the presence of tyres"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   }
+  ],
+  "trick": "The statement wrongly presents permission, conditional on insurance, even without tyres.",
+  "image": ""
+ },
+ {
+  "n": 23864,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di pedoni e animali, ad eccezione delle aree di servizio e delle aree di sosta",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the circulation of pedestrians and animals is prohibited, with the exception of service areas and rest areas.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ad eccezione di",
+    "why": "introduces an exception to the rule"
+   }
+  ],
+  "trick": "The main trap is the exception: the prohibition does not apply in service and rest areas.",
+  "image": ""
+ },
+ {
+  "n": 23865,
+  "it": "Nelle aree di servizio e nelle aree di sosta delle autostrade e delle strade extraurbane principali gli animali possono circolare solo se debitamente custoditi",
+  "answer": true,
+  "en": "In the service areas and rest areas of motorways and main extra-urban roads, animals may circulate only if properly controlled.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts permission to this condition"
+   }
+  ],
+  "trick": "Animals are allowed, but only under the stated condition.",
+  "image": ""
+ },
+ {
+  "n": 23866,
+  "it": "Lungo le corsie di emergenza delle autostrade i pedoni possono transitare solo per raggiungere i punti per le richieste di soccorso",
+  "answer": true,
+  "en": "Along the emergency lanes of motorways, pedestrians may walk only to reach the emergency call points.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "strictly limits the permitted purpose"
+   }
+  ],
+  "trick": "The permission is narrow: pedestrians may use the emergency lane only for that purpose.",
+  "image": ""
+ },
+ {
+  "n": 23867,
+  "it": "In autostrada, il traino di veicoli in avaria su carreggiate, rampe, svincoli, aree di servizio o di parcheggio è consentito solo ai veicoli di soccorso autorizzati",
+  "answer": true,
+  "en": "On the motorway, towing broken-down vehicles on carriageways, slip roads, junctions, service areas, or parking areas is permitted only for authorized rescue vehicles.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "limits permission exclusively to this case"
+   },
+   {
+    "phrase": "autorizzati",
+    "why": "adds a legal authorization requirement"
+   }
+  ],
+  "trick": "The key is that towing is allowed only for specifically authorized rescue vehicles.",
+  "image": ""
+ },
+ {
+  "n": 23868,
+  "it": "Sulle autostrade e strade extraurbane principali è vietata la circolazione di pedoni e animali, anche nelle aree di servizio e nelle aree di sosta",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, the circulation of pedestrians and animals is prohibited, even in service areas and rest areas.",
+  "keywords": [
+   {
+    "phrase": "è vietata",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the rule to an additional case"
+   }
+  ],
+  "trick": "The trap is “even,” which wrongly extends the prohibition to service and rest areas.",
+  "image": ""
+ },
+ {
+  "n": 23869,
+  "it": "Nelle aree di servizio e nelle aree di sosta delle autostrade e delle strade extraurbane principali gli animali non possono circolare neppure se debitamente custoditi",
+  "answer": false,
+  "en": "In the service areas and rest areas of motorways and main extra-urban roads, animals may not circulate even if properly controlled.",
+  "keywords": [
+   {
+    "phrase": "non possono",
+    "why": "expresses prohibition by negating permission"
+   },
+   {
+    "phrase": "neppure se",
+    "why": "means not even if that condition is met"
+   }
+  ],
+  "trick": "The key trap is the strong prohibition: not even if the animals are properly controlled.",
+  "image": ""
+ },
+ {
+  "n": 23870,
+  "it": "Sulle carreggiate, sulle rampe, sugli svincoli, sulle aree di servizio o di parcheggio e in ogni altra pertinenza autostradale è vietato richiedere o concedere passaggi",
+  "answer": true,
+  "en": "On carriageways, slip roads, junctions, service areas, parking areas, and in any other motorway appurtenance, it is forbidden to ask for or give lifts.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "richiedere o concedere passaggi",
+    "why": "means asking for or giving lifts, not road priority"
+   }
+  ],
+  "trick": "The key trap is the prohibition: asking for or giving lifts is not allowed anywhere in motorway areas listed.",
+  "image": ""
+ },
+ {
+  "n": 23871,
+  "it": "Nelle aree di servizio o di parcheggio delle autostrade e in ogni altra pertinenza autostradale è possibile svolgere attività commerciali solo se autorizzate dall'ente proprietario della strada",
+  "answer": true,
+  "en": "In motorway service or parking areas, and in any other motorway appurtenance, commercial activities may be carried out only if authorised by the road owner authority.",
+  "keywords": [
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this condition only"
+   },
+   {
+    "phrase": "è possibile",
+    "why": "expresses permission, not certainty"
+   }
+  ],
+  "trick": "Commercial activity is allowed only on condition that it has been authorised.",
+  "image": ""
+ },
+ {
+  "n": 23872,
+  "it": "Sulle carreggiate, sulle rampe, sugli svincoli, sulle aree di servizio o di parcheggio e in ogni altra pertinenza autostradale è consentito campeggiare, solo nelle aree a ciò destinate e per il periodo stabilito dall'ente proprietario della strada",
+  "answer": true,
+  "en": "On carriageways, slip roads, junctions, service areas, parking areas, and in any other motorway appurtenance, camping is permitted only in areas designated for that purpose and for the period set by the road owner authority.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "limits permission to this case only"
+   },
+   {
+    "phrase": "nelle aree a ciò destinate",
+    "why": "creates an exception for designated areas only"
+   },
+   {
+    "phrase": "per il periodo stabilito",
+    "why": "adds a time limit to the permission"
+   }
+  ],
+  "trick": "Camping is not generally free: it is permitted only in designated areas and only for the set period.",
+  "image": ""
+ },
+ {
+  "n": 23873,
+  "it": "Nelle aree di servizio delle autostrade, il conducente non deve lasciare in sosta il veicolo per più di 24 ore",
+  "answer": true,
+  "en": "In motorway service areas, the driver must not leave the vehicle parked for more than 24 hours.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition/obligation not to"
+   },
+   {
+    "phrase": "per più di 24 ore",
+    "why": "sets the maximum permitted duration"
+   }
+  ],
+  "trick": "The statement sets a maximum stay: the vehicle must not remain parked beyond 24 hours.",
+  "image": ""
+ },
+ {
+  "n": 23874,
+  "it": "Nelle autostrade è consentito concedere passaggi a persone invalide",
+  "answer": false,
+  "en": "On motorways, it is permitted to give lifts to disabled persons.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is false permission: giving lifts is not allowed on motorways, even to disabled persons.",
+  "image": ""
+ },
+ {
+  "n": 23875,
+  "it": "Sulle aree di servizio delle autostrade o di parcheggio è consentito chiedere e concedere passaggi.",
+  "answer": false,
+  "en": "In motorway service or parking areas, it is permitted to ask for and give lifts.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "chiedere e concedere passaggi",
+    "why": "means asking for and giving lifts"
+   }
+  ],
+  "trick": "The trap is the claimed permission: in these areas asking for and giving lifts is actually prohibited.",
+  "image": ""
+ },
+ {
+  "n": 23876,
+  "it": "Sulle aree di servizio o di parcheggio delle autostrade e delle strade extraurbane principali è consentito campeggiare",
+  "answer": false,
+  "en": "In service or parking areas on motorways and main extra-urban roads, camping is permitted.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is overgeneralisation: camping is not simply permitted everywhere in these areas.",
+  "image": ""
+ },
+ {
+  "n": 23877,
+  "it": "Nelle aree di servizio e di parcheggio delle autostrade la durata massima per la sosta di un veicolo è di tre ore",
+  "answer": false,
+  "en": "In motorway service and parking areas, the maximum parking duration for a vehicle is three hours.",
+  "keywords": [
+   {
+    "phrase": "durata massima",
+    "why": "sets an upper limit"
+   }
+  ],
+  "trick": "The trap is the time limit: the maximum is not three hours here.",
+  "image": ""
+ },
+ {
+  "n": 23878,
+  "it": "Durante la marcia sulle autostrade e strade extraurbane principali è obbligatorio l'uso dei proiettori anabbaglianti anche di giorno",
+  "answer": true,
+  "en": "While driving on motorways and main extra-urban roads, the use of dipped headlights is compulsory even during the day.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche di giorno",
+    "why": "extends the rule to daytime too"
+   }
+  ],
+  "trick": "The key point is that dipped headlights are mandatory even in daytime on these roads.",
+  "image": ""
+ },
+ {
+  "n": 23879,
+  "it": "Durante la marcia sulle autostrade e strade extraurbane principali l'uso dei proiettori anabbaglianti è facoltativo in condizioni di perfetta visibilità",
+  "answer": false,
+  "en": "While driving on motorways and main extra-urban roads, the use of dipped headlights is optional in conditions of perfect visibility.",
+  "keywords": [
+   {
+    "phrase": "è facoltativo",
+    "why": "expresses optionality, not obligation"
+   },
+   {
+    "phrase": "in condizioni di perfetta visibilità",
+    "why": "tries to limit the rule to a special case"
+   }
+  ],
+  "trick": "The trap is false optionality: dipped headlights are still mandatory even with perfect visibility.",
+  "image": ""
+ },
+ {
+  "n": 23880,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali è vietato invertire il senso di marcia e attraversare lo spartitraffico, anche all'altezza dei varchi",
+  "answer": true,
+  "en": "On carriageways, slip roads, and junctions of motorways and main extra-urban roads, it is forbidden to make a U-turn and to cross the central reservation, even at the openings.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the prohibition to that case too"
+   },
+   {
+    "phrase": "all'altezza dei varchi",
+    "why": "specifies that even openings are no exception"
+   }
+  ],
+  "trick": "The rule bans both U-turns and crossing the median, with no exception even at openings.",
+  "image": ""
+ },
+ {
+  "n": 23881,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali è vietato percorrere la carreggiata o parte di essa nel senso di marcia opposto a quello consentito",
+  "answer": true,
+  "en": "On carriageways, slip roads, and junctions of motorways and main extra-urban roads, it is forbidden to drive on the carriageway, or part of it, in the direction opposite to the permitted one.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "opposto a quello consentito",
+    "why": "means against the allowed direction of travel"
+   }
+  ],
+  "trick": "The statement prohibits driving against the permitted direction, even on just part of the carriageway.",
+  "image": ""
+ },
+ {
+  "n": 23882,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali è vietato effettuare la retromarcia",
+  "answer": true,
+  "en": "On carriageways, slip roads, and junctions of motorways and main extra-urban roads, it is forbidden to reverse.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "effettuare la retromarcia",
+    "why": "means to drive in reverse"
+   }
+  ],
+  "trick": "The key trap is the absolute prohibition on reversing in these motorway-type areas.",
+  "image": ""
+ },
+ {
+  "n": 23883,
+  "it": "E' consentito circolare sulle corsie per la sosta di emergenza delle autostrade e strade extraurbane principali per arrestarsi per avaria del veicolo",
+  "answer": true,
+  "en": "It is permitted to drive in the emergency lane on motorways and main extra-urban roads in order to stop because of a vehicle breakdown.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per arrestarsi",
+    "why": "limits permission to stopping"
+   },
+   {
+    "phrase": "per avaria del veicolo",
+    "why": "restricts the permission to breakdown cases only"
+   }
+  ],
+  "trick": "Use of the emergency lane is allowed only for stopping due to a breakdown, not for normal driving.",
+  "image": ""
+ },
+ {
+  "n": 23884,
+  "it": "Sulle corsie per le soste di emergenza delle autostrade è vietato effettuare la retromarcia",
+  "answer": true,
+  "en": "On the emergency lanes of motorways, it is forbidden to reverse.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "effettuare la retromarcia",
+    "why": "means to drive in reverse"
+   }
+  ],
+  "trick": "The rule specifically prohibits reversing even on the emergency lane.",
+  "image": ""
+ },
+ {
+  "n": 23885,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali il conducente può invertire il senso di marcia adottando tutti gli accorgimenti necessari",
+  "answer": false,
+  "en": "On carriageways, slip roads, and junctions of motorways and main extra-urban roads, the driver may make a U-turn by taking all necessary precautions.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "adottando tutti gli accorgimenti necessari",
+    "why": "can mislead by suggesting a false exception"
+   }
+  ],
+  "trick": "The trap is false permission: taking precautions does not make a U-turn allowed here.",
+  "image": ""
+ },
+ {
+  "n": 23886,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali il conducente può invertire il senso di marcia in casi di particolare emergenza",
+  "answer": false,
+  "en": "On carriageways, slip roads, and junctions of motorways and main extra-urban roads, the driver may make a U-turn in cases of particular emergency.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in casi di particolare emergenza",
+    "why": "suggests a false exception"
+   }
+  ],
+  "trick": "The trap is the supposed emergency exception: U-turns are still not allowed.",
+  "image": ""
+ },
+ {
+  "n": 23887,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli di autostrade e strade extraurbane principali il conducente può procedere in senso contrario al normale flusso del traffico, per brevi tratti",
+  "answer": false,
+  "en": "On carriageways, slip roads, and junctions of motorways and main extra-urban roads, the driver may proceed against the normal flow of traffic for short stretches.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per brevi tratti",
+    "why": "suggests a false limited exception"
+   }
+  ],
+  "trick": "The trap is the claimed short-distance exception: driving against traffic is not allowed at all.",
+  "image": ""
+ },
+ {
+  "n": 23888,
+  "it": "Sulle autostrade e strade extraurbane principali il conducente può utilizzare la corsia di emergenza se il traffico è intenso",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, the driver may use the emergency lane if traffic is heavy.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se il traffico è intenso",
+    "why": "suggests a false condition allowing it"
+   }
+  ],
+  "trick": "The trap is false permission: heavy traffic does not allow use of the emergency lane.",
+  "image": ""
+ },
+ {
+  "n": 23889,
+  "it": "Sulle autostrade e sulle strade extraurbane principali il conducente che percorre la corsia di accelerazione deve dare la precedenza ai veicoli in circolazione sulle corsie di marcia",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, a driver travelling in the acceleration lane must give way to vehicles travelling in the traffic lanes.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses obligation to give way"
+   }
+  ],
+  "trick": "The key point is obligation: vehicles in the acceleration lane must yield to traffic already on the main lanes.",
+  "image": ""
+ },
+ {
+  "n": 23890,
+  "it": "Sulle autostrade e sulle strade extraurbane principali, per uscire dalla carreggiata il conducente deve impegnare per tempo la corsia di destra, e quindi immettersi nella corsia di decelerazione dal suo inizio",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, to leave the carriageway the driver must move into the right-hand lane in good time, and then enter the deceleration lane from its beginning.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not a choice"
+   },
+   {
+    "phrase": "per tempo",
+    "why": "means in good time, not literally by time"
+   },
+   {
+    "phrase": "dal suo inizio",
+    "why": "requires entering from the start of the lane"
+   }
+  ],
+  "trick": "The key traps are the obligation to move right in advance and to enter the deceleration lane from its beginning.",
+  "image": ""
+ },
+ {
+  "n": 23891,
+  "it": "Sulle autostrade e sulle strade extraurbane principali il conducente deve segnalare tempestivamente il cambiamento di corsia servendosi degli indicatori di direzione",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, the driver must promptly signal a lane change by using the direction indicators.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not a choice"
+   },
+   {
+    "phrase": "tempestivamente",
+    "why": "means promptly or in good time"
+   }
+  ],
+  "trick": "The sentence states a mandatory duty to signal the lane change promptly.",
+  "image": ""
+ },
+ {
+  "n": 23892,
+  "it": "In caso di ingorgo su strade extraurbane principali o autostrade, se la corsia di emergenza manca o non è sufficiente alla circolazione dei veicoli di polizia o di soccorso, il conducente del veicolo che occupa la prima corsia di destra deve disporsi il più vicino possibile alla striscia di sinistra",
+  "answer": true,
+  "en": "In the event of a traffic jam on main extra-urban roads or motorways, if the emergency lane is missing or is not sufficient for the passage of police or rescue vehicles, the driver of the vehicle occupying the far-right lane must position the vehicle as close as possible to the line on the left.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this specific situation"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition for the rule"
+   },
+   {
+    "phrase": "manca o non è sufficiente",
+    "why": "sets the exception condition triggering the duty"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not a choice"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "requires maximum practical closeness"
+   }
+  ],
+  "trick": "The obligation applies only in a traffic jam and only if the emergency lane is absent or inadequate.",
+  "image": ""
+ },
+ {
+  "n": 23893,
+  "it": "In caso di ingorgo il conducente può transitare sulla corsia per la sosta di emergenza solo per uscire dall'autostrada, a partire dal cartello di preavviso di uscita posto a 500 metri dallo svincolo",
+  "answer": true,
+  "en": "In the event of a traffic jam, the driver may use the emergency stopping lane only to leave the motorway, starting from the exit warning sign placed 500 metres before the interchange.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the permission to this case only"
+   },
+   {
+    "phrase": "a partire da",
+    "why": "sets the exact point from which it is allowed"
+   }
+  ],
+  "trick": "The permission is limited to exiting the motorway and only from the 500-metre advance exit sign onward.",
+  "image": ""
+ },
+ {
+  "n": 23894,
+  "it": "Sulle autostrade e sulle strade extraurbane principali, per uscire dalla carreggiata il conducente può immettersi nella corsia di decelerazione anche nel tratto successivo al suo inizio",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, to leave the carriageway the driver may enter the deceleration lane also in the section after its beginning.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the claim to an additional case"
+   },
+   {
+    "phrase": "nel tratto successivo al suo inizio",
+    "why": "means after the start, not from the beginning"
+   }
+  ],
+  "trick": "The trap is the claimed permission to enter the deceleration lane after its beginning.",
+  "image": ""
+ },
+ {
+  "n": 23895,
+  "it": "Sulle autostrade e sulle strade extraurbane principali se il traffico non è intenso il conducente non ha l'obbligo di servirsi degli indicatori di direzione per segnalare il cambiamento di corsia",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, if traffic is not heavy, the driver is not obliged to use the direction indicators to signal a lane change.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non è intenso",
+    "why": "negates the traffic condition"
+   },
+   {
+    "phrase": "non ha l'obbligo di",
+    "why": "removes obligation, not necessarily permission"
+   }
+  ],
+  "trick": "The tricky part is that it denies the obligation to signal when traffic is light.",
+  "image": ""
+ },
+ {
+  "n": 23896,
+  "it": "Sulle autostrade e sulle strade extraurbane principali è consentita la marcia per file parallele anche in assenza di traffico",
+  "answer": false,
+  "en": "On motorways and main extra-urban roads, driving in parallel lines is permitted even when there is no traffic.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the rule to an additional case"
+   },
+   {
+    "phrase": "in assenza di traffico",
+    "why": "means even with no traffic present"
+   }
+  ],
+  "trick": "The trap is the claimed permission even when there is no traffic.",
+  "image": ""
+ },
+ {
+  "n": 23897,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade è consentito sostare solo in situazioni di emergenza dovute a malessere del conducente o dei passeggeri oppure ad inefficienza del veicolo",
+  "answer": true,
+  "en": "On motorway carriageways, ramps and interchanges, stopping is allowed only in emergency situations due to illness of the driver or passengers, or because of vehicle malfunction.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the permission to this case only"
+   },
+   {
+    "phrase": "situazioni di emergenza",
+    "why": "limits the rule to emergency cases only"
+   },
+   {
+    "phrase": "oppure",
+    "why": "adds an alternative permitted reason"
+   }
+  ],
+  "trick": "Stopping is allowed only in the listed emergency cases, not generally.",
+  "image": ""
+ },
+ {
+  "n": 23898,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade è consentito, nel caso di malessere di un passeggero, fermarsi sulla corsia per la sosta di emergenza",
+  "answer": true,
+  "en": "On motorway carriageways, ramps and interchanges, in the case of a passenger feeling unwell, it is permitted to stop in the emergency stopping lane.",
+  "keywords": [
+   {
+    "phrase": "nel caso di",
+    "why": "limits the rule to this specific case"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The sentence grants permission specifically when a passenger feels unwell.",
+  "image": ""
+ },
+ {
+  "n": 23899,
+  "it": "In caso di malessere di un passeggero durante la circolazione sulla carreggiata autostradale, è consentito fermarsi sulla corsia per la sosta di emergenza",
+  "answer": true,
+  "en": "If a passenger feels unwell while travelling on the motorway carriageway, it is permitted to stop in the emergency stopping lane.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this specific situation"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The permission to stop applies specifically in the case of a passenger's illness.",
+  "image": ""
+ },
+ {
+  "n": 23900,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade la sosta di emergenza non deve superare il tempo strettamente necessario e non deve protrarsi comunque oltre tre ore",
+  "answer": true,
+  "en": "On motorway carriageways, ramps and interchanges, an emergency stop must not exceed the time strictly necessary and in any case must not continue for more than three hours.",
+  "keywords": [
+   {
+    "phrase": "non deve superare",
+    "why": "sets a strict maximum limit"
+   },
+   {
+    "phrase": "strettamente necessario",
+    "why": "means only the minimum necessary time"
+   },
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negated obligation"
+   },
+   {
+    "phrase": "comunque oltre tre ore",
+    "why": "sets an absolute maximum in any case"
+   }
+  ],
+  "trick": "The stop must be only as long as necessary and never more than three hours.",
+  "image": ""
+ },
+ {
+  "n": 23901,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade è vietato sostare o fermarsi, in caso di malessere dei passeggeri",
+  "answer": false,
+  "en": "On motorway carriageways, ramps and interchanges, it is forbidden to stop or pull over in the event of passengers feeling unwell.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the statement to this situation"
+   }
+  ],
+  "trick": "The trap is the claimed prohibition even when passengers feel unwell.",
+  "image": ""
+ },
+ {
+  "n": 23903,
+  "it": "Sulle carreggiate, sulle rampe e sugli svincoli delle autostrade la sosta di emergenza non deve superare il tempo strettamente necessario e può protrarsi fino a 24 ore",
+  "answer": false,
+  "en": "On motorway carriageways, ramps and interchanges, an emergency stop must not exceed the time strictly necessary and may continue for up to 24 hours.",
+  "keywords": [
+   {
+    "phrase": "non deve superare",
+    "why": "sets a strict maximum limit"
+   },
+   {
+    "phrase": "strettamente necessario",
+    "why": "means only the minimum necessary time"
+   },
+   {
+    "phrase": "può protrarsi fino a 24 ore",
+    "why": "claims permission up to a long time limit"
+   }
+  ],
+  "trick": "The contradiction trap is between only the strictly necessary time and the claimed allowance of up to 24 hours.",
+  "image": ""
+ },
+ {
+  "n": 23904,
+  "it": "In autostrada è vietato dare un passaggio ad un automobilista fermo per avaria del veicolo sulla corsia di emergenza",
+  "answer": true,
+  "en": "On the motorway, it is forbidden to give a lift to a motorist stopped because of a vehicle breakdown in the emergency lane.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "per avaria del veicolo",
+    "why": "specifies the reason for being stopped"
+   }
+  ],
+  "trick": "The key trap is the clear prohibition on giving a lift in this motorway breakdown situation.",
+  "image": ""
+ },
+ {
+  "n": 23905,
+  "it": "Qualora il conducente veda un automobilista fermo con veicolo in avaria in autostrada, lo deve accompagnare fino alla stazione di servizio più vicina",
+  "answer": false,
+  "en": "If the driver sees a motorist stopped with a broken-down vehicle on the motorway, he must accompany him to the nearest service station.",
+  "keywords": [
+   {
+    "phrase": "Qualora",
+    "why": "introduces a conditional situation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not a choice"
+   },
+   {
+    "phrase": "più vicina",
+    "why": "restricts it to the nearest place"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to take the motorist to the nearest service station.",
+  "image": ""
+ },
+ {
+  "n": 23906,
+  "it": "Qualora il conducente veda un automobilista fermo per avaria del veicolo in autostrada, si deve fermare a prestare soccorso",
+  "answer": false,
+  "en": "If the driver sees a motorist stopped on the motorway because of a vehicle breakdown, he must stop to provide assistance.",
+  "keywords": [
+   {
+    "phrase": "Qualora",
+    "why": "introduces a conditional situation"
+   },
+   {
+    "phrase": "si deve fermare",
+    "why": "expresses an obligation to stop"
+   }
+  ],
+  "trick": "The sentence is tricky because it states a duty to stop and help on the motorway.",
+  "image": ""
+ },
+ {
+  "n": 23907,
+  "it": "Qualora il conducente veda un automobilista fermo per avaria del veicolo in autostrada, se lo ha superato può retrocedere con prudenza per soccorrerlo",
+  "answer": false,
+  "en": "If the driver sees a motorist stopped on the motorway because of a vehicle breakdown, if he has passed him he may reverse carefully to help him.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "retrocedere",
+    "why": "means reverse, a highly restricted action"
+   }
+  ],
+  "trick": "The trap is the claimed permission to reverse on the motorway after passing the broken-down motorist.",
+  "image": ""
+ },
+ {
+  "n": 23908,
+  "it": "Qualora il conducente veda un automobilista fermo in autostrada per avaria del veicolo può trainare prudentemente il veicolo, fino al primo casello di uscita",
+  "answer": false,
+  "en": "If the driver sees a motorist stopped on the motorway because of a vehicle breakdown, he may carefully tow the vehicle as far as the first exit toll booth.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "fino al primo casello di uscita",
+    "why": "sets a specific claimed limit for the towing"
+   }
+  ],
+  "trick": "The tricky claim is that towing is allowed up to the first motorway exit.",
+  "image": ""
+ },
+ {
+  "n": 23909,
+  "it": "Tutti i passeggeri dei veicoli a motore devono prendere posto in modo da non limitare la libertà del conducente e da non impedirgli la visibilità",
+  "answer": true,
+  "en": "All passengers in motor vehicles must sit in such a way as not to restrict the driver's freedom and not to obstruct his visibility.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "da non",
+    "why": "expresses what must be avoided"
+   }
+  ],
+  "trick": "Passengers are under an obligation to position themselves so they do not hinder the driver.",
+  "image": ""
+ },
+ {
+  "n": 23910,
+  "it": "Il numero massimo di posti sulle autovetture è indicato sulla carta di circolazione",
+  "answer": true,
+  "en": "The maximum number of seats in passenger cars is indicated on the vehicle registration document.",
+  "keywords": [],
+  "trick": "There are no significant trap words here beyond the straightforward statement.",
+  "image": ""
+ },
+ {
+  "n": 23911,
+  "it": "Sui veicoli è consentito il trasporto di un animale domestico, comunque in condizione da non costituire impedimento o pericolo per la guida",
+  "answer": true,
+  "en": "On vehicles, it is permitted to transport one pet, provided that it is kept in such a way as not to create an obstruction or danger for driving.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "comunque",
+    "why": "still imposes a condition despite the permission"
+   },
+   {
+    "phrase": "da non costituire impedimento o pericolo",
+    "why": "negative condition limiting what is allowed"
+   }
+  ],
+  "trick": "The sentence allows pet transport, but only if the animal does not obstruct or endanger driving.",
+  "image": ""
+ },
+ {
+  "n": 23912,
+  "it": "Sui veicoli è consentito il trasporto di animali domestici anche in numero superiore ad uno, purché custoditi in gabbia o nel vano posteriore, appositamente diviso da rete",
+  "answer": true,
+  "en": "On vehicles, it is permitted to transport pets even in a number greater than one, provided they are kept in a cage or in the rear compartment specially separated by a net.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche in numero superiore ad uno",
+    "why": "extends the rule to more than one animal"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a strict condition for the permission"
+   }
+  ],
+  "trick": "More than one pet is allowed, but only if they are confined in the specified way.",
+  "image": ""
+ },
+ {
+  "n": 23913,
+  "it": "Il numero delle persone trasportabili sulle autovetture indicato sulla carta di circolazione non comprende il conducente",
+  "answer": false,
+  "en": "The number of people that can be carried in passenger cars as indicated on the registration certificate does not include the driver.",
+  "keywords": [
+   {
+    "phrase": "non comprende",
+    "why": "negates inclusion of the driver"
+   }
+  ],
+  "trick": "The trap is the negation, because the official number actually includes the driver.",
+  "image": ""
+ },
+ {
+  "n": 23914,
+  "it": "Il numero delle persone trasportabili sulle autovetture può raggiungere il massimo di dieci",
+  "answer": false,
+  "en": "The number of people that can be carried in passenger cars can reach a maximum of ten.",
+  "keywords": [
+   {
+    "phrase": "può raggiungere",
+    "why": "expresses possibility or allowed maximum"
+   },
+   {
+    "phrase": "il massimo di dieci",
+    "why": "sets an upper limit that may sound plausible"
+   }
+  ],
+  "trick": "The key trap is the claimed maximum number, which is not correct for passenger cars.",
+  "image": ""
+ },
+ {
+  "n": 23915,
+  "it": "Sui veicoli è consentito il trasporto di cani anche in numero superiore ad uno, purché adeguatamente trattenuti al guinzaglio",
+  "answer": false,
+  "en": "On vehicles, it is permitted to transport dogs even in a number greater than one, provided they are properly restrained on a leash.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche in numero superiore ad uno",
+    "why": "extends the rule to more than one dog"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a strict condition for the permission"
+   }
+  ],
+  "trick": "The trap is the condition: more than one dog is not allowed merely because they are on a leash.",
+  "image": ""
+ },
+ {
+  "n": 23917,
+  "it": "Sui motocicli è vietato il trasporto di minori di anni 5",
+  "answer": true,
+  "en": "On motorcycles, it is forbidden to transport children under 5 years of age.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "minori di anni 5",
+    "why": "means under 5 years old, not 5 and under"
+   }
+  ],
+  "trick": "The sentence states a clear prohibition for children younger than five.",
+  "image": ""
+ },
+ {
+  "n": 23918,
+  "it": "E' vietato ai conducenti di motocicli trainare e farsi trainare da altri veicoli",
+  "answer": true,
+  "en": "Motorcycle riders are forbidden to tow or be towed by other vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "trainare e farsi trainare",
+    "why": "covers both towing and being towed"
+   }
+  ],
+  "trick": "The trap is that both actions are prohibited, not just one of them.",
+  "image": ""
+ },
+ {
+  "n": 23919,
+  "it": "Sui motocicli è vietato trasportare oggetti che non siano solidamente assicurati",
+  "answer": true,
+  "en": "On motorcycles, it is forbidden to carry objects that are not securely fastened.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non siano solidamente assicurati",
+    "why": "negative condition defining what is forbidden"
+   }
+  ],
+  "trick": "The prohibition applies specifically to objects that are not firmly secured.",
+  "image": ""
+ },
+ {
+  "n": 23920,
+  "it": "Sui motocicli è vietato trasportare oggetti che impediscano o limitino la visibilità al conducente",
+  "answer": true,
+  "en": "On motorcycles, it is forbidden to carry objects that obstruct or limit the rider's visibility.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "impediscano o limitino",
+    "why": "includes both complete obstruction and partial reduction"
+   }
+  ],
+  "trick": "The rule forbids objects that either block or merely reduce the rider's visibility.",
+  "image": ""
+ },
+ {
+  "n": 23921,
+  "it": "Sui motocicli è possibile trasportare un passeggero solo se quest'ultimo è maggiorenne",
+  "answer": false,
+  "en": "On motorcycles, it is possible to carry a passenger only if that passenger is an adult.",
+  "keywords": [
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "maggiorenne",
+    "why": "means legally adult, not simply older or bigger"
+   }
+  ],
+  "trick": "The trap is the word 'only', which wrongly makes adulthood the sole condition.",
+  "image": ""
+ },
+ {
+  "n": 23922,
+  "it": "E' consentito ai motocicli farsi trainare, ma solo da autovetture",
+  "answer": false,
+  "en": "Motorcycles are allowed to be towed, but only by passenger cars.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "ma solo",
+    "why": "restricts the permission to one case only"
+   },
+   {
+    "phrase": "farsi trainare",
+    "why": "means being towed, not towing"
+   }
+  ],
+  "trick": "The trap is that the sentence wrongly grants a limited permission to be towed.",
+  "image": ""
+ },
+ {
+  "n": 23923,
+  "it": "Sui motocicli è vietato trasportare oggetti che sporgano longitudinalmente rispetto alla sagoma del veicolo",
+  "answer": false,
+  "en": "On motorcycles, it is forbidden to carry objects that project lengthwise beyond the outline of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sporgano longitudinalmente",
+    "why": "means projecting lengthwise, not sideways"
+   },
+   {
+    "phrase": "rispetto alla sagoma del veicolo",
+    "why": "refers to the vehicle's overall outline limits"
+   }
+  ],
+  "trick": "The key trap is 'longitudinally': that kind of projection is not absolutely forbidden in all cases.",
+  "image": "images/q_23923.png"
+ },
+ {
+  "n": 23924,
+  "it": "Il carico dei veicoli deve essere sistemato in modo da evitarne la caduta o la dispersione",
+  "answer": true,
+  "en": "The load of vehicles must be arranged in such a way as to prevent it from falling or spilling.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "da evitarne la caduta o la dispersione",
+    "why": "states the required safety purpose"
+   }
+  ],
+  "trick": "The sentence imposes an obligation to secure the load against falling or dispersing.",
+  "image": "images/q_23924.png"
+ },
+ {
+  "n": 23925,
+  "it": "Il carico dei veicoli deve essere sistemato in modo da non diminuire la visibilità al conducente né impedirgli la libertà dei movimenti nella guida",
+  "answer": true,
+  "en": "The load of vehicles must be arranged in such a way as not to reduce the driver's visibility nor prevent freedom of movement while driving.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "da non diminuire",
+    "why": "negative requirement limiting how the load is placed"
+   },
+   {
+    "phrase": "né impedirgli",
+    "why": "adds a second prohibition within the same rule"
+   }
+  ],
+  "trick": "The load must neither reduce visibility nor hinder the driver's movements.",
+  "image": ""
+ },
+ {
+  "n": 23926,
+  "it": "Il carico dei veicoli deve essere sistemato in modo da non compromettere la stabilità del veicolo",
+  "answer": true,
+  "en": "The load of vehicles must be arranged in such a way as not to compromise the vehicle's stability.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "da non compromettere",
+    "why": "negative requirement about stability"
+   }
+  ],
+  "trick": "The sentence imposes a duty to place the load so vehicle stability is not affected.",
+  "image": ""
+ },
+ {
+  "n": 23927,
+  "it": "Il carico dei veicoli deve essere sistemato in modo da non mascherare dispositivi di illuminazione e di segnalazione visiva né le targhe di riconoscimento e i segnali fatti col braccio",
+  "answer": true,
+  "en": "The load of vehicles must be arranged in such a way as not to conceal lighting and visual signalling devices, nor the registration plates and signals made with the arm.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "da non mascherare",
+    "why": "negative requirement about covering devices or plates"
+   },
+   {
+    "phrase": "né",
+    "why": "adds further items that must not be concealed"
+   }
+  ],
+  "trick": "The rule requires the load not to cover lights, signals, plates, or arm signals.",
+  "image": ""
+ },
+ {
+  "n": 23928,
+  "it": "Il carico del veicolo deve essere sistemato in modo da evitarne la caduta o la dispersione solo se il conducente deve condurre il veicolo su strada extraurbana",
+  "answer": false,
+  "en": "The vehicle's load must be arranged in such a way as to prevent it from falling or spilling only if the driver must drive the vehicle on an extra-urban road.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "wrongly restricts the rule to only this case"
+   },
+   {
+    "phrase": "strada extraurbana",
+    "why": "adds a road-type limitation that changes the rule"
+   }
+  ],
+  "trick": "The trap is 'only if': the obligation applies generally, not just on extra-urban roads.",
+  "image": ""
+ },
+ {
+  "n": 23929,
+  "it": "Il carico dei veicoli deve essere sistemato in modo da non mascherare dispositivi di illuminazione e di segnalazione visiva soltanto durante la circolazione notturna",
+  "answer": false,
+  "en": "The load of vehicles must be arranged in such a way as not to conceal lighting and visual signalling devices only during night-time driving.",
+  "keywords": [
+   {
+    "phrase": "deve essere sistemato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non mascherare",
+    "why": "negative requirement about covering devices"
+   },
+   {
+    "phrase": "soltanto durante la circolazione notturna",
+    "why": "wrongly limits the rule to night-time only"
+   }
+  ],
+  "trick": "The trap is the time restriction, because the rule applies not only at night.",
+  "image": ""
+ },
+ {
+  "n": 23930,
+  "it": "Il carico non deve superare il limite di sagoma stabilito per ogni tipo di veicolo",
+  "answer": true,
+  "en": "The load must not exceed the size limit established for each type of vehicle.",
+  "keywords": [
+   {
+    "phrase": "non deve superare",
+    "why": "expresses prohibition through negated obligation"
+   },
+   {
+    "phrase": "limite di sagoma",
+    "why": "refers to the permitted overall dimensions"
+   }
+  ],
+  "trick": "The sentence prohibits exceeding the vehicle's allowed overall size limits.",
+  "image": ""
+ },
+ {
+  "n": 23931,
+  "it": "Sugli autoveicoli, il carico non può sporgere longitudinalmente dalla parte anteriore",
+  "answer": true,
+  "en": "On motor vehicles, the load cannot project lengthwise from the front part.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition, not inability"
+   },
+   {
+    "phrase": "sporgere longitudinalmente",
+    "why": "means projecting lengthwise, not sideways"
+   },
+   {
+    "phrase": "dalla parte anteriore",
+    "why": "specifies the front end only"
+   }
+  ],
+  "trick": "The rule specifically forbids any lengthwise projection from the front of the vehicle.",
+  "image": ""
+ },
+ {
+  "n": 23932,
+  "it": "Il carico può sporgere longitudinalmente dalla parte posteriore, se costituito da cose indivisibili, fino ai 3/10 della lunghezza dell'autoveicolo",
+  "answer": true,
+  "en": "The load may project lengthwise from the rear, if it consists of indivisible items, up to 3/10 of the length of the motor vehicle.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "se costituito da cose indivisibili",
+    "why": "limits the rule to this specific case"
+   },
+   {
+    "phrase": "fino ai 3/10",
+    "why": "sets a maximum limit, not an exact amount"
+   }
+  ],
+  "trick": "Watch for permission, the condition about indivisible items, and the maximum allowed projection.",
+  "image": ""
+ },
+ {
+  "n": 23933,
+  "it": "Sugli autoveicoli possono essere trasportate cose che sporgono lateralmente fuori della loro sagoma non più di 30 centimetri dalle luci di posizione anteriori e posteriori (comunque entro i limiti massimi di sagoma)",
+  "answer": true,
+  "en": "On motor vehicles, items may be carried that project sideways beyond their outline by no more than 30 centimetres from the front and rear position lights, in any case within the maximum overall size limits.",
+  "keywords": [
+   {
+    "phrase": "possono essere trasportate",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "non più di 30 centimetri",
+    "why": "sets a strict maximum limit"
+   },
+   {
+    "phrase": "comunque entro i limiti massimi di sagoma",
+    "why": "adds an overriding restriction"
+   }
+  ],
+  "trick": "The sentence allows this transport, but only within strict side projection and overall size limits.",
+  "image": ""
+ },
+ {
+  "n": 23934,
+  "it": "E' vietato trasportare o trainare cose che strisciano sul terreno, anche se in parte sostenute da ruote",
+  "answer": true,
+  "en": "It is forbidden to carry or tow things that drag on the ground, even if they are partly supported by wheels.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means the prohibition still applies despite this condition"
+   }
+  ],
+  "trick": "The ban remains in force even when the object is partly supported by wheels.",
+  "image": ""
+ },
+ {
+  "n": 23935,
+  "it": "Se il carico sporge oltre la sagoma del veicolo, il conducente deve adottare tutte le cautele idonee ad evitare pericolo agli altri utenti della strada",
+  "answer": true,
+  "en": "If the load projects beyond the vehicle's outline, the driver must take all suitable precautions to avoid danger to other road users.",
+  "keywords": [
+   {
+    "phrase": "Se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "This is a mandatory duty that applies when the load extends beyond the vehicle's outline.",
+  "image": ""
+ },
+ {
+  "n": 23936,
+  "it": "Il carico deve essere sistemato sul veicolo in modo da segnalarne la sporgenza posteriore con il pannello retroriflettente in figura",
+  "answer": false,
+  "en": "The load must be arranged on the vehicle in such a way as to indicate its rear projection with the reflective panel shown.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in modo da",
+    "why": "indicates the required manner or purpose"
+   }
+  ],
+  "trick": "The key trap is the mandatory wording about how the load must be arranged and marked.",
+  "image": ""
+ },
+ {
+  "n": 23937,
+  "it": "Il carico può sporgere lateralmente, se costituito da cose indivisibili, fino ai 3/10 della larghezza del veicolo",
+  "answer": false,
+  "en": "The load may project sideways, if it consists of indivisible items, up to 3/10 of the vehicle's width.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "se costituito da cose indivisibili",
+    "why": "limits the rule to this specific case"
+   },
+   {
+    "phrase": "fino ai 3/10",
+    "why": "sets a maximum limit, not an exact amount"
+   }
+  ],
+  "trick": "The statement uses permission plus a condition and a maximum width limit.",
+  "image": ""
+ },
+ {
+  "n": 23938,
+  "it": "E' consentito trasportare o trainare cose che strisciano sul terreno se in parte sostenute da ruote",
+  "answer": false,
+  "en": "It is permitted to carry or tow things that drag on the ground if they are partly supported by wheels.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   }
+  ],
+  "trick": "The trap is that the sentence grants permission in a specific condition.",
+  "image": ""
+ },
+ {
+  "n": 23939,
+  "it": "La sporgenza longitudinale del carico, fino ai 3/10 della lunghezza del veicolo, deve essere segnalata mediante uno o due pannelli quadrangolari in figura",
+  "answer": true,
+  "en": "The lengthwise projection of the load, up to 3/10 of the length of the vehicle, must be indicated by means of one or two rectangular panels shown.",
+  "keywords": [
+   {
+    "phrase": "fino ai 3/10",
+    "why": "sets a maximum limit, not an exact amount"
+   },
+   {
+    "phrase": "deve essere segnalata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "uno o due",
+    "why": "allows either one or two depending on the case"
+   }
+  ],
+  "trick": "Note the mandatory marking requirement, the maximum projection, and that the number of panels can vary.",
+  "image": ""
+ },
+ {
+  "n": 23940,
+  "it": "Il pannello in figura deve essere applicato in ogni caso in cui il carico sporge posteriormente, anche se di poco",
+  "answer": true,
+  "en": "The panel shown must be applied in every case where the load projects from the rear, even if only slightly.",
+  "keywords": [
+   {
+    "phrase": "deve essere applicato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "means without exceptions"
+   },
+   {
+    "phrase": "anche se di poco",
+    "why": "shows the rule applies even for a small projection"
+   }
+  ],
+  "trick": "The panel is mandatory in all rear projection cases, even minimal ones.",
+  "image": "images/q_23940.png"
+ },
+ {
+  "n": 23941,
+  "it": "Il pannello in figura segnala carichi indivisibili che sporgono dalla parte posteriore del veicolo",
+  "answer": true,
+  "en": "The panel shown indicates indivisible loads projecting from the rear of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "indivisibili",
+    "why": "restricts the meaning to this specific type of load"
+   }
+  ],
+  "trick": "The key restriction is that the panel refers to indivisible loads, not any load.",
+  "image": "images/q_23941.png"
+ },
+ {
+  "n": 23942,
+  "it": "Se il carico sporge longitudinalmente per l'intera larghezza della parte posteriore del veicolo, i pannelli in figura devono essere due, posti trasversalmente alle due estremità del carico",
+  "answer": true,
+  "en": "If the load projects lengthwise across the entire width of the rear part of the vehicle, the panels shown must be two, placed transversely at the two ends of the load.",
+  "keywords": [
+   {
+    "phrase": "Se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "per l'intera larghezza",
+    "why": "restricts the rule to the full width case"
+   },
+   {
+    "phrase": "devono essere due",
+    "why": "expresses an exact obligation on quantity"
+   }
+  ],
+  "trick": "Two panels are required only in the specific case where the load spans the full rear width.",
+  "image": "images/q_23942.png"
+ },
+ {
+  "n": 23943,
+  "it": "La sporgenza longitudinale del carico, fino ai 3/10 della lunghezza del veicolo, deve essere segnalata mediante uno o due pannelli in figura",
+  "answer": false,
+  "en": "The lengthwise projection of the load, up to 3/10 of the vehicle's length, must be indicated by means of one or two panels shown.",
+  "keywords": [
+   {
+    "phrase": "fino ai 3/10",
+    "why": "sets a maximum limit, not an exact amount"
+   },
+   {
+    "phrase": "deve essere segnalata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "uno o due",
+    "why": "allows either one or two depending on the case"
+   }
+  ],
+  "trick": "The traps are the mandatory marking, the maximum limit, and the variable number of panels.",
+  "image": "images/q_23943.png"
+ },
+ {
+  "n": 23944,
+  "it": "Il pannello in figura segnala carichi indivisibili che sporgono dalla parte posteriore destra",
+  "answer": false,
+  "en": "The panel shown indicates indivisible loads projecting from the rear right-hand side.",
+  "keywords": [
+   {
+    "phrase": "parte posteriore destra",
+    "why": "adds a specific side restriction"
+   }
+  ],
+  "trick": "The tricky part is the added reference to the rear right side, which narrows the meaning.",
+  "image": "images/q_23944.png"
+ },
+ {
+  "n": 23945,
+  "it": "Se il carico sporge longitudinalmente per l'intera larghezza della parte posteriore del veicolo, si devono applicare due pannelli retroriflettenti in figura",
+  "answer": false,
+  "en": "If the load projects lengthwise across the entire width of the rear part of the vehicle, two reflective panels shown must be applied.",
+  "keywords": [
+   {
+    "phrase": "Se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "per l'intera larghezza",
+    "why": "restricts the rule to the full width case"
+   },
+   {
+    "phrase": "si devono applicare due",
+    "why": "expresses an exact obligation on quantity"
+   }
+  ],
+  "trick": "This is a conditional rule that requires exactly two panels in the full-width case.",
+  "image": "images/q_23945.png"
+ },
+ {
+  "n": 23946,
+  "it": "Il pannello arancione retroriflettente in figura segnala veicoli che stanno trasportando merci pericolose",
+  "answer": true,
+  "en": "The orange reflective panel shown indicates vehicles that are carrying dangerous goods.",
+  "keywords": [],
+  "trick": "There are no major trap words here beyond correctly identifying what the panel indicates.",
+  "image": "images/q_23946.png"
+ },
+ {
+  "n": 23947,
+  "it": "Il pannello in figura facilita l'individuazione dalla parte posteriore di autocarri con massa a pieno carico superiore a 3,5 tonnellate",
+  "answer": true,
+  "en": "The panel shown makes it easier to identify from the rear goods vehicles with a fully laden mass exceeding 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a threshold above this weight only"
+   }
+  ],
+  "trick": "The key trap is the weight threshold, which applies only above 3.5 tonnes.",
+  "image": "images/q_23947.png"
+ },
+ {
+  "n": 23948,
+  "it": "Il pannello giallo in figura posto nella parte posteriore del rimorchio individua un autotreno o un autoarticolato",
+  "answer": true,
+  "en": "The yellow panel shown, placed at the rear of the trailer, identifies a road train or an articulated vehicle.",
+  "keywords": [],
+  "trick": "There are no strong trap words; the main task is accurate vehicle-term translation.",
+  "image": "images/q_23948.png"
+ },
+ {
+  "n": 23949,
+  "it": "Il pannello arancione retroriflettente riprodott0 in figura è collocato posteriormente per segnalare carichi sporgenti pericolosi",
+  "answer": false,
+  "en": "The orange reflective panel shown in the picture is placed at the rear to indicate dangerous projecting loads.",
+  "keywords": [
+   {
+    "phrase": "posteriormente",
+    "why": "specifies the panel's rear placement"
+   }
+  ],
+  "trick": "The main trap is the specific rear placement linked to what the panel is said to indicate.",
+  "image": "images/q_23949.png"
+ },
+ {
+  "n": 23950,
+  "it": "I pannelli in figura sono posti sulla carreggiata per segnalare un ostacolo",
+  "answer": false,
+  "en": "The panels shown are placed on the carriageway to indicate an obstacle.",
+  "keywords": [],
+  "trick": "There are no significant trap words in this sentence.",
+  "image": "images/q_23950.png"
+ },
+ {
+  "n": 23951,
+  "it": "Il pannello in figura deve essere applicato posteriormente agli autobus di massa totale superiore a 3,5 tonnellate",
+  "answer": false,
+  "en": "The panel shown must be applied at the rear of buses with a total mass exceeding 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "deve essere applicato",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets a threshold above this weight only"
+   }
+  ],
+  "trick": "The traps are the mandatory wording and the weight threshold.",
+  "image": "images/q_23951.png"
+ },
+ {
+  "n": 23952,
+  "it": "Nessun veicolo può trainare o essere trainato da più di un veicolo (salvo il caso di trasporti eccezionali)",
+  "answer": true,
+  "en": "No vehicle may tow, or be towed by, more than one vehicle (except in the case of exceptional transport).",
+  "keywords": [
+   {
+    "phrase": "Nessun",
+    "why": "negates the whole statement"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission/possibility, not obligation"
+   },
+   {
+    "phrase": "più di un veicolo",
+    "why": "sets the maximum limit"
+   },
+   {
+    "phrase": "salvo il caso di",
+    "why": "introduces an exception"
+   }
+  ],
+  "trick": "Watch the full negation and the exception: no vehicle may tow or be towed by more than one vehicle, except in that specific case.",
+  "image": ""
+ },
+ {
+  "n": 23953,
+  "it": "Un autoveicolo può trainare un veicolo che non sia un rimorchio se questo non può più circolare per avaria o per mancanza di organi essenziali",
+  "answer": true,
+  "en": "A motor vehicle may tow a vehicle that is not a trailer if it can no longer circulate because of a breakdown or because essential parts are missing.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "che non sia un rimorchio",
+    "why": "excludes trailers from the category"
+   },
+   {
+    "phrase": "non può più circolare",
+    "why": "negates continued ability to circulate"
+   },
+   {
+    "phrase": "per avaria o per mancanza di organi essenziali",
+    "why": "limits the rule to these reasons"
+   }
+  ],
+  "trick": "The permission applies only if the towed vehicle is not a trailer and can no longer circulate for those specific reasons.",
+  "image": ""
+ },
+ {
+  "n": 23954,
+  "it": "Il traino per situazione di emergenza di un veicolo da parte di un altro deve avvenire attraverso un solido collegamento, come fune, catena, cavo, barra rigida, purché idoneamente segnalati",
+  "answer": true,
+  "en": "In an emergency, towing a vehicle by another vehicle must take place by means of a solid connection, such as a rope, chain, cable, or rigid bar, provided they are properly marked.",
+  "keywords": [
+   {
+    "phrase": "deve avvenire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "attraverso un solido collegamento",
+    "why": "states a required condition"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "idoneamente segnalati",
+    "why": "requires proper marking/signalling"
+   }
+  ],
+  "trick": "The towing method is mandatory and is valid only if the solid connection is properly signalled.",
+  "image": ""
+ },
+ {
+  "n": 23955,
+  "it": "Il traino per incombente situazione di emergenza di un veicolo in avaria deve avvenire attraverso un solido collegamento, purché idoneamente segnalato per rendere i veicoli chiaramente avvistabili dagli altri utenti della strada",
+  "answer": true,
+  "en": "When there is an imminent emergency situation, towing a broken-down vehicle must take place by means of a solid connection, provided it is properly marked so that the vehicles are clearly visible to other road users.",
+  "keywords": [
+   {
+    "phrase": "deve avvenire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "attraverso un solido collegamento",
+    "why": "states a required condition"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "idoneamente segnalato",
+    "why": "requires proper marking/signalling"
+   }
+  ],
+  "trick": "The statement is conditional: towing must use a solid connection and that connection must be properly signalled.",
+  "image": ""
+ },
+ {
+  "n": 23956,
+  "it": "Qualora, in situazione di emergenza, il conducente traini con il suo veicolo un altro veicolo senza rispettare le prescrizioni relative alla solidità del collegamento è punito con la sottrazione di 2 punti dalla patente",
+  "answer": true,
+  "en": "If, in an emergency situation, the driver tows another vehicle with his own vehicle without complying with the requirements regarding the solidity of the connection, he is punished with the deduction of 2 points from his licence.",
+  "keywords": [
+   {
+    "phrase": "Qualora",
+    "why": "introduces a conditional case"
+   },
+   {
+    "phrase": "senza rispettare",
+    "why": "marks non-compliance"
+   },
+   {
+    "phrase": "è punito",
+    "why": "expresses a penalty"
+   },
+   {
+    "phrase": "sottrazione di 2 punti",
+    "why": "states the exact sanction"
+   }
+  ],
+  "trick": "The key trap is the conditional penalty: if the solid-connection rules are not respected, 2 licence points are deducted.",
+  "image": ""
+ },
+ {
+  "n": 23957,
+  "it": "In autostrada, un autoveicolo può trainare un veicolo che non sia un rimorchio, se questo non può più circolare per qualsiasi grave motivo",
+  "answer": false,
+  "en": "On a motorway, a motor vehicle may tow a vehicle that is not a trailer if it can no longer circulate for any serious reason.",
+  "keywords": [
+   {
+    "phrase": "In autostrada",
+    "why": "restricts the rule to motorways"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "che non sia un rimorchio",
+    "why": "excludes trailers from the category"
+   },
+   {
+    "phrase": "non può più circolare",
+    "why": "negates continued ability to circulate"
+   },
+   {
+    "phrase": "per qualsiasi grave motivo",
+    "why": "broadens the reason to any serious cause"
+   }
+  ],
+  "trick": "The traps are the motorway context and the broad phrase 'for any serious reason,' which changes the legal scope.",
+  "image": ""
+ },
+ {
+  "n": 23958,
+  "it": "Il traino per incombente situazione di emergenza di un veicolo in avaria deve avvenire attraverso un solido collegamento, anche se non è possibile segnalarlo",
+  "answer": false,
+  "en": "When there is an imminent emergency situation, towing a broken-down vehicle must take place by means of a solid connection, even if it is not possible to signal it.",
+  "keywords": [
+   {
+    "phrase": "deve avvenire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, adding a concessive condition"
+   },
+   {
+    "phrase": "non è possibile",
+    "why": "negates possibility"
+   }
+  ],
+  "trick": "The trap is 'even if it is not possible': it wrongly removes the signalling condition despite the obligation wording.",
+  "image": ""
+ },
+ {
+  "n": 23959,
+  "it": "Durante le operazioni di traino di un veicolo in avaria, il veicolo trainato deve mantenere accese le luci posteriori in mancanza di altra idonea segnalazione",
+  "answer": false,
+  "en": "During the towing of a broken-down vehicle, the towed vehicle must keep its rear lights on in the absence of any other suitable warning signal.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in mancanza di",
+    "why": "means only if there is no suitable alternative"
+   },
+   {
+    "phrase": "altra idonea segnalazione",
+    "why": "introduces an alternative condition"
+   }
+  ],
+  "trick": "The obligation is linked to a condition: only in the absence of another suitable warning signal.",
+  "image": ""
+ },
+ {
+  "n": 23960,
+  "it": "Qualora, in situazione di emergenza, il conducente traini con il suo veicolo un altro veicolo senza rispettare le prescrizioni relative alla solidità del collegamento è punito con la sottrazione di 4 punti dalla patente",
+  "answer": false,
+  "en": "If, in an emergency situation, the driver tows another vehicle with his own vehicle without complying with the requirements regarding the solidity of the connection, he is punished with the deduction of 4 points from his licence.",
+  "keywords": [
+   {
+    "phrase": "Qualora",
+    "why": "introduces a conditional case"
+   },
+   {
+    "phrase": "senza rispettare",
+    "why": "marks non-compliance"
+   },
+   {
+    "phrase": "è punito",
+    "why": "expresses a penalty"
+   },
+   {
+    "phrase": "sottrazione di 4 punti",
+    "why": "states the exact sanction"
+   }
+  ],
+  "trick": "The important trap is the exact number of points: the sentence claims a 4-point deduction in that conditional case.",
+  "image": ""
+ },
+ {
+  "n": 23961,
+  "it": "Il conducente di un'autovettura deve considerare i rischi che, sulla strada, sono legati alla presenza di velocipedi, mezzi dotati di massa modesta e caratterizzati da basse velocità e possibili oscillazioni trasversali",
+  "answer": true,
+  "en": "The driver of a car must consider the risks on the road connected with the presence of bicycles, which are vehicles of modest mass and are characterised by low speeds and possible sideways swerving.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "legati alla presenza di",
+    "why": "links the risks specifically to the presence of bicycles"
+   },
+   {
+    "phrase": "possibili oscillazioni trasversali",
+    "why": "signals possible lateral instability"
+   }
+  ],
+  "trick": "The obligation is to take into account risks specifically caused by the presence and instability of bicycles.",
+  "image": ""
+ },
+ {
+  "n": 23962,
+  "it": "Il conducente di un'autovettura o di un motociclo deve adattare la propria guida anche ai rischi legati alla presenza di velocipedi nel traffico",
+  "answer": true,
+  "en": "The driver of a car or a motorcycle must adapt his driving also to the risks connected with the presence of bicycles in traffic.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds bicycles as an additional risk factor"
+   },
+   {
+    "phrase": "ai rischi legati alla presenza di velocipedi",
+    "why": "ties the duty specifically to bicycle-related risks"
+   }
+  ],
+  "trick": "The key trap is 'also': the driver must adapt to bicycle-related risks in addition to other risks.",
+  "image": ""
+ },
+ {
+  "n": 23963,
+  "it": "Il conducente di un'autovettura deve prestare particolare attenzione per la presenza nel traffico di velocipedi utilizzati da conducenti giovanissimi e inesperti o da anziani",
+  "answer": true,
+  "en": "The driver of a car must pay particular attention to the presence in traffic of bicycles used by very young and inexperienced riders or by elderly people.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "particolare attenzione",
+    "why": "strengthens the level of care required"
+   },
+   {
+    "phrase": "giovanissimi e inesperti o da anziani",
+    "why": "identifies especially vulnerable rider groups"
+   }
+  ],
+  "trick": "The sentence imposes a heightened duty of care, especially because of the vulnerable cyclist groups mentioned.",
+  "image": ""
+ },
+ {
+  "n": 23964,
+  "it": "Per un ciclista che si accinge ad effettuare una manovra è molto difficile valutare la velocità di avvicinamento dei veicoli a motore presenti nel traffico",
+  "answer": true,
+  "en": "For a cyclist who is about to carry out a manoeuvre, it is very difficult to assess the speed at which motor vehicles present in traffic are approaching.",
+  "keywords": [
+   {
+    "phrase": "si accinge ad effettuare",
+    "why": "means is about to do something"
+   },
+   {
+    "phrase": "molto difficile",
+    "why": "strengthens the degree of difficulty"
+   }
+  ],
+  "trick": "The trap is the strong wording: it says assessing approaching speed is very difficult for the cyclist.",
+  "image": ""
+ },
+ {
+  "n": 23965,
+  "it": "Il conducente di un'autovettura deve prevedere la difficoltà di valutazione della velocità del proprio veicolo da parte di un ciclista che, trovandosi sulla stessa corsia di marcia, si accinge a svoltare a sinistra",
+  "answer": true,
+  "en": "The driver of a car must anticipate that a cyclist who, while in the same traffic lane, is about to turn left may have difficulty judging the speed of his vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve prevedere",
+    "why": "expresses an obligation to anticipate"
+   },
+   {
+    "phrase": "si accinge a svoltare a sinistra",
+    "why": "means is about to turn left"
+   },
+   {
+    "phrase": "sulla stessa corsia di marcia",
+    "why": "restricts the situation to the same lane"
+   }
+  ],
+  "trick": "The duty is not just to react but to anticipate the cyclist’s difficulty, specifically when the cyclist is in the same lane and about to turn left.",
+  "image": ""
+ },
+ {
+  "n": 23966,
+  "it": "Il conducente deve esercitare particolare prudenza guidando in presenza di ciclista anziano che, per ispezionare la strada alle proprie spalle, esegue con difficoltà e lentezza la torsione del busto a causa dell'età avanzata",
+  "answer": true,
+  "en": "The driver must exercise particular caution when driving in the presence of an elderly cyclist who, in order to check the road behind, turns his torso with difficulty and slowly because of advanced age.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "particolare prudenza",
+    "why": "requires heightened caution"
+   },
+   {
+    "phrase": "in presenza di",
+    "why": "limits the duty to this situation"
+   },
+   {
+    "phrase": "con difficoltà e lentezza",
+    "why": "describes reduced ability that increases risk"
+   }
+  ],
+  "trick": "The obligation is heightened caution specifically when an elderly cyclist’s movements are slow and difficult.",
+  "image": ""
+ },
+ {
+  "n": 23967,
+  "it": "La presenza nel traffico extraurbano di bambini in bicicletta, anche se affiancati, non rappresenta un rischio per chi guida un autoveicolo, data la loro modesta velocità",
+  "answer": false,
+  "en": "The presence, in extra-urban traffic, of children on bicycles, even if riding side by side, does not represent a risk for someone driving a motor vehicle, given their modest speed.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "means even if, adding a concessive detail"
+   },
+   {
+    "phrase": "non rappresenta un rischio",
+    "why": "negates the existence of risk"
+   },
+   {
+    "phrase": "data la loro modesta velocità",
+    "why": "gives a reason that may mislead"
+   }
+  ],
+  "trick": "The trap is the negation of risk, reinforced by a misleading justification based on the children’s low speed.",
+  "image": ""
+ },
+ {
+  "n": 23968,
+  "it": "I ciclisti possono viaggiare in tutta sicurezza nel traffico extraurbano perché i conducenti dei veicoli a motore sono sempre capaci di prevedere eventuali loro cadute o pericolosi sbandamenti dovuti ad irregolarità del fondo stradale",
+  "answer": false,
+  "en": "Cyclists can travel in complete safety in extra-urban traffic because drivers of motor vehicles are always able to foresee any falls or dangerous swerves caused by irregularities in the road surface.",
+  "keywords": [
+   {
+    "phrase": "in tutta sicurezza",
+    "why": "absolute expression that overstates safety"
+   },
+   {
+    "phrase": "sempre",
+    "why": "absolute term that often makes statements false"
+   },
+   {
+    "phrase": "eventuali",
+    "why": "covers possible incidents, not certain ones"
+   }
+  ],
+  "trick": "The absolute wording 'in complete safety' and especially 'always' are the main traps here.",
+  "image": ""
+ },
+ {
+  "n": 23969,
+  "it": "La velocità di avvicinamento di un'autovettura, soprattutto su strade extraurbane, è facilmente valutabile a distanza da parte di un ciclista che procede lentamente",
+  "answer": false,
+  "en": "The approaching speed of a car, especially on extra-urban roads, can easily be assessed from a distance by a cyclist travelling slowly.",
+  "keywords": [
+   {
+    "phrase": "soprattutto",
+    "why": "adds emphasis to a specific context"
+   },
+   {
+    "phrase": "facilmente valutabile",
+    "why": "claims easy assessment, which is a key point"
+   },
+   {
+    "phrase": "a distanza",
+    "why": "specifies from afar, affecting practicality"
+   }
+  ],
+  "trick": "The trap is the claim that the speed is easily judged from a distance, especially on extra-urban roads.",
+  "image": ""
+ },
+ {
+  "n": 23970,
+  "it": "Il conducente di un'autovettura deve costantemente ricordare il rischio derivante dalla presenza nel traffico di ciclomotoristi dotati di limitata esperienza di guida a causa della giovane età",
+  "answer": true,
+  "en": "The driver of a car must constantly remember the risk arising from the presence in traffic of moped riders with limited driving experience because of their young age.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "costantemente",
+    "why": "strengthens the duty with an always-continuing sense"
+   },
+   {
+    "phrase": "a causa della giovane età",
+    "why": "states the specific reason for limited experience"
+   }
+  ],
+  "trick": "The obligation is continuous, and it is specifically linked to the young age and limited experience of moped riders.",
+  "image": ""
+ },
+ {
+  "n": 23971,
+  "it": "La manovra di svolta a sinistra è particolarmente pericolosa per un ciclomotore che deve interferire con la traiettoria di una o più colonne di veicoli più veloci sopraggiungenti nella stessa direzione",
+  "answer": true,
+  "en": "The manoeuvre of turning left is particularly dangerous for a moped that has to cross the path of one or more lines of faster vehicles approaching from behind in the same direction.",
+  "keywords": [
+   {
+    "phrase": "particolarmente pericolosa",
+    "why": "strongly qualifies the level of danger"
+   },
+   {
+    "phrase": "deve interferire con la traiettoria",
+    "why": "means it must cross/conflict with another path"
+   },
+   {
+    "phrase": "sopraggiungenti nella stessa direzione",
+    "why": "specifies vehicles coming up from behind in the same direction"
+   }
+  ],
+  "trick": "The key trap is the traffic geometry: the moped must cross the path of faster vehicles approaching in the same direction.",
+  "image": ""
+ },
+ {
+  "n": 23972,
+  "it": "Il conducente di autoveicolo deve valutare con prudenza, in relazione alla propria velocità, la distanza che lo separa da un ciclomotorista che si accinge a svoltare",
+  "answer": true,
+  "en": "The driver of a motor vehicle must carefully assess, in relation to their own speed, the distance separating them from a moped rider who is about to turn.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "con prudenza",
+    "why": "requires caution, not just a suggestion"
+   },
+   {
+    "phrase": "in relazione alla propria velocità",
+    "why": "makes the assessment depend on the driver's own speed"
+   },
+   {
+    "phrase": "si accinge a svoltare",
+    "why": "means is about to turn, not has already turned"
+   }
+  ],
+  "trick": "The key traps are the obligation to judge distance cautiously and the fact that the moped rider is about to turn.",
+  "image": ""
+ },
+ {
+  "n": 23973,
+  "it": "Il conducente di autoveicolo deve prevedere manovre improvvise altrui, come il procedere a zig-zag di un ciclomotore",
+  "answer": true,
+  "en": "The driver of a motor vehicle must anticipate sudden maneuvers by others, such as a moped moving in a zigzag pattern.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "manovre improvvise altrui",
+    "why": "means sudden actions by other road users"
+   }
+  ],
+  "trick": "The statement imposes a duty to foresee sudden maneuvers by others.",
+  "image": ""
+ },
+ {
+  "n": 23974,
+  "it": "Il conducente di autoveicolo o motoveicolo deve rispettare la distanza di sicurezza laterale da ciclisti o ciclomotoristi per evitare di metterne a repentaglio l'equilibrio nella guida",
+  "answer": true,
+  "en": "The driver of a motor vehicle or motorcycle must keep a safe lateral distance from cyclists or moped riders in order to avoid endangering their balance while riding.",
+  "keywords": [
+   {
+    "phrase": "deve rispettare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "distanza di sicurezza laterale",
+    "why": "specifies side clearance, not general following distance"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "states the preventive purpose of the rule"
+   }
+  ],
+  "trick": "The trap is that this is a mandatory side safety distance meant to prevent loss of balance.",
+  "image": ""
+ },
+ {
+  "n": 23975,
+  "it": "Il conducente di autoveicolo deve evitare deviazioni trasversali, anche modeste, del proprio veicolo soprattutto in presenza di ciclomotoristi o ciclisti per evitarne la possibile caduta a terra",
+  "answer": true,
+  "en": "The driver of a motor vehicle must avoid sideways deviations, even slight ones, of their own vehicle, especially in the presence of moped riders or cyclists, in order to prevent their possible fall to the ground.",
+  "keywords": [
+   {
+    "phrase": "deve evitare",
+    "why": "expresses obligation to avoid"
+   },
+   {
+    "phrase": "anche modeste",
+    "why": "includes even small deviations"
+   },
+   {
+    "phrase": "soprattutto",
+    "why": "gives special emphasis, not exclusivity"
+   },
+   {
+    "phrase": "in presenza di",
+    "why": "means when such road users are present"
+   }
+  ],
+  "trick": "The statement is strict because even small sideways movements matter, especially when cyclists or moped riders are nearby.",
+  "image": ""
+ },
+ {
+  "n": 23976,
+  "it": "Il conducente di autoveicolo deve rispettare le norme della circolazione, ma non è tenuto a prevedere le possibili imprudenze del ciclomotorista che lo affianca sulla strada",
+  "answer": false,
+  "en": "The driver of a motor vehicle must comply with traffic rules, but is not required to foresee the possible carelessness of the moped rider travelling alongside on the road.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a contrast that changes the meaning"
+   },
+   {
+    "phrase": "non è tenuto a",
+    "why": "negates any obligation"
+   },
+   {
+    "phrase": "possibili imprudenze",
+    "why": "refers to possible careless actions that may need to be anticipated"
+   }
+  ],
+  "trick": "The crucial trap is the negation: it says the driver is not required to foresee the other rider's carelessness.",
+  "image": ""
+ },
+ {
+  "n": 23977,
+  "it": "Risulta facile al conducente di un autoveicolo valutare la distanza che lo separa da un ciclomotorista che rallenta bruscamente per svoltare in una strada non sufficientemente segnalata",
+  "answer": false,
+  "en": "It is easy for the driver of a motor vehicle to judge the distance separating them from a moped rider who suddenly slows down to turn into a road that is not sufficiently signposted.",
+  "keywords": [
+   {
+    "phrase": "Risulta facile",
+    "why": "claims something is easy, which can be misleading"
+   },
+   {
+    "phrase": "rallenta bruscamente",
+    "why": "means slows down suddenly"
+   },
+   {
+    "phrase": "non sufficientemente segnalata",
+    "why": "negative wording limits how well the road is marked"
+   }
+  ],
+  "trick": "The trap is the claim that judging the distance is easy despite the sudden slowdown and poor signposting.",
+  "image": ""
+ },
+ {
+  "n": 23978,
+  "it": "Il conducente di un'autovettura può superare a velocità sostenuta, pur rispettando i limiti, un ciclomotorista nonostante la scarsa distanza di sicurezza laterale",
+  "answer": false,
+  "en": "The driver of a car may overtake a moped rider at a high speed, while still respecting the speed limits, despite the insufficient safe lateral distance.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a velocità sostenuta",
+    "why": "means at a fairly high speed"
+   },
+   {
+    "phrase": "pur rispettando i limiti",
+    "why": "means even if the speed limits are respected"
+   },
+   {
+    "phrase": "nonostante",
+    "why": "introduces a concession despite a danger"
+   },
+   {
+    "phrase": "scarsa distanza di sicurezza laterale",
+    "why": "means insufficient side safety distance"
+   }
+  ],
+  "trick": "The traps are the false permission and the idea that respecting speed limits would excuse an unsafe lateral distance.",
+  "image": ""
+ },
+ {
+  "n": 23979,
+  "it": "Il conducente di autovettura deve conoscere i rischi derivanti dalla presenza, soprattutto su strade extraurbane, di mezzi particolarmente lenti, come ciclomotori a tre ruote",
+  "answer": true,
+  "en": "The driver of a car must be aware of the risks arising from the presence, especially on rural roads, of particularly slow vehicles, such as three-wheeled mopeds.",
+  "keywords": [
+   {
+    "phrase": "deve conoscere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "derivanti dalla presenza",
+    "why": "means caused by the presence of"
+   },
+   {
+    "phrase": "soprattutto su strade extraurbane",
+    "why": "highlights the context where the risk is greater"
+   }
+  ],
+  "trick": "The key point is the duty to recognize the risks posed by very slow vehicles, especially on rural roads.",
+  "image": ""
+ },
+ {
+  "n": 23980,
+  "it": "Per un'autovettura che procede a velocità sostenuta, pur rispettando i limiti su strada extraurbana a due sole corsie, un ciclomotore a tre ruote costituisce un potenziale pericolo, soprattutto se effettua manovre improvvise",
+  "answer": true,
+  "en": "For a car travelling at a fairly high speed, while still respecting the limits on a rural road with only two lanes, a three-wheeled moped constitutes a potential danger, especially if it makes sudden maneuvers.",
+  "keywords": [
+   {
+    "phrase": "a velocità sostenuta",
+    "why": "means at a fairly high speed"
+   },
+   {
+    "phrase": "pur rispettando i limiti",
+    "why": "means even while respecting speed limits"
+   },
+   {
+    "phrase": "a due sole corsie",
+    "why": "sole restricts it to only two lanes"
+   },
+   {
+    "phrase": "costituisce un potenziale pericolo",
+    "why": "states that it can be a danger"
+   },
+   {
+    "phrase": "soprattutto se",
+    "why": "gives special emphasis to this case"
+   }
+  ],
+  "trick": "The danger remains even within the speed limit, especially on a two-lane rural road and if the moped moves suddenly.",
+  "image": ""
+ },
+ {
+  "n": 23981,
+  "it": "Per il conducente di un'autovettura che procede a velocità regolare su strada extraurbana, può risultare difficoltosa la valutazione della velocità di una macchina agricola che, in genere, procede lentamente",
+  "answer": true,
+  "en": "For the driver of a car travelling at a regular speed on a rural road, it may be difficult to judge the speed of a farm vehicle which generally moves slowly.",
+  "keywords": [
+   {
+    "phrase": "può risultare difficoltosa",
+    "why": "means it may be difficult, not certain"
+   },
+   {
+    "phrase": "in genere",
+    "why": "means generally, not always"
+   }
+  ],
+  "trick": "The traps are the possibility of difficulty and the fact that the farm vehicle is only generally slow, not always.",
+  "image": ""
+ },
+ {
+  "n": 23982,
+  "it": "La presenza di veicoli che possono raggiungere velocità molto diverse tra loro, soprattutto su strada extraurbana, costituisce un fattore di sicurezza",
+  "answer": false,
+  "en": "The presence of vehicles that can reach very different speeds from one another, especially on rural roads, constitutes a safety factor.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "molto diverse tra loro",
+    "why": "emphasizes large speed differences"
+   },
+   {
+    "phrase": "soprattutto",
+    "why": "gives special emphasis, not exclusivity"
+   },
+   {
+    "phrase": "costituisce un fattore di sicurezza",
+    "why": "claims it improves safety"
+   }
+  ],
+  "trick": "The misleading part is the claim that large speed differences are a safety factor.",
+  "image": ""
+ },
+ {
+  "n": 23983,
+  "it": "Risulta facile la valutazione dei tempi di avvicinamento ad un veicolo lento per un'autovettura che, specialmente su strada extraurbana, viaggia a velocità sostenuta pur rispettando i limiti",
+  "answer": false,
+  "en": "It is easy to judge the approach time to a slow vehicle for a car that, especially on a rural road, is travelling at a fairly high speed while still respecting the limits.",
+  "keywords": [
+   {
+    "phrase": "Risulta facile",
+    "why": "claims something is easy, which can mislead"
+   },
+   {
+    "phrase": "specialmente",
+    "why": "gives emphasis to a common risk context"
+   },
+   {
+    "phrase": "a velocità sostenuta",
+    "why": "means at a fairly high speed"
+   },
+   {
+    "phrase": "pur rispettando i limiti",
+    "why": "means even if legal speed limits are respected"
+   }
+  ],
+  "trick": "The trap is the false idea that estimating approach time is easy when travelling fast, even within legal limits.",
+  "image": ""
+ },
+ {
+  "n": 23984,
+  "it": "Risulta maggiormente pericolosa la collisione tra veicoli dotati di masse molto diverse tra loro",
+  "answer": true,
+  "en": "A collision between vehicles with very different masses is more dangerous.",
+  "keywords": [
+   {
+    "phrase": "maggiormente pericolosa",
+    "why": "comparative form meaning more dangerous"
+   },
+   {
+    "phrase": "molto diverse tra loro",
+    "why": "emphasizes large differences in mass"
+   }
+  ],
+  "trick": "The important point is the comparative idea: greater mass differences make collisions more dangerous.",
+  "image": ""
+ },
+ {
+  "n": 23985,
+  "it": "Guidando una piccola autovettura è necessario valutare i maggiori rischi derivanti da possibili tamponamenti o collisioni con autovettura di massa superiore",
+  "answer": true,
+  "en": "When driving a small car, it is necessary to assess the greater risks arising from possible rear-end collisions or collisions with a car of greater mass.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "maggiori rischi",
+    "why": "comparative meaning greater risks"
+   },
+   {
+    "phrase": "derivanti da",
+    "why": "means arising from or caused by"
+   }
+  ],
+  "trick": "The statement stresses necessity and the increased risk from impacts involving a heavier car.",
+  "image": ""
+ },
+ {
+  "n": 23986,
+  "it": "Un'autovettura dotata di notevole massa costituisce, nella circolazione, una garanzia di sicurezza anche per gli altri veicoli di dimensioni e di massa inferiori",
+  "answer": false,
+  "en": "A car with considerable mass constitutes, in traffic, a guarantee of safety also for other vehicles of smaller size and lower mass.",
+  "keywords": [
+   {
+    "phrase": "costituisce",
+    "why": "asserts that it constitutes or provides"
+   },
+   {
+    "phrase": "una garanzia di sicurezza",
+    "why": "strongly claims a safety guarantee"
+   },
+   {
+    "phrase": "anche per gli altri veicoli",
+    "why": "extends the claim to other vehicles as well"
+   },
+   {
+    "phrase": "inferiori",
+    "why": "comparative meaning smaller or lower"
+   }
+  ],
+  "trick": "The misleading trap is the broad claim that a heavier car guarantees safety for smaller vehicles too.",
+  "image": ""
+ },
+ {
+  "n": 23987,
+  "it": "I veicoli sono tanto più sicuri, nella circolazione, quanto più le loro masse sono differenziate",
+  "answer": false,
+  "en": "Vehicles are safer in traffic the more their masses differ from one another.",
+  "keywords": [
+   {
+    "phrase": "tanto più... quanto più",
+    "why": "comparative structure meaning the more... the more"
+   },
+   {
+    "phrase": "sono differenziate",
+    "why": "means are different from one another"
+   }
+  ],
+  "trick": "The trap is the comparative structure claiming that greater differences in mass mean greater safety.",
+  "image": ""
+ },
+ {
+  "n": 23988,
+  "it": "Le grandi differenze di prestazioni e di masse fra le autovetture facilitano una buona sicurezza stradale",
+  "answer": false,
+  "en": "Large differences in performance and mass among cars make good road safety easier.",
+  "keywords": [
+   {
+    "phrase": "facilitano",
+    "why": "means make easier or promote"
+   },
+   {
+    "phrase": "grandi differenze",
+    "why": "emphasizes large disparities"
+   }
+  ],
+  "trick": "The misleading idea is that big differences in vehicle performance and mass would improve safety.",
+  "image": ""
+ },
+ {
+  "n": 23989,
+  "it": "Il conducente di un fuoristrada (Suv) deve guidare con la massima prudenza, consapevole che l'altezza e la massa del proprio veicolo costituiscono un potenziale pericolo per pedoni, ciclisti e autovetture di modeste dimensioni",
+  "answer": true,
+  "en": "The driver of an SUV must drive with the utmost caution, aware that the height and mass of their vehicle constitute a potential danger to pedestrians, cyclists, and small cars.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "con la massima prudenza",
+    "why": "requires the highest level of caution"
+   },
+   {
+    "phrase": "costituiscono un potenziale pericolo",
+    "why": "states that they can be a danger"
+   }
+  ],
+  "trick": "The statement imposes a strong duty of caution because the SUV's size and mass can endanger more vulnerable road users.",
+  "image": ""
+ },
+ {
+  "n": 23990,
+  "it": "I conducenti dei fuoristrada (Suv) debbono considerare i gravi danni che i paraurti sporgenti e rafforzati del proprio mezzo possono determinare nel caso di impatto con veicoli più piccoli",
+  "answer": true,
+  "en": "Drivers of SUVs must take into account the serious damage that the protruding and reinforced bumpers of their vehicle can cause in the event of an impact with smaller vehicles.",
+  "keywords": [
+   {
+    "phrase": "debbono considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "possono determinare",
+    "why": "means can cause, showing possibility of harm"
+   },
+   {
+    "phrase": "nel caso di",
+    "why": "means in the event of, limiting the situation"
+   }
+  ],
+  "trick": "The key traps are the obligation to consider risk and the possible serious damage in the event of a collision.",
+  "image": ""
+ },
+ {
+  "n": 23991,
+  "it": "Il conducente di fuoristrada (Suv) deve ricordare che la guida di tale veicolo è particolarmente impegnativa in città e che richiede particolari cautele soprattutto nelle manovre di emergenza",
+  "answer": true,
+  "en": "The driver of an SUV must remember that driving such a vehicle is particularly demanding in the city and requires particular caution, especially in emergency maneuvers.",
+  "keywords": [
+   {
+    "phrase": "deve ricordare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "particolarmente impegnativa",
+    "why": "means especially demanding"
+   },
+   {
+    "phrase": "richiede",
+    "why": "expresses necessity or requirement"
+   },
+   {
+    "phrase": "soprattutto",
+    "why": "gives special emphasis, not exclusivity"
+   }
+  ],
+  "trick": "The traps are the duty to remember and the fact that special caution is required, especially in emergency maneuvers.",
+  "image": ""
+ },
+ {
+  "n": 23992,
+  "it": "La guida di un fuoristrada (Suv), dotato di massa notevole e di altezza superiore alle autovetture, garantisce la massima sicurezza per gli occupanti del veicolo stesso e per gli altri utenti della strada",
+  "answer": false,
+  "en": "Driving an SUV, with its considerable weight and height greater than that of passenger cars, guarantees maximum safety for the occupants of the vehicle itself and for other road users.",
+  "keywords": [
+   {
+    "phrase": "garantisce",
+    "why": "states a guarantee, not just a possibility"
+   },
+   {
+    "phrase": "massima",
+    "why": "makes the claim absolute"
+   }
+  ],
+  "trick": "Watch for absolute wording: it claims guaranteed maximum safety.",
+  "image": ""
+ },
+ {
+  "n": 23993,
+  "it": "Nel caso di collisione o di tamponamento, i paraurti sporgenti e rafforzati (bull bars) rendono i fuoristrada meno pericolosi per gli altri veicoli",
+  "answer": false,
+  "en": "In the event of a collision or rear-end crash, protruding and reinforced bumpers (bull bars) make SUVs less dangerous for other vehicles.",
+  "keywords": [
+   {
+    "phrase": "meno pericolosi",
+    "why": "comparative claim that reduces the level of danger"
+   }
+  ],
+  "trick": "The trap is the comparative claim that they are less dangerous.",
+  "image": ""
+ },
+ {
+  "n": 23994,
+  "it": "La guida di un fuoristrada (Suv) risulta particolarmente indicata all'interno dei centri abitati",
+  "answer": false,
+  "en": "Driving an SUV is particularly suitable within built-up areas.",
+  "keywords": [
+   {
+    "phrase": "particolarmente indicata",
+    "why": "strongly recommends suitability, not mere possibility"
+   }
+  ],
+  "trick": "The key trap is the strong idea that this vehicle is especially suitable there.",
+  "image": ""
+ },
+ {
+  "n": 23995,
+  "it": "Alla guida di un'autovettura è opportuno valutare costantemente la potenziale pericolosità dei veicoli industriali e degli autobus, a causa della loro massa notevolmente maggiore",
+  "answer": true,
+  "en": "When driving a car, it is advisable to constantly assess the potential danger posed by heavy goods vehicles and buses, because of their considerably greater mass.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "expresses advisability, not a strict legal obligation"
+   },
+   {
+    "phrase": "costantemente",
+    "why": "requires continuous attention, not occasional assessment"
+   }
+  ],
+  "trick": "Notice that it recommends constant assessment, not just from time to time.",
+  "image": ""
+ },
+ {
+  "n": 23996,
+  "it": "Il conducente di motociclo o di autovettura deve saper valutare nella guida gli alti rischi derivanti da autocarri, autotreni o autoarticolati che non rispettano i limiti di velocità",
+  "answer": true,
+  "en": "The rider of a motorcycle or the driver of a car must be able, while driving, to assess the high risks arising from lorries, road trains, or articulated lorries that do not comply with speed limits.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non rispettano",
+    "why": "negates compliance with speed limits"
+   }
+  ],
+  "trick": "The sentence combines obligation with the idea that those vehicles are speeding.",
+  "image": ""
+ },
+ {
+  "n": 23997,
+  "it": "Autocarri, autotreni e autoarticolati, per la loro massa notevole, non costituiscono, per un'autovettura o per un motociclo, rischi potenziali maggiori rispetto a qualsiasi altro veicolo",
+  "answer": false,
+  "en": "Because of their considerable mass, lorries, road trains, and articulated lorries do not constitute, for a car or a motorcycle, greater potential risks than any other vehicle.",
+  "keywords": [
+   {
+    "phrase": "non costituiscono",
+    "why": "negates the existence of greater risk"
+   },
+   {
+    "phrase": "maggiori",
+    "why": "comparative term that changes the claim"
+   }
+  ],
+  "trick": "The trap is the negation of greater risk compared with other vehicles.",
+  "image": ""
+ },
+ {
+  "n": 23998,
+  "it": "Nonostante le caratteristiche costruttive del veicolo rendano possibile un adeguato campo di visibilità, durante la guida il conducente deve attentamente visualizzare l'area antistante e limitrofa",
+  "answer": true,
+  "en": "Even if the vehicle's design features make an adequate field of vision possible, while driving the driver must carefully observe the area in front and around the vehicle.",
+  "keywords": [
+   {
+    "phrase": "Nonostante",
+    "why": "introduces a contrast: the rule still applies despite this"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "Despite adequate visibility by design, the driver is still obliged to check carefully.",
+  "image": ""
+ },
+ {
+  "n": 23999,
+  "it": "Per il conducente il campo di visibilità può essere ridotto sia da uno dei poggiatesta sia da elementi della carrozzeria della propria autovettura che possono impedire accidentalmente l'avvistamento di altri utenti della strada",
+  "answer": true,
+  "en": "For the driver, the field of vision can be reduced both by one of the headrests and by bodywork elements of their own car, which may accidentally prevent the sighting of other road users.",
+  "keywords": [
+   {
+    "phrase": "può essere ridotto",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "sia ... sia",
+    "why": "means both sources can cause the problem"
+   }
+  ],
+  "trick": "The key is that visibility may be reduced by either of both listed causes.",
+  "image": ""
+ },
+ {
+  "n": 24000,
+  "it": "Per consentire una adeguata visibilità è vietato applicare pellicole adesive sul parabrezza e sui vetri laterali anteriori dei veicoli",
+  "answer": true,
+  "en": "To ensure adequate visibility, it is forbidden to apply adhesive films to the windscreen and the front side windows of vehicles.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "parabrezza e sui vetri laterali anteriori",
+    "why": "restricts the ban specifically to these windows"
+   }
+  ],
+  "trick": "The important trap is the clear prohibition applying specifically to the windscreen and front side windows.",
+  "image": ""
+ },
+ {
+  "n": 24001,
+  "it": "I pedoni e soprattutto i bambini rischiano di rimanere fuori dal campo visivo del conducente di un veicolo fuoristrada (Suv) a causa delle dimensioni del mezzo",
+  "answer": true,
+  "en": "Pedestrians, and especially children, risk remaining outside the field of vision of the driver of an SUV because of the vehicle's size.",
+  "keywords": [
+   {
+    "phrase": "soprattutto",
+    "why": "gives special emphasis to children as a higher-risk case"
+   },
+   {
+    "phrase": "rischiano",
+    "why": "indicates a real risk, not certainty"
+   }
+  ],
+  "trick": "Children are highlighted as especially at risk of not being seen.",
+  "image": ""
+ },
+ {
+  "n": 24002,
+  "it": "Il conducente può limitarsi ad un controllo visivo affrettato dell'area immediatamente antistante il veicolo poiché il suo mezzo dispone per costruzione di un adeguato campo di visibilità",
+  "answer": false,
+  "en": "The driver may limit themself to a hurried visual check of the area immediately in front of the vehicle, since the vehicle is designed with an adequate field of vision.",
+  "keywords": [
+   {
+    "phrase": "può limitarsi",
+    "why": "suggests permission to do only this"
+   },
+   {
+    "phrase": "affrettato",
+    "why": "means rushed or superficial, which changes the safety meaning"
+   }
+  ],
+  "trick": "The trap is the supposed permission to do only a quick, rushed check.",
+  "image": ""
+ },
+ {
+  "n": 24003,
+  "it": "E' consentito applicare sui vetri laterali anteriori e sul parabrezza pellicole adesive, a condizione che siano di materiale rimovibile",
+  "answer": false,
+  "en": "It is permitted to apply adhesive films to the front side windows and the windscreen, provided that they are made of removable material.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "a condizione che",
+    "why": "introduces a condition or exception"
+   }
+  ],
+  "trick": "The sentence is tricky because it gives permission only under a stated condition.",
+  "image": ""
+ },
+ {
+  "n": 24004,
+  "it": "I veicoli fuoristrada presentano un'altezza tale da permettere al conducente una adeguata visibilità di tutti i possibili ostacoli in basso (ad esempio, bambini)",
+  "answer": false,
+  "en": "Off-road vehicles are tall enough to allow the driver adequate visibility of all possible low obstacles (for example, children).",
+  "keywords": [
+   {
+    "phrase": "tale da permettere",
+    "why": "states that the height is sufficient to allow this"
+   },
+   {
+    "phrase": "tutti",
+    "why": "absolute term covering all possible obstacles"
+   }
+  ],
+  "trick": "The trap is the absolute claim that the height allows visibility of all low obstacles.",
+  "image": ""
+ },
+ {
+  "n": 24005,
+  "it": "Prima di riprendere la marcia, il conducente di un autocarro deve prestare particolare attenzione alla possibile presenza di un pedone o di un ciclista nella zona immediatamente antistante il proprio veicolo fermo",
+  "answer": true,
+  "en": "Before setting off again, the driver of a lorry must pay particular attention to the possible presence of a pedestrian or cyclist in the area immediately in front of their stationary vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "possibile presenza",
+    "why": "means they must consider potential presence, not only visible presence"
+   }
+  ],
+  "trick": "The driver is obliged to watch for even possible, not just obvious, presence ahead.",
+  "image": ""
+ },
+ {
+  "n": 24006,
+  "it": "Il conducente di un autocarro fermo al semaforo deve prevedere la presenza di pedoni e ciclisti il cui avvistamento è precluso dalla sagoma del proprio veicolo",
+  "answer": true,
+  "en": "The driver of a lorry stopped at a traffic light must anticipate the presence of pedestrians and cyclists whose sighting is prevented by the shape of their own vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve prevedere",
+    "why": "expresses obligation to anticipate, not just react"
+   },
+   {
+    "phrase": "è precluso",
+    "why": "means sighting is prevented or blocked"
+   }
+  ],
+  "trick": "The key is the duty to anticipate road users even when the vehicle blocks visibility.",
+  "image": ""
+ },
+ {
+  "n": 24007,
+  "it": "La limitata visuale offerta dal parabrezza degli autocarri nella zona immediatamente antistante il veicolo rende pericolosa la fermata di tali mezzi in colonna, qualora siano presenti pedoni o mezzi a due ruote",
+  "answer": true,
+  "en": "The limited view offered by the windscreen of lorries in the area immediately in front of the vehicle makes it dangerous for such vehicles to stop in a queue, if pedestrians or two-wheeled vehicles are present.",
+  "keywords": [
+   {
+    "phrase": "rende pericolosa",
+    "why": "states that it makes the situation dangerous"
+   },
+   {
+    "phrase": "qualora",
+    "why": "means if/in the event that, introducing a condition"
+   }
+  ],
+  "trick": "It becomes dangerous specifically if pedestrians or two-wheelers are present.",
+  "image": ""
+ },
+ {
+  "n": 24008,
+  "it": "Il campo di visibilità degli autocarri permette il controllo sicuro di tutta la zona immediatamente antistante e laterale",
+  "answer": false,
+  "en": "The field of vision of lorries allows safe monitoring of the entire area immediately in front and to the side.",
+  "keywords": [
+   {
+    "phrase": "tutta",
+    "why": "absolute term meaning the whole area"
+   },
+   {
+    "phrase": "sicuro",
+    "why": "claims safety, not mere possibility"
+   }
+  ],
+  "trick": "The trap is the absolute claim of safe visibility over the whole front and side area.",
+  "image": ""
+ },
+ {
+  "n": 24009,
+  "it": "Un pedone può attraversare la strada in tutta sicurezza passando a distanza ravvicinata rispetto alla parte frontale di un autocarro fermo in colonna che sta per ripartire, in quanto sicuramente avvistabile dal conducente",
+  "answer": false,
+  "en": "A pedestrian may cross the road in complete safety by passing close to the front of a lorry stopped in a queue that is about to move off, since they will certainly be seen by the driver.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "in tutta sicurezza",
+    "why": "absolute safety claim"
+   },
+   {
+    "phrase": "sicuramente",
+    "why": "expresses certainty"
+   }
+  ],
+  "trick": "This is tricky because it wrongly presents the situation as certainly and completely safe.",
+  "image": ""
+ },
+ {
+  "n": 24010,
+  "it": "Quando stanno per riprendere la marcia dopo un arresto al semaforo, i conducenti di autocarri possono facilmente avvistare pedoni o ciclisti che affiancano e sfiorano la parte anteriore dei propri veicoli",
+  "answer": false,
+  "en": "When they are about to move off again after stopping at a traffic light, lorry drivers can easily spot pedestrians or cyclists who are alongside and brushing the front part of their vehicles.",
+  "keywords": [
+   {
+    "phrase": "possono facilmente",
+    "why": "suggests easy possibility, downplaying the risk"
+   },
+   {
+    "phrase": "stanno per riprendere la marcia",
+    "why": "means they are just about to set off, a critical moment"
+   }
+  ],
+  "trick": "The trap is the claim that drivers can easily see them at the very moment of moving off.",
+  "image": ""
+ },
+ {
+  "n": 24011,
+  "it": "Il giubbotto o le bretelle retroriflettenti ad alta visibilità possono sostituire, in ogni caso, il triangolo mobile di pericolo",
+  "answer": false,
+  "en": "The high-visibility reflective jacket or braces can replace the warning triangle in every case.",
+  "keywords": [
+   {
+    "phrase": "possono sostituire",
+    "why": "expresses possibility of substitution"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "absolute phrase meaning without exception"
+   }
+  ],
+  "trick": "The key trap is the absolute claim that substitution is allowed in every case.",
+  "image": ""
+ },
+ {
+  "n": 24012,
+  "it": "Il giubbotto o le bretelle retroriflettenti ad alta visibilità possono essere solo di colore giallo",
+  "answer": false,
+  "en": "The high-visibility reflective vest or braces can only be yellow.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "\"solo\" makes the statement exclusive: only yellow.",
+  "image": ""
+ },
+ {
+  "n": 24013,
+  "it": "Il giubbotto retroriflettente ad alta visibilità protegge il conducente anche da rischi chimici, calore, fuoco ed elettricità",
+  "answer": false,
+  "en": "The high-visibility reflective vest also protects the driver from chemical risks, heat, fire, and electricity.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds extra protection, broadening the claim"
+   }
+  ],
+  "trick": "\"anche\" extends the claim beyond normal visibility protection.",
+  "image": ""
+ },
+ {
+  "n": 24014,
+  "it": "All'interno del veicolo bisogna tenere giubbotti o bretelle retroriflettenti ad alta visibilità, in numero pari a quello dei posti disponibili",
+  "answer": false,
+  "en": "Inside the vehicle, you must keep high-visibility reflective vests or braces in a number equal to the available seats.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "pari a quello dei posti disponibili",
+    "why": "sets an exact required quantity"
+   }
+  ],
+  "trick": "The sentence claims an obligation and specifies an exact number required.",
+  "image": ""
+ },
+ {
+  "n": 24015,
+  "it": "L'obbligo di indossare il giubbotto ad alta visibilità si ha quando si sosta fuori dai centri abitati, mentre le bretelle retroriflettenti vanno indossate nelle aree urbane",
+  "answer": false,
+  "en": "The obligation to wear a high-visibility vest applies when stopping outside built-up areas, whereas reflective braces must be worn in urban areas.",
+  "keywords": [
+   {
+    "phrase": "L'obbligo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "mentre",
+    "why": "contrasts two different rules"
+   },
+   {
+    "phrase": "vanno indossate",
+    "why": "expresses obligation, not mere advice"
+   }
+  ],
+  "trick": "The sentence splits the rule into two contrasting mandatory cases.",
+  "image": ""
+ },
+ {
+  "n": 24016,
+  "it": "Il giubbotto retroriflettente ad alta visibilità serve per chiedere aiuto agli automobilisti in transito",
+  "answer": false,
+  "en": "The high-visibility reflective vest is used to ask passing motorists for help.",
+  "keywords": [],
+  "trick": "No special trap words; the claim is about the purpose of the vest.",
+  "image": ""
+ },
+ {
+  "n": 24017,
+  "it": "Il giubbotto retroriflettente ad alta visibilità è utile solo quando si deve sostituire una ruota forata",
+  "answer": false,
+  "en": "The high-visibility reflective vest is useful only when you have to replace a punctured tire.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses necessity"
+   }
+  ],
+  "trick": "\"solo\" wrongly limits its use to one necessary situation.",
+  "image": ""
+ },
+ {
+  "n": 24018,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico in pericolo di cadere, è opportuno aumentare la distanza di sicurezza, specie se si è in salita",
+  "answer": true,
+  "en": "When driving behind a vehicle carrying a load that is at risk of falling, it is advisable to increase the safety distance, especially if you are going uphill.",
+  "keywords": [
+   {
+    "phrase": "in pericolo di cadere",
+    "why": "limits the rule to a risky load condition"
+   },
+   {
+    "phrase": "specie se",
+    "why": "adds a particularly important case"
+   }
+  ],
+  "trick": "The advice becomes stronger in the specific case introduced by \"specie se\".",
+  "image": ""
+ },
+ {
+  "n": 24019,
+  "it": "Circolando dietro ad un veicolo che ha un carico instabile, è opportuno aumentare la distanza di sicurezza e sorpassarlo appena possibile",
+  "answer": true,
+  "en": "When driving behind a vehicle with an unstable load, it is advisable to increase the safety distance and overtake it as soon as possible.",
+  "keywords": [
+   {
+    "phrase": "appena possibile",
+    "why": "means as soon as safely possible, not immediately at all costs"
+   }
+  ],
+  "trick": "\"appena possibile\" does not mean overtaking immediately regardless of safety.",
+  "image": ""
+ },
+ {
+  "n": 24020,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, è opportuno avvertire il conducente del potenziale pericolo",
+  "answer": true,
+  "en": "When driving behind a vehicle carrying a load that is about to fall, it is advisable to warn the driver of the potential danger.",
+  "keywords": [
+   {
+    "phrase": "sta per cadere",
+    "why": "means is about to fall, indicating imminent danger"
+   }
+  ],
+  "trick": "The key trap is the imminence expressed by \"sta per\".",
+  "image": ""
+ },
+ {
+  "n": 24021,
+  "it": "Circolando dietro ad un veicolo che ha un carico poco sicuro, conviene non stargli troppo vicino, così da riuscire a fermarsi in tempo, in caso di caduta della merce trasportata",
+  "answer": true,
+  "en": "When driving behind a vehicle with an insecure load, it is best not to stay too close to it, so as to be able to stop in time if the transported goods fall.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "introduces a conditional situation"
+   }
+  ],
+  "trick": "The sentence advises keeping distance, especially in the event introduced by \"in caso di\".",
+  "image": ""
+ },
+ {
+  "n": 24022,
+  "it": "Circolando dietro ad un veicolo che ha un carico instabile, bisogna stare attenti, soprattutto quando frena o svolta, per la possibile caduta della merce trasportata",
+  "answer": true,
+  "en": "When driving behind a vehicle with an unstable load, you must be careful, especially when it brakes or turns, because the transported goods could fall.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "soprattutto",
+    "why": "highlights the most important situations"
+   },
+   {
+    "phrase": "possibile",
+    "why": "indicates risk, not certainty"
+   }
+  ],
+  "trick": "The sentence gives a duty of care, with special attention in highlighted cases.",
+  "image": ""
+ },
+ {
+  "n": 24023,
+  "it": "Circolando dietro ad un veicolo che ha un carico sporgente, può risultare difficile accorgersi che intende svoltare, se gli indicatori di direzione sono nascosti dalla merce penzolante",
+  "answer": true,
+  "en": "When driving behind a vehicle with a projecting load, it may be difficult to realize that it intends to turn if the direction indicators are hidden by the hanging goods.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   }
+  ],
+  "trick": "The difficulty applies only as a possibility under the condition introduced by \"se\".",
+  "image": ""
+ },
+ {
+  "n": 24024,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, conviene stringersi il più vicino possibile al margine sinistro della carreggiata",
+  "answer": false,
+  "en": "When driving behind a vehicle carrying a load that is about to fall, it is advisable to keep as close as possible to the left edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "il più vicino possibile",
+    "why": "pushes to an extreme degree"
+   },
+   {
+    "phrase": "margine sinistro",
+    "why": "specifies the left edge, which can mislead learners"
+   }
+  ],
+  "trick": "The trap is the extreme instruction to move very close to the left edge.",
+  "image": ""
+ },
+ {
+  "n": 24025,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico poco sicuro, conviene spostarsi lungo il margine sinistro della carreggiata",
+  "answer": false,
+  "en": "When driving behind a vehicle carrying an insecure load, it is advisable to move along the left edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "margine sinistro",
+    "why": "specifies the left edge, which can mislead learners"
+   }
+  ],
+  "trick": "The key trap is the specific instruction to keep to the left edge.",
+  "image": ""
+ },
+ {
+  "n": 24026,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, conviene sorpassarlo subito, anche se in curva",
+  "answer": false,
+  "en": "When driving behind a vehicle carrying a load that is about to fall, it is advisable to overtake it immediately, even on a bend.",
+  "keywords": [
+   {
+    "phrase": "subito",
+    "why": "means immediately, with no delay"
+   },
+   {
+    "phrase": "anche se",
+    "why": "allows the action even in a normally unsafe case"
+   }
+  ],
+  "trick": "The statement is made dangerous by \"subito\" and by allowing it \"anche se\" on a bend.",
+  "image": ""
+ },
+ {
+  "n": 24027,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico che sta per cadere, conviene arrestarsi bruscamente, ripartendo solo quando gli altri veicoli ci abbiano superato",
+  "answer": false,
+  "en": "When driving behind a vehicle carrying a load that is about to fall, it is advisable to stop abruptly, setting off again only when the other vehicles have passed us.",
+  "keywords": [
+   {
+    "phrase": "bruscamente",
+    "why": "indicates a sudden, harsh action"
+   },
+   {
+    "phrase": "solo quando",
+    "why": "sets a strict condition before acting again"
+   }
+  ],
+  "trick": "The trap is the combination of abrupt stopping and the strict condition in \"solo quando\".",
+  "image": ""
+ },
+ {
+  "n": 24028,
+  "it": "Circolando dietro ad un veicolo che trasporta un carico instabile, bisogna diminuire la distanza di sicurezza, in modo che gli altri veicoli rinuncino al sorpasso, non essendovi spazio sufficiente",
+  "answer": false,
+  "en": "When driving behind a vehicle carrying an unstable load, you must reduce the safety distance so that other vehicles give up overtaking, since there would not be enough space.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "diminuire",
+    "why": "reverses the usual safe action of increasing distance"
+   },
+   {
+    "phrase": "non essendovi spazio sufficiente",
+    "why": "gives a reason that may wrongly justify the action"
+   }
+  ],
+  "trick": "The main trap is the false obligation to reduce distance, supported by a misleading reason.",
+  "image": ""
+ },
+ {
+  "n": 24029,
+  "it": "Trainare un rimorchio su strade con forti salite fa aumentare la temperatura del liquido di raffreddamento del motore",
+  "answer": true,
+  "en": "Towing a trailer on roads with steep uphill sections causes the temperature of the engine coolant to increase.",
+  "keywords": [],
+  "trick": "No key trap words; the sentence states a mechanical effect.",
+  "image": ""
+ },
+ {
+  "n": 24030,
+  "it": "Se si traina un rimorchio aumenta lo spazio di frenatura",
+  "answer": true,
+  "en": "If you are towing a trailer, the braking distance increases.",
+  "keywords": [
+   {
+    "phrase": "Se",
+    "why": "introduces the condition under which the rule applies"
+   }
+  ],
+  "trick": "The increase in braking distance applies in the condition introduced by \"Se\".",
+  "image": ""
+ },
+ {
+  "n": 24031,
+  "it": "Trainando un rimorchio leggero, bisogna considerare che è maggiore la forza ribaltante esercitata dal vento",
+  "answer": true,
+  "en": "When towing a light trailer, you must consider that the overturning force exerted by the wind is greater.",
+  "keywords": [
+   {
+    "phrase": "bisogna considerare",
+    "why": "expresses obligation to take something into account"
+   },
+   {
+    "phrase": "è maggiore",
+    "why": "compares and indicates an increased effect"
+   }
+  ],
+  "trick": "The sentence imposes attention to a greater wind overturning effect.",
+  "image": ""
+ },
+ {
+  "n": 24032,
+  "it": "Per una maggiore sicurezza, è consigliabile che nel rimorchio il carico venga sistemato in modo che gli oggetti pesanti si trovino il più vicino possibile al suo asse",
+  "answer": true,
+  "en": "For greater safety, it is advisable that in the trailer the load be arranged so that the heavy objects are as close as possible to its axle.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "expresses advice, not a strict legal obligation"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as possible, maximizing proximity"
+   }
+  ],
+  "trick": "Watch for advice language and the phrase that requires the nearest possible position.",
+  "image": ""
+ },
+ {
+  "n": 24033,
+  "it": "Alla guida di un veicolo con rimorchio, nello svoltare a destra, bisogna fare particolare attenzione a non salire con la ruota posteriore sul marciapiede",
+  "answer": true,
+  "en": "When driving a vehicle with a trailer, when turning right, you must pay particular attention not to let the rear wheel ride up onto the pavement.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a non salire",
+    "why": "negates the action to be avoided"
+   }
+  ],
+  "trick": "The sentence imposes a duty and specifically says not to mount the pavement.",
+  "image": ""
+ },
+ {
+  "n": 24034,
+  "it": "Quando un veicolo guasto, munito di servosterzo, viene trainato, può risultare faticoso manovrare lo sterzo",
+  "answer": true,
+  "en": "When a broken-down vehicle equipped with power steering is being towed, it may be difficult to steer.",
+  "keywords": [
+   {
+    "phrase": "può risultare",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "The statement says steering may be difficult, not that it always is.",
+  "image": ""
+ },
+ {
+  "n": 24035,
+  "it": "Prima di trainare un rimorchio, è opportuno accertarsi che gli impianti di illuminazione e di segnalazione funzionino regolarmente",
+  "answer": true,
+  "en": "Before towing a trailer, it is advisable to make sure that the lighting and signalling systems are working properly.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "expresses recommendation, not a strict command"
+   }
+  ],
+  "trick": "The key trap is that this is framed as advisable practice rather than direct obligation.",
+  "image": ""
+ },
+ {
+  "n": 24036,
+  "it": "Prima di iniziare a trainare un rimorchio, bisogna controllare dagli specchi retrovisori che la visibilità sia adeguata",
+  "answer": true,
+  "en": "Before starting to tow a trailer, you must check in the rear-view mirrors that visibility is adequate.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence contains a clear obligation to check visibility.",
+  "image": ""
+ },
+ {
+  "n": 24037,
+  "it": "Quando i rimorchi sono staccati dalla motrice, devono avere una copertura assicurativa che vale anche per il rischio statico (da fermo)",
+  "answer": true,
+  "en": "When trailers are detached from the towing vehicle, they must have insurance cover that also applies to stationary risk (when not moving).",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds that the cover applies to this case as well"
+   }
+  ],
+  "trick": "It is mandatory, and the insurance must also cover the stationary situation.",
+  "image": ""
+ },
+ {
+  "n": 24038,
+  "it": "I rimorchi trainati da autovetture sono muniti, in genere, di freno ad inerzia",
+  "answer": true,
+  "en": "Trailers towed by cars are generally fitted with an inertia brake.",
+  "keywords": [
+   {
+    "phrase": "in genere",
+    "why": "means generally, so not in every single case"
+   }
+  ],
+  "trick": "The rule is presented as general, not absolute.",
+  "image": ""
+ },
+ {
+  "n": 24039,
+  "it": "I rimorchi devono avere targa propria",
+  "answer": true,
+  "en": "Trailers must have their own number plate.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "propria",
+    "why": "means their own, not shared with another vehicle"
+   }
+  ],
+  "trick": "The sentence requires a separate number plate belonging to the trailer itself.",
+  "image": ""
+ },
+ {
+  "n": 24040,
+  "it": "Per garantire una maggiore sicurezza durante la guida di un veicolo con rimorchio, è consigliabile concentrare il carico massimo in corrispondenza del gancio di traino",
+  "answer": false,
+  "en": "To ensure greater safety while driving a vehicle with a trailer, it is advisable to concentrate the maximum load at the towing hitch.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "expresses advice, not a strict legal obligation"
+   },
+   {
+    "phrase": "carico massimo",
+    "why": "suggests concentrating the heaviest weight in one point"
+   }
+  ],
+  "trick": "The trap is the recommendation wording combined with the incorrect idea of putting the maximum load at the hitch.",
+  "image": ""
+ },
+ {
+  "n": 24041,
+  "it": "Per poter trainare un rimorchio non occorre effettuare il collegamento elettrico fra motrice e rimorchio",
+  "answer": false,
+  "en": "In order to tow a trailer, it is not necessary to make the electrical connection between the towing vehicle and the trailer.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "negates necessity"
+   }
+  ],
+  "trick": "The sentence is tricky because it denies a requirement.",
+  "image": ""
+ },
+ {
+  "n": 24042,
+  "it": "Per guidare un'autovettura che traina un veicolo guasto, con conducente a bordo, occorre la patente di guida della categoria E",
+  "answer": false,
+  "en": "To drive a car towing a broken-down vehicle, with a driver on board, category E driving licence is required.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses requirement or necessity"
+   }
+  ],
+  "trick": "The main trap is the claim that a specific licence category is required.",
+  "image": ""
+ },
+ {
+  "n": 24043,
+  "it": "Il conducente a bordo di un veicolo guasto, che viene trainato, può essere privo di patente di guida",
+  "answer": false,
+  "en": "The driver on board a broken-down vehicle that is being towed may be without a driving licence.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "privo di patente di guida",
+    "why": "means without a driving licence"
+   }
+  ],
+  "trick": "The sentence wrongly suggests permission to be without a licence.",
+  "image": ""
+ },
+ {
+  "n": 24044,
+  "it": "Se un veicolo guasto viene trainato con le quattro ruote al suolo, occorre inserire la quarta marcia del cambio di velocità",
+  "answer": false,
+  "en": "If a broken-down vehicle is towed with all four wheels on the ground, you must engage fourth gear.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses requirement or necessity"
+   }
+  ],
+  "trick": "The trap is the false claim of a required gear selection.",
+  "image": ""
+ },
+ {
+  "n": 24045,
+  "it": "Gli organi di traino di un veicolo non devono essere periodicamente lubrificati",
+  "answer": false,
+  "en": "A vehicle's towing components must not be lubricated periodically.",
+  "keywords": [
+   {
+    "phrase": "non devono",
+    "why": "negates an obligation and creates a prohibition"
+   }
+  ],
+  "trick": "The negation reverses the maintenance rule.",
+  "image": ""
+ },
+ {
+  "n": 24046,
+  "it": "Gli organi di traino di un veicolo possono non essere omologati, purché vengano trainati rimorchi di massa inferiore a 750 chilogrammi",
+  "answer": false,
+  "en": "A vehicle's towing components do not need to be type-approved, provided that trailers with a mass of less than 750 kilograms are towed.",
+  "keywords": [
+   {
+    "phrase": "possono non essere",
+    "why": "suggests something is allowed to be absent"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition or exception"
+   },
+   {
+    "phrase": "inferiore a 750 chilogrammi",
+    "why": "limits the claim to trailers under this weight"
+   }
+  ],
+  "trick": "The sentence is built around a false exception: not approved, as long as the trailer is under 750 kg.",
+  "image": ""
+ },
+ {
+  "n": 24047,
+  "it": "Se si traina un veicolo guasto, munito di servosterzo, lo sterzo risulterà sempre bloccato",
+  "answer": false,
+  "en": "If a broken-down vehicle equipped with power steering is towed, the steering will always be locked.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   }
+  ],
+  "trick": "The absolute word makes this claim easy to overgeneralize.",
+  "image": ""
+ },
+ {
+  "n": 24048,
+  "it": "Trainando un rimorchio nelle forti discese, non occorre tener conto della forza di spinta esercitata dal rimorchio sulla motrice",
+  "answer": false,
+  "en": "When towing a trailer on steep downhill stretches, it is not necessary to take into account the pushing force exerted by the trailer on the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "negates necessity"
+   }
+  ],
+  "trick": "The key trap is the denial of something that must in fact be considered.",
+  "image": ""
+ },
+ {
+  "n": 24049,
+  "it": "Per trainare un rimorchio leggero non occorre effettuare il collegamento elettrico",
+  "answer": false,
+  "en": "To tow a light trailer, it is not necessary to make the electrical connection.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "negates necessity"
+   }
+  ],
+  "trick": "The statement is tricky because it falsely removes a requirement.",
+  "image": ""
+ },
+ {
+  "n": 24050,
+  "it": "Quando si traina un veicolo guasto, occorre che la distanza fra i due veicoli sia di almeno 3 metri",
+  "answer": false,
+  "en": "When towing a broken-down vehicle, the distance between the two vehicles must be at least 3 metres.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses requirement or necessity"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum limit"
+   }
+  ],
+  "trick": "The sentence claims a mandatory minimum distance, marked by 'at least'.",
+  "image": ""
+ },
+ {
+  "n": 24051,
+  "it": "Quando si traina un rimorchio, bisogna considerare che nelle curve strette la fascia di ingombro è minore",
+  "answer": false,
+  "en": "When towing a trailer, you must consider that on tight bends the swept path is smaller.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The obligation is clear, but the statement is tricky because the swept path is not smaller on tight bends.",
+  "image": ""
+ },
+ {
+  "n": 24052,
+  "it": "Il numero di persone trasportabili sui veicoli è indicato sulla carta di circolazione",
+  "answer": true,
+  "en": "The number of people that may be carried on vehicles is indicated on the registration certificate.",
+  "keywords": [],
+  "trick": "No major trick wording; it is a straightforward statement of where the permitted number is shown.",
+  "image": ""
+ },
+ {
+  "n": 24053,
+  "it": "Il numero dei posti di un veicolo è indicato sulla carta di circolazione",
+  "answer": true,
+  "en": "The number of seats in a vehicle is indicated on the registration certificate.",
+  "keywords": [],
+  "trick": "No major trick wording; it simply states where the seat count is indicated.",
+  "image": ""
+ },
+ {
+  "n": 24055,
+  "it": "Il numero massimo di posti delle autovetture è pari a nove, compreso quello del conducente",
+  "answer": true,
+  "en": "The maximum number of seats in passenger cars is nine, including the driver's seat.",
+  "keywords": [
+   {
+    "phrase": "massimo",
+    "why": "sets an upper limit, not an exact number in every case"
+   },
+   {
+    "phrase": "compreso quello del conducente",
+    "why": "includes the driver in the total count"
+   }
+  ],
+  "trick": "Watch that it gives a maximum and that the driver is included in the total.",
+  "image": ""
+ },
+ {
+  "n": 24056,
+  "it": "Il numero di persone trasportabili sulle autovetture può essere al massimo di nove, compreso il conducente",
+  "answer": true,
+  "en": "The number of people that may be carried in passenger cars can be at most nine, including the driver.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility/allowed maximum, not obligation"
+   },
+   {
+    "phrase": "al massimo",
+    "why": "sets an upper limit, not a fixed number"
+   },
+   {
+    "phrase": "compreso il conducente",
+    "why": "includes the driver in the total count"
+   }
+  ],
+  "trick": "The sentence states a permitted maximum, and that maximum includes the driver.",
+  "image": ""
+ },
+ {
+  "n": 24057,
+  "it": "Il numero di persone trasportabili sui motocicli è sempre di due, oltre il conducente",
+  "answer": false,
+  "en": "The number of people that may be carried on motorcycles is always two, in addition to the driver.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute, with no exceptions"
+   },
+   {
+    "phrase": "oltre il conducente",
+    "why": "adds passengers on top of the driver, not including the driver"
+   }
+  ],
+  "trick": "The traps are the absolute word 'always' and the fact that the driver is excluded from the two.",
+  "image": ""
+ },
+ {
+  "n": 24058,
+  "it": "Il numero di persone trasportabili sulle autovetture è al massimo di quattro",
+  "answer": false,
+  "en": "The number of people that may be carried in passenger cars is at most four.",
+  "keywords": [
+   {
+    "phrase": "al massimo",
+    "why": "sets an upper limit, not a fixed number"
+   }
+  ],
+  "trick": "The key trap is that it claims a maximum limit rather than a usual or typical number.",
+  "image": ""
+ },
+ {
+  "n": 24059,
+  "it": "Il numero di persone trasportabili sugli autocarri è sempre di cinque, compreso il conducente",
+  "answer": false,
+  "en": "The number of people that may be carried on goods vehicles is always five, including the driver.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute, with no exceptions"
+   },
+   {
+    "phrase": "compreso il conducente",
+    "why": "includes the driver in the total count"
+   }
+  ],
+  "trick": "The wording is tricky because it is absolute and counts the driver in the five.",
+  "image": ""
+ },
+ {
+  "n": 24060,
+  "it": "Il numero di persone trasportabili su un veicolo, riportato sulla carta di circolazione, non comprende il conducente",
+  "answer": false,
+  "en": "The number of people that may be carried in a vehicle, as stated on the registration certificate, does not include the driver.",
+  "keywords": [
+   {
+    "phrase": "non comprende",
+    "why": "negates inclusion of the driver"
+   }
+  ],
+  "trick": "The key trap is the negation, which says the driver is excluded from the count.",
+  "image": ""
+ },
+ {
+  "n": 24075,
+  "it": "Nei caravan, per ridurre il rischio di ribaltamento in curva, occorre sistemare il carico degli oggetti pesanti in modo da mantenere il baricentro il più basso possibile",
+  "answer": true,
+  "en": "In caravans, to reduce the risk of overturning on bends, heavy items must be arranged so as to keep the centre of gravity as low as possible.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "il più basso possibile",
+    "why": "means as low as possible, stressing minimisation"
+   }
+  ],
+  "trick": "The sentence imposes a requirement and emphasizes keeping the centre of gravity as low as possible.",
+  "image": ""
+ },
+ {
+  "n": 24076,
+  "it": "Nei caravan, per ridurre il rischio di ribaltamento in curva, occorre sistemare il carico in modo il più possibile equilibrato tra lato destro e sinistro",
+  "answer": true,
+  "en": "In caravans, to reduce the risk of overturning on bends, the load must be arranged as evenly as possible between the right and left sides.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "il più possibile equilibrato",
+    "why": "means as balanced as possible, stressing maximum balance"
+   }
+  ],
+  "trick": "The trap is the obligatory wording and the emphasis on the greatest possible balance.",
+  "image": ""
+ },
+ {
+  "n": 24077,
+  "it": "Il caravan non è considerato un rimorchio perché può essere adibito ad alloggio",
+  "answer": false,
+  "en": "A caravan is not considered a trailer because it can be used as accommodation.",
+  "keywords": [
+   {
+    "phrase": "non è considerato",
+    "why": "negates the classification as a trailer"
+   },
+   {
+    "phrase": "perché",
+    "why": "introduces the claimed reason, which learners may confuse with a definition"
+   }
+  ],
+  "trick": "The main trap is the negation of its classification, followed by a supposed reason.",
+  "image": ""
+ },
+ {
+  "n": 24078,
+  "it": "E' possibile alloggiare nei caravan (roulotte) durante la circolazione, purché tutti i passeggeri allaccino le cinture di sicurezza",
+  "answer": false,
+  "en": "It is possible to stay in caravans (trailers) while they are in motion, provided that all passengers fasten their seat belts.",
+  "keywords": [
+   {
+    "phrase": "E' possibile",
+    "why": "expresses permission/possibility"
+   },
+   {
+    "phrase": "durante la circolazione",
+    "why": "means while the vehicle is moving, not when parked"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition or exception-like limitation"
+   }
+  ],
+  "trick": "The sentence appears to allow something, but only under the stated condition and while moving.",
+  "image": ""
+ },
+ {
+  "n": 24079,
+  "it": "Nel rimorchio è presente un dispositivo di sicurezza che, in caso di sganciamento accidentale, aziona automaticamente il freno di stazionamento",
+  "answer": true,
+  "en": "A trailer has a safety device which, in the event of accidental uncoupling, automatically applies the parking brake.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to a specific event or condition"
+   },
+   {
+    "phrase": "automaticamente",
+    "why": "means it operates by itself, not manually"
+   }
+  ],
+  "trick": "The device acts only in a specific situation and it does so automatically.",
+  "image": ""
+ },
+ {
+  "n": 24080,
+  "it": "Nei rimorchi con freno a inerzia, dopo un prolungato periodo di inattività, i freni potrebbero aver perso efficienza a causa della ruggine",
+  "answer": true,
+  "en": "In trailers fitted with overrun brakes, after a prolonged period of inactivity, the brakes may have lost efficiency because of rust.",
+  "keywords": [
+   {
+    "phrase": "potrebbero",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "a causa della ruggine",
+    "why": "states the specific cause, which can affect interpretation"
+   }
+  ],
+  "trick": "The sentence says this is a possible effect, not something that always happens.",
+  "image": ""
+ },
+ {
+  "n": 24081,
+  "it": "Quando si lascia un rimorchio in sosta occorre azionare la leva del freno di stazionamento e, in caso di strada in pendenza, è opportuno applicare dei cunei di arresto alle ruote",
+  "answer": true,
+  "en": "When leaving a trailer parked, you must apply the parking brake lever and, if the road is sloping, it is advisable to place wheel chocks against the wheels.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the next rule to a specific condition"
+   },
+   {
+    "phrase": "è opportuno",
+    "why": "expresses advice/recommendation, not strict obligation"
+   }
+  ],
+  "trick": "One action is mandatory, while the use of chocks is recommended only if the road is on a slope.",
+  "image": ""
+ },
+ {
+  "n": 24082,
+  "it": "La frenatura del rimorchio dotato di freno a inerzia non avviene simultaneamente a quella della motrice, in quanto l'azionamento si ha solo dopo che il rimorchio ha esercitato una spinta sulla motrice",
+  "answer": true,
+  "en": "The braking of a trailer fitted with overrun brakes does not occur simultaneously with that of the towing vehicle, since it is activated only after the trailer has pushed against the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "non avviene simultaneamente",
+    "why": "negates simultaneous braking"
+   },
+   {
+    "phrase": "solo dopo che",
+    "why": "means only after, so there is a delay/condition"
+   }
+  ],
+  "trick": "The key is that braking is not simultaneous and starts only after the trailer pushes the towing vehicle.",
+  "image": ""
+ },
+ {
+  "n": 24083,
+  "it": "In un rimorchio dotato di freno a inerzia l'effetto della frenata avviene quando il rimorchio si avvicina alla motrice",
+  "answer": true,
+  "en": "In a trailer fitted with overrun brakes, the braking effect occurs when the trailer moves closer to the towing vehicle.",
+  "keywords": [],
+  "trick": "No major trap wording beyond the technical idea that braking begins as the trailer closes in on the towing vehicle.",
+  "image": ""
+ },
+ {
+  "n": 24084,
+  "it": "Alla guida di un veicolo con rimorchio, durante una frenata in marcia rettilinea, il carico trasportato tenderà a spostarsi all'indietro",
+  "answer": false,
+  "en": "When driving a vehicle with a trailer, during braking in a straight line, the load being carried will tend to shift backwards.",
+  "keywords": [
+   {
+    "phrase": "tenderà",
+    "why": "expresses tendency, not absolute certainty"
+   }
+  ],
+  "trick": "The main trap is the direction of the claimed tendency of the load during braking.",
+  "image": ""
+ },
+ {
+  "n": 24085,
+  "it": "Alla guida di un veicolo con rimorchio, durante una brusca accelerazione in marcia rettilinea, il carico trasportato tenderà a spostarsi in avanti",
+  "answer": false,
+  "en": "When driving a vehicle with a trailer, during sudden acceleration in a straight line, the load being carried will tend to shift forwards.",
+  "keywords": [
+   {
+    "phrase": "tenderà",
+    "why": "expresses tendency, not absolute certainty"
+   }
+  ],
+  "trick": "The main trap is the direction of the claimed tendency of the load during sudden acceleration.",
+  "image": ""
+ },
+ {
+  "n": 24086,
+  "it": "Nelle autovetture dotate di A.B.S. non è possibile agganciare un rimorchio privo di impianto frenante",
+  "answer": false,
+  "en": "In passenger cars fitted with A.B.S., it is not possible to tow a trailer without a braking system.",
+  "keywords": [
+   {
+    "phrase": "non è possibile",
+    "why": "expresses prohibition/impossibility"
+   },
+   {
+    "phrase": "privo di impianto frenante",
+    "why": "means lacking a braking system entirely"
+   }
+  ],
+  "trick": "The key trap is the negative form, which says towing such a trailer is not allowed/possible.",
+  "image": ""
+ },
+ {
+  "n": 24087,
+  "it": "Nei rimorchi dotati di freno a inerzia la frenatura del rimorchio avviene simultaneamente a quella della motrice",
+  "answer": false,
+  "en": "In trailers fitted with inertia brakes, the trailer brakes at the same time as the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "simultaneamente",
+    "why": "states exactly the same timing"
+   }
+  ],
+  "trick": "Watch for timing words that make the statement absolute.",
+  "image": ""
+ },
+ {
+  "n": 24088,
+  "it": "Nei rimorchi dotati di freno a inerzia il rimorchio frena circa un secondo prima della motrice",
+  "answer": false,
+  "en": "In trailers fitted with inertia brakes, the trailer brakes about one second before the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "prima",
+    "why": "reverses the timing sequence"
+   },
+   {
+    "phrase": "circa un secondo",
+    "why": "adds a specific time detail"
+   }
+  ],
+  "trick": "Small timing details can make the whole statement false.",
+  "image": ""
+ },
+ {
+  "n": 24089,
+  "it": "Nei centri abitati il conducente non deve lasciare in sosta un rimorchio staccato dalla motrice, salvo diversa segnalazione",
+  "answer": true,
+  "en": "In built-up areas, the driver must not leave a trailer parked when detached from the towing vehicle, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negated obligation"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs say otherwise"
+   }
+  ],
+  "trick": "The rule is a prohibition, but it has a sign-based exception.",
+  "image": ""
+ },
+ {
+  "n": 24090,
+  "it": "Durante la circolazione, i rimorchi devono essere assicurati con la stessa polizza della motrice",
+  "answer": true,
+  "en": "While driving, trailers must be insured under the same policy as the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "devono essere",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is that this is mandatory, not optional.",
+  "image": ""
+ },
+ {
+  "n": 24091,
+  "it": "Gli specchietti esterni montati sulla motrice non devono sporgere oltre 20 centimetri dalla sagoma del veicolo (motrice o rimorchio), con riferimento al punto di maggiore larghezza",
+  "answer": true,
+  "en": "The exterior mirrors fitted to the towing vehicle must not protrude more than 20 centimetres beyond the outline of the vehicle (towing vehicle or trailer), measured from the widest point.",
+  "keywords": [
+   {
+    "phrase": "non devono",
+    "why": "sets a maximum by negating excess"
+   },
+   {
+    "phrase": "oltre 20 centimetri",
+    "why": "gives the legal limit"
+   }
+  ],
+  "trick": "The important point is the prohibition on exceeding the stated limit.",
+  "image": ""
+ },
+ {
+  "n": 24092,
+  "it": "Il rapporto di traino, entro i limiti di quello tecnicamente ammesso per il veicolo, non deve superare il valore di 1, nel caso di rimorchi muniti di freno di servizio e di massa fino a 3,5 tonnellate",
+  "answer": true,
+  "en": "The towing ratio, within the limits technically permitted for the vehicle, must not exceed 1 in the case of trailers equipped with a service brake and with a mass up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "entro i limiti",
+    "why": "restricts the rule to permitted technical limits"
+   },
+   {
+    "phrase": "non deve superare",
+    "why": "sets a maximum that must not be exceeded"
+   },
+   {
+    "phrase": "nel caso di",
+    "why": "limits the rule to this specific case"
+   },
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "includes only masses up to that threshold"
+   }
+  ],
+  "trick": "Several limiting phrases narrow exactly when the maximum ratio applies.",
+  "image": ""
+ },
+ {
+  "n": 24093,
+  "it": "Il massimo rapporto di traino per un rimorchio sprovvisto di qualsiasi dispositivo di frenatura è di 0,5",
+  "answer": true,
+  "en": "The maximum towing ratio for a trailer without any braking device is 0.5.",
+  "keywords": [
+   {
+    "phrase": "sprovvisto di qualsiasi dispositivo di frenatura",
+    "why": "means completely without any braking system"
+   }
+  ],
+  "trick": "The trap is the absolute absence of any braking device.",
+  "image": ""
+ },
+ {
+  "n": 24094,
+  "it": "Quando il gancio di traino non viene utilizzato, perché non si sta trainando un rimorchio, la sua parte sporgente dalla sagoma posteriore del veicolo deve essere sfilata, smontata o ripiegata",
+  "answer": true,
+  "en": "When the tow hook is not being used, because no trailer is being towed, the part projecting beyond the rear outline of the vehicle must be removed, detached or folded away.",
+  "keywords": [
+   {
+    "phrase": "non viene utilizzato",
+    "why": "states the condition when the rule applies"
+   },
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The obligation applies specifically when the tow hook is not in use.",
+  "image": ""
+ },
+ {
+  "n": 24095,
+  "it": "I rimorchi T.A.T.S. sono destinati al trasporto di attrezzature che non devono costituire oggetto di commercio, ma essere impiegate solo per il tempo libero",
+  "answer": true,
+  "en": "T.A.T.S. trailers are intended for transporting equipment that must not be commercial goods, but must be used only for leisure time.",
+  "keywords": [
+   {
+    "phrase": "non devono",
+    "why": "negates what the equipment may be"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a contrasting condition"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts use exclusively to leisure"
+   }
+  ],
+  "trick": "The statement combines a prohibition with an exclusive permitted use.",
+  "image": ""
+ },
+ {
+  "n": 24096,
+  "it": "I conducenti di autoveicoli trainanti un rimorchio, quando la massa complessiva a pieno carico del complesso veicolare è superiore a 3,5 tonnellate, sono considerati in stato di ebbrezza qualora sia stato accertato un valore corrispondente ad un tasso alcolemico superiore a zero grammi per litro",
+  "answer": true,
+  "en": "Drivers of motor vehicles towing a trailer, when the gross combination mass is over 3.5 tonnes, are considered to be under the influence if a value corresponding to a blood alcohol level above zero grams per litre has been established.",
+  "keywords": [
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "sets the threshold for the rule"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces the legal condition"
+   },
+   {
+    "phrase": "superiore a zero",
+    "why": "means any amount above zero"
+   }
+  ],
+  "trick": "The rule applies only above the mass threshold and with any alcohol level over zero.",
+  "image": ""
+ },
+ {
+  "n": 24097,
+  "it": "Nelle autostrade con carreggiate a tre o più corsie, ai conducenti di complessi di veicoli di lunghezza totale superiore a 7 metri, è vietato impegnare altre corsie all'infuori delle due più vicine al bordo destro della carreggiata",
+  "answer": true,
+  "en": "On motorways with carriageways of three or more lanes, drivers of vehicle combinations with a total length of more than 7 metres are forbidden from using any lanes other than the two closest to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "tre o più corsie",
+    "why": "sets the minimum number of lanes for the rule"
+   },
+   {
+    "phrase": "superiore a 7 metri",
+    "why": "sets the length threshold"
+   },
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "all'infuori delle due più vicine al bordo destro",
+    "why": "limits use to only those two lanes"
+   }
+  ],
+  "trick": "This is a prohibition with precise lane and vehicle-size limits.",
+  "image": ""
+ },
+ {
+  "n": 24098,
+  "it": "Durante la circolazione, i rimorchi con massa massima a pieno carico fino a 3,5 tonnellate, devono essere segnalati con strisce posteriori e laterali retroriflettenti",
+  "answer": false,
+  "en": "While driving, trailers with a maximum authorised laden mass of up to 3.5 tonnes must be marked with rear and side retroreflective strips.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "limits the statement to masses up to that value"
+   },
+   {
+    "phrase": "devono essere",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The trap is that the statement claims a mandatory requirement for this mass category.",
+  "image": ""
+ },
+ {
+  "n": 24099,
+  "it": "E' possibile trainare rimorchi non immatricolati, se di massa inferiore ai 750 chilogrammi",
+  "answer": false,
+  "en": "It is possible to tow unregistered trailers if they have a mass of less than 750 kilograms.",
+  "keywords": [
+   {
+    "phrase": "E' possibile",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non immatricolati",
+    "why": "means not officially registered"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the permission conditional"
+   },
+   {
+    "phrase": "inferiore ai 750 chilogrammi",
+    "why": "sets a strict mass condition"
+   }
+  ],
+  "trick": "The sentence is about conditional permission, which is often tested.",
+  "image": ""
+ },
+ {
+  "n": 24100,
+  "it": "Il rimorchio si considera parte integrante del veicolo se ha una massa fino a 3,5 tonnellate",
+  "answer": false,
+  "en": "A trailer is considered an integral part of the vehicle if it has a mass of up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "si considera",
+    "why": "states a legal classification"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the claim conditional"
+   },
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets the mass limit"
+   }
+  ],
+  "trick": "The trap is the legal classification tied to a mass condition.",
+  "image": ""
+ },
+ {
+  "n": 24101,
+  "it": "La larghezza del rimorchio non deve superare quella del veicolo trainante",
+  "answer": false,
+  "en": "The width of the trailer must not exceed that of the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "non deve superare",
+    "why": "sets a maximum limit by negation"
+   }
+  ],
+  "trick": "The key trap is the claimed maximum width restriction.",
+  "image": ""
+ },
+ {
+  "n": 24102,
+  "it": "Il rimorchio è parte integrante del veicolo a cui è stato abbinato in fase di collaudo e non può essere agganciato a un altro veicolo",
+  "answer": false,
+  "en": "The trailer is an integral part of the vehicle to which it was matched during testing and cannot be coupled to another vehicle.",
+  "keywords": [
+   {
+    "phrase": "è parte integrante",
+    "why": "states a legal status"
+   },
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition as impossibility"
+   }
+  ],
+  "trick": "The trap is the absolute claim that it cannot be coupled to another vehicle.",
+  "image": ""
+ },
+ {
+  "n": 24103,
+  "it": "Se si trainano caravan e rimorchi T.A.T.S. non è obbligatorio che il veicolo trainante sia munito di specchietto retrovisore destro",
+  "answer": false,
+  "en": "If you tow caravans and T.A.T.S. trailers, it is not compulsory for the towing vehicle to be fitted with a right rear-view mirror.",
+  "keywords": [
+   {
+    "phrase": "non è obbligatorio",
+    "why": "negates an obligation"
+   }
+  ],
+  "trick": "Be careful: the sentence removes a requirement rather than imposing one.",
+  "image": ""
+ },
+ {
+  "n": 24104,
+  "it": "Gli specchietti esterni montati sulla motrice possono sporgere fino a 50 centimetri dalla sagoma del veicolo di maggiore ingombro, qualora siano posizionati ad un'altezza da terra non superiore a 1 metro",
+  "answer": false,
+  "en": "The exterior mirrors fitted to the towing vehicle may protrude up to 50 centimetres beyond the outline of the widest vehicle, provided they are positioned at a height from the ground not exceeding 1 metre.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "fino a 50 centimetri",
+    "why": "sets the allowed extent claimed"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces a condition"
+   },
+   {
+    "phrase": "non superiore a 1 metro",
+    "why": "sets a maximum height condition"
+   }
+  ],
+  "trick": "The statement hinges on conditional permission with exact measurement limits.",
+  "image": ""
+ },
+ {
+  "n": 24105,
+  "it": "Nel rispetto della larghezza massima stabilita per i rimorchi T.A.T.S., le imbarcazioni trasportate possono sporgere fino a 50 centimetri per ogni lato rispetto ai bordi esterni delle luci di posizione posteriori",
+  "answer": false,
+  "en": "Subject to compliance with the maximum width established for T.A.T.S. trailers, the boats carried may project up to 50 centimetres on each side beyond the outer edges of the rear position lights.",
+  "keywords": [
+   {
+    "phrase": "Nel rispetto di",
+    "why": "makes the rule conditional on compliance"
+   },
+   {
+    "phrase": "possono sporgere",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "fino a 50 centimetri",
+    "why": "sets the claimed allowed overhang limit"
+   },
+   {
+    "phrase": "per ogni lato",
+    "why": "applies the measure to each side"
+   }
+  ],
+  "trick": "The trap is a conditional allowance with a precise side overhang figure.",
+  "image": ""
+ },
+ {
+  "n": 24106,
+  "it": "Il titolare di patente di guida della categoria BE che, successivamente, consegue la patente della categoria C, può guidare anche veicoli della categoria CE",
+  "answer": false,
+  "en": "A holder of a category BE driving licence who subsequently obtains a category C licence may also drive category CE vehicles.",
+  "keywords": [
+   {
+    "phrase": "successivamente",
+    "why": "makes the sequence of licences relevant"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends permission to an additional category"
+   }
+  ],
+  "trick": "The claim depends on licence sequence and an added permission.",
+  "image": ""
+ },
+ {
+  "n": 24107,
+  "it": "Per i complessi di veicoli con rimorchi fino a 3,5 tonnellate di massa, non vige l'obbligo di apporre nella parte posteriore i contrassegni indicanti i limiti massimi di velocità specifici loro imposti",
+  "answer": false,
+  "en": "For vehicle combinations with trailers up to 3.5 tonnes in mass, there is no requirement to place on the rear the signs showing the specific maximum speed limits imposed on them.",
+  "keywords": [
+   {
+    "phrase": "non vige l'obbligo",
+    "why": "negates the existence of an obligation"
+   },
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper limit, not an exact weight"
+   },
+   {
+    "phrase": "specifici loro imposti",
+    "why": "refers to limits specifically imposed on those vehicles"
+   }
+  ],
+  "trick": "The key trap is the negation of the obligation and the restricted scope to trailer combinations up to 3.5 tonnes.",
+  "image": ""
+ },
+ {
+  "n": 24108,
+  "it": "Quando si traina un rimorchio per trasporto di animali vivi occorre tenere in funzione la segnalazione luminosa di pericolo per segnalare agli altri conducenti di aumentare la distanza di sicurezza",
+  "answer": false,
+  "en": "When towing a trailer for transporting live animals, it is necessary to keep the hazard warning lights on to signal to other drivers to increase their safety distance.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "tenere in funzione",
+    "why": "means keep operating, not just activate briefly"
+   }
+  ],
+  "trick": "The trap is that the sentence states an obligation to keep the hazard lights on continuously.",
+  "image": ""
+ },
+ {
+  "n": 24109,
+  "it": "Quando si traina un rimorchio occorre staccare la targa della motrice e applicarla nella parte posteriore del rimorchio",
+  "answer": false,
+  "en": "When towing a trailer, you must remove the towing vehicle's number plate and attach it to the rear of the trailer.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "staccare",
+    "why": "means physically remove, not just copy"
+   },
+   {
+    "phrase": "applicarla",
+    "why": "means attach that same plate to the trailer"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to remove the towing vehicle's actual plate and place it on the trailer.",
+  "image": ""
+ },
+ {
+  "n": 24110,
+  "it": "Se nella carta di circolazione manca il valore della massa rimorchiabile, ciò significa che il veicolo è atto al traino di rimorchi di qualsiasi massa",
+  "answer": false,
+  "en": "If the towable mass value is missing from the registration certificate, this means that the vehicle is suitable for towing trailers of any mass.",
+  "keywords": [
+   {
+    "phrase": "manca",
+    "why": "means the value is absent, not zero"
+   },
+   {
+    "phrase": "qualsiasi massa",
+    "why": "means any mass at all, an absolute claim"
+   },
+   {
+    "phrase": "è atto al traino",
+    "why": "means approved/suitable for towing"
+   }
+  ],
+  "trick": "The trap is the absolute statement that absence of the value allows towing trailers of any mass.",
+  "image": ""
+ },
+ {
+  "n": 24111,
+  "it": "I rimorchi devono essere sottoposti a revisione periodica insieme al veicolo trainante",
+  "answer": false,
+  "en": "Trailers must undergo periodic inspection together with the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "devono essere sottoposti",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "insieme",
+    "why": "means at the same time, not separately"
+   }
+  ],
+  "trick": "The trap is the obligation being linked to inspection together with the towing vehicle.",
+  "image": ""
+ },
+ {
+  "n": 24112,
+  "it": "Sui rimorchi, il carico trasportato può sporgere dalla parte anteriore fino ai 3/10 della lunghezza del complesso dei veicoli",
+  "answer": false,
+  "en": "On trailers, the load carried may project from the front by up to 3/10 of the length of the vehicle combination.",
+  "keywords": [
+   {
+    "phrase": "può sporgere",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "dalla parte anteriore",
+    "why": "specifies projection from the front, not the rear"
+   },
+   {
+    "phrase": "fino ai 3/10",
+    "why": "sets a maximum limit"
+   }
+  ],
+  "trick": "The trap is the claimed permission for front overhang up to a specific limit.",
+  "image": ""
+ },
+ {
+  "n": 24113,
+  "it": "Sui rimorchi leggeri, il carico trasportato può sporgere posteriormente senza obbligo di specifiche segnalazioni",
+  "answer": false,
+  "en": "On light trailers, the load carried may project from the rear without the obligation of specific markings.",
+  "keywords": [
+   {
+    "phrase": "può sporgere",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza obbligo",
+    "why": "removes a requirement"
+   },
+   {
+    "phrase": "specifiche segnalazioni",
+    "why": "refers to required special markings/signals"
+   }
+  ],
+  "trick": "The trap is the claimed exception that rear overhang on light trailers needs no specific marking.",
+  "image": ""
+ },
+ {
+  "n": 24114,
+  "it": "I rimorchi per il trasporto di cavalli (van) non possono circolare in autostrada",
+  "answer": false,
+  "en": "Trailers for transporting horses (horseboxes) may not travel on motorways.",
+  "keywords": [
+   {
+    "phrase": "non possono",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the absolute prohibition on motorway circulation.",
+  "image": ""
+ },
+ {
+  "n": 24115,
+  "it": "Alla guida di un veicolo con rimorchio, nello svoltare a destra, bisogna fare particolare attenzione a non investire, con la ruota posteriore destra, eventuali pedoni che si trovino vicino al marciapiede",
+  "answer": true,
+  "en": "When driving a vehicle with a trailer, when turning right, you must pay particular attention not to hit any pedestrians near the pavement with the right rear wheel.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a non investire",
+    "why": "negative purpose: to avoid hitting"
+   },
+   {
+    "phrase": "eventuali pedoni",
+    "why": "means any possible pedestrians who may be there"
+   }
+  ],
+  "trick": "The trap is the obligation to watch for pedestrians because the trailer's path can cut in near the pavement.",
+  "image": ""
+ },
+ {
+  "n": 24116,
+  "it": "Quando si traina un rimorchio, bisogna considerare che nelle curve la fascia di ingombro è maggiore",
+  "answer": true,
+  "en": "When towing a trailer, you must consider that on bends the swept path is greater.",
+  "keywords": [
+   {
+    "phrase": "bisogna considerare",
+    "why": "expresses obligation to take into account"
+   },
+   {
+    "phrase": "è maggiore",
+    "why": "comparative meaning a wider occupied path"
+   }
+  ],
+  "trick": "The key trap is that the trailer increases the vehicle combination's swept path in curves.",
+  "image": ""
+ },
+ {
+  "n": 24117,
+  "it": "Trainando un rimorchio nelle forti discese, occorre tener conto della forza di spinta esercitata dal rimorchio sulla motrice",
+  "answer": true,
+  "en": "When towing a trailer on steep downhill stretches, you must take into account the pushing force exerted by the trailer on the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "occorre tener conto",
+    "why": "expresses obligation to consider"
+   },
+   {
+    "phrase": "forti discese",
+    "why": "means steep descents, not just any downhill road"
+   }
+  ],
+  "trick": "The trap is the obligation to consider the trailer's forward push on steep descents.",
+  "image": ""
+ },
+ {
+  "n": 24118,
+  "it": "Quando si traina un rimorchio, specie se carico, si ha una sensibile riduzione della capacità di accelerazione (ripresa) del veicolo",
+  "answer": true,
+  "en": "When towing a trailer, especially if it is loaded, there is a noticeable reduction in the vehicle's acceleration (pickup) capability.",
+  "keywords": [
+   {
+    "phrase": "specie se carico",
+    "why": "adds a particularly important condition"
+   },
+   {
+    "phrase": "sensibile riduzione",
+    "why": "means a noticeable reduction, not a slight one"
+   }
+  ],
+  "trick": "The trap is that towing, especially with a loaded trailer, significantly reduces acceleration.",
+  "image": ""
+ },
+ {
+  "n": 24119,
+  "it": "Prima di effettuare qualsiasi manovra con il rimorchio agganciato è bene accertarsi che non vi siano cose e/o persone nel raggio di manovra del complesso",
+  "answer": true,
+  "en": "Before carrying out any manoeuvre with the trailer attached, it is advisable to make sure there are no objects and/or people within the manoeuvring range of the vehicle combination.",
+  "keywords": [
+   {
+    "phrase": "qualsiasi manovra",
+    "why": "means any manoeuvre at all"
+   },
+   {
+    "phrase": "è bene accertarsi",
+    "why": "advises a necessary safety check"
+   },
+   {
+    "phrase": "non vi siano",
+    "why": "negates the presence of people or objects"
+   }
+  ],
+  "trick": "The trap is the broad safety check required before any manoeuvre, not only difficult ones.",
+  "image": ""
+ },
+ {
+  "n": 24120,
+  "it": "Nelle curve il rimorchio tende a \"stringere\" perché percorre una traiettoria circolare con raggio inferiore alla motrice",
+  "answer": true,
+  "en": "On bends, the trailer tends to 'cut in' because it follows a circular path with a smaller radius than the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "tende a \"stringere\"",
+    "why": "means tends to cut in toward the inside"
+   },
+   {
+    "phrase": "raggio inferiore",
+    "why": "means a smaller turning radius than the towing vehicle"
+   }
+  ],
+  "trick": "The trap is understanding that the trailer cuts inside the towing vehicle's path on curves.",
+  "image": ""
+ },
+ {
+  "n": 24121,
+  "it": "I movimenti del liquido che si verificano all'interno di un serbatoio vincolato ad un rimorchio durante i cambiamenti di direzione, in frenata e in accelerazione, sono le maggiori cause di instabilità dei complessi di veicoli",
+  "answer": true,
+  "en": "The movement of liquid occurring inside a tank attached to a trailer during changes of direction, braking and acceleration is one of the main causes of instability in vehicle combinations.",
+  "keywords": [
+   {
+    "phrase": "sono le maggiori cause",
+    "why": "identifies them as among the main causes"
+   },
+   {
+    "phrase": "durante i cambiamenti di direzione, in frenata e in accelerazione",
+    "why": "lists all the situations in which the effect occurs"
+   }
+  ],
+  "trick": "The trap is that shifting liquid load is a major source of instability in several driving phases.",
+  "image": ""
+ },
+ {
+  "n": 24122,
+  "it": "Trainando un rimorchio occorre verificare che il carico gravante sul gancio non alteri l'assetto del veicolo e l'inclinazione del fascio luminoso dei fari",
+  "answer": true,
+  "en": "When towing a trailer, you must check that the load bearing on the tow hitch does not alter the vehicle's trim and the inclination of the headlight beam.",
+  "keywords": [
+   {
+    "phrase": "occorre verificare",
+    "why": "expresses obligation to check"
+   },
+   {
+    "phrase": "non alteri",
+    "why": "negative requirement: it must not change"
+   },
+   {
+    "phrase": "carico gravante sul gancio",
+    "why": "refers specifically to the load resting on the tow hitch"
+   }
+  ],
+  "trick": "The trap is the negative requirement that hitch load must not affect vehicle trim or headlight aim.",
+  "image": ""
+ },
+ {
+  "n": 24123,
+  "it": "Nell'affrontare una curva a velocità moderata il rimorchio compie sempre lo stesso percorso fatto dalla motrice",
+  "answer": false,
+  "en": "When taking a bend at moderate speed, the trailer always follows exactly the same path as the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes it an absolute claim"
+   },
+   {
+    "phrase": "lo stesso percorso",
+    "why": "claims identical path, not just similar"
+   }
+  ],
+  "trick": "The trap is the absolute word 'always' combined with the false idea of an identical path.",
+  "image": ""
+ },
+ {
+  "n": 24124,
+  "it": "Durante la marcia, il rimorchio deve avere il ruotino pivottante di manovra abbassato (poggiato al suolo)",
+  "answer": false,
+  "en": "While driving, the trailer must have the jockey wheel lowered (resting on the ground).",
+  "keywords": [
+   {
+    "phrase": "deve avere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "abbassato",
+    "why": "means lowered, not just unlocked"
+   },
+   {
+    "phrase": "poggiato al suolo",
+    "why": "clarifies that it is touching the ground"
+   }
+  ],
+  "trick": "The trap is the false obligation that the jockey wheel should be down and touching the ground while driving.",
+  "image": ""
+ },
+ {
+  "n": 24125,
+  "it": "Nei veicoli dotati di sensori di parcheggio non è possibile agganciare un rimorchio",
+  "answer": false,
+  "en": "In vehicles equipped with parking sensors, it is not possible to attach a trailer.",
+  "keywords": [
+   {
+    "phrase": "non è possibile",
+    "why": "expresses impossibility, an absolute claim"
+   }
+  ],
+  "trick": "The trap is the absolute statement that parking sensors make trailer attachment impossible.",
+  "image": ""
+ },
+ {
+  "n": 24126,
+  "it": "Trainare un rimorchio non comporta un aumento dei consumi di carburante se si marcia a velocità moderata",
+  "answer": false,
+  "en": "Towing a trailer does not lead to increased fuel consumption if you drive at a moderate speed.",
+  "keywords": [
+   {
+    "phrase": "non comporta",
+    "why": "negates the consequence"
+   },
+   {
+    "phrase": "se si marcia a velocità moderata",
+    "why": "adds a condition that may mislead"
+   }
+  ],
+  "trick": "The trap is the negation of increased fuel consumption, softened by the condition of moderate speed.",
+  "image": ""
+ },
+ {
+  "n": 24127,
+  "it": "Le parti meccaniche in movimento degli organi di traino di un autoveicolo e di un rimorchio devono essere mantenute pulite e adeguatamente lubrificate",
+  "answer": true,
+  "en": "The moving mechanical parts of the towing devices of a motor vehicle and a trailer must be kept clean and properly lubricated.",
+  "keywords": [
+   {
+    "phrase": "devono essere mantenute",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is the obligation: these parts must be kept clean and lubricated.",
+  "image": ""
+ },
+ {
+  "n": 24128,
+  "it": "Gli organi di traino di un veicolo non devono presentare giochi, deformazioni o incrinature",
+  "answer": true,
+  "en": "The towing devices of a vehicle must not have looseness, deformations, or cracks.",
+  "keywords": [
+   {
+    "phrase": "non devono",
+    "why": "negates the obligation"
+   },
+   {
+    "phrase": "presentare",
+    "why": "means to show/have defects, not to present formally"
+   }
+  ],
+  "trick": "The sentence forbids any play, deformation, or cracking in the towing parts.",
+  "image": ""
+ },
+ {
+  "n": 24129,
+  "it": "Gli organi di traino di un veicolo devono consentire sufficienti oscillazioni in senso verticale tra motrice e rimorchio, in modo da poter compensare le diverse inclinazioni dei veicoli dovute ai dislivelli stradali",
+  "answer": true,
+  "en": "The towing devices of a vehicle must allow sufficient vertical movement between the towing vehicle and the trailer, so as to compensate for the different inclinations of the vehicles caused by changes in road level.",
+  "keywords": [
+   {
+    "phrase": "devono consentire",
+    "why": "expresses required capability"
+   },
+   {
+    "phrase": "in modo da poter",
+    "why": "shows purpose and ability to compensate"
+   }
+  ],
+  "trick": "The towing device is required to allow enough vertical movement to cope with uneven road levels.",
+  "image": ""
+ },
+ {
+  "n": 24130,
+  "it": "Quando si traina un rimorchio occorre verificare che il carico verticale gravante sul gancio non ecceda il limite indicato dal costruttore",
+  "answer": true,
+  "en": "When towing a trailer, it is necessary to check that the vertical load on the hitch does not exceed the limit indicated by the manufacturer.",
+  "keywords": [
+   {
+    "phrase": "occorre verificare",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "non ecceda",
+    "why": "sets a maximum limit not to be exceeded"
+   }
+  ],
+  "trick": "The trap is the obligation to check and the limit that must not be exceeded.",
+  "image": ""
+ },
+ {
+  "n": 24131,
+  "it": "Il carico verticale massimo che può gravare sul gancio della motrice è indicato in un' apposita targhetta applicata sul gancio di traino",
+  "answer": true,
+  "en": "The maximum vertical load that may rest on the towing vehicle's hitch is indicated on a special plate attached to the tow hitch.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "indicates maximum permitted amount, not certainty"
+   }
+  ],
+  "trick": "Here può marks the maximum allowable load on the hitch.",
+  "image": ""
+ },
+ {
+  "n": 24132,
+  "it": "Gli organi di traino di un veicolo non necessitano di lubrificazione, ma devono essere periodicamente sgrassati con appositi detergenti o con benzina",
+  "answer": false,
+  "en": "A vehicle's towing devices do not require lubrication, but they must be periodically degreased with suitable detergents or petrol.",
+  "keywords": [
+   {
+    "phrase": "non necessitano",
+    "why": "negates the need"
+   },
+   {
+    "phrase": "ma devono",
+    "why": "contrasts with a new obligation"
+   }
+  ],
+  "trick": "The trap is the contrast: it says no lubrication is needed but degreasing is required.",
+  "image": ""
+ },
+ {
+  "n": 24133,
+  "it": "Gli organi di traino di un veicolo possono non essere di tipo omologato, se destinati solo al traino di rimorchi leggeri",
+  "answer": false,
+  "en": "A vehicle's towing devices may be of a non-approved type if they are intended only for towing light trailers.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non essere",
+    "why": "negates the required condition"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the case to light trailers only"
+   }
+  ],
+  "trick": "The sentence claims an exception: non-approved towing devices would be allowed only for light trailers.",
+  "image": ""
+ },
+ {
+  "n": 24134,
+  "it": "Per poter trainare un rimorchio leggero non occorre effettuare il collegamento elettrico fra motrice e rimorchio",
+  "answer": false,
+  "en": "To tow a light trailer, it is not necessary to make the electrical connection between the towing vehicle and the trailer.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "negates necessity"
+   },
+   {
+    "phrase": "per poter",
+    "why": "links the condition to being able to tow"
+   }
+  ],
+  "trick": "The key trap is that it says the electrical connection is not necessary.",
+  "image": ""
+ },
+ {
+  "n": 24135,
+  "it": "In caso di rottura degli organi di traino di un veicolo, gli stessi possono essere riparati tramite saldatura presso officina specializzata",
+  "answer": false,
+  "en": "In the event of breakage of a vehicle's towing devices, they may be repaired by welding at a specialized workshop.",
+  "keywords": [
+   {
+    "phrase": "possono essere riparati",
+    "why": "expresses permission/possibility"
+   }
+  ],
+  "trick": "The trap is the claimed permission to repair towing parts by welding.",
+  "image": ""
+ },
+ {
+  "n": 24136,
+  "it": "Per garantire una maggiore sicurezza durante la guida di un veicolo con rimorchio, è consigliabile concentrare il carico massimo in corrispondenza del gancio di traino",
+  "answer": false,
+  "en": "To ensure greater safety when driving a vehicle with a trailer, it is advisable to concentrate the maximum load at the tow hitch.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "means advisable, not mandatory"
+   },
+   {
+    "phrase": "massimo",
+    "why": "intensifies the amount to the greatest load"
+   }
+  ],
+  "trick": "The trap is the recommendation wording and the idea of concentrating the maximum load at the hitch.",
+  "image": ""
+ },
+ {
+  "n": 24137,
+  "it": "Il conducente di un veicolo con rimorchio deve sistemare la merce trasportata in modo che, durante la marcia, non si verifichino spostamenti, rovesciamenti, cadute o sfregamenti",
+  "answer": true,
+  "en": "The driver of a vehicle with a trailer must arrange the goods being transported so that, while driving, no shifting, overturning, falling, or rubbing occurs.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non si verifichino",
+    "why": "negates the occurrence of these events"
+   }
+  ],
+  "trick": "The sentence imposes a duty to secure the load so these movements or losses do not happen.",
+  "image": ""
+ },
+ {
+  "n": 24138,
+  "it": "In caso di prolungata inattività del rimorchio è consigliabile, se non è possibile sollevarlo da terra, aumentare la pressione di gonfiaggio degli pneumatici e cambiare periodicamente la loro superficie di appoggio, in modo da evitare la loro ovalizzazione",
+  "answer": true,
+  "en": "In the event of prolonged inactivity of the trailer, it is advisable, if it is not possible to lift it off the ground, to increase the tyre inflation pressure and periodically change their contact area, so as to avoid them becoming oval-shaped.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "means recommended, not compulsory"
+   },
+   {
+    "phrase": "se non è possibile",
+    "why": "sets a condition with negation"
+   },
+   {
+    "phrase": "in modo da evitare",
+    "why": "expresses preventive purpose"
+   }
+  ],
+  "trick": "The advice applies only if lifting the trailer off the ground is not possible, to prevent tyre deformation.",
+  "image": ""
+ },
+ {
+  "n": 24139,
+  "it": "Nel caso in cui il rimorchio rimanga inattivo per lungo tempo è consigliabile, se possibile, mantenere gli pneumatici sollevati da terra, applicando appositi sostegni sotto al telaio",
+  "answer": true,
+  "en": "If the trailer remains unused for a long time, it is advisable, if possible, to keep the tyres raised off the ground by placing suitable supports under the chassis.",
+  "keywords": [
+   {
+    "phrase": "è consigliabile",
+    "why": "means recommended, not compulsory"
+   },
+   {
+    "phrase": "se possibile",
+    "why": "limits the advice to cases where it can be done"
+   }
+  ],
+  "trick": "This is a recommendation, and only where it is possible to do so.",
+  "image": ""
+ },
+ {
+  "n": 24140,
+  "it": "Quando si traina un rimorchio, la pressione di gonfiaggio degli pneumatici del veicolo trainante deve essere la stessa degli pneumatici del rimorchio",
+  "answer": false,
+  "en": "When towing a trailer, the inflation pressure of the towing vehicle's tyres must be the same as that of the trailer's tyres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "la stessa",
+    "why": "requires equality, which can mislead"
+   }
+  ],
+  "trick": "The trap is the claim that both vehicle and trailer tyres must have the same pressure.",
+  "image": ""
+ },
+ {
+  "n": 24141,
+  "it": "Nelle autostrade e strade extraurbane, è obbligatorio accendere i fari anabbaglianti anche di giorno o, in alternativa, le luci di marcia diurna",
+  "answer": true,
+  "en": "On motorways and extra-urban roads, it is compulsory to switch on the dipped headlights even during the day or, alternatively, the daytime running lights.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche di giorno",
+    "why": "extends the rule to daytime too"
+   },
+   {
+    "phrase": "o, in alternativa",
+    "why": "offers an either-or option"
+   }
+  ],
+  "trick": "The key point is that lights are mandatory even by day, with daytime running lights as the alternative.",
+  "image": ""
+ },
+ {
+  "n": 24142,
+  "it": "L'errata impostazione dell'orientamento dei proiettori può ridurre la visibilità del conducente o abbagliare gli altri utenti",
+  "answer": true,
+  "en": "Incorrect aiming of the headlights can reduce the driver's visibility or dazzle other road users.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "o",
+    "why": "shows either of two possible consequences"
+   }
+  ],
+  "trick": "The sentence warns of possible effects: reduced visibility or dazzling others.",
+  "image": ""
+ },
+ {
+  "n": 24143,
+  "it": "Proiettori anabbaglianti male orientati possono abbagliare gli altri utenti della strada",
+  "answer": true,
+  "en": "Poorly aimed dipped headlights can dazzle other road users.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The trap is that this is a possible consequence of badly aimed dipped headlights.",
+  "image": ""
+ },
+ {
+  "n": 24144,
+  "it": "Pur avendo acceso le luci anabbaglianti, si corre il rischio di abbagliare gli altri se le lampade sono montate in maniera errata o non sono omologate",
+  "answer": true,
+  "en": "Even if the dipped headlights are on, there is still a risk of dazzling others if the bulbs are fitted incorrectly or are not approved.",
+  "keywords": [
+   {
+    "phrase": "Pur avendo acceso",
+    "why": "means even though they are switched on"
+   },
+   {
+    "phrase": "si corre il rischio",
+    "why": "expresses risk, not certainty"
+   },
+   {
+    "phrase": "o",
+    "why": "either condition can cause the problem"
+   },
+   {
+    "phrase": "non sono omologate",
+    "why": "negates approval/compliance"
+   }
+  ],
+  "trick": "The key trap is that dazzling can still happen even with dipped headlights on, if bulbs are wrong or unapproved.",
+  "image": ""
+ },
+ {
+  "n": 24145,
+  "it": "Su un veicolo a motore non è consentito utilizzare lampade non omologate",
+  "answer": true,
+  "en": "On a motor vehicle, it is not permitted to use non-approved bulbs.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non omologate",
+    "why": "negates legal approval"
+   }
+  ],
+  "trick": "The sentence is a clear prohibition against using bulbs that are not approved.",
+  "image": ""
+ },
+ {
+  "n": 24146,
+  "it": "Percorrendo una strada extraurbana durante una giornata assolata è sufficiente accendere le luci di posizione",
+  "answer": false,
+  "en": "When driving on an extra-urban road during a sunny day, it is sufficient to switch on the sidelights.",
+  "keywords": [
+   {
+    "phrase": "è sufficiente",
+    "why": "claims that this is enough"
+   }
+  ],
+  "trick": "The trap is the claim that sidelights alone are sufficient on an extra-urban road during the day.",
+  "image": ""
+ },
+ {
+  "n": 24147,
+  "it": "Percorrendo una strada extraurbana, è obbligatorio tenere accesi i proiettori abbaglianti durante le ore diurne",
+  "answer": false,
+  "en": "When driving on an extra-urban road, it is compulsory to keep the main-beam headlights on during daytime hours.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "abbaglianti",
+    "why": "means main beam, not dipped beam"
+   },
+   {
+    "phrase": "durante le ore diurne",
+    "why": "limits the rule to daytime"
+   }
+  ],
+  "trick": "The trap is the mandatory use of main beams during the day.",
+  "image": ""
+ },
+ {
+  "n": 24148,
+  "it": "L'uso delle luci di posizione è obbligatorio di notte durante la sosta fuori della carreggiata",
+  "answer": false,
+  "en": "The use of parking lights is compulsory at night while parked off the carriageway.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di notte",
+    "why": "limits the rule to nighttime"
+   },
+   {
+    "phrase": "fuori della carreggiata",
+    "why": "restricts the situation to off the carriageway"
+   }
+  ],
+  "trick": "The statement sounds plausible because it specifies night and parking off the carriageway.",
+  "image": ""
+ },
+ {
+  "n": 24149,
+  "it": "Per le luci di posizione è possibile utilizzare lampade di qualsiasi colore",
+  "answer": false,
+  "en": "For parking lights, it is possible to use bulbs of any colour.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "expresses permission/possibility"
+   },
+   {
+    "phrase": "di qualsiasi colore",
+    "why": "means any colour without restriction"
+   }
+  ],
+  "trick": "The trap is the unrestricted permission implied by 'any colour'.",
+  "image": ""
+ },
+ {
+  "n": 24150,
+  "it": "Durante la marcia nei centri abitati, è obbligatorio tenere accese le luci anabbaglianti da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere",
+  "answer": true,
+  "en": "While driving in built-up areas, it is compulsory to keep the dipped headlights on from half an hour after sunset until half an hour before sunrise.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the rule to built-up areas"
+   },
+   {
+    "phrase": "da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere",
+    "why": "sets an exact time range"
+   }
+  ],
+  "trick": "The key trap is the precise time window and that it applies in built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 24151,
+  "it": "Durante la marcia, in caso di scarsa visibilità per condizioni atmosferiche (neve, pioggia, nebbia), è obbligatorio tenere accese le luci di posizione e quelle anabbaglianti",
+  "answer": true,
+  "en": "While driving, in case of poor visibility due to weather conditions (snow, rain, fog), it is compulsory to keep the parking lights and dipped headlights on.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "scarsa visibilità",
+    "why": "limits the rule to poor visibility"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The statement applies only when poor visibility is caused by weather conditions.",
+  "image": ""
+ },
+ {
+  "n": 24152,
+  "it": "Durante la marcia, in caso di nebbia con visibilità inferiore a 50 metri, bisogna usare la luce posteriore per nebbia, se il veicolo ne è dotato",
+  "answer": true,
+  "en": "While driving, in case of fog with visibility of less than 50 metres, you must use the rear fog light, if the vehicle is equipped with it.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "visibilità inferiore a 50 metri",
+    "why": "sets a strict threshold"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se il veicolo ne è dotato",
+    "why": "adds an exception based on equipment"
+   }
+  ],
+  "trick": "The trap is the exact 50-metre threshold and the equipment condition.",
+  "image": ""
+ },
+ {
+  "n": 24153,
+  "it": "Di notte, nei centri abitati, il veicolo in sosta al margine della carreggiata, può essere segnalato con le luci di sosta",
+  "answer": true,
+  "en": "At night, in built-up areas, a vehicle parked at the edge of the carriageway may be indicated with parking lights.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "Di notte",
+    "why": "limits the rule to nighttime"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the rule to built-up areas"
+   }
+  ],
+  "trick": "The key trap is that this is allowed, not required.",
+  "image": ""
+ },
+ {
+  "n": 24154,
+  "it": "Durante la marcia, è obbligatorio tenere accese le luci abbaglianti, a partire dal tramonto del sole fino al suo sorgere",
+  "answer": false,
+  "en": "While driving, it is compulsory to keep the main-beam headlights on from sunset until sunrise.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "abbaglianti",
+    "why": "means main beam, not dipped beam"
+   },
+   {
+    "phrase": "a partire dal tramonto del sole fino al suo sorgere",
+    "why": "sets a full night-time range"
+   }
+  ],
+  "trick": "The trap is the claim that main beams are mandatory all night.",
+  "image": ""
+ },
+ {
+  "n": 24155,
+  "it": "Di notte, in caso di sosta fuori dalla carreggiata, è obbligatorio tenere accese le luci anabbaglianti",
+  "answer": false,
+  "en": "At night, in the event of parking off the carriageway, it is compulsory to keep the dipped headlights on.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "fuori dalla carreggiata",
+    "why": "restricts the situation to off the carriageway"
+   },
+   {
+    "phrase": "anabbaglianti",
+    "why": "means dipped headlights, not parking lights"
+   }
+  ],
+  "trick": "The trap is the false obligation to use dipped headlights while parked off the carriageway.",
+  "image": ""
+ },
+ {
+  "n": 24156,
+  "it": "Se si lascia il veicolo in un parcheggio autorizzato, è obbligatorio tenere accese per tutto il tempo le luci di sosta",
+  "answer": false,
+  "en": "If you leave the vehicle in an authorised parking area, it is compulsory to keep the parking lights on the whole time.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per tutto il tempo",
+    "why": "means for the entire duration without exception"
+   },
+   {
+    "phrase": "parcheggio autorizzato",
+    "why": "restricts the situation to an authorised parking area"
+   }
+  ],
+  "trick": "The trap is the absolute requirement to keep them on for the whole time.",
+  "image": ""
+ },
+ {
+  "n": 24157,
+  "it": "E' obbligatorio accendere i proiettori anabbaglianti, anche di giorno, quando si transita in galleria",
+  "answer": true,
+  "en": "It is compulsory to switch on the dipped headlights, even during the day, when driving through a tunnel.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche di giorno",
+    "why": "extends the rule to daytime too"
+   },
+   {
+    "phrase": "quando si transita in galleria",
+    "why": "limits the rule to tunnels"
+   }
+  ],
+  "trick": "The key trap is that the rule applies in tunnels even in daytime.",
+  "image": ""
+ },
+ {
+  "n": 24158,
+  "it": "E' obbligatorio accendere le luci del veicolo in caso di scarsa visibilità per le condizioni del tempo (nebbia, neve, pioggia)",
+  "answer": true,
+  "en": "It is compulsory to switch on the vehicle's lights in case of poor visibility due to weather conditions (fog, snow, rain).",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "scarsa visibilità",
+    "why": "limits the rule to poor visibility"
+   }
+  ],
+  "trick": "The statement is conditional on poor visibility caused by weather.",
+  "image": ""
+ },
+ {
+  "n": 24159,
+  "it": "E' obbligatorio accendere i proiettori anabbaglianti nelle gallerie stradali, solo se scarsamente illuminate",
+  "answer": false,
+  "en": "It is compulsory to switch on dipped headlights in road tunnels only if they are poorly lit.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "scarsamente illuminate",
+    "why": "adds a lighting condition"
+   }
+  ],
+  "trick": "The trap is 'only if', which wrongly limits the tunnel rule.",
+  "image": ""
+ },
+ {
+  "n": 24160,
+  "it": "Durante la marcia, in caso di pioggia intensa, oltre alle luci anabbaglianti bisogna tenere accesa la luce posteriore per nebbia, se il veicolo ne è dotato",
+  "answer": true,
+  "en": "While driving, in case of heavy rain, in addition to the dipped headlights you must keep the rear fog light on, if the vehicle is equipped with it.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "oltre alle",
+    "why": "means in addition to, not instead of"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se il veicolo ne è dotato",
+    "why": "adds an equipment-based exception"
+   }
+  ],
+  "trick": "The key trap is that the rear fog light is added to dipped headlights, if fitted.",
+  "image": ""
+ },
+ {
+  "n": 24161,
+  "it": "Durante la marcia, in caso di fitta nevicata, oltre alle luci anabbaglianti bisogna tenere accesa la luce posteriore per nebbia, se il veicolo ne è dotato",
+  "answer": true,
+  "en": "While driving, in case of heavy snowfall, in addition to the dipped headlights you must keep the rear fog light on, if the vehicle is equipped with it.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "oltre alle",
+    "why": "means in addition to, not instead of"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se il veicolo ne è dotato",
+    "why": "adds an equipment-based exception"
+   }
+  ],
+  "trick": "The trap is the extra required rear fog light in heavy snowfall, if fitted.",
+  "image": ""
+ },
+ {
+  "n": 24162,
+  "it": "Durante la marcia fuori dai centri abitati, è obbligatorio fare uso delle luci anabbaglianti, sia di giorno che di notte",
+  "answer": true,
+  "en": "While driving outside built-up areas, it is compulsory to use dipped headlights, both by day and by night.",
+  "keywords": [
+   {
+    "phrase": "fuori dai centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sia di giorno che di notte",
+    "why": "includes both day and night"
+   }
+  ],
+  "trick": "The key trap is that the obligation applies at all times outside built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 24163,
+  "it": "Proiettori anabbaglianti male orientati possono abbagliare gli altri utenti della strada",
+  "answer": true,
+  "en": "Poorly aligned dipped headlights can dazzle other road users.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The statement is about possibility, not a guaranteed result.",
+  "image": ""
+ },
+ {
+  "n": 24164,
+  "it": "Durante la marcia nelle ore notturne, l'uso delle luci anabbaglianti è obbligatorio anche se l'illuminazione pubblica è sufficiente",
+  "answer": true,
+  "en": "While driving at night, the use of dipped headlights is compulsory even if the street lighting is sufficient.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means the rule still applies despite this condition"
+   },
+   {
+    "phrase": "nelle ore notturne",
+    "why": "limits the rule to night-time"
+   }
+  ],
+  "trick": "The trap is that sufficient public lighting does not remove the obligation.",
+  "image": ""
+ },
+ {
+  "n": 24165,
+  "it": "Durante la marcia, l'uso delle luci anabbaglianti non è consentito nelle gallerie illuminate",
+  "answer": false,
+  "en": "While driving, the use of dipped headlights is not permitted in illuminated tunnels.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "gallerie illuminate",
+    "why": "limits the statement to lit tunnels"
+   }
+  ],
+  "trick": "The trap is the prohibition wording, which reverses the actual rule.",
+  "image": ""
+ },
+ {
+  "n": 24166,
+  "it": "Durante la marcia, l'uso delle luci di posizione è sempre consentito in alternativa a quelle anabbaglianti",
+  "answer": false,
+  "en": "While driving, the use of parking lights is always permitted as an alternative to dipped headlights.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the permission absolute"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in alternativa a",
+    "why": "means instead of, not together with"
+   }
+  ],
+  "trick": "The trap is the absolute claim that parking lights can always replace dipped headlights.",
+  "image": ""
+ },
+ {
+  "n": 24167,
+  "it": "L'uso delle luci anabbaglianti è obbligatorio quando si sorpassa un'auto della polizia",
+  "answer": false,
+  "en": "The use of dipped headlights is mandatory when overtaking a police car.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "The key trap is the obligation phrase, which makes the statement say the lights must be used.",
+  "image": ""
+ },
+ {
+  "n": 24168,
+  "it": "I catadiottri sono dispositivi che riflettono la luce",
+  "answer": true,
+  "en": "Reflectors are devices that reflect light.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward definition.",
+  "image": ""
+ },
+ {
+  "n": 24169,
+  "it": "I catadiottri installati nella parte posteriore dei veicoli sono di colore rosso",
+  "answer": true,
+  "en": "The reflectors fitted at the rear of vehicles are red.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward factual statement.",
+  "image": ""
+ },
+ {
+  "n": 24170,
+  "it": "I catadiottri installati nella parte posteriore di rimorchi e carrelli-appendice sono di colore rosso e di forma triangolare",
+  "answer": true,
+  "en": "The reflectors fitted at the rear of trailers and small luggage trailers are red and triangular in shape.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward factual statement.",
+  "image": ""
+ },
+ {
+  "n": 24171,
+  "it": "I catadiottri vengono applicati anche sui rimorchi e sui carrelli-appendice",
+  "answer": true,
+  "en": "Reflectors are also fitted on trailers and small luggage trailers.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds inclusion, meaning in addition to other vehicles"
+   }
+  ],
+  "trick": "The trap is anche, which means trailers are included too, not exclusively.",
+  "image": ""
+ },
+ {
+  "n": 24172,
+  "it": "I catadiottri installati sulla parte davanti di rimorchi e carrelli-appendice sono di colore bianco",
+  "answer": true,
+  "en": "The reflectors fitted on the front part of trailers and small luggage trailers are white.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward factual statement.",
+  "image": ""
+ },
+ {
+  "n": 24173,
+  "it": "I catadiottri vanno accesi mezz'ora dopo il tramonto del sole",
+  "answer": false,
+  "en": "Reflectors must be switched on half an hour after sunset.",
+  "keywords": [
+   {
+    "phrase": "vanno accesi",
+    "why": "sounds like obligation to switch on"
+   },
+   {
+    "phrase": "mezz'ora dopo il tramonto del sole",
+    "why": "specific time condition can mislead"
+   }
+  ],
+  "trick": "The trap is that vanno accesi suggests reflectors are lights to be turned on, but reflectors do not switch on.",
+  "image": ""
+ },
+ {
+  "n": 24174,
+  "it": "I catadiottri vanno accesi insieme alle luci di posizione",
+  "answer": false,
+  "en": "Reflectors must be switched on together with the sidelights.",
+  "keywords": [
+   {
+    "phrase": "vanno accesi",
+    "why": "sounds like obligation to switch on"
+   },
+   {
+    "phrase": "insieme a",
+    "why": "links the action to another condition"
+   }
+  ],
+  "trick": "The trap is that the sentence treats reflectors as if they can be switched on like lights.",
+  "image": ""
+ },
+ {
+  "n": 24175,
+  "it": "I catadiottri sostituiscono le luci di posizione durante la circolazione nelle strade urbane",
+  "answer": false,
+  "en": "Reflectors replace sidelights while driving on urban roads.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the difficulty is factual, not linguistic.",
+  "image": ""
+ },
+ {
+  "n": 24176,
+  "it": "I catadiottri hanno la funzione di indicare la presenza e l'ingombro dei veicoli su cui sono applicati",
+  "answer": true,
+  "en": "Reflectors have the function of indicating the presence and overall size of the vehicles on which they are fitted.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward functional description.",
+  "image": ""
+ },
+ {
+  "n": 24177,
+  "it": "I catadiottri di colore bianco hanno la funzione di evidenziare la parte davanti dei rimorchi e semirimorchi",
+  "answer": true,
+  "en": "White reflectors have the function of highlighting the front part of trailers and semi-trailers.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward functional description.",
+  "image": ""
+ },
+ {
+  "n": 24178,
+  "it": "I catadiottri, se illuminati, hanno la funzione di rendere più visibili, specialmente di notte, i veicoli e i rimorchi in sosta sulla strada",
+  "answer": true,
+  "en": "Reflectors, if illuminated, have the function of making vehicles and trailers parked on the road more visible, especially at night.",
+  "keywords": [
+   {
+    "phrase": "se illuminati",
+    "why": "conditional phrase limits the statement to that case"
+   },
+   {
+    "phrase": "specialmente",
+    "why": "means especially, not only"
+   }
+  ],
+  "trick": "The trap is the condition se illuminati, which limits when the function applies.",
+  "image": ""
+ },
+ {
+  "n": 24179,
+  "it": "I catadiottri rendono più visibile un veicolo guasto, nel caso in cui non funzionino le luci di posizione posteriori",
+  "answer": true,
+  "en": "Reflectors make a broken-down vehicle more visible if the rear sidelights are not working.",
+  "keywords": [
+   {
+    "phrase": "nel caso in cui",
+    "why": "introduces a specific condition or exception"
+   },
+   {
+    "phrase": "non funzionino",
+    "why": "negates proper functioning of the lights"
+   }
+  ],
+  "trick": "The key traps are the condition and negation, which restrict the meaning to when the rear sidelights fail.",
+  "image": ""
+ },
+ {
+  "n": 24180,
+  "it": "I catadiottri con gli indicatori di direzione, segnalano la svolta di un veicolo",
+  "answer": false,
+  "en": "Reflectors, together with the direction indicators, signal that a vehicle is turning.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the difficulty is factual, not linguistic.",
+  "image": ""
+ },
+ {
+  "n": 24181,
+  "it": "I catadiottri di colore bianco sono installati negli autoveicoli che trasportano materiale infiammabile",
+  "answer": false,
+  "en": "White reflectors are fitted on motor vehicles that transport flammable material.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is a straightforward factual statement.",
+  "image": ""
+ },
+ {
+  "n": 24182,
+  "it": "I catadiottri possono sostituire gli indicatori di direzione",
+  "answer": false,
+  "en": "Reflectors can replace direction indicators.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The trap is possono, which means are able to/can, not must.",
+  "image": ""
+ },
+ {
+  "n": 24183,
+  "it": "La targa posteriore di un autoveicolo è illuminata per consentire una facile lettura dei caratteri che la compongono",
+  "answer": true,
+  "en": "The rear number plate of a motor vehicle is illuminated to allow the characters on it to be read easily.",
+  "keywords": [
+   {
+    "phrase": "per consentire",
+    "why": "expresses purpose, not permission"
+   }
+  ],
+  "trick": "The trap is per consentire, which gives the purpose of the light, not permission.",
+  "image": ""
+ },
+ {
+  "n": 24184,
+  "it": "La targa posteriore di un autoveicolo deve essere illuminata con una luce bianca",
+  "answer": true,
+  "en": "The rear number plate of a motor vehicle must be illuminated with a white light.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is deve essere, which makes the requirement mandatory.",
+  "image": ""
+ },
+ {
+  "n": 24185,
+  "it": "La luce della targa di un autoveicolo si deve accendere solo di notte",
+  "answer": false,
+  "en": "A motor vehicle's number plate light must be switched on only at night.",
+  "keywords": [
+   {
+    "phrase": "si deve accendere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The trap is solo, which wrongly limits the obligation to nighttime only.",
+  "image": ""
+ },
+ {
+  "n": 24186,
+  "it": "La luce della targa di un autoveicolo deve rimanere accesa se si sosta fuori dalla strada",
+  "answer": false,
+  "en": "A motor vehicle's number plate light must remain on if the vehicle is parked off the road.",
+  "keywords": [
+   {
+    "phrase": "deve rimanere accesa",
+    "why": "expresses obligation to stay on"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   }
+  ],
+  "trick": "The key traps are the obligation phrase and the condition introduced by se.",
+  "image": ""
+ },
+ {
+  "n": 24187,
+  "it": "La spia di accensione della segnalazione luminosa di pericolo è di colore rosso",
+  "answer": true,
+  "en": "The warning light indicating that the hazard warning lights are on is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24188,
+  "it": "La spia della temperatura dell'acqua di raffreddamento è di colore rosso",
+  "answer": true,
+  "en": "The engine coolant temperature warning light is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24189,
+  "it": "La spia della pressione dell'olio è di colore rosso",
+  "answer": true,
+  "en": "The oil pressure warning light is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24190,
+  "it": "La spia della cintura di sicurezza è di colore rosso",
+  "answer": true,
+  "en": "The seat belt warning light is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24191,
+  "it": "La spia del freno a mano è di colore rosso",
+  "answer": true,
+  "en": "The handbrake warning light is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24192,
+  "it": "La spia di accensione degli indicatori di direzione è di colore rosso",
+  "answer": false,
+  "en": "The warning light indicating that the turn indicators are on is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24193,
+  "it": "La spia di accensione delle luci anabbaglianti è di colore rosso",
+  "answer": false,
+  "en": "The warning light indicating that the dipped headlights are on is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24194,
+  "it": "La spia di accensione delle luci abbaglianti è di colore rosso",
+  "answer": false,
+  "en": "The warning light indicating that the main beam headlights are on is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24195,
+  "it": "La spia delle luci fendinebbia è di colore rosso",
+  "answer": false,
+  "en": "The fog light warning light is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24196,
+  "it": "La spia del dispositivo per sbrinare o disappannare il parabrezza è di colore rosso",
+  "answer": false,
+  "en": "The warning light for the windscreen defrosting or demisting device is red.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward statement about the warning light color.",
+  "image": ""
+ },
+ {
+  "n": 24223,
+  "it": "Si devono usare gli indicatori di direzione prima di ogni cambio di corsia, quando si viaggia su strada suddivisa in corsie",
+  "answer": true,
+  "en": "Turn indicators must be used before every lane change when driving on a road divided into lanes.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "prima di ogni",
+    "why": "means before every single one, without exception"
+   }
+  ],
+  "trick": "The key trap is that this states a strict obligation before every lane change.",
+  "image": ""
+ },
+ {
+  "n": 24224,
+  "it": "Si devono usare gli indicatori di direzione se, marciando su strada a senso unico, ci si sposta sulla corsia di sinistra provenendo da quella di destra",
+  "answer": true,
+  "en": "Turn indicators must be used if, while driving on a one-way road, you move into the left lane from the right lane.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule apply in this specific case"
+   }
+  ],
+  "trick": "The sentence imposes a duty to signal in this specific lane-change situation.",
+  "image": ""
+ },
+ {
+  "n": 24225,
+  "it": "Si devono usare gli indicatori di direzione ogni volta che si deve effettuare una manovra di svolta",
+  "answer": true,
+  "en": "Turn indicators must be used every time you have to carry out a turning manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "ogni volta",
+    "why": "means in all cases, not just sometimes"
+   },
+   {
+    "phrase": "si deve effettuare",
+    "why": "expresses necessity linked to the manoeuvre"
+   }
+  ],
+  "trick": "The trap is the absolute wording: indicators are required every time a turn is made.",
+  "image": ""
+ },
+ {
+  "n": 24226,
+  "it": "Si devono usare gli indicatori di direzione se si intende uscire dalla carreggiata per effettuare una fermata",
+  "answer": true,
+  "en": "Turn indicators must be used if you intend to leave the carriageway in order to stop.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "se si intende",
+    "why": "refers to intended action, so signaling is required beforehand"
+   },
+   {
+    "phrase": "per effettuare una fermata",
+    "why": "limits the case to leaving the carriageway to stop"
+   }
+  ],
+  "trick": "The key point is that signaling is mandatory when you intend to leave the carriageway to stop.",
+  "image": ""
+ },
+ {
+  "n": 24227,
+  "it": "Si devono usare gli indicatori di direzione quando, partendo dal margine della carreggiata, ci si vuole immettere nella circolazione",
+  "answer": true,
+  "en": "Turn indicators must be used when, starting from the edge of the carriageway, you want to move into traffic.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "quando",
+    "why": "sets the condition in which the rule applies"
+   },
+   {
+    "phrase": "ci si vuole immettere nella circolazione",
+    "why": "means entering traffic flow, which requires signaling"
+   }
+  ],
+  "trick": "The sentence makes signaling compulsory when rejoining the flow of traffic from the road edge.",
+  "image": ""
+ },
+ {
+  "n": 24228,
+  "it": "Si devono usare gli indicatori di direzione per segnalare l'intenzione di spostarsi nella corsia di decelerazione di uno svincolo autostradale",
+  "answer": true,
+  "en": "Turn indicators must be used to signal the intention to move into the deceleration lane of a motorway exit.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "per segnalare l'intenzione",
+    "why": "shows the signal is required to indicate intended movement beforehand"
+   }
+  ],
+  "trick": "The trap is that the obligation applies already at the stage of signaling the intention to move over.",
+  "image": ""
+ },
+ {
+  "n": 24229,
+  "it": "Si devono usare gli indicatori di direzione per segnalare l'intenzione di entrare sulla carreggiata autostradale, provenendo da una corsia di accelerazione",
+  "answer": true,
+  "en": "Turn indicators must be used to signal the intention to enter the motorway carriageway from an acceleration lane.",
+  "keywords": [
+   {
+    "phrase": "si devono usare",
+    "why": "expresses obligation, not a suggestion"
+   },
+   {
+    "phrase": "per segnalare l'intenzione",
+    "why": "shows the signal is required before merging"
+   },
+   {
+    "phrase": "provenendo da una corsia di accelerazione",
+    "why": "specifies the particular merge situation"
+   }
+  ],
+  "trick": "The key point is that signaling is mandatory before entering the motorway from the acceleration lane.",
+  "image": ""
+ },
+ {
+  "n": 24230,
+  "it": "Non si devono usare gli indicatori di direzione quando si cambia corsia mentre si circola su strada a senso unico",
+  "answer": false,
+  "en": "Turn indicators must not be used when changing lane while driving on a one-way road.",
+  "keywords": [
+   {
+    "phrase": "Non si devono usare",
+    "why": "negates the obligation and creates a prohibition-like meaning"
+   },
+   {
+    "phrase": "quando",
+    "why": "sets the condition in which the claim is said to apply"
+   }
+  ],
+  "trick": "The trap is the negation: it wrongly claims indicators must not be used in that situation.",
+  "image": ""
+ },
+ {
+  "n": 24231,
+  "it": "Non è mai necessario usare gli indicatori di direzione quando si circola su strada a doppio senso ma con carreggiate separate da spartitraffico",
+  "answer": false,
+  "en": "It is never necessary to use turn indicators when driving on a two-way road with carriageways separated by a central reservation.",
+  "keywords": [
+   {
+    "phrase": "Non è mai necessario",
+    "why": "strong absolute negation meaning never necessary"
+   },
+   {
+    "phrase": "mai",
+    "why": "makes the statement absolute, with no exceptions"
+   }
+  ],
+  "trick": "The trap is the absolute negative wording: 'never necessary' is much stronger than 'not always necessary'.",
+  "image": ""
+ },
+ {
+  "n": 24232,
+  "it": "Non si devono usare gli indicatori di direzione se, per effettuare una fermata fuori della carreggiata, ci si sposta sul margine sinistro",
+  "answer": false,
+  "en": "Turn indicators must not be used if, in order to stop off the carriageway, you move to the left-hand edge.",
+  "keywords": [
+   {
+    "phrase": "Non si devono usare",
+    "why": "negates the obligation and creates a prohibition-like meaning"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the claim apply in this specific case"
+   },
+   {
+    "phrase": "per effettuare una fermata fuori della carreggiata",
+    "why": "limits the case to stopping off the carriageway"
+   }
+  ],
+  "trick": "The trap is the negation: it incorrectly says not to signal in this specific stopping manoeuvre.",
+  "image": ""
+ },
+ {
+  "n": 24233,
+  "it": "Si devono usare gli indicatori di direzione destri per segnalare che si sta per frenare bruscamente",
+  "answer": false,
+  "en": "Right turn indicators must be used to signal that you are about to brake sharply.",
+  "keywords": [
+   {
+    "phrase": "Si devono usare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "si sta per",
+    "why": "means 'is about to', imminent action"
+   }
+  ],
+  "trick": "The trap is the false obligation and the phrase meaning 'about to' brake sharply.",
+  "image": ""
+ },
+ {
+  "n": 24234,
+  "it": "Non si devono usare gli indicatori di direzione se, per entrare in un passo carrabile, occorre svoltare a destra",
+  "answer": false,
+  "en": "Turn indicators must not be used if, to enter a driveway, it is necessary to turn right.",
+  "keywords": [
+   {
+    "phrase": "Non si devono usare",
+    "why": "negates an obligation"
+   },
+   {
+    "phrase": "says they must not be used",
+    "why": ""
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   }
+  ],
+  "trick": "The key trap is the negated obligation saying the indicators must not be used.",
+  "image": ""
+ },
+ {
+  "n": 24235,
+  "it": "Si devono usare gli indicatori di direzione quando si effettua una svolta a sinistra, ma non quando si svolta a destra",
+  "answer": false,
+  "en": "Turn indicators must be used when making a left turn, but not when turning right.",
+  "keywords": [
+   {
+    "phrase": "Si devono usare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and negates the second part"
+   }
+  ],
+  "trick": "The sentence tricks you with a true first clause followed by a false exception for right turns.",
+  "image": ""
+ },
+ {
+  "n": 24236,
+  "it": "Si devono usare gli indicatori di direzione sinistri quando si deve percorrere un tornante verso sinistra",
+  "answer": false,
+  "en": "Left turn indicators must be used when you have to drive through a hairpin bend to the left.",
+  "keywords": [
+   {
+    "phrase": "Si devono usare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses necessity, not choice"
+   }
+  ],
+  "trick": "The trap is the obligation to signal on a left hairpin bend, which is not required.",
+  "image": ""
+ },
+ {
+  "n": 24237,
+  "it": "L'uso degli indicatori di direzione è necessario per segnalare che si vuole effettuare un cambio di corsia",
+  "answer": true,
+  "en": "Using turn indicators is necessary to signal that you want to change lane.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "si vuole",
+    "why": "signals intention, not completed action"
+   }
+  ],
+  "trick": "The key trap is that the indicators are required even to signal an intended lane change.",
+  "image": ""
+ },
+ {
+  "n": 24238,
+  "it": "L'uso degli indicatori di direzione è necessario per segnalare l'intenzione di effettuare una manovra di sorpasso",
+  "answer": true,
+  "en": "Using turn indicators is necessary to signal the intention to overtake.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "l'intenzione di",
+    "why": "refers to intended action, not action already started"
+   }
+  ],
+  "trick": "The important point is that signaling is required for the intention to overtake.",
+  "image": ""
+ },
+ {
+  "n": 24239,
+  "it": "L'uso degli indicatori di direzione è necessario per segnalare l'intenzione di parcheggiare sul margine sinistro di una strada a senso unico",
+  "answer": true,
+  "en": "Using turn indicators is necessary to signal the intention to park on the left edge of a one-way street.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "limits the rule to a one-way street"
+   }
+  ],
+  "trick": "The trap is the specific case of parking on the left, which is allowed on a one-way street and must be signaled.",
+  "image": ""
+ },
+ {
+  "n": 24240,
+  "it": "L'uso degli indicatori di direzione è necessario ogni qualvolta si deve fare una manovra di svolta",
+  "answer": true,
+  "en": "Using turn indicators is necessary whenever you have to make a turning manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "ogni qualvolta",
+    "why": "means whenever, making the rule general"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses necessity"
+   }
+  ],
+  "trick": "The trap is the broad word 'whenever', which makes the signaling rule apply generally.",
+  "image": ""
+ },
+ {
+  "n": 24241,
+  "it": "L'uso degli indicatori di direzione è necessario quando si effettuano manovre di retromarcia",
+  "answer": true,
+  "en": "Using turn indicators is necessary when carrying out reversing manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   }
+  ],
+  "trick": "The key trap is that reversing manoeuvres do require use of the indicators.",
+  "image": ""
+ },
+ {
+  "n": 24242,
+  "it": "L'uso degli indicatori di direzione è necessario nella marcia per file parallele, anche se non si effettuano cambiamenti di corsia",
+  "answer": false,
+  "en": "Using turn indicators is necessary in parallel traffic, even if no lane changes are made.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "anche se non",
+    "why": "means 'even if not', adding a misleading exception"
+   }
+  ],
+  "trick": "The trap is the 'even if not' clause, which wrongly extends the requirement without a lane change.",
+  "image": ""
+ },
+ {
+  "n": 24243,
+  "it": "L'uso degli indicatori di direzione è necessario per almeno 500 metri dopo aver effettuato un sorpasso",
+  "answer": false,
+  "en": "Using turn indicators is necessary for at least 500 metres after overtaking.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "per almeno 500 metri",
+    "why": "adds a precise minimum distance that can mislead"
+   }
+  ],
+  "trick": "The trap is the invented minimum distance of 500 metres after overtaking.",
+  "image": ""
+ },
+ {
+  "n": 24244,
+  "it": "L'uso degli indicatori di direzione è necessario quando si inizia una manovra di sorpasso, ma non quando la si termina rientrando nella corsia di marcia normale",
+  "answer": false,
+  "en": "Using turn indicators is necessary when you begin an overtaking manoeuvre, but not when you end it by returning to the normal driving lane.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and negates the second part"
+   }
+  ],
+  "trick": "The trap is the false second clause saying no signal is needed when returning to the lane.",
+  "image": ""
+ },
+ {
+  "n": 24245,
+  "it": "L'uso degli indicatori di direzione non è necessario se si deve parcheggiare il veicolo spostandosi verso il margine destro della carreggiata",
+  "answer": false,
+  "en": "Using turn indicators is not necessary if you have to park the vehicle by moving towards the right edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "non è necessario",
+    "why": "negates a requirement"
+   },
+   {
+    "phrase": "si deve",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "verso il margine destro",
+    "why": "specific location may mislead as an exception"
+   }
+  ],
+  "trick": "The trap is the negated requirement, because indicators are still needed when moving right to park.",
+  "image": ""
+ },
+ {
+  "n": 24246,
+  "it": "L'uso degli indicatori di direzione è necessario quando ci si arresta ad un semaforo rosso",
+  "answer": false,
+  "en": "Using turn indicators is necessary when stopping at a red traffic light.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   }
+  ],
+  "trick": "The trap is the false claim that simply stopping at a red light requires indicators.",
+  "image": ""
+ },
+ {
+  "n": 24247,
+  "it": "L'uso degli indicatori di direzione destri è necessario quando ci si arresta per cause di interruzione della circolazione",
+  "answer": false,
+  "en": "Using the right turn indicators is necessary when stopping because of a traffic interruption.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "per cause di interruzione della circolazione",
+    "why": "specific condition may sound like an exception"
+   }
+  ],
+  "trick": "The trap is the false idea that forced stopping in traffic requires the right indicator.",
+  "image": ""
+ },
+ {
+  "n": 24248,
+  "it": "L'uso dei proiettori a luce abbagliante è vietato, di norma, durante la marcia nei centri abitati",
+  "answer": true,
+  "en": "The use of main-beam headlights is, as a rule, prohibited while driving in built-up areas.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means as a rule, so not an absolute in every case"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "The key trap is 'di norma', which means generally prohibited, not absolutely in every situation.",
+  "image": ""
+ },
+ {
+  "n": 24249,
+  "it": "L'uso dei proiettori a luce abbagliante è necessario, fuori dei centri abitati, quando l'illuminazione pubblica è insufficiente e non si incrociano altri veicoli",
+  "answer": true,
+  "en": "The use of main-beam headlights is necessary outside built-up areas when public lighting is insufficient and no other vehicles are being met.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "fuori dei centri abitati",
+    "why": "restricts the rule to outside built-up areas"
+   },
+   {
+    "phrase": "insufficiente",
+    "why": "means the lighting exists but is not enough"
+   },
+   {
+    "phrase": "non si incrociano altri veicoli",
+    "why": "condition excludes meeting other vehicles"
+   }
+  ],
+  "trick": "The rule applies only outside built-up areas, with insufficient lighting, and only if no vehicles are being met.",
+  "image": ""
+ },
+ {
+  "n": 24250,
+  "it": "L'uso dei proiettori a luce abbagliante è necessario, fuori dei centri abitati, quando l'illuminazione pubblica manca e non si incrociano altri veicoli",
+  "answer": true,
+  "en": "The use of main-beam headlights is necessary outside built-up areas when public lighting is absent and no other vehicles are being met.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation/requirement"
+   },
+   {
+    "phrase": "fuori dei centri abitati",
+    "why": "restricts the rule to outside built-up areas"
+   },
+   {
+    "phrase": "manca",
+    "why": "means is absent, not merely weak"
+   },
+   {
+    "phrase": "non si incrociano altri veicoli",
+    "why": "condition excludes meeting other vehicles"
+   }
+  ],
+  "trick": "The trap is the combination of conditions: outside built-up areas, no public lighting, and no oncoming vehicles.",
+  "image": ""
+ },
+ {
+  "n": 24251,
+  "it": "L'uso dei proiettori a luce abbagliante va sostituito con quello dei proiettori a luce anabbagliante quando si incrociano altri veicoli",
+  "answer": true,
+  "en": "The use of main-beam headlights must be replaced by dipped headlights when meeting other vehicles.",
+  "keywords": [
+   {
+    "phrase": "va sostituito",
+    "why": "expresses something that must be replaced"
+   },
+   {
+    "phrase": "quando si incrociano altri veicoli",
+    "why": "sets the condition of meeting other vehicles"
+   }
+  ],
+  "trick": "The key trap is that 'va sostituito' expresses a requirement to switch to dipped headlights.",
+  "image": ""
+ },
+ {
+  "n": 24252,
+  "it": "L'uso dei proiettori a luce abbagliante è di norma consentito in città, in caso di nebbia fitta",
+  "answer": false,
+  "en": "The use of main-beam headlights is normally permitted in town in the event of dense fog.",
+  "keywords": [
+   {
+    "phrase": "di norma consentito",
+    "why": "means normally permitted, not always permitted"
+   },
+   {
+    "phrase": "in città",
+    "why": "restricts the rule to town/built-up area"
+   },
+   {
+    "phrase": "in caso di nebbia fitta",
+    "why": "specific condition may sound like an exception"
+   }
+  ],
+  "trick": "The trap is the phrase 'normally permitted', which is false here even in dense fog in town.",
+  "image": ""
+ },
+ {
+  "n": 24253,
+  "it": "L'uso dei proiettori a luce abbagliante è necessario nelle gallerie urbane a senso unico",
+  "answer": false,
+  "en": "The use of high-beam headlights is necessary in one-way urban tunnels.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation, not mere usefulness"
+   }
+  ],
+  "trick": "The trap is the strong obligation in \"è necessario\".",
+  "image": ""
+ },
+ {
+  "n": 24254,
+  "it": "L'uso dei proiettori a luce abbagliante è sempre ammesso quando si trasportano feriti o ammalati gravi",
+  "answer": false,
+  "en": "The use of high-beam headlights is always allowed when carrying seriously injured or seriously ill people.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the rule absolute"
+   },
+   {
+    "phrase": "ammesso",
+    "why": "means permitted, not required"
+   }
+  ],
+  "trick": "The traps are the absolute word \"sempre\" and permission in \"ammesso\".",
+  "image": ""
+ },
+ {
+  "n": 24255,
+  "it": "L'uso dei proiettori a luce abbagliante è necessario, di giorno, se si circola su un'autostrada viaggiando controsole",
+  "answer": false,
+  "en": "The use of high-beam headlights is necessary during the day if you are driving on a motorway with the sun in your eyes.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation, not mere usefulness"
+   },
+   {
+    "phrase": "di giorno",
+    "why": "limits the statement to daytime"
+   }
+  ],
+  "trick": "The key traps are the obligation and the daytime limitation.",
+  "image": ""
+ },
+ {
+  "n": 24256,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), sia di giorno che di notte, per dare avvertimenti utili al fine di evitare incidenti",
+  "answer": true,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted, both by day and by night, to give useful warnings in order to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "sia di giorno che di notte",
+    "why": "includes both daytime and nighttime"
+   },
+   {
+    "phrase": "al fine di evitare incidenti",
+    "why": "restricts the purpose to accident prevention"
+   }
+  ],
+  "trick": "The sentence is about permission, and it applies both day and night only for that safety purpose.",
+  "image": ""
+ },
+ {
+  "n": 24257,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), anche all'interno dei centri abitati, per dare avvertimenti utili al fine di evitare incidenti",
+  "answer": true,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted, even within built-up areas, to give useful warnings in order to avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche all'interno dei centri abitati",
+    "why": "extends the rule even to built-up areas"
+   },
+   {
+    "phrase": "al fine di evitare incidenti",
+    "why": "restricts the purpose to accident prevention"
+   }
+  ],
+  "trick": "The trap is that it is allowed even in built-up areas, but only for that safety purpose.",
+  "image": ""
+ },
+ {
+  "n": 24258,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante) per segnalare al veicolo che precede, sia di giorno che di notte, l'intenzione di sorpassare",
+  "answer": true,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted to signal to the vehicle in front, both by day and by night, the intention to overtake.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "sia di giorno che di notte",
+    "why": "includes both daytime and nighttime"
+   },
+   {
+    "phrase": "l'intenzione di sorpassare",
+    "why": "limits the signal to overtaking intention"
+   }
+  ],
+  "trick": "The rule gives permission, and it applies both day and night for overtaking signals.",
+  "image": ""
+ },
+ {
+  "n": 24259,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante) per segnalare al veicolo che precede, anche all'interno dei centri abitati, l'intenzione di sorpassare",
+  "answer": true,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted to signal to the vehicle in front, even within built-up areas, the intention to overtake.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche all'interno dei centri abitati",
+    "why": "extends the rule even to built-up areas"
+   },
+   {
+    "phrase": "l'intenzione di sorpassare",
+    "why": "limits the signal to overtaking intention"
+   }
+  ],
+  "trick": "The trap is that it is allowed even in built-up areas for signaling an intention to overtake.",
+  "image": ""
+ },
+ {
+  "n": 24260,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), soltanto sulle strade extraurbane",
+  "answer": false,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted only on roads outside built-up areas.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "soltanto",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The main trap is the restriction created by \"soltanto\".",
+  "image": ""
+ },
+ {
+  "n": 24261,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), anche all'interno dei centri urbani, ma unicamente di giorno",
+  "answer": false,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted, even within urban areas, but only during the day.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche all'interno dei centri urbani",
+    "why": "extends the rule even to urban areas"
+   },
+   {
+    "phrase": "unicamente di giorno",
+    "why": "restricts the rule to daytime only"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a limiting contrast"
+   }
+  ],
+  "trick": "The traps are the contrast and the daytime-only restriction.",
+  "image": ""
+ },
+ {
+  "n": 24262,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), solo quando si trasportano feriti o ammalati gravi",
+  "answer": false,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted only when carrying seriously injured or seriously ill people.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The main trap is the restrictive word \"solo\".",
+  "image": ""
+ },
+ {
+  "n": 24263,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), purché l'illuminazione esterna manchi o sia insufficiente",
+  "answer": false,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted provided that external lighting is absent or insufficient.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "purché",
+    "why": "sets a condition for the rule"
+   },
+   {
+    "phrase": "manchi o sia insufficiente",
+    "why": "gives specific limiting conditions"
+   }
+  ],
+  "trick": "The trap is the conditional phrase introduced by \"purché\".",
+  "image": ""
+ },
+ {
+  "n": 24264,
+  "it": "E' consentito l'uso intermittente dei proiettori di profondità (a luce abbagliante), esclusivamente nei casi di pericolo immediato",
+  "answer": false,
+  "en": "The intermittent use of full-beam headlights (high beams) is permitted exclusively in cases of immediate danger.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "esclusivamente",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The main trap is the strong restriction in \"esclusivamente\".",
+  "image": ""
+ },
+ {
+  "n": 24265,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, quando vi sia il pericolo di abbagliare gli altri utenti della strada",
+  "answer": true,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights when there is a risk of dazzling other road users.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quando vi sia il pericolo di",
+    "why": "sets the condition for when the rule applies"
+   }
+  ],
+  "trick": "The rule is mandatory, but only outside built-up areas and when that risk exists.",
+  "image": ""
+ },
+ {
+  "n": 24266,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, qualora vi sia il pericolo di abbagliare i pedoni",
+  "answer": true,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights if there is a risk of dazzling pedestrians.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "qualora vi sia il pericolo di",
+    "why": "sets the condition for when the rule applies"
+   }
+  ],
+  "trick": "The trap is the obligation tied to a specific condition.",
+  "image": ""
+ },
+ {
+  "n": 24267,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, se vi è pericolo di abbagliare i conducenti di veicoli circolanti su altre strade",
+  "answer": true,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights if there is a risk of dazzling drivers of vehicles travelling on other roads.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se vi è pericolo di",
+    "why": "sets the condition for when the rule applies"
+   }
+  ],
+  "trick": "The rule is mandatory only in the stated circumstance.",
+  "image": ""
+ },
+ {
+  "n": 24268,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, quando stanno per incrociare altri veicoli",
+  "answer": true,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights when they are about to meet other vehicles.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quando stanno per incrociare",
+    "why": "indicates the specific moment the rule applies"
+   }
+  ],
+  "trick": "The trap is the mandatory action at that specific moment.",
+  "image": ""
+ },
+ {
+  "n": 24269,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, quando seguono un veicolo a breve distanza",
+  "answer": true,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights when they are following another vehicle at a short distance.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a breve distanza",
+    "why": "limits the rule to close following distance"
+   }
+  ],
+  "trick": "The obligation applies outside built-up areas when following closely.",
+  "image": ""
+ },
+ {
+  "n": 24270,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, dopo un loro uso prolungato, per evitare di scaricare la batteria",
+  "answer": false,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights, after prolonged use, to avoid draining the battery.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dopo un loro uso prolungato",
+    "why": "adds a specific time-based condition"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "states a claimed purpose that can mislead"
+   }
+  ],
+  "trick": "The trap is the false added condition and purpose after the obligation.",
+  "image": ""
+ },
+ {
+  "n": 24271,
+  "it": "Fuori dei centri abitati, i conducenti devono spegnere i proiettori di profondità procedendo con quelli anabbaglianti, solo quando il veicolo che li precede a breve distanza è un'autovettura",
+  "answer": false,
+  "en": "Outside built-up areas, drivers must switch off full-beam headlights and proceed with dipped headlights only when the vehicle ahead of them at a short distance is a car.",
+  "keywords": [
+   {
+    "phrase": "Fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo quando",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The main trap is the restrictive phrase \"solo quando\".",
+  "image": ""
+ },
+ {
+  "n": 24318,
+  "it": "Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento",
+  "answer": true,
+  "en": "Penalties are предусмотрены for anyone who, even while using a seat belt, alters it or hinders its normal operation.",
+  "keywords": [
+   {
+    "phrase": "pur facendo uso della cintura di sicurezza",
+    "why": "means despite using it, not because of using it"
+   },
+   {
+    "phrase": "alteri o ostacoli",
+    "why": "covers either altering or hindering normal function"
+   }
+  ],
+  "trick": "The trap is that penalties apply even if the seat belt is being used, if its function is altered or obstructed.",
+  "image": ""
+ },
+ {
+  "n": 24319,
+  "it": "Se non si allaccia la cintura di sicurezza, in caso d'improvvisa frenata si può essere proiettati contro il parabrezza",
+  "answer": true,
+  "en": "If you do not fasten the seat belt, in the event of sudden braking you may be thrown against the windshield.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the action of fastening"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the statement to that situation"
+   },
+   {
+    "phrase": "si può",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "Watch the negation and the fact that the sentence says it may happen in that case, not that it always will.",
+  "image": ""
+ },
+ {
+  "n": 24320,
+  "it": "Se il veicolo è dotato di airbag frontali e laterali, si può fare a meno di allacciare la cintura di sicurezza",
+  "answer": false,
+  "en": "If the vehicle is equipped with front and side airbags, you can do without fastening the seat belt.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission/possibility"
+   },
+   {
+    "phrase": "fare a meno di",
+    "why": "means do without, suggesting something is unnecessary"
+   }
+  ],
+  "trick": "The trap is that airbags do not mean you are allowed to skip the seat belt.",
+  "image": ""
+ },
+ {
+  "n": 24321,
+  "it": "Le cinture di sicurezza vanno agganciate solo se si circola a velocità uguale o superiore a 30 km/h",
+  "answer": false,
+  "en": "Seat belts must be fastened only if you are driving at a speed of 30 km/h or more.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "uguale o superiore a",
+    "why": "sets a threshold including 30 km/h and above"
+   },
+   {
+    "phrase": "vanno agganciate",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is solo, which wrongly limits the obligation to speeds of 30 km/h or above.",
+  "image": ""
+ },
+ {
+  "n": 24322,
+  "it": "Nei veicoli dotati di airbag con comando di disabilitazione, prima di sistemare sul sedile anteriore un seggiolino per bambini (schienale rivolto verso il parabrezza), bisogna disattivare l'airbag",
+  "answer": true,
+  "en": "In vehicles equipped with an airbag deactivation control, before placing a child seat on the front seat (with the backrest facing the windshield), you must deactivate the airbag.",
+  "keywords": [
+   {
+    "phrase": "prima di",
+    "why": "sets a required action beforehand"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "con comando di disabilitazione",
+    "why": "limits the rule to vehicles with that feature"
+   }
+  ],
+  "trick": "The sentence imposes a prior obligation, but only in vehicles that have an airbag deactivation control.",
+  "image": ""
+ },
+ {
+  "n": 24323,
+  "it": "Nei veicoli che non sono muniti del comando per disabilitare l'airbag dal lato passeggero, il seggiolino per bambini non deve essere sistemato sul sedile anteriore, con lo schienale rivolto verso la strada",
+  "answer": true,
+  "en": "In vehicles not equipped with a control to deactivate the passenger-side airbag, the child seat must not be placed on the front seat with the backrest facing the road.",
+  "keywords": [
+   {
+    "phrase": "non sono muniti",
+    "why": "negates the presence of the device"
+   },
+   {
+    "phrase": "non deve essere sistemato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dal lato passeggero",
+    "why": "restricts the rule to the passenger-side airbag"
+   }
+  ],
+  "trick": "The trap is the double restriction: only vehicles without passenger-airbag deactivation, and then the front placement is prohibited.",
+  "image": ""
+ },
+ {
+  "n": 24325,
+  "it": "Se un veicolo è dotato di air-bag, non vi è l'obbligo di indossare le cinture di sicurezza durante la marcia",
+  "answer": false,
+  "en": "If a vehicle is equipped with an airbag, there is no obligation to wear seat belts while driving.",
+  "keywords": [
+   {
+    "phrase": "non vi è l'obbligo",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "durante la marcia",
+    "why": "limits the statement to when the vehicle is moving"
+   }
+  ],
+  "trick": "The key trap is the phrase denying the legal obligation, which is false even if airbags are fitted.",
+  "image": ""
+ },
+ {
+  "n": 24326,
+  "it": "Il poggiatesta è utile per prevenire il \"colpo di frusta\"",
+  "answer": true,
+  "en": "The headrest is useful for preventing whiplash.",
+  "keywords": [],
+  "trick": "No major trap words here; it is a straightforward safety statement.",
+  "image": ""
+ },
+ {
+  "n": 24327,
+  "it": "Il poggiatesta è utile se viene regolato correttamente, sia in altezza che in inclinazione",
+  "answer": true,
+  "en": "The headrest is useful if it is adjusted correctly, both in height and in tilt.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the usefulness conditional"
+   },
+   {
+    "phrase": "sia... che...",
+    "why": "means both elements are included"
+   }
+  ],
+  "trick": "The usefulness is conditional on correct adjustment in both height and tilt.",
+  "image": ""
+ },
+ {
+  "n": 24328,
+  "it": "Il poggiatesta è particolarmente utile per rilassare la muscolatura durante la guida",
+  "answer": false,
+  "en": "The headrest is particularly useful for relaxing the muscles while driving.",
+  "keywords": [
+   {
+    "phrase": "particolarmente",
+    "why": "strengthens the claim and can mislead"
+   }
+  ],
+  "trick": "The trap is the exaggerated claim about the headrest's purpose.",
+  "image": ""
+ },
+ {
+  "n": 24329,
+  "it": "Il poggiatesta ha una funzione non di sicurezza, ma estetica",
+  "answer": false,
+  "en": "The headrest has a function that is not for safety, but aesthetic.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the safety function"
+   },
+   {
+    "phrase": "ma",
+    "why": "sets up a contrast with the real function claimed"
+   }
+  ],
+  "trick": "The sentence contrasts safety with appearance, wrongly denying the safety role.",
+  "image": ""
+ },
+ {
+  "n": 24330,
+  "it": "Le donne in stato di gravidanza con particolari condizioni di rischio certificate non sono obbligate ad agganciare la cintura di sicurezza",
+  "answer": true,
+  "en": "Pregnant women with certified special risk conditions are not required to fasten the seat belt.",
+  "keywords": [
+   {
+    "phrase": "non sono obbligate",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "con particolari condizioni di rischio certificate",
+    "why": "restricts the exception to certified risk cases"
+   }
+  ],
+  "trick": "This is an exception, but only for pregnant women with certified special risk conditions.",
+  "image": ""
+ },
+ {
+  "n": 24331,
+  "it": "Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza",
+  "answer": true,
+  "en": "People suffering from particular certified illnesses are not required to fasten the seat belt.",
+  "keywords": [
+   {
+    "phrase": "non sono tenute",
+    "why": "means they are not required"
+   },
+   {
+    "phrase": "particolari malattie certificate",
+    "why": "restricts the exception to certified illnesses"
+   }
+  ],
+  "trick": "The exemption applies only in the limited case of certified particular illnesses.",
+  "image": ""
+ },
+ {
+  "n": 24332,
+  "it": "Gli istruttori di guida nello svolgimento della loro professione non sono obbligati ad agganciare la cintura di sicurezza",
+  "answer": true,
+  "en": "Driving instructors, while carrying out their profession, are not required to fasten the seat belt.",
+  "keywords": [
+   {
+    "phrase": "nello svolgimento della loro professione",
+    "why": "limits the exception to work activity"
+   },
+   {
+    "phrase": "non sono obbligati",
+    "why": "removes an obligation"
+   }
+  ],
+  "trick": "The exception is only during the exercise of their professional duties.",
+  "image": ""
+ },
+ {
+  "n": 24333,
+  "it": "Il postino, durante l'attività lavorativa, non ha l'obbligo di agganciare la cintura di sicurezza",
+  "answer": false,
+  "en": "The postman, during work activity, is not required to fasten the seat belt.",
+  "keywords": [
+   {
+    "phrase": "durante l'attività lavorativa",
+    "why": "limits the statement to work activity"
+   },
+   {
+    "phrase": "non ha l'obbligo",
+    "why": "removes an obligation"
+   }
+  ],
+  "trick": "The trap is the claimed exemption from the obligation during work, which does not apply here.",
+  "image": ""
+ },
+ {
+  "n": 24334,
+  "it": "Le persone con oltre 65 anni di età non sono obbligate ad agganciare la cintura di sicurezza",
+  "answer": false,
+  "en": "People over 65 years of age are not required to fasten the seat belt.",
+  "keywords": [
+   {
+    "phrase": "oltre 65 anni di età",
+    "why": "sets a specific age threshold"
+   },
+   {
+    "phrase": "non sono obbligate",
+    "why": "removes an obligation"
+   }
+  ],
+  "trick": "The sentence falsely presents age over 65 as an exception to the seat-belt obligation.",
+  "image": ""
+ },
+ {
+  "n": 24335,
+  "it": "Chi guida un'autovettura munito di autorizzazione ad esercitarsi alla guida (foglio rosa), non è obbligato ad utilizzare la cintura di sicurezza",
+  "answer": false,
+  "en": "Anyone driving a car with authorization to practise driving (learner's permit) is not required to use the seat belt.",
+  "keywords": [
+   {
+    "phrase": "non è obbligato",
+    "why": "removes an obligation"
+   },
+   {
+    "phrase": "munito di autorizzazione ad esercitarsi alla guida",
+    "why": "limits the statement to learner-permit drivers"
+   }
+  ],
+  "trick": "The trap is the false idea that having a learner's permit removes the seat-belt obligation.",
+  "image": ""
+ },
+ {
+  "n": 24336,
+  "it": "Il casco è obbligatorio per i conducenti di ciclomotori a due ruote",
+  "answer": true,
+  "en": "A helmet is compulsory for riders of two-wheeled mopeds.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key meaning is the legal obligation expressed by è obbligatorio.",
+  "image": ""
+ },
+ {
+  "n": 24337,
+  "it": "Il casco è obbligatorio per i conducenti di motocicli non dotati di cellula di sicurezza e di dispositivi di ritenuta",
+  "answer": true,
+  "en": "A helmet is compulsory for riders of motorcycles not equipped with a safety cell and restraint devices.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non dotati di",
+    "why": "negates the presence of safety equipment"
+   }
+  ],
+  "trick": "The obligation is stated for motorcycles lacking those protective features.",
+  "image": ""
+ },
+ {
+  "n": 24338,
+  "it": "Il casco è obbligatorio per il passeggero di un motociclo privo di cellula di sicurezza e sistemi di ritenuta",
+  "answer": true,
+  "en": "A helmet is compulsory for the passenger of a motorcycle without a safety cell and restraint systems.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "privo di",
+    "why": "means lacking, restricting the case"
+   }
+  ],
+  "trick": "The sentence makes the helmet compulsory for the passenger in the specified case of a motorcycle lacking those protections.",
+  "image": ""
+ },
+ {
+  "n": 24339,
+  "it": "Il casco è obbligatorio per il passeggero di un ciclomotore a due ruote, anche se maggiorenne",
+  "answer": true,
+  "en": "A helmet is compulsory for the passenger of a two-wheeled moped, even if they are an adult.",
+  "keywords": [
+   {
+    "phrase": "è obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche se maggiorenne",
+    "why": "shows the rule still applies as an exception to expectation"
+   }
+  ],
+  "trick": "The trap is anche se maggiorenne, which makes clear that adulthood does not remove the helmet requirement.",
+  "image": ""
  }
 ];
