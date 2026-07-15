@@ -50,6 +50,10 @@
   .traps li { font-size: 14px; line-height: 1.5; margin-bottom: 6px; color: var(--muted); }
   .traps li b { color: var(--trap); font-weight: 600; }
   .trickline { font-size: 14px; color: var(--muted); font-style: italic; margin-top: 6px; }
+  .lbl { font-size: 12px; text-transform: uppercase; letter-spacing: .5px;
+    font-weight: 700; color: var(--bad); margin: 0 0 8px; }
+  .signbox { margin: 0 0 16px; }
+  .ans-line { font-size: 18px; margin-top: 2px; }
   .answers { display: flex; gap: 14px; margin-top: 6px; }
   button.ans {
     flex: 1; padding: 16px; font-size: 18px; font-weight: 700; border: none;
@@ -118,6 +122,11 @@
     <div class="feedback" id="feedback"></div>
 
     <div class="reveal" id="reveal">
+      <div class="signbox" id="signbox" style="display:none">
+        <div class="lbl">Sign</div>
+        <div class="english" id="sign"></div>
+      </div>
+      <div class="lbl">Question (English)</div>
       <div class="english" id="english"></div>
       <div class="traps" id="traps"></div>
     </div>
@@ -209,6 +218,14 @@
         ? '<img src="' + current.image + '" alt="road sign" onerror="this.style.display=\'none\'">'
         : '';
 
+      const signbox = document.getElementById('signbox');
+      if (current.sign) {
+        document.getElementById('sign').textContent = current.sign;
+        signbox.style.display = '';
+      } else {
+        signbox.style.display = 'none';
+      }
+
       document.getElementById('english').textContent = current.en;
 
       const traps = document.getElementById('traps');
@@ -245,7 +262,8 @@
 
       const fb = document.getElementById('feedback');
       const truth = current.answer ? 'VERO (True)' : 'FALSO (False)';
-      fb.textContent = isRight ? '✓ Correct!  Answer: ' + truth : '✗ Wrong.  Answer: ' + truth;
+      fb.innerHTML = (isRight ? '✓ Correct!' : '✗ Wrong.') +
+        '<div class="ans-line">Answer: ' + truth + '</div>';
       fb.className = 'feedback ' + (isRight ? 'right' : 'wrong');
 
       document.getElementById('reveal').classList.add('show');
