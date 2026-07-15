@@ -65152,5 +65152,17731 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No major trap words; this is a simple classification statement.",
   "image": ""
+ },
+ {
+  "n": 18640,
+  "it": "L'autocarro è un autoveicolo",
+  "answer": true,
+  "en": "A truck is a motor vehicle.",
+  "keywords": [],
+  "trick": "No special trap words; this is a straight definition.",
+  "image": ""
+ },
+ {
+  "n": 18641,
+  "it": "I quadricicli non sono autoveicoli",
+  "answer": true,
+  "en": "Quadricycles are not motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   }
+  ],
+  "trick": "Watch the negation: it says quadricycles are not classed as motor vehicles.",
+  "image": ""
+ },
+ {
+  "n": 18642,
+  "it": "Gli autoveicoli sono tutti i veicoli a motore con quattro o più ruote, compresi i quadricicli",
+  "answer": false,
+  "en": "Motor vehicles are all motor-powered vehicles with four or more wheels, including quadricycles.",
+  "keywords": [
+   {
+    "phrase": "tutti",
+    "why": "makes the definition apply to all cases"
+   },
+   {
+    "phrase": "compresi i quadricicli",
+    "why": "explicitly includes a category learners may wrongly exclude"
+   }
+  ],
+  "trick": "The traps are the universal claim 'all' and the added inclusion of quadricycles.",
+  "image": ""
+ },
+ {
+  "n": 18643,
+  "it": "Gli autoveicoli sono tutti i veicoli con almeno due ruote",
+  "answer": false,
+  "en": "Motor vehicles are all vehicles with at least two wheels.",
+  "keywords": [
+   {
+    "phrase": "tutti",
+    "why": "makes the definition apply to all cases"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum threshold, not an exact number"
+   }
+  ],
+  "trick": "It wrongly broadens the category by using 'all' and the minimum 'at least two' wheels.",
+  "image": ""
+ },
+ {
+  "n": 18644,
+  "it": "Gli autoveicoli sono tutti i veicoli con almeno quattro ruote, compresi quelli senza motore",
+  "answer": false,
+  "en": "Motor vehicles are all vehicles with at least four wheels, including those without an engine.",
+  "keywords": [
+   {
+    "phrase": "tutti",
+    "why": "makes the definition apply to all cases"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum threshold, not an exact number"
+   },
+   {
+    "phrase": "compresi quelli senza motore",
+    "why": "adds an included exception-like group that changes the definition"
+   }
+  ],
+  "trick": "The statement is widened by 'all', 'at least', and by including vehicles without an engine.",
+  "image": ""
+ },
+ {
+  "n": 18645,
+  "it": "Il triciclo a motore è un autoveicolo",
+  "answer": false,
+  "en": "A motor tricycle is a motor vehicle.",
+  "keywords": [],
+  "trick": "No special trap words; the difficulty is the vehicle classification itself.",
+  "image": ""
+ },
+ {
+  "n": 18646,
+  "it": "L'autoveicolo è un qualunque veicolo a motore",
+  "answer": false,
+  "en": "A motor vehicle is any motor-powered vehicle.",
+  "keywords": [
+   {
+    "phrase": "un qualunque",
+    "why": "means any whatsoever, making the claim too broad"
+   }
+  ],
+  "trick": "The trap is 'any whatsoever', which overgeneralizes the definition.",
+  "image": ""
+ },
+ {
+  "n": 18647,
+  "it": "L'autoveicolo è un qualunque veicolo adibito al trasporto di merce",
+  "answer": false,
+  "en": "A motor vehicle is any vehicle intended for transporting goods.",
+  "keywords": [
+   {
+    "phrase": "un qualunque",
+    "why": "means any whatsoever, making the claim too broad"
+   },
+   {
+    "phrase": "adibito al trasporto di merce",
+    "why": "restricts the meaning to goods transport, which can mislead classification"
+   }
+  ],
+  "trick": "It is misleading because it uses an overbroad 'any' and focuses on goods transport.",
+  "image": ""
+ },
+ {
+  "n": 18648,
+  "it": "L'autovettura è un veicolo a motore con quattro ruote, destinato al trasporto di massimo nove persone, compreso il conducente",
+  "answer": true,
+  "en": "A car is a motor vehicle with four wheels, intended to carry a maximum of nine people, including the driver.",
+  "keywords": [
+   {
+    "phrase": "massimo nove persone",
+    "why": "sets an upper limit, not an approximate number"
+   },
+   {
+    "phrase": "compreso il conducente",
+    "why": "the driver is counted in the total"
+   }
+  ],
+  "trick": "The key traps are the maximum limit and the fact that the driver is included in the count.",
+  "image": ""
+ },
+ {
+  "n": 18649,
+  "it": "L'autovettura fa parte degli autoveicoli",
+  "answer": true,
+  "en": "A car is part of the category of motor vehicles.",
+  "keywords": [],
+  "trick": "No special trap words; this is a simple classification statement.",
+  "image": ""
+ },
+ {
+  "n": 18650,
+  "it": "L'autovettura non può avere più di nove posti, compreso il conducente",
+  "answer": true,
+  "en": "A car cannot have more than nine seats, including the driver.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "expresses impossibility/prohibition, not simple description"
+   },
+   {
+    "phrase": "più di nove posti",
+    "why": "sets a strict upper limit"
+   },
+   {
+    "phrase": "compreso il conducente",
+    "why": "the driver is counted in the total"
+   }
+  ],
+  "trick": "The statement forbids exceeding nine seats, and the driver counts as one of them.",
+  "image": ""
+ },
+ {
+  "n": 18651,
+  "it": "L'autobus non è un'autovettura",
+  "answer": true,
+  "en": "A bus is not a car.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   }
+  ],
+  "trick": "The only trap is the negation: it states that a bus is not a car.",
+  "image": ""
+ },
+ {
+  "n": 18652,
+  "it": "Le autovetture possono avere motore elettrico",
+  "answer": true,
+  "en": "Cars can have an electric engine.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The trap is that 'can' means allowed/possible, not required.",
+  "image": ""
+ },
+ {
+  "n": 18653,
+  "it": "Le autovetture sono soggette a revisione periodica",
+  "answer": true,
+  "en": "Cars are subject to periodic inspections.",
+  "keywords": [],
+  "trick": "No major trap words; this is a straightforward rule statement.",
+  "image": ""
+ },
+ {
+  "n": 18654,
+  "it": "Si definiscono autovetture tutti i veicoli a motore che hanno la trazione posteriore",
+  "answer": false,
+  "en": "All motor-powered vehicles with rear-wheel drive are defined as cars.",
+  "keywords": [
+   {
+    "phrase": "tutti",
+    "why": "makes the definition apply to all cases"
+   },
+   {
+    "phrase": "si definiscono",
+    "why": "states a formal definition, not just a description"
+   }
+  ],
+  "trick": "The trap is the formal universal definition created by 'all' and 'are defined as'.",
+  "image": ""
+ },
+ {
+  "n": 18655,
+  "it": "Le autovetture non possono trainare carrelli-appendice o rimorchi",
+  "answer": false,
+  "en": "Cars cannot tow luggage trailers or trailers.",
+  "keywords": [
+   {
+    "phrase": "non possono",
+    "why": "expresses prohibition/impossibility"
+   },
+   {
+    "phrase": "o",
+    "why": "means either category, not both together only"
+   }
+  ],
+  "trick": "It says cars are not allowed to tow either of those trailer types.",
+  "image": ""
+ },
+ {
+  "n": 18656,
+  "it": "Vengono definite autovetture tutti i veicoli con motore anteriore",
+  "answer": false,
+  "en": "All vehicles with a front engine are defined as cars.",
+  "keywords": [
+   {
+    "phrase": "tutti",
+    "why": "makes the definition apply to all cases"
+   },
+   {
+    "phrase": "vengono definite",
+    "why": "states a formal classification, not a casual description"
+   }
+  ],
+  "trick": "The trap is the sweeping formal definition: all front-engine vehicles are classified as cars.",
+  "image": ""
+ },
+ {
+  "n": 18657,
+  "it": "L'autovettura è un veicolo con dieci posti in totale, compreso il conducente",
+  "answer": false,
+  "en": "A car is a vehicle with ten seats in total, including the driver.",
+  "keywords": [
+   {
+    "phrase": "in totale",
+    "why": "makes clear the number is the full total, not extra seats"
+   },
+   {
+    "phrase": "compreso il conducente",
+    "why": "the driver is counted in the total"
+   }
+  ],
+  "trick": "The seat count is total, and the driver is included in that total.",
+  "image": ""
+ },
+ {
+  "n": 18658,
+  "it": "Si definisce autovettura il veicolo blindato e appositamente attrezzato per il trasporto di valori",
+  "answer": false,
+  "en": "An armoured vehicle specially equipped for transporting valuables is defined as a car.",
+  "keywords": [
+   {
+    "phrase": "si definisce",
+    "why": "states a formal definition, not just an example"
+   },
+   {
+    "phrase": "appositamente attrezzato",
+    "why": "adds a specific condition that can mislead classification"
+   }
+  ],
+  "trick": "The trap is the formal definition based on a very specific vehicle use and equipment.",
+  "image": ""
+ },
+ {
+  "n": 18659,
+  "it": "L'autocarro è un'autovettura",
+  "answer": false,
+  "en": "A truck is a car.",
+  "keywords": [],
+  "trick": "No special trap words; the challenge is simply the vehicle classification.",
+  "image": ""
+ },
+ {
+  "n": 18660,
+  "it": "L'autovettura può avere, al massimo, cinque posti",
+  "answer": false,
+  "en": "A passenger car may have, at most, five seats.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty or obligation"
+   },
+   {
+    "phrase": "al massimo",
+    "why": "sets an upper limit"
+   }
+  ],
+  "trick": "\"può\" and \"al massimo\" make it about a maximum allowed number, not a fixed one.",
+  "image": ""
+ },
+ {
+  "n": 18661,
+  "it": "Le autovetture sono soggette a revisione ogni cinque anni",
+  "answer": false,
+  "en": "Passenger cars are subject to inspection every five years.",
+  "keywords": [
+   {
+    "phrase": "sono soggette a revisione",
+    "why": "states a legal requirement"
+   },
+   {
+    "phrase": "ogni cinque anni",
+    "why": "gives the exact inspection interval"
+   }
+  ],
+  "trick": "The trap is the stated legal interval \"every five years\".",
+  "image": ""
+ },
+ {
+  "n": 18662,
+  "it": "I rimorchi o i semirimorchi sono veicoli privi di motore, destinati ad essere trainati",
+  "answer": true,
+  "en": "Trailers or semi-trailers are vehicles without an engine, intended to be towed.",
+  "keywords": [
+   {
+    "phrase": "privi di motore",
+    "why": "means they do not have an engine"
+   },
+   {
+    "phrase": "destinati ad essere trainati",
+    "why": "defines them by being towed"
+   }
+  ],
+  "trick": "The key meaning is that these vehicles have no engine and are meant to be towed.",
+  "image": ""
+ },
+ {
+  "n": 18663,
+  "it": "I rimorchi leggeri sono quelli di massa massima a pieno carico fino a 750 kg",
+  "answer": true,
+  "en": "Light trailers are those with a maximum laden mass up to 750 kg.",
+  "keywords": [
+   {
+    "phrase": "massa massima a pieno carico",
+    "why": "refers to maximum authorised loaded mass"
+   },
+   {
+    "phrase": "fino a 750 kg",
+    "why": "sets the limit up to and including that value"
+   }
+  ],
+  "trick": "The trap is the exact legal weight threshold and that it refers to fully loaded mass.",
+  "image": ""
+ },
+ {
+  "n": 18664,
+  "it": "L'autosnodato non è classificato rimorchio",
+  "answer": true,
+  "en": "An articulated motor vehicle is not classified as a trailer.",
+  "keywords": [
+   {
+    "phrase": "non è",
+    "why": "negates the classification"
+   }
+  ],
+  "trick": "The key trap is the negation \"is not classified as\".",
+  "image": ""
+ },
+ {
+  "n": 18665,
+  "it": "L'autocaravan non è un rimorchio",
+  "answer": true,
+  "en": "A motor caravan is not a trailer.",
+  "keywords": [
+   {
+    "phrase": "non è",
+    "why": "negates the classification"
+   }
+  ],
+  "trick": "The statement hinges on the negation \"is not\".",
+  "image": ""
+ },
+ {
+  "n": 18666,
+  "it": "Il caravan non è un rimorchio",
+  "answer": false,
+  "en": "A caravan is not a trailer.",
+  "keywords": [
+   {
+    "phrase": "non è",
+    "why": "negates the classification"
+   }
+  ],
+  "trick": "The trap is the negation, which reverses the vehicle classification.",
+  "image": ""
+ },
+ {
+  "n": 18667,
+  "it": "I rimorchi leggeri sono quelli di massa massima a pieno carico fino a 500 kg",
+  "answer": false,
+  "en": "Light trailers are those with a maximum laden mass up to 500 kg.",
+  "keywords": [
+   {
+    "phrase": "massa massima a pieno carico",
+    "why": "refers to maximum authorised loaded mass"
+   },
+   {
+    "phrase": "fino a 500 kg",
+    "why": "sets the limit up to and including that value"
+   }
+  ],
+  "trick": "The trap is the exact weight limit stated.",
+  "image": ""
+ },
+ {
+  "n": 18668,
+  "it": "I semirimorchi sono rimorchi privi di impianto frenante",
+  "answer": false,
+  "en": "Semi-trailers are trailers without a braking system.",
+  "keywords": [
+   {
+    "phrase": "privi di impianto frenante",
+    "why": "means lacking a braking system entirely"
+   }
+  ],
+  "trick": "The key trap is the absolute claim that they lack brakes.",
+  "image": ""
+ },
+ {
+  "n": 18669,
+  "it": "I rimorchi sono muniti di silenziatore",
+  "answer": false,
+  "en": "Trailers are equipped with a silencer.",
+  "keywords": [],
+  "trick": "There are no special trap words; the issue is the vehicle feature itself.",
+  "image": ""
+ },
+ {
+  "n": 18670,
+  "it": "Bisogna lasciare liberi gli incroci in caso di traffico intenso",
+  "answer": true,
+  "en": "You must keep intersections clear in the event of heavy traffic.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di traffico intenso",
+    "why": "limits the rule to that situation"
+   }
+  ],
+  "trick": "The sentence imposes an obligation that applies when traffic is heavy.",
+  "image": ""
+ },
+ {
+  "n": 18671,
+  "it": "Bisogna lasciare liberi i passaggi a livello e i binari del tram anche in caso di traffico intenso",
+  "answer": true,
+  "en": "You must keep level crossings and tram tracks clear even in the event of heavy traffic.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds that the rule still applies in this case"
+   },
+   {
+    "phrase": "in caso di traffico intenso",
+    "why": "names the situation involved"
+   }
+  ],
+  "trick": "\"anche\" is the trap because it means the obligation still applies even with heavy traffic.",
+  "image": ""
+ },
+ {
+  "n": 18672,
+  "it": "Bisogna lasciare liberi gli attraversamenti pedonali e quelli ciclabili in caso di formazione di code di veicoli",
+  "answer": true,
+  "en": "You must keep pedestrian crossings and cycle crossings clear in the event of queues of vehicles forming.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di formazione di code di veicoli",
+    "why": "limits the rule to traffic queues forming"
+   }
+  ],
+  "trick": "The sentence gives an obligation specifically when vehicle queues are forming.",
+  "image": ""
+ },
+ {
+  "n": 18673,
+  "it": "Bisogna lasciare libere le immissioni stradali (incroci, confluenze, ingressi dei parcheggi, ecc.) anche in caso di traffico intenso",
+  "answer": true,
+  "en": "You must keep road entry points clear (intersections, convergences, car park entrances, etc.) even in the event of heavy traffic.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds that the rule still applies in this case"
+   },
+   {
+    "phrase": "in caso di traffico intenso",
+    "why": "names the situation involved"
+   }
+  ],
+  "trick": "The trap is that the obligation remains in force even when traffic is heavy.",
+  "image": ""
+ },
+ {
+  "n": 18674,
+  "it": "Bisogna lasciare liberi solo gli incroci regolati da semaforo in caso di formazione di code di veicoli",
+  "answer": false,
+  "en": "You must keep clear only intersections controlled by traffic lights in the event of queues of vehicles forming.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "in caso di formazione di code di veicoli",
+    "why": "limits the rule to that traffic situation"
+   }
+  ],
+  "trick": "\"solo\" is the main trap because it wrongly restricts the obligation to traffic-light-controlled intersections only.",
+  "image": ""
+ },
+ {
+  "n": 18675,
+  "it": "Bisogna lasciare liberi i cavalcavia in caso di traffico intenso",
+  "answer": false,
+  "en": "You must keep flyovers clear in the event of heavy traffic.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di traffico intenso",
+    "why": "limits the rule to that situation"
+   }
+  ],
+  "trick": "The sentence presents an obligation tied to heavy traffic.",
+  "image": ""
+ },
+ {
+  "n": 18676,
+  "it": "Bisogna lasciare libere le gallerie in caso di formazione di code di veicoli",
+  "answer": false,
+  "en": "You must keep tunnels clear in the event of queues of vehicles forming.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di formazione di code di veicoli",
+    "why": "limits the rule to traffic queues forming"
+   }
+  ],
+  "trick": "The sentence states an obligation specifically in the case of forming queues.",
+  "image": ""
+ },
+ {
+  "n": 18677,
+  "it": "Bisogna lasciare liberi gli ingressi delle abitazioni private in caso di formazione di code di veicoli",
+  "answer": false,
+  "en": "You must keep the entrances to private homes clear in the event of queues of vehicles forming.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di formazione di code di veicoli",
+    "why": "limits the rule to traffic queues forming"
+   }
+  ],
+  "trick": "The key meaning is an obligation linked to the formation of vehicle queues.",
+  "image": ""
+ },
+ {
+  "n": 18678,
+  "it": "Bisogna lasciare liberi i sottovia in caso di traffico intenso",
+  "answer": false,
+  "en": "You must keep underpasses clear in the event of heavy traffic.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di traffico intenso",
+    "why": "limits the rule to that situation"
+   }
+  ],
+  "trick": "The sentence expresses an obligation that applies in heavy traffic.",
+  "image": ""
+ },
+ {
+  "n": 18679,
+  "it": "Quando si viaggia in fila con altri veicoli, non bisogna limitarsi a osservare solamente il veicolo che precede, ma occorre porre attenzione anche in lontananza, per controllare la situazione del traffico",
+  "answer": true,
+  "en": "When travelling in line with other vehicles, you must not limit yourself to observing only the vehicle in front, but must also pay attention farther ahead, in order to monitor the traffic situation.",
+  "keywords": [
+   {
+    "phrase": "non bisogna",
+    "why": "expresses prohibition/negative obligation"
+   },
+   {
+    "phrase": "solamente",
+    "why": "restricts the action to only that object"
+   },
+   {
+    "phrase": "ma",
+    "why": "marks a contrast with the correct action"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "anche in lontananza",
+    "why": "adds that attention must extend farther ahead too"
+   }
+  ],
+  "trick": "The traps are the negative obligation \"non bisogna\" and the contrast showing you must look not only at the vehicle ahead but also farther ahead.",
+  "image": ""
+ },
+ {
+  "n": 18680,
+  "it": "Per agevolare il traffico, è opportuno lasciare liberi gli sbocchi delle strade laterali quando si viaggia dietro ad una fila di veicoli",
+  "answer": true,
+  "en": "To help traffic flow, it is advisable to keep the exits of side streets clear when driving behind a line of vehicles.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "advisable, not a strict legal obligation"
+   },
+   {
+    "phrase": "lasciare liberi",
+    "why": "means keep clear/unobstructed"
+   },
+   {
+    "phrase": "dietro ad una fila di veicoli",
+    "why": "specifies this applies when following a queue of vehicles"
+   }
+  ],
+  "trick": "Watch soft advice versus obligation, and the condition that the rule applies when following a line of vehicles.",
+  "image": ""
+ },
+ {
+  "n": 18681,
+  "it": "Quando si viaggia in fila con altri veicoli, bisogna mantenere ugualmente la distanza di sicurezza",
+  "answer": true,
+  "en": "When driving in a line with other vehicles, you must still maintain a safe distance.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ugualmente",
+    "why": "means still/even so, despite the queue situation"
+   }
+  ],
+  "trick": "The sentence says the safe-distance rule still applies even when vehicles are moving in a line.",
+  "image": ""
+ },
+ {
+  "n": 18682,
+  "it": "Per una maggiore sicurezza, quando si viaggia in fila con altri veicoli, è opportuno non avvicinarsi troppo al veicolo che precede",
+  "answer": true,
+  "en": "For greater safety, when driving in a line with other vehicles, it is advisable not to get too close to the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "advisable, not a strict legal obligation"
+   },
+   {
+    "phrase": "non avvicinarsi troppo",
+    "why": "negative instruction: do not get too close"
+   }
+  ],
+  "trick": "The key trap is the negative advice: it recommends keeping back, not moving closer.",
+  "image": ""
+ },
+ {
+  "n": 18683,
+  "it": "Per una maggiore sicurezza, quando nei centri urbani si viaggia in fila con altri veicoli, è opportuno tenere sempre accese le luci di emergenza",
+  "answer": false,
+  "en": "For greater safety, when driving in a line with other vehicles in built-up areas, it is advisable to always keep the hazard lights on.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "advisable, not a strict legal obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the claim absolute: always"
+   },
+   {
+    "phrase": "luci di emergenza",
+    "why": "means hazard warning lights, not ordinary lights"
+   }
+  ],
+  "trick": "The trap is the absolute claim about always using hazard lights, with a soft-advice form.",
+  "image": ""
+ },
+ {
+  "n": 18684,
+  "it": "Quando si viaggia in fila con altri veicoli è consentito distrarsi se si è a bassa velocità",
+  "answer": false,
+  "en": "When driving in a line with other vehicles, it is permitted to get distracted if you are traveling at low speed.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the claim to a specific condition"
+   }
+  ],
+  "trick": "The sentence wrongly presents distraction as permitted under the condition of low speed.",
+  "image": ""
+ },
+ {
+  "n": 18685,
+  "it": "Quando si viaggia dietro in fila con altri veicoli, è opportuno spostarsi il più possibile a sinistra, per creare una corsia libera a destra",
+  "answer": false,
+  "en": "When driving behind in a line with other vehicles, it is advisable to move as far left as possible, to create a free lane on the right.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "advisable, not a strict legal obligation"
+   },
+   {
+    "phrase": "il più possibile",
+    "why": "makes it extreme: as far as possible"
+   },
+   {
+    "phrase": "a sinistra",
+    "why": "direction matters and can reverse the meaning"
+   }
+  ],
+  "trick": "The key traps are the extreme wording and the left/right direction, which must not be confused.",
+  "image": ""
+ },
+ {
+  "n": 18686,
+  "it": "Quando si viaggia in fila con altri veicoli, è opportuno spostarsi al centro della carreggiata, per controllare la situazione del traffico",
+  "answer": false,
+  "en": "When driving in a line with other vehicles, it is advisable to move to the center of the carriageway in order to monitor the traffic situation.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "advisable, not a strict legal obligation"
+   },
+   {
+    "phrase": "al centro della carreggiata",
+    "why": "specific road position that changes the meaning"
+   }
+  ],
+  "trick": "The main trap is the claimed advisable position on the road: the center of the carriageway.",
+  "image": ""
+ },
+ {
+  "n": 18687,
+  "it": "Anche in condizioni di scarsa visibilità quando si viaggia dietro ad un veicolo che solleva polvere, conviene sorpassarlo subito",
+  "answer": false,
+  "en": "Even in conditions of poor visibility, when you are driving behind a vehicle that raises dust, it is advisable to overtake it immediately.",
+  "keywords": [
+   {
+    "phrase": "Anche",
+    "why": "means even, extending the claim to this case too"
+   },
+   {
+    "phrase": "in condizioni di scarsa visibilità",
+    "why": "sets a risky condition that limits the statement"
+   },
+   {
+    "phrase": "subito",
+    "why": "means immediately, making the action abrupt"
+   }
+  ],
+  "trick": "The trap is that the statement extends the advice even to poor visibility and says to overtake immediately.",
+  "image": ""
+ },
+ {
+  "n": 18688,
+  "it": "Entrando in un centro abitato bisogna tenere conto che può cambiare spesso la precedenza agli incroci",
+  "answer": true,
+  "en": "When entering a built-up area, you must bear in mind that priority at intersections can change often.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "può",
+    "why": "means can/may, not certainty"
+   },
+   {
+    "phrase": "spesso",
+    "why": "means often, not always"
+   }
+  ],
+  "trick": "The sentence combines obligation with a possibility that happens often, not always.",
+  "image": ""
+ },
+ {
+  "n": 18689,
+  "it": "Entrando in un centro abitato, bisogna tenere conto che il flusso della circolazione viene spesso intralciato o interrotto da veicoli che sono fermi, che partono o che cambiano direzione",
+  "answer": true,
+  "en": "When entering a built-up area, you must bear in mind that the flow of traffic is often hindered or interrupted by vehicles that are stationary, setting off, or changing direction.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "spesso",
+    "why": "means often, not always"
+   }
+  ],
+  "trick": "The key point is obligation to consider something that often happens, not an absolute rule.",
+  "image": ""
+ },
+ {
+  "n": 18690,
+  "it": "Entrati in un centro abitato, bisogna tenere conto che gli altri utenti della strada (quali pedoni e ciclisti) si mescolano maggiormente con il traffico motorizzato",
+  "answer": true,
+  "en": "Once you have entered a built-up area, you must bear in mind that other road users, such as pedestrians and cyclists, mix more with motor traffic.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "maggiormente",
+    "why": "comparative: more/ to a greater extent"
+   }
+  ],
+  "trick": "The trap is the comparative idea that these users mix more with motor traffic in built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 18691,
+  "it": "In un centro abitato bisogna essere più attenti, prudenti e tolleranti, a causa del maggior numero di utenti che interagiscono nell'ambiente urbano",
+  "answer": true,
+  "en": "In a built-up area, you must be more attentive, prudent and tolerant because of the greater number of users interacting in the urban environment.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "più",
+    "why": "comparative: more than usual"
+   }
+  ],
+  "trick": "The sentence requires greater caution, using a comparative rather than an absolute term.",
+  "image": ""
+ },
+ {
+  "n": 18692,
+  "it": "Entrando in un centro abitato, bisogna continuare a mantenere la concentrazione alla guida anche se potrebbero aumentare i motivi per distrarsi",
+  "answer": true,
+  "en": "When entering a built-up area, you must continue to maintain concentration while driving even if the reasons for becoming distracted may increase.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "continuare",
+    "why": "means keep doing it, not start doing it"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, introducing a contrast"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "means might/could, not certainty"
+   }
+  ],
+  "trick": "The sentence says concentration must continue despite the possibility of more distractions.",
+  "image": ""
+ },
+ {
+  "n": 18693,
+  "it": "Entrando in un centro abitato, bisogna considerare che è possibile sostare in corrispondenza di incroci non regolati",
+  "answer": false,
+  "en": "When entering a built-up area, you must consider that it is possible to park at unregulated intersections.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "è possibile",
+    "why": "expresses possibility/allowance"
+   },
+   {
+    "phrase": "in corrispondenza di incroci non regolati",
+    "why": "specific location condition that changes legality"
+   }
+  ],
+  "trick": "The trap is the claimed possibility of parking at unregulated intersections, a location-specific legality issue.",
+  "image": ""
+ },
+ {
+  "n": 18694,
+  "it": "In un centro abitato è sempre consentita la marcia per file parallele",
+  "answer": false,
+  "en": "In a built-up area, driving in parallel lines is always permitted.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the claim absolute: always"
+   },
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is the absolute permission: always permitted.",
+  "image": ""
+ },
+ {
+  "n": 18695,
+  "it": "In un centro abitato, bisogna considerare che i pedoni e i diversamente abili devono sempre dare la precedenza ai veicoli a motore",
+  "answer": false,
+  "en": "In a built-up area, you must consider that pedestrians and disabled persons must always give way to motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the claim absolute: always"
+   }
+  ],
+  "trick": "The trap is the absolute obligation wrongly assigned to pedestrians and disabled persons.",
+  "image": ""
+ },
+ {
+  "n": 18696,
+  "it": "È vietato spostare o imbrattare la segnaletica stradale",
+  "answer": true,
+  "en": "It is forbidden to move or deface road signs.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key meaning is prohibition.",
+  "image": ""
+ },
+ {
+  "n": 18697,
+  "it": "È vietato rimuovere la segnaletica stradale",
+  "answer": true,
+  "en": "It is forbidden to remove road signs.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key meaning is prohibition.",
+  "image": ""
+ },
+ {
+  "n": 18698,
+  "it": "Spostare la segnaletica stradale può comportare pericolo grave per gli altri utenti della strada",
+  "answer": true,
+  "en": "Moving road signs can cause serious danger for other road users.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "means can/may, not certainty"
+   },
+   {
+    "phrase": "pericolo grave",
+    "why": "means serious danger, stronger than simple risk"
+   }
+  ],
+  "trick": "The sentence expresses a possible but serious consequence, not a guaranteed one.",
+  "image": ""
+ },
+ {
+  "n": 18699,
+  "it": "E' consentito spostare la segnaletica stradale, se non si tratta di segnali di pericolo",
+  "answer": false,
+  "en": "It is permitted to move road signs, if they are not danger signs.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se non si tratta di",
+    "why": "creates an exception condition: unless/if they are not"
+   },
+   {
+    "phrase": "segnali di pericolo",
+    "why": "specific category that limits the claim"
+   }
+  ],
+  "trick": "The trap is the conditional exception: it claims permission only if the signs are not warning signs.",
+  "image": ""
+ },
+ {
+  "n": 18700,
+  "it": "E' consentito spostare la segnaletica stradale, dopo aver avvisato gli organi di polizia",
+  "answer": false,
+  "en": "It is permitted to move road signs after notifying the police authorities.",
+  "keywords": [
+   {
+    "phrase": "È consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "dopo aver avvisato",
+    "why": "sets a condition that may misleadingly seem to make it allowed"
+   }
+  ],
+  "trick": "The sentence says it is permitted once police have been informed, but moving road signs is not allowed.",
+  "image": ""
+ },
+ {
+  "n": 18701,
+  "it": "E' consentito spostare la segnaletica stradale, se si tratta delle barriere di delimitazione o dei coni stradali",
+  "answer": false,
+  "en": "It is permitted to move road signs if they are boundary barriers or traffic cones.",
+  "keywords": [
+   {
+    "phrase": "È consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "se si tratta di",
+    "why": "introduces a condition or exception that may seem to allow it"
+   }
+  ],
+  "trick": "The conditional phrase suggests an exception, but even these signs must not be moved.",
+  "image": ""
+ },
+ {
+  "n": 18702,
+  "it": "Sulle strade è vietato gareggiare in velocità",
+  "answer": true,
+  "en": "Speed racing on roads is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition: racing for speed on roads is forbidden.",
+  "image": ""
+ },
+ {
+  "n": 18703,
+  "it": "Il conducente che partecipa a gare di velocità non autorizzate su aree pubbliche è punito con la reclusione",
+  "answer": true,
+  "en": "A driver who takes part in unauthorized speed races in public areas is punished with imprisonment.",
+  "keywords": [
+   {
+    "phrase": "non autorizzate",
+    "why": "negates authorization"
+   },
+   {
+    "phrase": "è punito con la reclusione",
+    "why": "states a criminal penalty, not a simple fine"
+   }
+  ],
+  "trick": "The important points are that the races are unauthorized and the penalty is imprisonment.",
+  "image": ""
+ },
+ {
+  "n": 18704,
+  "it": "E' punito con la reclusione il conducente che gareggia in velocità su strade pubbliche",
+  "answer": true,
+  "en": "A driver who races for speed on public roads is punished with imprisonment.",
+  "keywords": [
+   {
+    "phrase": "è punito con la reclusione",
+    "why": "states a criminal penalty, not a simple fine"
+   }
+  ],
+  "trick": "The trap is that speed racing on public roads leads to imprisonment.",
+  "image": ""
+ },
+ {
+  "n": 18705,
+  "it": "E' punito con la reclusione chi scommette su veicoli che partecipano a gare di velocità non autorizzate su strade pubbliche",
+  "answer": true,
+  "en": "Anyone who bets on vehicles taking part in unauthorized speed races on public roads is punished with imprisonment.",
+  "keywords": [
+   {
+    "phrase": "non autorizzate",
+    "why": "negates authorization"
+   },
+   {
+    "phrase": "è punito con la reclusione",
+    "why": "states a criminal penalty, not a simple fine"
+   }
+  ],
+  "trick": "Even betting on unauthorized road races carries imprisonment, not just participating.",
+  "image": ""
+ },
+ {
+  "n": 18706,
+  "it": "Le competizioni sportive con veicoli su aree pubbliche sono consentite senza autorizzazione",
+  "answer": false,
+  "en": "Sporting competitions with vehicles in public areas are permitted without authorization.",
+  "keywords": [
+   {
+    "phrase": "sono consentite",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza autorizzazione",
+    "why": "removes the required authorization"
+   }
+  ],
+  "trick": "The trap is the claim that authorization is unnecessary, which is false.",
+  "image": ""
+ },
+ {
+  "n": 18707,
+  "it": "Sulle strade pubbliche sono consentite le gare di velocità, anche se non autorizzate, dalle ore 23.00 alle ore 6.00",
+  "answer": false,
+  "en": "On public roads, speed races are permitted, even if unauthorized, from 11:00 p.m. to 6:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "sono consentite",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche se non autorizzate",
+    "why": "concedes lack of authorization but still claims permission"
+   }
+  ],
+  "trick": "The phrase wrongly suggests that time of day makes unauthorized races allowed.",
+  "image": ""
+ },
+ {
+  "n": 18708,
+  "it": "Sono consentite le gare di velocità, anche se non autorizzate, purché partecipino solo due autovetture",
+  "answer": false,
+  "en": "Speed races are permitted, even if unauthorized, provided that only two cars take part.",
+  "keywords": [
+   {
+    "phrase": "anche se non autorizzate",
+    "why": "concedes lack of authorization but still claims permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition that may seem to create an exception"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the case to only two cars"
+   }
+  ],
+  "trick": "The sentence falsely creates an exception based on only two cars taking part.",
+  "image": ""
+ },
+ {
+  "n": 18709,
+  "it": "Sulle strade pubbliche sono consentite le gare di velocità, anche se non autorizzate, tra motocicli e non tra autoveicoli",
+  "answer": false,
+  "en": "On public roads, speed races are permitted, even if unauthorized, between motorcycles and not between motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "sono consentite",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "anche se non autorizzate",
+    "why": "concedes lack of authorization but still claims permission"
+   },
+   {
+    "phrase": "non tra autoveicoli",
+    "why": "negates one category to imply another is allowed"
+   }
+  ],
+  "trick": "The wording falsely implies that unauthorized races are allowed for motorcycles but not for cars.",
+  "image": ""
+ },
+ {
+  "n": 18710,
+  "it": "E' vietato lanciare dal finestrino mozziconi di sigaretta accesi",
+  "answer": true,
+  "en": "It is forbidden to throw lit cigarette butts out of the window.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The sentence is straightforwardly prohibitive: throwing lit cigarette butts is forbidden.",
+  "image": ""
+ },
+ {
+  "n": 18711,
+  "it": "Gettare mozziconi di sigaretta accesi dai finestrini è molto pericoloso soprattutto se sopraggiungono veicoli a due ruote",
+  "answer": true,
+  "en": "Throwing lit cigarette butts out of the windows is very dangerous, especially if two-wheeled vehicles are approaching.",
+  "keywords": [
+   {
+    "phrase": "soprattutto se",
+    "why": "highlights a particularly risky condition"
+   }
+  ],
+  "trick": "The trap is the conditional risk: it is especially dangerous when two-wheeled vehicles are approaching.",
+  "image": ""
+ },
+ {
+  "n": 18712,
+  "it": "Gettare mozziconi accesi dai finestrini in prossimità di boschi o aree verdi potrebbe causare incendi",
+  "answer": true,
+  "en": "Throwing lit cigarette butts out of the windows near woods or green areas could cause fires.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "limits the statement to nearby areas"
+   },
+   {
+    "phrase": "potrebbe",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The key points are proximity to woods or green areas and the possibility of causing fires.",
+  "image": ""
+ },
+ {
+  "n": 18713,
+  "it": "E' vietato spargere fango o detriti sulle strade con le ruote sporche dei veicoli",
+  "answer": true,
+  "en": "It is forbidden to scatter mud or debris on the roads with the dirty wheels of vehicles.",
+  "keywords": [
+   {
+    "phrase": "È vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The sentence states a clear prohibition against spreading mud or debris onto the road.",
+  "image": ""
+ },
+ {
+  "n": 18714,
+  "it": "Il conducente che si accorge che il suo veicolo perde olio deve compiere tutte le azioni necessarie per evitare pericoli per altri utenti",
+  "answer": true,
+  "en": "A driver who realizes that their vehicle is leaking oil must take all necessary actions to avoid danger to other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "tutte le azioni necessarie",
+    "why": "requires every necessary action, not just some"
+   }
+  ],
+  "trick": "The driver has a duty to take all necessary measures, not merely optional precautions.",
+  "image": ""
+ },
+ {
+  "n": 18715,
+  "it": "Il conducente che si accorga che il suo veicolo ha forti perdite di olio o carburante, deve immediatamente avvisare l'ente proprietario della strada o gli organi di polizia",
+  "answer": true,
+  "en": "A driver who realizes that their vehicle has serious oil or fuel leaks must immediately notify the road authority or the police authorities.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "immediatamente",
+    "why": "requires action without delay"
+   },
+   {
+    "phrase": "o",
+    "why": "gives an alternative between two authorities"
+   }
+  ],
+  "trick": "The duty is immediate, and notification can be made to either the road authority or the police.",
+  "image": ""
+ },
+ {
+  "n": 18716,
+  "it": "Il conducente di veicolo a due ruote può circolare portando con sé un animale domestico, se custodito in apposita gabbia, purché non sia sporgente di oltre 50 centimetri.",
+  "answer": true,
+  "en": "The rider of a two-wheeled vehicle may travel carrying a pet, if it is kept in a suitable cage, provided that it does not stick out by more than 50 centimetres.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition for the permission"
+   },
+   {
+    "phrase": "non sia sporgente di oltre 50 centimetri",
+    "why": "sets a maximum limit that must not be exceeded"
+   }
+  ],
+  "trick": "The permission applies only if the animal is in a proper cage and does not protrude more than 50 cm.",
+  "image": ""
+ },
+ {
+  "n": 18717,
+  "it": "Alla guida di un veicolo il conducente deve procedere a bassa velocità sopra le pozzanghere",
+  "answer": true,
+  "en": "When driving a vehicle, the driver must proceed at low speed over puddles.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "a bassa velocità",
+    "why": "states the required manner of proceeding"
+   }
+  ],
+  "trick": "The sentence imposes a duty to go slowly when driving over puddles.",
+  "image": ""
+ },
+ {
+  "n": 18718,
+  "it": "Se, uscendo da un sentiero fangoso, si sporca notevolmente la strada, si può incorrere in una sanzione amministrativa",
+  "answer": true,
+  "en": "If, when coming out of a muddy path, you significantly dirty the road, you may incur an administrative penalty.",
+  "keywords": [
+   {
+    "phrase": "si può incorrere",
+    "why": "expresses possibility of a penalty, not certainty"
+   },
+   {
+    "phrase": "notevolmente",
+    "why": "limits the case to substantial dirt on the road"
+   }
+  ],
+  "trick": "The penalty is possible when the road is dirtied significantly, not just minimally.",
+  "image": ""
+ },
+ {
+  "n": 18719,
+  "it": "Per evitare di sporcare la carreggiata, bisogna pulire le ruote del veicolo, prima di uscire da un sentiero fangoso",
+  "answer": true,
+  "en": "To avoid dirtying the carriageway, you must clean the vehicle's wheels before coming out of a muddy path.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the action that must happen beforehand"
+   }
+  ],
+  "trick": "The obligation is to clean the wheels before leaving the muddy path.",
+  "image": ""
+ },
+ {
+  "n": 18720,
+  "it": "Uscendo da un sentiero fangoso o da un cantiere, bisogna assicurarsi che durante la marcia non cada terriccio che possa sporcare la strada",
+  "answer": true,
+  "en": "When leaving a muddy path or a building site, you must make sure that no soil falls during travel that could dirty the road.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the possibility of soil falling"
+   },
+   {
+    "phrase": "possa",
+    "why": "means 'could/may', not certainty"
+   }
+  ],
+  "trick": "The sentence imposes a duty to ensure that no dirt falls onto the road.",
+  "image": ""
+ },
+ {
+  "n": 18721,
+  "it": "E' consentito spostare i segnali stradali verticali temporanei per parcheggiare il veicolo",
+  "answer": false,
+  "en": "It is permitted to move temporary vertical road signs in order to park the vehicle.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per",
+    "why": "states the purpose: in order to park"
+   }
+  ],
+  "trick": "The trap is the permission wording: it says moving the signs is allowed.",
+  "image": ""
+ },
+ {
+  "n": 18722,
+  "it": "E' consentito lanciare la carta dal finestrino",
+  "answer": false,
+  "en": "It is permitted to throw paper out of the window.",
+  "keywords": [
+   {
+    "phrase": "E' consentito",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is that the statement claims this action is allowed.",
+  "image": ""
+ },
+ {
+  "n": 18723,
+  "it": "Il conducente può lanciare oggetti dal finestrino sulla banchina",
+  "answer": false,
+  "en": "The driver may throw objects out of the window onto the shoulder.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is the modal verb, which says the driver is allowed to do it.",
+  "image": ""
+ },
+ {
+  "n": 18724,
+  "it": "Su una strada ricoperta da brecciolino il conducente può circolare a velocità sostenuta",
+  "answer": false,
+  "en": "On a road covered with loose gravel, the driver may travel at a high speed.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "velocità sostenuta",
+    "why": "means fairly high speed"
+   }
+  ],
+  "trick": "The statement wrongly presents high speed on loose gravel as permitted.",
+  "image": ""
+ },
+ {
+  "n": 18725,
+  "it": "Il conducente può superare i veicoli in coda accelerando bruscamente e cambiando ripetutamente corsia",
+  "answer": false,
+  "en": "The driver may overtake queued vehicles by accelerating sharply and repeatedly changing lane.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "accelerando bruscamente",
+    "why": "adds the risky manner: by accelerating sharply"
+   },
+   {
+    "phrase": "ripetutamente",
+    "why": "means repeatedly, worsening the behaviour"
+   }
+  ],
+  "trick": "The trap is that the sentence presents aggressive overtaking behaviour as allowed.",
+  "image": ""
+ },
+ {
+  "n": 18726,
+  "it": "Il conducente di un veicolo, oltre a rispettare le norme specifiche della circolazione, deve tenere un rapporto corretto e tollerante verso gli altri utenti della strada",
+  "answer": true,
+  "en": "In addition to complying with the specific traffic rules, the driver of a vehicle must behave correctly and tolerantly towards other road users.",
+  "keywords": [
+   {
+    "phrase": "oltre a",
+    "why": "adds another duty, not an alternative"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence says respecting rules is not enough; the driver also has this extra duty.",
+  "image": ""
+ },
+ {
+  "n": 18727,
+  "it": "Quando si avvicina ad un incrocio, il conducente deve sempre usare la massima prudenza, anche quando gli altri conducenti devono dargli la precedenza",
+  "answer": true,
+  "en": "When approaching an intersection, the driver must always use the utmost caution, even when the other drivers must give way to him.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the rule apply in every case"
+   },
+   {
+    "phrase": "anche quando",
+    "why": "extends the rule even to this case"
+   },
+   {
+    "phrase": "devono dargli la precedenza",
+    "why": "means others must give way to him"
+   }
+  ],
+  "trick": "Even with priority, the driver still always has a duty to be maximally cautious.",
+  "image": ""
+ },
+ {
+  "n": 18728,
+  "it": "Il conducente di un veicolo deve tutelare la propria e l'altrui sicurezza",
+  "answer": true,
+  "en": "The driver of a vehicle must protect his own safety and that of others.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "l'altrui",
+    "why": "means 'that of others'"
+   }
+  ],
+  "trick": "The duty covers both the driver's own safety and other people's safety.",
+  "image": ""
+ },
+ {
+  "n": 18729,
+  "it": "Il conducente di un veicolo deve rispettare gli agenti del traffico e collaborare con essi",
+  "answer": true,
+  "en": "The driver of a vehicle must respect traffic officers and cooperate with them.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The sentence states a duty, not a choice.",
+  "image": ""
+ },
+ {
+  "n": 18730,
+  "it": "Il conducente di un veicolo deve cercare di prevedere il comportamento degli altri utenti",
+  "answer": true,
+  "en": "The driver of a vehicle must try to foresee the behaviour of other road users.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "cercare di",
+    "why": "means must try, not must guarantee"
+   }
+  ],
+  "trick": "The obligation is to make the effort to anticipate others' behaviour.",
+  "image": ""
+ },
+ {
+  "n": 18731,
+  "it": "Il conducente di un veicolo deve essere paziente e tollerante anche in caso di rallentamento della circolazione",
+  "answer": true,
+  "en": "The driver of a vehicle must be patient and tolerant even in the event of traffic slowing down.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche in caso di",
+    "why": "extends the rule even to this situation"
+   }
+  ],
+  "trick": "The duty to stay patient still applies even when traffic is slowed.",
+  "image": ""
+ },
+ {
+  "n": 18732,
+  "it": "Il conducente di un veicolo non deve fare sempre affidamento sul comportamento degli altri, che può non essere corretto",
+  "answer": true,
+  "en": "The driver of a vehicle must not always rely on the behaviour of others, which may be incorrect.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition/obligation not to"
+   },
+   {
+    "phrase": "sempre",
+    "why": "means not in every case"
+   },
+   {
+    "phrase": "può non essere",
+    "why": "means may be not / may fail to be"
+   }
+  ],
+  "trick": "The sentence warns that others may behave wrongly, so the driver must not rely on them all the time.",
+  "image": ""
+ },
+ {
+  "n": 18733,
+  "it": "Il conducente di un veicolo non può pretendere di passare per primo quando sorge il dubbio che non gli venga concessa la precedenza",
+  "answer": true,
+  "en": "The driver of a vehicle cannot insist on going first when there is doubt that he will be given priority.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition, not inability"
+   },
+   {
+    "phrase": "pretendere",
+    "why": "means to insist/claim as a right"
+   },
+   {
+    "phrase": "quando sorge il dubbio",
+    "why": "limits the rule to when doubt arises"
+   },
+   {
+    "phrase": "non gli venga concessa la precedenza",
+    "why": "negative clause about priority not being granted"
+   }
+  ],
+  "trick": "If there is doubt about being given priority, the driver is not allowed to demand to go first.",
+  "image": ""
+ },
+ {
+  "n": 18734,
+  "it": "Il diritto di precedenza non autorizza il conducente ad attraversare l'incrocio senza usare prudenza",
+  "answer": true,
+  "en": "The right of way does not authorize the driver to cross the intersection without using caution.",
+  "keywords": [
+   {
+    "phrase": "non autorizza",
+    "why": "negates any permission"
+   },
+   {
+    "phrase": "senza",
+    "why": "means without, removing caution"
+   }
+  ],
+  "trick": "Having right of way does not give permission to proceed carelessly.",
+  "image": ""
+ },
+ {
+  "n": 18735,
+  "it": "Il conducente di un veicolo di grandi dimensioni ha, di norma, la precedenza sul conducente di un veicolo più piccolo",
+  "answer": false,
+  "en": "The driver of a large vehicle normally has priority over the driver of a smaller vehicle.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means normally/as a rule"
+   },
+   {
+    "phrase": "ha la precedenza",
+    "why": "means has right of way/priority"
+   }
+  ],
+  "trick": "The trap is 'normally': the sentence claims a general priority rule based on vehicle size.",
+  "image": ""
+ },
+ {
+  "n": 18736,
+  "it": "Il conducente di un veicolo può approfittare della potenza del proprio veicolo per non dare la precedenza a chi spetta",
+  "answer": false,
+  "en": "The driver of a vehicle may take advantage of the power of his vehicle so as not to give way to whoever is entitled to it.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per non dare la precedenza",
+    "why": "means in order not to give way"
+   },
+   {
+    "phrase": "a chi spetta",
+    "why": "means to the person who is entitled to it"
+   }
+  ],
+  "trick": "The statement falsely presents abusing vehicle power to avoid giving way as allowed.",
+  "image": ""
+ },
+ {
+  "n": 18737,
+  "it": "Il conducente di un veicolo pesante può tenere un comportamento che è causa di insofferenza negli altri",
+  "answer": false,
+  "en": "The driver of a heavy vehicle may behave in a way that causes annoyance in others.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "è causa di",
+    "why": "means causes or gives rise to"
+   }
+  ],
+  "trick": "The trap is that it describes annoying behaviour as permitted.",
+  "image": ""
+ },
+ {
+  "n": 18738,
+  "it": "Il conducente di un veicolo deve rispettare gli agenti del traffico solo se sono in divisa",
+  "answer": false,
+  "en": "The driver of a vehicle must respect traffic officers only if they are in uniform.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The key trap is 'only if', which wrongly limits when officers must be respected.",
+  "image": ""
+ },
+ {
+  "n": 18739,
+  "it": "Il conducente di un veicolo può fare a meno di usare la massima prudenza quando si avvicina ad un incrocio in cui ha il diritto di precedenza",
+  "answer": false,
+  "en": "The driver of a vehicle may dispense with using the utmost caution when approaching an intersection where he has the right of way.",
+  "keywords": [
+   {
+    "phrase": "può fare a meno di",
+    "why": "means may do without"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the statement to this situation"
+   },
+   {
+    "phrase": "ha il diritto di precedenza",
+    "why": "means has the right of way"
+   }
+  ],
+  "trick": "The trap is that it says having priority allows the driver to do without maximum caution.",
+  "image": ""
+ },
+ {
+  "n": 18740,
+  "it": "Il conducente deve dare segni di impazienza, se il veicolo che sta davanti procede troppo lentamente",
+  "answer": false,
+  "en": "The driver must show signs of impatience if the vehicle in front is moving too slowly.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the statement to this condition"
+   },
+   {
+    "phrase": "troppo lentamente",
+    "why": "intensifies the slowness and can affect interpretation"
+   }
+  ],
+  "trick": "Watch the obligation in deve and the condition introduced by se.",
+  "image": ""
+ },
+ {
+  "n": 18741,
+  "it": "Un incidente, anche a bassa velocità, potrebbe creare gravi problemi fisici a pedoni, ciclisti e motociclisti, se coinvolti",
+  "answer": true,
+  "en": "An accident, even at low speed, could cause serious physical harm to pedestrians, cyclists, and motorcyclists if they are involved.",
+  "keywords": [
+   {
+    "phrase": "anche a bassa velocità",
+    "why": "means even in this seemingly less dangerous case"
+   },
+   {
+    "phrase": "potrebbe",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "se coinvolti",
+    "why": "makes the statement conditional on being involved"
+   }
+  ],
+  "trick": "The key traps are the concession anche a bassa velocità and the conditional wording.",
+  "image": ""
+ },
+ {
+  "n": 18742,
+  "it": "Bisogna controllare frequentemente nello specchietto retrovisore se sopraggiunge un ciclista o un motociclista",
+  "answer": true,
+  "en": "You must check the rear-view mirror frequently to see whether a cyclist or a motorcyclist is approaching.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "frequentemente",
+    "why": "requires repeated checking, not just once"
+   },
+   {
+    "phrase": "se sopraggiunge",
+    "why": "means whether one is approaching, not that one definitely is"
+   }
+  ],
+  "trick": "Bisogna gives a duty, while frequentemente strengthens how often it must be done.",
+  "image": ""
+ },
+ {
+  "n": 18743,
+  "it": "Il conducente, dopo aver posteggiato il veicolo al lato della carreggiata, prima di aprire lo sportello deve controllare che non sopraggiungano ciclisti o motociclisti",
+  "answer": true,
+  "en": "After parking the vehicle at the side of the carriageway, before opening the door the driver must check that no cyclists or motorcyclists are approaching.",
+  "keywords": [
+   {
+    "phrase": "prima di aprire lo sportello",
+    "why": "sets a required action before opening the door"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "che non sopraggiungano",
+    "why": "the negation means to check that none are approaching"
+   }
+  ],
+  "trick": "The main trap is the negation in che non sopraggiungano combined with the obligation in deve.",
+  "image": ""
+ },
+ {
+  "n": 18744,
+  "it": "I montanti interni degli autoveicoli condizionano la visibilità",
+  "answer": true,
+  "en": "The interior pillars of motor vehicles affect visibility.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 18745,
+  "it": "I montanti interni degli autoveicoli riducono la possibilità di vedere un ciclista o un motociclista",
+  "answer": true,
+  "en": "The interior pillars of motor vehicles reduce the possibility of seeing a cyclist or a motorcyclist.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 18746,
+  "it": "Un incidente a bassa velocità non crea problemi di incolumità ai conducenti coinvolti",
+  "answer": false,
+  "en": "A low-speed accident does not create safety risks for the drivers involved.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the whole statement"
+   },
+   {
+    "phrase": "a bassa velocità",
+    "why": "restricts the claim to low-speed accidents"
+   }
+  ],
+  "trick": "The crucial trap is the negation non, which completely reverses the meaning.",
+  "image": ""
+ },
+ {
+  "n": 18747,
+  "it": "Il conducente che scende da un veicolo in sosta non deve controllare se sopraggiungono ciclisti",
+  "answer": false,
+  "en": "A driver getting out of a parked vehicle must not check whether cyclists are approaching.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses absence of duty or prohibition, not obligation"
+   },
+   {
+    "phrase": "se sopraggiungono",
+    "why": "means whether they are approaching"
+   }
+  ],
+  "trick": "The key trap is non deve, which reverses the expected duty.",
+  "image": ""
+ },
+ {
+  "n": 18748,
+  "it": "Nello specchietto retrovisore il conducente deve controllare solo se sopraggiungono autocarri o autobus",
+  "answer": false,
+  "en": "In the rear-view mirror, the driver must check only whether lorries or buses are approaching.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only these vehicles"
+   }
+  ],
+  "trick": "Solo is the main trap because it wrongly limits what the driver must look for.",
+  "image": ""
+ },
+ {
+  "n": 18749,
+  "it": "Il conducente di un motociclo può fare lo slalom tra i veicoli fermi al semaforo",
+  "answer": false,
+  "en": "The rider of a motorcycle may weave in and out between vehicles stopped at the traffic light.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "tra i veicoli fermi al semaforo",
+    "why": "limits the action to vehicles stopped at the lights"
+   }
+  ],
+  "trick": "The trap is può, which suggests the maneuver is allowed.",
+  "image": ""
+ },
+ {
+  "n": 18750,
+  "it": "Il conducente del motociclo può parcheggiare sul marciapiede anche se non vi sono appositi spazi di posteggio",
+  "answer": false,
+  "en": "The rider of a motorcycle may park on the pavement even if there are no designated parking spaces.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, allowing for an exception-like scenario"
+   },
+   {
+    "phrase": "non vi sono",
+    "why": "negates the existence of designated spaces"
+   }
+  ],
+  "trick": "The key traps are può and anche se non vi sono, which make the illegal action sound allowed.",
+  "image": ""
+ },
+ {
+  "n": 18751,
+  "it": "Il conducente del motociclo può circolare sul marciapiede se il traffico sulla carreggiata è bloccato",
+  "answer": false,
+  "en": "The rider of a motorcycle may travel on the pavement if traffic on the carriageway is blocked.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional on this situation"
+   }
+  ],
+  "trick": "The trap is that può presents this as permitted under the stated condition.",
+  "image": ""
+ },
+ {
+  "n": 18752,
+  "it": "Bisogna usare maggiore prudenza nei confronti delle persone diversamente abili",
+  "answer": true,
+  "en": "You must use greater caution with people with disabilities.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "Bisogna makes this a duty, and maggiore prudenza raises the level of care required.",
+  "image": ""
+ },
+ {
+  "n": 18753,
+  "it": "Bisogna usare maggiore prudenza nei confronti delle persone anziane",
+  "answer": true,
+  "en": "You must use greater caution with elderly people.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "Bisogna makes this a duty, and maggiore prudenza raises the level of care required.",
+  "image": ""
+ },
+ {
+  "n": 18754,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei bambini che attraversano la strada",
+  "answer": true,
+  "en": "You must use greater caution with children crossing the road.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "The main traps are the impersonal obligation and the requirement for extra caution.",
+  "image": ""
+ },
+ {
+  "n": 18755,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei conducenti che dimostrano una guida incerta",
+  "answer": true,
+  "en": "You must use greater caution with drivers who show uncertain driving.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "The statement is driven by the obligation in Bisogna and the increased level in maggiore prudenza.",
+  "image": ""
+ },
+ {
+  "n": 18756,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei conducenti di veicoli adattati per persone diversamente abili",
+  "answer": true,
+  "en": "You must use greater caution with drivers of vehicles adapted for people with disabilities.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "The key meaning comes from the obligation and the requirement for extra caution.",
+  "image": ""
+ },
+ {
+  "n": 18757,
+  "it": "Bisogna usare maggiore prudenza nei confronti delle persone in bicicletta e di quelle con scarsa capacità di movimento",
+  "answer": true,
+  "en": "You must use greater caution with people on bicycles and those with limited mobility.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "The important traps are the impersonal duty and the phrase requiring extra caution.",
+  "image": ""
+ },
+ {
+  "n": 18758,
+  "it": "Bisogna usare particolare prudenza nei confronti dei conducenti che hanno conseguito la patente di guida in uno Stato estero",
+  "answer": false,
+  "en": "You must use particular caution with drivers who obtained their driving licence in a foreign country.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "particolare prudenza",
+    "why": "requires special caution, stronger than ordinary caution"
+   }
+  ],
+  "trick": "The trap is that the sentence presents a specific duty of special caution.",
+  "image": ""
+ },
+ {
+  "n": 18759,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei conducenti di autoveicoli elettrici",
+  "answer": false,
+  "en": "You must use greater caution with drivers of electric motor vehicles.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation in an impersonal form"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "requires increased caution, not normal caution"
+   }
+  ],
+  "trick": "The statement hinges on the obligation in Bisogna and the heightened caution in maggiore prudenza.",
+  "image": ""
+ },
+ {
+  "n": 18760,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei conducenti di taxi",
+  "answer": false,
+  "en": "You must use greater caution towards taxi drivers.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "\"Bisogna\" shows a duty, not a choice.",
+  "image": ""
+ },
+ {
+  "n": 18761,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei conducenti di tricicli a motore",
+  "answer": false,
+  "en": "You must use greater caution towards drivers of motor tricycles.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "\"Bisogna\" shows a duty, not a choice.",
+  "image": ""
+ },
+ {
+  "n": 18762,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei pedoni muniti di bastone bianco, ma non di quelli con bastone bianco-rosso",
+  "answer": false,
+  "en": "You must use greater caution towards pedestrians carrying a white cane, but not towards those with a white-red cane.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ma non",
+    "why": "introduces a contrast and negates the second part"
+   }
+  ],
+  "trick": "The trap is the contrast \"ma non\", which excludes the second group.",
+  "image": ""
+ },
+ {
+  "n": 18763,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che potrebbero non fare adeguata attenzione ai veicoli",
+  "answer": true,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that they may not pay adequate attention to vehicles.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "potrebbero non",
+    "why": "means they may fail to do something"
+   }
+  ],
+  "trick": "\"Potrebbero non\" is easy to miss because it adds a possible negative.",
+  "image": ""
+ },
+ {
+  "n": 18764,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che potrebbero fermarsi improvvisamente al centro della strada",
+  "answer": true,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that they may stop suddenly in the middle of the road.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   }
+  ],
+  "trick": "\"Potrebbero\" weakens the statement to a possibility.",
+  "image": ""
+ },
+ {
+  "n": 18765,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che potrebbero non guardare né a destra, né a sinistra",
+  "answer": true,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that they may look neither to the right nor to the left.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "potrebbero non",
+    "why": "means they may fail to do something"
+   },
+   {
+    "phrase": "né... né...",
+    "why": "pairs two negatives: neither... nor..."
+   }
+  ],
+  "trick": "The sentence combines possible negation with the double negative pattern \"né... né...\".",
+  "image": ""
+ },
+ {
+  "n": 18766,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che, data la loro età, non reagiscono prontamente alle situazioni di pericolo",
+  "answer": true,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that, given their age, they do not react promptly to dangerous situations.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "data la loro età",
+    "why": "limits the reason to their age"
+   },
+   {
+    "phrase": "non reagiscono",
+    "why": "negates the reaction"
+   }
+  ],
+  "trick": "The key trap is the negative \"non reagiscono\", linked to age as the reason.",
+  "image": ""
+ },
+ {
+  "n": 18767,
+  "it": "Quando le persone anziane attraversano la carreggiata non bisogna avvicinarsi troppo con il veicolo, per evitare che si sentano minacciati e reagiscano con movimenti pericolosi",
+  "answer": true,
+  "en": "When elderly people are crossing the carriageway, you must not come too close with the vehicle, to avoid making them feel threatened and react with dangerous movements.",
+  "keywords": [
+   {
+    "phrase": "non bisogna",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "troppo",
+    "why": "makes the distance excessive, not any approach"
+   },
+   {
+    "phrase": "per evitare che",
+    "why": "introduces purpose to prevent a consequence"
+   }
+  ],
+  "trick": "\"Non bisogna\" turns the rule into a prohibition, not just advice.",
+  "image": ""
+ },
+ {
+  "n": 18768,
+  "it": "Le persone anziane che attraversano la carreggiata sono esposte a maggiori pericoli, perché le loro capacità visive e uditive non sono più eccellenti",
+  "answer": true,
+  "en": "Elderly people crossing the carriageway are exposed to greater dangers because their visual and hearing abilities are no longer excellent.",
+  "keywords": [
+   {
+    "phrase": "non sono più",
+    "why": "means no longer, not simply not"
+   }
+  ],
+  "trick": "\"Non sono più\" means a loss compared with before.",
+  "image": ""
+ },
+ {
+  "n": 18769,
+  "it": "Le persone anziane che attraversano la carreggiata sono esposte a maggiori pericoli, perché potrebbero valutare male la velocità dei veicoli che sopraggiungono",
+  "answer": true,
+  "en": "Elderly people crossing the carriageway are exposed to greater dangers because they may misjudge the speed of approaching vehicles.",
+  "keywords": [
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   }
+  ],
+  "trick": "\"Potrebbero\" signals that this is a possible risk.",
+  "image": ""
+ },
+ {
+  "n": 18770,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che hanno i riflessi più rapidi e quindi attraversano con più accortezza",
+  "answer": false,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that they have quicker reflexes and therefore cross more carefully.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quindi",
+    "why": "marks a claimed consequence"
+   }
+  ],
+  "trick": "The connector \"quindi\" links the first claim to its supposed consequence.",
+  "image": ""
+ },
+ {
+  "n": 18771,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che, di solito, attraversano rapidamente e con prudenza",
+  "answer": false,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that, usually, they cross quickly and carefully.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di solito",
+    "why": "means usually, not always"
+   }
+  ],
+  "trick": "\"Di solito\" limits the statement to what usually happens, not every time.",
+  "image": ""
+ },
+ {
+  "n": 18772,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna tenere presente che, avendo più esperienza e un campo visivo maggiore, intuiscono meglio le situazioni di pericolo",
+  "answer": false,
+  "en": "When elderly people are crossing the carriageway, you must bear in mind that, having more experience and a wider field of vision, they understand dangerous situations better.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "avendo",
+    "why": "gives the supposed reason for the claim"
+   },
+   {
+    "phrase": "meglio",
+    "why": "is comparative: better, not simply well"
+   }
+  ],
+  "trick": "The trap is the causal structure \"avendo...\", which presents the reason for the claim.",
+  "image": ""
+ },
+ {
+  "n": 18773,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna lampeggiare e suonare il clacson per farle attraversare rapidamente",
+  "answer": false,
+  "en": "When elderly people are crossing the carriageway, you must flash your lights and sound the horn to make them cross quickly.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per farle",
+    "why": "shows purpose: to make them do something"
+   },
+   {
+    "phrase": "rapidamente",
+    "why": "changes the aim to quickly"
+   }
+  ],
+  "trick": "\"Per farle\" expresses intended purpose, which changes the meaning.",
+  "image": ""
+ },
+ {
+  "n": 18774,
+  "it": "Quando le persone anziane attraversano la carreggiata bisogna dare la precedenza solo a coloro che attraversano da sinistra a destra",
+  "answer": false,
+  "en": "When elderly people are crossing the carriageway, you must give way only to those who are crossing from left to right.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "\"Solo\" is the key trap because it wrongly limits who gets priority.",
+  "image": ""
+ },
+ {
+  "n": 18775,
+  "it": "Il conducente deve fermarsi e dare la precedenza al pedone non vedente con il bastone bianco che si accinge ad attraversare la strada fuori dalle strisce pedonali",
+  "answer": true,
+  "en": "The driver must stop and give way to the blind pedestrian with a white cane who is about to cross the road outside the pedestrian crossing.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "si accinge ad attraversare",
+    "why": "means is about to cross, not already crossing"
+   },
+   {
+    "phrase": "fuori dalle strisce pedonali",
+    "why": "states even outside the pedestrian crossing"
+   }
+  ],
+  "trick": "The important trap is \"si accinge ad attraversare\", meaning the duty starts before the person is already crossing.",
+  "image": ""
+ },
+ {
+  "n": 18776,
+  "it": "Il conducente deve fermarsi e facilitare l'attraversamento al pedone non vedente con il bastone bianco che attraversa la strada fuori dalle strisce pedonali",
+  "answer": true,
+  "en": "The driver must stop and facilitate the crossing of the blind pedestrian with a white cane who is crossing the road outside the pedestrian crossing.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "facilitare",
+    "why": "means help make it easier, not merely allow"
+   },
+   {
+    "phrase": "fuori dalle strisce pedonali",
+    "why": "states even outside the pedestrian crossing"
+   }
+  ],
+  "trick": "\"Facilitare\" goes beyond simply not blocking the pedestrian.",
+  "image": ""
+ },
+ {
+  "n": 18777,
+  "it": "Il conducente deve dare la precedenza al pedone non vedente con il bastone bianco che attraversa la strada fuori dalle strisce pedonali, anche se non è accompagnato da un cane guida",
+  "answer": true,
+  "en": "The driver must give way to the blind pedestrian with a white cane who is crossing the road outside the pedestrian crossing, even if he is not accompanied by a guide dog.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, so the rule still applies"
+   },
+   {
+    "phrase": "non è accompagnato",
+    "why": "negates the condition of being accompanied"
+   }
+  ],
+  "trick": "\"Anche se non\" is the key trap because it says the obligation remains despite that condition.",
+  "image": ""
+ },
+ {
+  "n": 18778,
+  "it": "Il conducente deve fermarsi per concedere la precedenza al pedone sordocieco che, con il bastone bianco-rosso, attraversa la strada fuori dalle strisce pedonali",
+  "answer": true,
+  "en": "The driver must stop to give way to the deafblind pedestrian who, with a white-red cane, is crossing the road outside the pedestrian crossing.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per concedere la precedenza",
+    "why": "shows the purpose is to yield"
+   },
+   {
+    "phrase": "fuori dalle strisce pedonali",
+    "why": "states even outside the pedestrian crossing"
+   }
+  ],
+  "trick": "The duty remains because of the pedestrian's condition, even outside the crossing.",
+  "image": ""
+ },
+ {
+  "n": 18779,
+  "it": "Il conducente deve dare la precedenza al pedone con il bastone bianco o bianco-rosso che attraversa la strada, anche se è fuori dalle strisce di un attraversamento pedonale",
+  "answer": true,
+  "en": "The driver must give way to the pedestrian with a white or white-red cane who is crossing the road, even if they are outside the stripes of a pedestrian crossing.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "o",
+    "why": "means either cane type counts"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, so the rule still applies"
+   },
+   {
+    "phrase": "fuori dalle strisce",
+    "why": "states the rule applies outside the crossing"
+   }
+  ],
+  "trick": "The main trap is \"anche se\", because the obligation still applies outside the crossing.",
+  "image": ""
+ },
+ {
+  "n": 18780,
+  "it": "Il conducente deve fermarsi quando un pedone non vedente con il bastone bianco si accinge ad attraversare la strada, evitando di frenare bruscamente per non spaventarlo",
+  "answer": true,
+  "en": "The driver must stop when a blind pedestrian with a white cane is about to cross the road, avoiding braking suddenly so as not to frighten them.",
+  "keywords": [
+   {
+    "phrase": "deve fermarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "si accinge ad attraversare",
+    "why": "means is about to cross, not already crossing"
+   },
+   {
+    "phrase": "per non spaventarlo",
+    "why": "negative purpose: so as not to frighten them"
+   }
+  ],
+  "trick": "Watch obligation, the 'about to' timing, and the negative purpose clause.",
+  "image": ""
+ },
+ {
+  "n": 18781,
+  "it": "Il conducente deve accelerare per sgombrare rapidamente la carreggiata quando un pedone non vedente con il bastone bianco attraversa la strada senza cane guida",
+  "answer": false,
+  "en": "The driver must accelerate to clear the carriageway quickly when a blind pedestrian with a white cane is crossing the road without a guide dog.",
+  "keywords": [
+   {
+    "phrase": "deve accelerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "senza cane guida",
+    "why": "adds a condition that can mislead but does not change the duty"
+   }
+  ],
+  "trick": "The main trap is the false obligation to accelerate, plus the distracting condition about the guide dog.",
+  "image": ""
+ },
+ {
+  "n": 18782,
+  "it": "Il conducente deve passare per primo, in quanto ha la precedenza, quando un pedone non vedente con il bastone bianco attraversa la strada fuori dalle strisce pedonali",
+  "answer": false,
+  "en": "The driver must go first, since they have right of way, when a blind pedestrian with a white cane is crossing the road outside the pedestrian crossing.",
+  "keywords": [
+   {
+    "phrase": "deve passare per primo",
+    "why": "expresses obligation to go first"
+   },
+   {
+    "phrase": "ha la precedenza",
+    "why": "states claimed right of way"
+   },
+   {
+    "phrase": "fuori dalle strisce pedonali",
+    "why": "location detail may wrongly suggest the pedestrian loses protection"
+   }
+  ],
+  "trick": "The trap is the claimed right of way and the misleading detail that the pedestrian is outside the crossing.",
+  "image": ""
+ },
+ {
+  "n": 18783,
+  "it": "Il conducente, quando un pedone non vedente con il bastone bianco attraversa la strada fuori dalle strisce pedonali, deve dargli la precedenza solo se l'attraversamento pedonale dista oltre 100 metri",
+  "answer": false,
+  "en": "When a blind pedestrian with a white cane is crossing the road outside the pedestrian crossing, the driver must give way to them only if the pedestrian crossing is more than 100 metres away.",
+  "keywords": [
+   {
+    "phrase": "deve dargli la precedenza",
+    "why": "expresses obligation to give way"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "oltre 100 metri",
+    "why": "distance condition limits the statement"
+   }
+  ],
+  "trick": "The key trap is 'solo se', which wrongly restricts when the duty applies.",
+  "image": ""
+ },
+ {
+  "n": 18784,
+  "it": "Il conducente deve dare la precedenza a un pedone non vedente che attraversa la strada fuori dalle strisce pedonali, solo se munito di bastone bianco-rosso",
+  "answer": false,
+  "en": "The driver must give way to a blind pedestrian crossing the road outside the pedestrian crossing only if they are carrying a red-and-white cane.",
+  "keywords": [
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses obligation to give way"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "munito di bastone bianco-rosso",
+    "why": "specific condition may wrongly limit protection"
+   }
+  ],
+  "trick": "The trap is the restrictive condition 'solo se' tied to a specific type of cane.",
+  "image": ""
+ },
+ {
+  "n": 18785,
+  "it": "Il conducente deve prevedere che un pedone non vedente con il bastone bianco che attraversa la strada fuori dalle strisce pedonali camminerà rapidamente e senza incertezza",
+  "answer": false,
+  "en": "The driver must expect that a blind pedestrian with a white cane who is crossing the road outside the pedestrian crossing will walk quickly and without hesitation.",
+  "keywords": [
+   {
+    "phrase": "deve prevedere",
+    "why": "expresses obligation to expect"
+   },
+   {
+    "phrase": "senza incertezza",
+    "why": "absolute phrasing can mislead about pedestrian behaviour"
+   }
+  ],
+  "trick": "The trap is the obligation paired with an unrealistic certainty about the pedestrian's behaviour.",
+  "image": ""
+ },
+ {
+  "n": 18786,
+  "it": "Se un pedone con bastone bianco attraversa la strada fuori dalle strisce pedonali, bisogna suonare il clacson per sollecitarlo ad attraversare rapidamente",
+  "answer": false,
+  "en": "If a pedestrian with a white cane is crossing the road outside the pedestrian crossing, you must sound the horn to urge them to cross quickly.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "impersonal form expressing obligation"
+   },
+   {
+    "phrase": "per sollecitarlo",
+    "why": "states purpose: to urge them"
+   },
+   {
+    "phrase": "rapidamente",
+    "why": "suggests haste, which is misleading here"
+   }
+  ],
+  "trick": "The trap is the stated obligation to use the horn for the purpose of making the pedestrian hurry.",
+  "image": ""
+ },
+ {
+  "n": 18787,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che il pedone, nell'attraversare la strada, può diventare insicuro e ritornare improvvisamente indietro",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that the pedestrian, while crossing the road, may become unsure and suddenly turn back.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "può",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "improvvisamente",
+    "why": "signals sudden action that drivers must anticipate"
+   }
+  ],
+  "trick": "Watch the location phrase, the obligation, and the fact that the pedestrian may suddenly turn back.",
+  "image": ""
+ },
+ {
+  "n": 18788,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che le persone anziane solitamente attraversano lentamente e con difficoltà",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that elderly people usually cross slowly and with difficulty.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solitamente",
+    "why": "means usually, not always"
+   }
+  ],
+  "trick": "The trap is that 'solitamente' means a usual tendency, not an absolute rule.",
+  "image": ""
+ },
+ {
+  "n": 18789,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che le reazioni dei bambini che attraversano sono imprevedibili e, quindi, possono creare pericolo",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that the reactions of children who are crossing are unpredictable and, therefore, may create danger.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "possono",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "The key trap is that the sentence expresses a duty to consider a possible danger, not a guaranteed one.",
+  "image": ""
+ },
+ {
+  "n": 18790,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che i bambini potrebbero avanzare sulle strisce, per poi tornare indietro improvvisamente, senza motivo apparente",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that children may step onto the crossing and then suddenly turn back, for no apparent reason.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "improvvisamente",
+    "why": "signals sudden action that drivers must anticipate"
+   },
+   {
+    "phrase": "senza motivo apparente",
+    "why": "means without any obvious reason"
+   }
+  ],
+  "trick": "The traps are the possibility wording and the sudden, apparently unmotivated change in behaviour.",
+  "image": ""
+ },
+ {
+  "n": 18791,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che il pedone potrebbe fermarsi improvvisamente sulle strisce dell'attraversamento pedonale",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that the pedestrian may stop suddenly on the crossing lines.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "potrebbe",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "improvvisamente",
+    "why": "signals sudden action that drivers must anticipate"
+   }
+  ],
+  "trick": "Watch the obligation and the possibility of a sudden stop.",
+  "image": ""
+ },
+ {
+  "n": 18792,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che i pedoni, in special modo i bambini, possono sbucare all'improvviso tra i veicoli parcheggiati",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that pedestrians, especially children, may suddenly emerge from between parked vehicles.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in special modo",
+    "why": "highlights a particular group without excluding others"
+   },
+   {
+    "phrase": "possono sbucare all'improvviso",
+    "why": "means they may appear suddenly"
+   }
+  ],
+  "trick": "The trap is that children are singled out especially, but the risk still applies to pedestrians generally.",
+  "image": ""
+ },
+ {
+  "n": 18793,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che i veicoli parcheggiati in prossimità delle strisce impediscono la visuale dei pedoni",
+  "answer": true,
+  "en": "Near a pedestrian crossing, the driver must consider that vehicles parked near the crossing lines block the view of pedestrians.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in prossimità delle strisce",
+    "why": "means near the crossing lines, not necessarily on them"
+   },
+   {
+    "phrase": "impediscono la visuale",
+    "why": "means obstruct visibility"
+   }
+  ],
+  "trick": "The key trap is the location phrase 'in prossimità', meaning near the crossing, and the idea of obstructed visibility.",
+  "image": ""
+ },
+ {
+  "n": 18794,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve aspettarsi dai bambini una reazione rapida e un comportamento corretto",
+  "answer": false,
+  "en": "Near a pedestrian crossing, the driver must expect children to react quickly and behave correctly.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve aspettarsi",
+    "why": "expresses obligation to expect"
+   },
+   {
+    "phrase": "una reazione rapida e un comportamento corretto",
+    "why": "asserts an unrealistic expectation"
+   }
+  ],
+  "trick": "The trap is the false expectation that children will react quickly and behave properly.",
+  "image": ""
+ },
+ {
+  "n": 18795,
+  "it": "In vicinanza di un attraversamento pedonale, i pedoni devono fare un cenno con la mano prima di iniziare l'attraversamento",
+  "answer": false,
+  "en": "Near a pedestrian crossing, pedestrians must make a hand signal before starting to cross.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di iniziare",
+    "why": "sets a required action before crossing"
+   }
+  ],
+  "trick": "The key trap is the claimed obligation imposed on pedestrians before they start crossing.",
+  "image": ""
+ },
+ {
+  "n": 18796,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che un pedone munito di bastone bianco ha più esperienza su come attraversare la carreggiata",
+  "answer": false,
+  "en": "Near a pedestrian crossing, the driver must consider that a pedestrian carrying a white cane has more experience in how to cross the carriageway.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ha più esperienza",
+    "why": "comparative claim may mislead about safety"
+   }
+  ],
+  "trick": "The trap is the misleading comparative claim that the pedestrian is more experienced.",
+  "image": ""
+ },
+ {
+  "n": 18797,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve arrestarsi se il pedone che attraversa è munito di bastone bianco-rosso; deve solo rallentare se, invece, è munito di bastone bianco",
+  "answer": false,
+  "en": "Near a pedestrian crossing, the driver must stop if the pedestrian crossing is carrying a red-and-white cane; they must only slow down if, on the other hand, they are carrying a white cane.",
+  "keywords": [
+   {
+    "phrase": "deve arrestarsi",
+    "why": "expresses obligation to stop"
+   },
+   {
+    "phrase": "deve solo rallentare",
+    "why": "restricts the duty to only slowing down"
+   },
+   {
+    "phrase": "se, invece,",
+    "why": "introduces a contrast between two cases"
+   },
+   {
+    "phrase": "munito di bastone bianco-rosso",
+    "why": "specific condition may wrongly alter the rule"
+   },
+   {
+    "phrase": "munito di bastone bianco",
+    "why": "specific condition may wrongly alter the rule"
+   }
+  ],
+  "trick": "The trap is the false contrast: stop in one cane case but only slow down in the other.",
+  "image": ""
+ },
+ {
+  "n": 18798,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve accelerare quel tanto che basta per passare davanti al pedone che attraversa",
+  "answer": false,
+  "en": "Near a pedestrian crossing, the driver must accelerate just enough to pass in front of the pedestrian who is crossing.",
+  "keywords": [
+   {
+    "phrase": "deve accelerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quel tanto che basta",
+    "why": "means just enough, a limiting phrase"
+   },
+   {
+    "phrase": "per passare davanti al pedone",
+    "why": "states the purpose of getting ahead of the pedestrian"
+   }
+  ],
+  "trick": "The trap is the false obligation to speed up, softened by 'just enough' to make it sound acceptable.",
+  "image": ""
+ },
+ {
+  "n": 18799,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che se il pedone si è fermato in mezzo alle strisce dell'attraversamento significa che ha rinunciato al suo diritto di passare",
+  "answer": false,
+  "en": "Near a pedestrian crossing, the driver must consider that if the pedestrian has stopped in the middle of the crossing, it means that they have given up their right to cross.",
+  "keywords": [
+   {
+    "phrase": "In vicinanza di",
+    "why": "sets the rule near this place"
+   },
+   {
+    "phrase": "deve considerare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "significa che",
+    "why": "states a supposed conclusion"
+   },
+   {
+    "phrase": "ha rinunciato al suo diritto di passare",
+    "why": "claims loss of right of way"
+   }
+  ],
+  "trick": "The trap is the false conclusion that stopping on the crossing means giving up the right to cross.",
+  "image": ""
+ },
+ {
+  "n": 18800,
+  "it": "In vicinanza di un attraversamento pedonale, il conducente deve considerare che i pedoni devono attraversare la strada affiancati, in modo da impiegare meno tempo",
+  "answer": false,
+  "en": "Near a pedestrian crossing, the driver must bear in mind that pedestrians must cross the road side by side so as to take less time.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "Watch for double obligation: both the driver and the pedestrians are said to 'must' do something.",
+  "image": ""
+ },
+ {
+  "n": 18801,
+  "it": "Quando vi sono bambini fermi al semaforo bisogna usare prudenza, in quanto potrebbero attraversare improvvisamente la strada appena la luce del semaforo veicolare passa dal verde al giallo",
+  "answer": true,
+  "en": "When there are children waiting at the traffic light, one must use caution, since they might suddenly cross the road as soon as the vehicle traffic light changes from green to yellow.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "appena",
+    "why": "means 'as soon as', indicating immediate timing"
+   }
+  ],
+  "trick": "The sentence combines a duty to be cautious with a possible sudden action by the children.",
+  "image": ""
+ },
+ {
+  "n": 18802,
+  "it": "Quando vi sono bambini fermi al semaforo bisogna usare prudenza, in quanto potrebbero attraversare velocemente la strada anche con il rosso, ritenendo che duri troppo",
+  "answer": true,
+  "en": "When there are children waiting at the traffic light, one must use caution, since they might quickly cross the road even when the light is red, thinking it lasts too long.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "anche con il rosso",
+    "why": "means even when the light is red"
+   }
+  ],
+  "trick": "The trap is that children may cross even against the red light, so caution is still required.",
+  "image": ""
+ },
+ {
+  "n": 18803,
+  "it": "Quando vi sono bambini fermi al semaforo bisogna usare prudenza, perché può accadere che si spingano a vicenda, finendo sulla carreggiata",
+  "answer": true,
+  "en": "When there are children waiting at the traffic light, one must use caution, because it may happen that they push each other and end up on the carriageway.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "può accadere",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "The sentence states a duty of caution because an unpredictable event may happen.",
+  "image": ""
+ },
+ {
+  "n": 18804,
+  "it": "Quando vi sono bambini fermi al semaforo bisogna usare prudenza, perché potrebbero scendere dal marciapiede, invadendo la carreggiata, quando ancora per loro il semaforo è disposto al rosso",
+  "answer": true,
+  "en": "When there are children waiting at the traffic light, one must use caution, because they might step off the pavement and move onto the carriageway while their traffic light is still red.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "quando ancora",
+    "why": "means while it is still the case"
+   },
+   {
+    "phrase": "è disposto al rosso",
+    "why": "means the light is set to red"
+   }
+  ],
+  "trick": "The key trap is that children may enter the road even while their light is still red.",
+  "image": ""
+ },
+ {
+  "n": 18805,
+  "it": "Prima di impegnare un incrocio, dopo che è scattata la luce verde del semaforo, il conducente deve attendere che i pedoni abbiano finito di attraversare la strada",
+  "answer": true,
+  "en": "Before entering an intersection, after the green traffic light has come on, the driver must wait until the pedestrians have finished crossing the road.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "dopo che è scattata la luce verde",
+    "why": "does not cancel the duty to wait"
+   },
+   {
+    "phrase": "abbiano finito",
+    "why": "means until they have completely finished"
+   }
+  ],
+  "trick": "Even with a green light, the driver still has the obligation to wait for pedestrians to finish crossing.",
+  "image": ""
+ },
+ {
+  "n": 18806,
+  "it": "Quando vi sono bambini fermi al semaforo, bisogna tenere presente che possono attraversare la strada solo se accompagnati da un adulto",
+  "answer": false,
+  "en": "When there are children waiting at the traffic light, one must bear in mind that they may cross the road only if accompanied by an adult.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "possono",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this condition only"
+   }
+  ],
+  "trick": "The trap is the restrictive phrase 'only if', which makes the statement too absolute.",
+  "image": ""
+ },
+ {
+  "n": 18807,
+  "it": "I bambini, al semaforo, possono attraversare la strada solo dopo aver ricevuto un gesto di consenso da parte degli automobilisti",
+  "answer": false,
+  "en": "Children at a traffic light may cross the road only after receiving a gesture of consent from motorists.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission or possibility"
+   },
+   {
+    "phrase": "solo dopo",
+    "why": "restricts the action to only after this event"
+   }
+  ],
+  "trick": "The restrictive phrase 'only after' makes it sound like motorists' consent is required.",
+  "image": ""
+ },
+ {
+  "n": 18808,
+  "it": "Quando vi sono bambini fermi al semaforo, si può essere certi che attraversino la strada solo quando il semaforo pedonale abbia la luce verde accesa",
+  "answer": false,
+  "en": "When there are children waiting at the traffic light, one can be certain that they will cross the road only when the pedestrian traffic light is green.",
+  "keywords": [
+   {
+    "phrase": "si può essere certi",
+    "why": "claims certainty, which is a common trap"
+   },
+   {
+    "phrase": "solo quando",
+    "why": "restricts the action to only this moment"
+   }
+  ],
+  "trick": "The trap is the false certainty combined with the restrictive 'only when'.",
+  "image": ""
+ },
+ {
+  "n": 18809,
+  "it": "Quando vi sono bambini fermi al semaforo, si può essere certi che non attraverseranno la strada se il semaforo è a luce gialla lampeggiante",
+  "answer": false,
+  "en": "When there are children waiting at the traffic light, one can be certain that they will not cross the road if the traffic light is flashing yellow.",
+  "keywords": [
+   {
+    "phrase": "si può essere certi",
+    "why": "claims certainty, which is a common trap"
+   },
+   {
+    "phrase": "non attraverseranno",
+    "why": "negates the action completely"
+   },
+   {
+    "phrase": "se",
+    "why": "sets a specific condition for the claim"
+   }
+  ],
+  "trick": "The trap is the absolute certainty that children will not cross under that condition.",
+  "image": ""
+ },
+ {
+  "n": 18810,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus che trasporta scolari, occorre fare attenzione ai bambini che potrebbero aver iniziato ad attraversare la carreggiata nascosti dall'autobus",
+  "answer": true,
+  "en": "While driving a vehicle, near a bus stop where a bus carrying schoolchildren has stopped, you must watch out for children who may have started crossing the carriageway hidden by the bus.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   },
+   {
+    "phrase": "nascosti dall'autobus",
+    "why": "limits visibility and changes the risk"
+   }
+  ],
+  "trick": "The duty to watch out is based on the possibility that children are already crossing but hidden by the bus.",
+  "image": ""
+ },
+ {
+  "n": 18811,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola per la fermata di autobus per scolari, occorre fare attenzione ai bambini, che potrebbero attraversare di corsa la strada per salire sullo scuolabus",
+  "answer": true,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must watch out for children, who might run across the road to get on the school bus.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows possibility, not certainty"
+   }
+  ],
+  "trick": "The sentence imposes caution because children may suddenly run across.",
+  "image": ""
+ },
+ {
+  "n": 18812,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre prepararsi a frenare, nel caso in cui dei bambini attraversino improvvisamente la strada",
+  "answer": true,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must be ready to brake in case children suddenly cross the road.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "nel caso in cui",
+    "why": "introduces a possible contingency"
+   },
+   {
+    "phrase": "improvvisamente",
+    "why": "signals sudden, unexpected action"
+   }
+  ],
+  "trick": "The sentence requires readiness to brake because of a possible sudden crossing.",
+  "image": ""
+ },
+ {
+  "n": 18813,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre essere prudenti e tenere conto dei comportamenti imprevedibili dei bambini",
+  "answer": true,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must be cautious and take into account children's unpredictable behaviour.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "tenere conto",
+    "why": "means you must factor this into your driving"
+   }
+  ],
+  "trick": "The key trap is that this is a duty to consider unpredictable behaviour, not just a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 18814,
+  "it": "In vicinanza di una piazzola di fermata di autobus per scolari, può accadere che i bambini scendano dall'autobus senza fare attenzione ai veicoli che sopraggiungono",
+  "answer": true,
+  "en": "Near a bus stop for schoolchildren, it may happen that children get off the bus without paying attention to approaching vehicles.",
+  "keywords": [
+   {
+    "phrase": "può accadere",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "senza",
+    "why": "introduces absence of caution"
+   }
+  ],
+  "trick": "The sentence warns about a possible event made more dangerous by the children not paying attention.",
+  "image": ""
+ },
+ {
+  "n": 18815,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, bisogna rallentare particolarmente se vi è lo scuolabus",
+  "answer": true,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must slow down particularly if the school bus is there.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation or necessity"
+   },
+   {
+    "phrase": "particolarmente",
+    "why": "intensifies the degree of slowing down"
+   },
+   {
+    "phrase": "se vi è",
+    "why": "sets the condition under which this applies"
+   }
+  ],
+  "trick": "The obligation to slow down becomes especially important under the stated condition.",
+  "image": ""
+ },
+ {
+  "n": 18816,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, non si deve rallentare, per evitare di ostacolare la circolazione degli altri veicoli",
+  "answer": false,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must not slow down, in order to avoid obstructing the movement of other vehicles.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "negates an obligation, creating a prohibition-like meaning"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "gives a reason that can mislead learners"
+   }
+  ],
+  "trick": "The trap is the negated duty 'must not slow down', which is false in this context.",
+  "image": ""
+ },
+ {
+  "n": 18817,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre passare per primi, avendo sempre la precedenza sui bambini che attraversano la strada",
+  "answer": false,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must go first, always having priority over children crossing the road.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "per primi",
+    "why": "means before others, implying priority"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the claim absolute"
+   },
+   {
+    "phrase": "avendo sempre la precedenza",
+    "why": "claims constant right of way"
+   }
+  ],
+  "trick": "The trap is the absolute claim that drivers always have priority over crossing children.",
+  "image": ""
+ },
+ {
+  "n": 18818,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre suonare per invitare i bambini che attraversano sulle strisce a dare la precedenza",
+  "answer": false,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you should sound the horn to urge children who are crossing on the zebra crossing to give way.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or duty"
+   },
+   {
+    "phrase": "suonare",
+    "why": "here means to sound the horn"
+   },
+   {
+    "phrase": "per invitare",
+    "why": "states purpose and can mask that the action is improper"
+   }
+  ],
+  "trick": "The misleading part is the supposed duty to use the horn to make children yield on the crossing.",
+  "image": ""
+ },
+ {
+  "n": 18819,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, si deve rallentare solo se vi sono bambini che attraversano",
+  "answer": false,
+  "en": "While driving a vehicle, near a bus stop for schoolchildren, you must slow down only if there are children crossing.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this condition only"
+   }
+  ],
+  "trick": "The trap is 'only if', which wrongly limits when slowing down is required.",
+  "image": ""
+ },
+ {
+  "n": 18820,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, occorre fare attenzione allo scuolabus, che dopo la fermata farà sicuramente retromarcia",
+  "answer": false,
+  "en": "When driving a vehicle, near a school bus stop bay, you must pay attention to the school bus, which will certainly reverse after the stop.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/need"
+   },
+   {
+    "phrase": "sicuramente",
+    "why": "means certainly, making the claim absolute"
+   }
+  ],
+  "trick": "Watch for necessity and absolute wording: it says you must pay attention, and claims the bus will certainly reverse.",
+  "image": ""
+ },
+ {
+  "n": 18821,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, non si può proseguire nella marcia se le portiere dello scuolabus sono ancora aperte",
+  "answer": false,
+  "en": "When driving a vehicle, near a school bus stop bay, you may not continue driving if the school bus doors are still open.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "non si può",
+    "why": "expresses prohibition, not inability"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional on this case"
+   },
+   {
+    "phrase": "ancora aperte",
+    "why": "means still open, so the condition continues"
+   }
+  ],
+  "trick": "The key traps are the prohibition non si può and the condition if the doors are still open.",
+  "image": ""
+ },
+ {
+  "n": 18822,
+  "it": "Alla guida di un veicolo, in vicinanza di una piazzola di fermata di autobus per scolari, non è necessario rallentare se lo scuolabus è fermo",
+  "answer": false,
+  "en": "When driving a vehicle, near a school bus stop bay, it is not necessary to slow down if the school bus is stopped.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "non è necessario",
+    "why": "negates necessity"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the statement conditional"
+   }
+  ],
+  "trick": "The sentence removes an obligation by saying it is not necessary, but only in the stated condition.",
+  "image": ""
+ },
+ {
+  "n": 18823,
+  "it": "Il conducente, in vicinanza di un posteggio riservato ai taxi, deve rallentare ed eventualmente fermarsi se vi sono pedoni che attraversano la strada, senza guardare",
+  "answer": true,
+  "en": "Near a taxi stand, the driver must slow down and, if necessary, stop if there are pedestrians crossing the road without looking.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "eventualmente",
+    "why": "means if necessary/possibly, not eventually"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the duty conditional"
+   },
+   {
+    "phrase": "senza guardare",
+    "why": "adds that the pedestrians are not looking"
+   }
+  ],
+  "trick": "Deve is an obligation, and eventualmente means if necessary, not later on.",
+  "image": ""
+ },
+ {
+  "n": 18824,
+  "it": "Il conducente, in vicinanza di un posteggio riservato ai taxi, deve fare attenzione ai pedoni che salgono o scendono dal taxi",
+  "answer": true,
+  "en": "Near a taxi stand, the driver must pay attention to pedestrians getting into or out of a taxi.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The main trap is deve, which makes this a duty, not just advice.",
+  "image": ""
+ },
+ {
+  "n": 18825,
+  "it": "Il conducente di un veicolo diverso dai taxi non può sostare nei posteggi riservati ai taxi",
+  "answer": true,
+  "en": "The driver of a vehicle other than a taxi may not park in spaces reserved for taxis.",
+  "keywords": [
+   {
+    "phrase": "diverso dai taxi",
+    "why": "excludes taxis from this rule"
+   },
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition, not inability"
+   },
+   {
+    "phrase": "riservati ai taxi",
+    "why": "means reserved exclusively for taxis"
+   }
+  ],
+  "trick": "The sentence prohibits non-taxis from parking there; taxis are the exception.",
+  "image": ""
+ },
+ {
+  "n": 18826,
+  "it": "Il conducente, in vicinanza di un posteggio riservato ai taxi, deve fare attenzione ai pedoni, che possono attraversare improvvisamente la strada senza le dovute precauzioni",
+  "answer": true,
+  "en": "Near a taxi stand, the driver must watch out for pedestrians, who may suddenly cross the road without taking proper precautions.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "possono",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "improvvisamente",
+    "why": "adds the idea of sudden action"
+   },
+   {
+    "phrase": "senza le dovute precauzioni",
+    "why": "means without proper precautions"
+   }
+  ],
+  "trick": "The duty is definite, but the pedestrian behavior is only a possibility, not certain.",
+  "image": ""
+ },
+ {
+  "n": 18827,
+  "it": "Il conducente, in vicinanza di un posteggio riservato ai taxi, deve dare la precedenza ai taxi che s'immettono sulla strada",
+  "answer": false,
+  "en": "Near a taxi stand, the driver must give way to taxis pulling out into the road.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses an obligation to give way"
+   },
+   {
+    "phrase": "s'immettono sulla strada",
+    "why": "means entering/pulling out into the road"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to give way to taxis entering the road.",
+  "image": ""
+ },
+ {
+  "n": 18828,
+  "it": "Il conducente, in vicinanza di un posteggio riservato ai taxi, deve dare la precedenza ai taxi in partenza, qualora s'immettano dal lato sinistro della carreggiata",
+  "answer": false,
+  "en": "Near a taxi stand, the driver must give way to taxis setting off, if they enter from the left side of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to being near that place"
+   },
+   {
+    "phrase": "deve dare la precedenza",
+    "why": "expresses an obligation to give way"
+   },
+   {
+    "phrase": "qualora",
+    "why": "formal word meaning if/in the event that"
+   },
+   {
+    "phrase": "dal lato sinistro della carreggiata",
+    "why": "adds a specific condition about the left side"
+   }
+  ],
+  "trick": "The obligation is made conditional by qualora and the specific left-side condition.",
+  "image": ""
+ },
+ {
+  "n": 18829,
+  "it": "Il conducente di un veicolo diverso dai taxi può sostare nei posteggi riservati ai taxi dalle ore 20.00 alle ore 8.00",
+  "answer": false,
+  "en": "The driver of a vehicle other than a taxi may park in spaces reserved for taxis from 8:00 p.m. to 8:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "diverso dai taxi",
+    "why": "excludes taxis from this rule"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "riservati ai taxi",
+    "why": "means reserved exclusively for taxis"
+   },
+   {
+    "phrase": "dalle ore 20.00 alle ore 8.00",
+    "why": "restricts the claim to a time range"
+   }
+  ],
+  "trick": "The sentence gives permission only for non-taxis and only during the stated hours.",
+  "image": ""
+ },
+ {
+  "n": 18830,
+  "it": "Quando la carreggiata è occupata da ciclisti o pedoni, per sorpassarli è prudente mantenere un'adeguata distanza di sicurezza laterale",
+  "answer": true,
+  "en": "When the carriageway is occupied by cyclists or pedestrians, it is prudent to keep an adequate lateral safety distance when overtaking them.",
+  "keywords": [
+   {
+    "phrase": "Quando",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "è prudente",
+    "why": "gives advice rather than a strict legal obligation"
+   },
+   {
+    "phrase": "un'adeguata distanza di sicurezza laterale",
+    "why": "means a suitable side safety distance, not a fixed number"
+   }
+  ],
+  "trick": "This is advice under a condition, and adequate distance is not stated as an exact measurement.",
+  "image": ""
+ },
+ {
+  "n": 18831,
+  "it": "Quando la carreggiata è occupata da ciclisti o pedoni, non è prudente sorpassarli se non si può rispettare una distanza laterale sufficiente.",
+  "answer": true,
+  "en": "When the carriageway is occupied by cyclists or pedestrians, it is not prudent to overtake them if a sufficient lateral distance cannot be maintained.",
+  "keywords": [
+   {
+    "phrase": "Quando",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "non è prudente",
+    "why": "negates prudence, not legality directly"
+   },
+   {
+    "phrase": "se non si può",
+    "why": "means if one cannot, creating a condition with negation"
+   },
+   {
+    "phrase": "una distanza laterale sufficiente",
+    "why": "means enough side distance, not a fixed number"
+   }
+  ],
+  "trick": "The key trap is the double structure: not prudent if you cannot keep enough lateral distance.",
+  "image": ""
+ },
+ {
+  "n": 18832,
+  "it": "Quando la carreggiata extraurbana è occupata da ciclisti o pedoni, è consigliabile suonare il clacson prima di sorpassarli",
+  "answer": true,
+  "en": "When the extra-urban carriageway is occupied by cyclists or pedestrians, it is advisable to sound the horn before overtaking them.",
+  "keywords": [
+   {
+    "phrase": "Quando",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "extraurbana",
+    "why": "restricts the statement to roads outside built-up areas"
+   },
+   {
+    "phrase": "è consigliabile",
+    "why": "gives advice, not an obligation"
+   }
+  ],
+  "trick": "The statement is limited to extra-urban roads and uses advice, not a mandatory rule.",
+  "image": ""
+ },
+ {
+  "n": 18833,
+  "it": "Il conducente che intende sorpassare ciclisti o pedoni che occupano la carreggiata deve usare molta prudenza",
+  "answer": true,
+  "en": "A driver intending to overtake cyclists or pedestrians occupying the carriageway must use great caution.",
+  "keywords": [
+   {
+    "phrase": "intende",
+    "why": "means intends/is about to, not has already started"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "molta prudenza",
+    "why": "requires a high degree of caution"
+   }
+  ],
+  "trick": "The duty applies when the driver intends to overtake, and it requires strong caution.",
+  "image": ""
+ },
+ {
+  "n": 18834,
+  "it": "Poiché la marcia dei ciclisti a volte avviene con leggeri sbandamenti, il conducente di un veicolo deve tener conto di tale particolarità, in caso di sorpasso",
+  "answer": true,
+  "en": "Since cyclists sometimes ride with slight swerves, the driver of a vehicle must take this characteristic into account when overtaking.",
+  "keywords": [
+   {
+    "phrase": "Poiché",
+    "why": "gives the reason for the rule"
+   },
+   {
+    "phrase": "a volte",
+    "why": "means sometimes, not always"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in caso di sorpasso",
+    "why": "limits the duty to overtaking situations"
+   }
+  ],
+  "trick": "The obligation is justified by something that happens only sometimes and applies during overtaking.",
+  "image": ""
+ },
+ {
+  "n": 18835,
+  "it": "Il conducente che intende sorpassare ciclisti o pedoni che occupano la carreggiata deve mantenere una distanza laterale di almeno 2 metri",
+  "answer": false,
+  "en": "A driver intending to overtake cyclists or pedestrians occupying the carriageway must keep a lateral distance of at least 2 metres.",
+  "keywords": [
+   {
+    "phrase": "intende",
+    "why": "means intends/is about to, not has already started"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di almeno 2 metri",
+    "why": "sets a specific minimum distance"
+   }
+  ],
+  "trick": "The trap is the very specific claimed minimum of at least 2 metres.",
+  "image": ""
+ },
+ {
+  "n": 18836,
+  "it": "E' vietato sorpassare ciclisti o pedoni che occupano la carreggiata",
+  "answer": false,
+  "en": "It is forbidden to overtake cyclists or pedestrians occupying the carriageway.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "sorpassare",
+    "why": "means overtake/pass, a key action word"
+   }
+  ],
+  "trick": "The key trap is the absolute prohibition stated by è vietato.",
+  "image": ""
+ },
+ {
+  "n": 18837,
+  "it": "Il conducente, di notte, non deve dare la precedenza ai pedoni che attraversano sulle strisce pedonali",
+  "answer": false,
+  "en": "At night, the driver must not give way to pedestrians crossing on the zebra crossing.",
+  "keywords": [
+   {
+    "phrase": "di notte",
+    "why": "limits the statement to nighttime"
+   },
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition/negative obligation"
+   },
+   {
+    "phrase": "sulle strisce pedonali",
+    "why": "specifies that they are on the pedestrian crossing"
+   }
+  ],
+  "trick": "The negative obligation non deve completely reverses the normal give-way duty, but only at night.",
+  "image": ""
+ },
+ {
+  "n": 18838,
+  "it": "Quando la carreggiata è occupata da ciclisti o pedoni, si devono sorpassare senza superare la velocità di 30 km/h",
+  "answer": false,
+  "en": "When the carriageway is occupied by cyclists or pedestrians, they must be overtaken without exceeding 30 km/h.",
+  "keywords": [
+   {
+    "phrase": "Quando",
+    "why": "sets the condition for the rule"
+   },
+   {
+    "phrase": "si devono",
+    "why": "expresses an obligation in impersonal form"
+   },
+   {
+    "phrase": "senza superare",
+    "why": "means without exceeding, setting a limit"
+   }
+  ],
+  "trick": "The impersonal form creates a claimed obligation, with a strict speed cap of 30 km/h.",
+  "image": ""
+ },
+ {
+  "n": 18839,
+  "it": "Il conducente deve consentire ad una donna incinta di attraversare la strada senza metterle fretta",
+  "answer": true,
+  "en": "The driver must allow a pregnant woman to cross the road without hurrying her.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "consentire",
+    "why": "means allow/let, implying yielding"
+   },
+   {
+    "phrase": "senza metterle fretta",
+    "why": "means without rushing her"
+   }
+  ],
+  "trick": "The sentence imposes a duty to let her cross and not pressure her to hurry.",
+  "image": ""
+ },
+ {
+  "n": 18840,
+  "it": "Bisogna usare maggiore prudenza nei confronti delle donne in stato di gravidanza che attraversano la strada",
+  "answer": true,
+  "en": "You must use extra caution with pregnant women who are crossing the road.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "means extra caution, not just normal care"
+   }
+  ],
+  "trick": "The key point is obligation to use extra caution.",
+  "image": ""
+ },
+ {
+  "n": 18841,
+  "it": "Bisogna usare maggiore prudenza nei confronti dei pedoni che spingono una carrozzina per bambini",
+  "answer": true,
+  "en": "You must use extra caution with pedestrians pushing a baby stroller.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "maggiore prudenza",
+    "why": "means extra caution, not just normal care"
+   }
+  ],
+  "trick": "The sentence requires extra caution, not merely suggests it.",
+  "image": ""
+ },
+ {
+  "n": 18842,
+  "it": "Quando si parcheggia un veicolo è vietato ostruire eventuali scivoli del marciapiede per non impedire il passaggio di pedoni che spingono una carrozzina per bambini",
+  "answer": true,
+  "en": "When parking a vehicle, it is forbidden to block any dropped kerbs on the pavement, so as not to obstruct pedestrians pushing a baby stroller.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "non impedire",
+    "why": "contains negation of obstructing"
+   }
+  ],
+  "trick": "The rule is a prohibition against blocking kerb ramps and obstructing passage.",
+  "image": ""
+ },
+ {
+  "n": 18843,
+  "it": "Quando una donna in stato di gravidanza attraversa la carreggiata non bisogna avvicinarsi troppo con il veicolo, per evitare di spaventarla",
+  "answer": true,
+  "en": "When a pregnant woman is crossing the carriageway, you must not come too close with the vehicle, so as not to frighten her.",
+  "keywords": [
+   {
+    "phrase": "non bisogna",
+    "why": "expresses obligation not to do something"
+   },
+   {
+    "phrase": "troppo",
+    "why": "limits how close is forbidden"
+   },
+   {
+    "phrase": "per evitare di",
+    "why": "shows preventive purpose"
+   }
+  ],
+  "trick": "The main trap is the negative obligation: do not approach too closely.",
+  "image": ""
+ },
+ {
+  "n": 18844,
+  "it": "Quando una donna in stato di gravidanza attraversa la carreggiata bisogna tenere presente che ha il passo più rapido e quindi attraversa velocemente",
+  "answer": false,
+  "en": "When a pregnant woman is crossing the carriageway, you must bear in mind that she walks faster and therefore crosses quickly.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quindi",
+    "why": "marks a conclusion from the previous claim"
+   }
+  ],
+  "trick": "The statement claims, incorrectly, that pregnancy means quicker crossing.",
+  "image": ""
+ },
+ {
+  "n": 18845,
+  "it": "Quando un pedone che spinge una carrozzina per bambini attraversa la carreggiata bisogna tenere presente che, di solito, attraversa rapidamente",
+  "answer": false,
+  "en": "When a pedestrian pushing a baby stroller is crossing the carriageway, you must bear in mind that, usually, they cross quickly.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di solito",
+    "why": "limits the claim to what usually happens, not always"
+   }
+  ],
+  "trick": "The trap is di solito, which softens the claim but does not make it true.",
+  "image": ""
+ },
+ {
+  "n": 18846,
+  "it": "E' consentito posteggiare un veicolo davanti agli scivoli del marciapiede solo dalle ore 22.00 alle ore 8.00",
+  "answer": false,
+  "en": "It is permitted to park a vehicle in front of dropped kerbs on the pavement only from 10:00 p.m. to 8:00 a.m.",
+  "keywords": [
+   {
+    "phrase": "È consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the permission to one case"
+   }
+  ],
+  "trick": "The sentence falsely gives a limited permission by using consentito and solo.",
+  "image": ""
+ },
+ {
+  "n": 18847,
+  "it": "Quando una donna in stato di gravidanza attraversa la carreggiata bisogna darle la precedenza solo se attraversa da sinistra a destra",
+  "answer": false,
+  "en": "When a pregnant woman is crossing the carriageway, you must give her priority only if she is crossing from left to right.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to one condition"
+   }
+  ],
+  "trick": "The trap is solo se, which wrongly limits when priority must be given.",
+  "image": ""
+ },
+ {
+  "n": 18848,
+  "it": "Quando un pedone che spinge la carrozzina per bambini attraversa la carreggiata bisogna dargli la precedenza solo se attraversa da sinistra a destra",
+  "answer": false,
+  "en": "When a pedestrian pushing a baby stroller is crossing the carriageway, you must give them priority only if they are crossing from left to right.",
+  "keywords": [
+   {
+    "phrase": "Bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to one condition"
+   }
+  ],
+  "trick": "The statement is made false by the restrictive phrase solo se.",
+  "image": ""
+ },
+ {
+  "n": 18849,
+  "it": "E' consentito lasciare il veicolo in sosta sul marciapiede senza lasciare spazio ai pedoni che spingono una carrozzina per bambini",
+  "answer": false,
+  "en": "It is permitted to leave the vehicle parked on the pavement without leaving space for pedestrians pushing a baby stroller.",
+  "keywords": [
+   {
+    "phrase": "È consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza",
+    "why": "introduces absence of a required condition"
+   }
+  ],
+  "trick": "The trap is the false permission to park without leaving space.",
+  "image": ""
+ },
+ {
+  "n": 20719,
+  "it": "Le strisce lungo il centro della carreggiata possono essere superate se discontinue (tratteggiate)",
+  "answer": true,
+  "en": "The lines along the centre of the carriageway may be crossed if they are broken (dashed).",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission/possibility"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "discontinue",
+    "why": "restricts the rule to broken lines only"
+   }
+  ],
+  "trick": "Crossing is allowed only under the condition that the lines are broken.",
+  "image": "images/q_20719.png"
+ },
+ {
+  "n": 20720,
+  "it": "Le strisce lungo il centro della carreggiata non possono essere superate se continue",
+  "answer": true,
+  "en": "The lines along the centre of the carriageway must not be crossed if they are continuous.",
+  "keywords": [
+   {
+    "phrase": "non possono",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   },
+   {
+    "phrase": "continue",
+    "why": "restricts the rule to continuous lines"
+   }
+  ],
+  "trick": "The key trap is non possono, which means crossing is prohibited.",
+  "image": "images/q_20720.png"
+ },
+ {
+  "n": 20721,
+  "it": "La striscia di mezzo in figura consente il sorpasso senza superarla, purché non vi siano motivi che lo vietino",
+  "answer": true,
+  "en": "The centre line shown in the figure allows overtaking without crossing it, provided there are no reasons forbidding it.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza superarla",
+    "why": "limits the permission to not crossing the line"
+   },
+   {
+    "phrase": "purché non vi siano",
+    "why": "sets a condition with negation"
+   }
+  ],
+  "trick": "Overtaking is allowed only if you do not cross the line and no other prohibition applies.",
+  "image": "images/q_20721.png"
+ },
+ {
+  "n": 20722,
+  "it": "La doppia striscia in figura non può essere superata, ma si può circolare stando a cavallo di essa",
+  "answer": false,
+  "en": "The double line shown in the figure must not be crossed, but you may drive straddling it.",
+  "keywords": [
+   {
+    "phrase": "non può",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "ma",
+    "why": "introduces a contrasting second claim"
+   },
+   {
+    "phrase": "si può",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is the contrast between prohibited crossing and supposed permitted straddling.",
+  "image": "images/q_20722.png"
+ },
+ {
+  "n": 20723,
+  "it": "Le strisce lungo il centro della carreggiata possono essere bianche o azzurre",
+  "answer": false,
+  "en": "The lines along the centre of the carriageway may be white or blue.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses possibility/permission"
+   },
+   {
+    "phrase": "o",
+    "why": "offers alternatives that may mislead"
+   }
+  ],
+  "trick": "The statement uses possono to suggest both colour options are allowed.",
+  "image": ""
+ },
+ {
+  "n": 20724,
+  "it": "La striscia discontinua in figura può essere sostituita con alcuni \"chiodi\" o catadiottri, messi a distanza di 50 centimetri",
+  "answer": false,
+  "en": "The broken line shown in the figure may be replaced by some road studs or reflectors, placed 50 centimetres apart.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility/permission"
+   }
+  ],
+  "trick": "The main trap is the claimed possibility of replacement.",
+  "image": ""
+ },
+ {
+  "n": 20725,
+  "it": "La striscia di mezzo in figura non consente il sorpasso in ogni caso",
+  "answer": false,
+  "en": "The centre line shown in the figure does not allow overtaking in any case.",
+  "keywords": [
+   {
+    "phrase": "non consente",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in ogni caso",
+    "why": "means without any exception"
+   }
+  ],
+  "trick": "In ogni caso makes the prohibition absolute, which is the trap.",
+  "image": ""
+ },
+ {
+  "n": 20842,
+  "it": "E' regolamentare, nelle zone destinate alla fermata degli autobus in servizio pubblico di linea, trovare sulla pavimentazione la scritta BUS di colore giallo",
+  "answer": true,
+  "en": "It is standard, in areas designated for stopping by public service buses on regular routes, to find the word BUS painted on the road surface in yellow.",
+  "keywords": [
+   {
+    "phrase": "È regolamentare",
+    "why": "means officially compliant with the rules"
+   },
+   {
+    "phrase": "destinate alla fermata",
+    "why": "specifies stopping areas, not general parking"
+   }
+  ],
+  "trick": "The key point is that this road marking is officially prescribed for bus stopping areas.",
+  "image": ""
+ },
+ {
+  "n": 20843,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta TAXI di colore giallo, per indicare zone riservate alla sosta dei taxi in servizio",
+  "answer": true,
+  "en": "It is standard to find the word TAXI painted on the road surface in yellow, to indicate areas reserved for taxi parking while in service.",
+  "keywords": [
+   {
+    "phrase": "È regolamentare",
+    "why": "means officially compliant with the rules"
+   },
+   {
+    "phrase": "riservate",
+    "why": "means reserved exclusively for that use"
+   },
+   {
+    "phrase": "in servizio",
+    "why": "limits the rule to taxis on duty"
+   }
+  ],
+  "trick": "The marking is official and applies to reserved taxi areas for taxis in service.",
+  "image": ""
+ },
+ {
+  "n": 20844,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta STOP, a completamento del relativo segnale verticale",
+  "answer": true,
+  "en": "It is standard to find the word STOP painted on the road surface, as a supplement to the corresponding vertical sign.",
+  "keywords": [
+   {
+    "phrase": "È regolamentare",
+    "why": "means officially compliant with the rules"
+   },
+   {
+    "phrase": "a completamento",
+    "why": "means as a supplement, not as a replacement"
+   }
+  ],
+  "trick": "The trap is that the road marking supplements the vertical sign rather than replacing it.",
+  "image": ""
+ },
+ {
+  "n": 20845,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta P L, con croce di S. Andrea, per segnalare un passaggio a livello",
+  "answer": true,
+  "en": "It is compliant to find the letters P L painted on the road surface, with St. Andrew's cross, to indicate a level crossing.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   }
+  ],
+  "trick": "The trap is 'E' regolamentare', which states that this marking is officially allowed.",
+  "image": ""
+ },
+ {
+  "n": 20846,
+  "it": "Quando si incontrano le strisce di figura dipinte sulla pavimentazione occorre moderare la velocità",
+  "answer": true,
+  "en": "When you come across the stripes shown in the figure painted on the road surface, you must reduce speed.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "moderare la velocità",
+    "why": "means reduce speed, not just be careful"
+   }
+  ],
+  "trick": "The key trap is 'occorre', which makes slowing down mandatory.",
+  "image": ""
+ },
+ {
+  "n": 20847,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta indicante il nome di una località, a completamento della freccia direzionale",
+  "answer": true,
+  "en": "It is compliant to find on the road surface a marking showing the name of a place, as a complement to the directional arrow.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   }
+  ],
+  "trick": "The trap is 'E' regolamentare', which says this road marking is officially allowed.",
+  "image": ""
+ },
+ {
+  "n": 20848,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta STOP, per completare il segnale verticale di DARE PRECEDENZA",
+  "answer": false,
+  "en": "It is compliant to find the word STOP painted on the road surface, to complement the vertical GIVE WAY sign.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   },
+   {
+    "phrase": "DARE PRECEDENZA",
+    "why": "means GIVE WAY, not STOP"
+   }
+  ],
+  "trick": "The key trap is the mismatch between 'STOP' and 'DARE PRECEDENZA', which are different signs.",
+  "image": ""
+ },
+ {
+  "n": 20849,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta indicante una prossima stazione di servizio",
+  "answer": false,
+  "en": "It is compliant to find on the road surface a marking indicating an upcoming service station.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   },
+   {
+    "phrase": "prossima",
+    "why": "limits the meaning to upcoming, not current"
+   }
+  ],
+  "trick": "The trap is 'prossima', which refers to a service station ahead.",
+  "image": ""
+ },
+ {
+  "n": 20850,
+  "it": "E' regolamentare trovare sulla pavimentazione una scritta pubblicitaria che indica un distributore di carburante",
+  "answer": false,
+  "en": "It is compliant to find on the road surface an advertising marking indicating a fuel station.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   }
+  ],
+  "trick": "The trap is 'E' regolamentare', which asks whether such advertising is officially allowed.",
+  "image": ""
+ },
+ {
+  "n": 20851,
+  "it": "E' regolamentare trovare sulla pavimentazione una scritta di incoraggiamento per i corridori ciclisti",
+  "answer": false,
+  "en": "It is compliant to find on the road surface an encouraging message for cycle racers.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   }
+  ],
+  "trick": "The trap is 'E' regolamentare', which asks about legal compliance, not possibility.",
+  "image": ""
+ },
+ {
+  "n": 20852,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta TAXI, di colore bianco, nei parcheggi per taxi",
+  "answer": false,
+  "en": "It is compliant to find the word TAXI painted in white on the road surface in taxi parking areas.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   },
+   {
+    "phrase": "di colore bianco",
+    "why": "the colour detail can change the truth of the statement"
+   }
+  ],
+  "trick": "The trap is 'di colore bianco', because the colour specification matters.",
+  "image": ""
+ },
+ {
+  "n": 20853,
+  "it": "E' regolamentare trovare sulla pavimentazione la scritta GIOCHI, in vicinanza di giardini pubblici",
+  "answer": false,
+  "en": "It is compliant to find the word GAMES painted on the road surface near public gardens.",
+  "keywords": [
+   {
+    "phrase": "E' regolamentare",
+    "why": "means officially permitted/compliant, not merely common"
+   },
+   {
+    "phrase": "in vicinanza di",
+    "why": "means near/in the vicinity of, limiting the location"
+   }
+  ],
+  "trick": "The trap is 'in vicinanza di', which restricts the statement to that location.",
+  "image": ""
+ },
+ {
+  "n": 20889,
+  "it": "In una carreggiata a doppio senso di circolazione la striscia di mezzo può essere continua o discontinua (tratteggiata)",
+  "answer": true,
+  "en": "On a carriageway with two-way traffic, the centre line may be continuous or broken (dashed).",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "means traffic in both directions"
+   }
+  ],
+  "trick": "The key trap is 'può essere', which means either type of centre line is possible.",
+  "image": "images/q_20889.png"
+ },
+ {
+  "n": 20890,
+  "it": "In una carreggiata a doppio senso di circolazione la striscia di mezzo, se discontinua (tratteggiata), può essere superata durante un sorpasso",
+  "answer": true,
+  "en": "On a carriageway with two-way traffic, the centre line, if broken (dashed), may be crossed during overtaking.",
+  "keywords": [
+   {
+    "phrase": "se discontinua",
+    "why": "sets a condition for when the rule applies"
+   },
+   {
+    "phrase": "può essere superata",
+    "why": "expresses permission under that condition"
+   }
+  ],
+  "trick": "The rule applies only 'se discontinua', and then crossing it is allowed.",
+  "image": "images/q_20890.png"
+ },
+ {
+  "n": 20891,
+  "it": "In una carreggiata a doppio senso di circolazione la linea di mezzo può essere costituita da due strisce continue affiancate, come in figura",
+  "answer": true,
+  "en": "On a carriageway with two-way traffic, the centre line may consist of two continuous lines side by side, as shown in the figure.",
+  "keywords": [
+   {
+    "phrase": "può essere costituita",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The trap is 'può essere costituita', meaning this road marking configuration is possible.",
+  "image": "images/q_20891.png"
+ },
+ {
+  "n": 20892,
+  "it": "In una carreggiata a doppio senso di circolazione la linea di mezzo se costituita da strisce continue, come in figura, consente il sorpasso senza superare le linee",
+  "answer": true,
+  "en": "On a carriageway with two-way traffic, the centre line, if made up of continuous lines, as shown in the figure, allows overtaking without crossing the lines.",
+  "keywords": [
+   {
+    "phrase": "se costituita da strisce continue",
+    "why": "sets the specific condition for the rule"
+   },
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "senza",
+    "why": "adds an important negative condition"
+   }
+  ],
+  "trick": "The key traps are 'consente' and 'senza', meaning overtaking is allowed only without crossing the lines.",
+  "image": "images/q_20892.png"
+ },
+ {
+  "n": 20893,
+  "it": "Nella carreggiata a doppio senso di circolazione le strisce di mezzo in figura dividono i sensi di marcia",
+  "answer": true,
+  "en": "On a carriageway with two-way traffic, the centre lines shown in the figure separate the directions of travel.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "means traffic in both directions"
+   }
+  ],
+  "trick": "The main trap is 'a doppio senso di circolazione', which frames the meaning as opposite traffic directions.",
+  "image": "images/q_20893.png"
+ },
+ {
+  "n": 20894,
+  "it": "Nella carreggiata a doppio senso di circolazione la striscia di mezzo in figura, può essere superata con le sole ruote di sinistra",
+  "answer": false,
+  "en": "On a carriageway with two-way traffic, the centre line shown in the figure may be crossed with only the left wheels.",
+  "keywords": [
+   {
+    "phrase": "può essere superata",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "con le sole ruote di sinistra",
+    "why": "restricts it to only the left wheels"
+   }
+  ],
+  "trick": "The trap is 'sole', which limits the action to only the left wheels.",
+  "image": ""
+ },
+ {
+  "n": 20895,
+  "it": "Nella carreggiata a doppio senso di circolazione come in figura la striscia di mezzo divide la strada in due carreggiate, ognuna a due corsie",
+  "answer": false,
+  "en": "On a two-way carriageway, as shown in the figure, the centre line divides the road into two carriageways, each with two lanes.",
+  "keywords": [
+   {
+    "phrase": "ognuna a due corsie",
+    "why": "adds a specific lane count that can change the truth"
+   },
+   {
+    "phrase": "divide la strada in due carreggiate",
+    "why": "means splits into two separate carriageways, not just two directions"
+   }
+  ],
+  "trick": "The key trap is the very specific claim about 'due carreggiate' and 'ognuna a due corsie'.",
+  "image": ""
+ },
+ {
+  "n": 20921,
+  "it": "L'iscrizione in figura indica la velocità consigliata",
+  "answer": true,
+  "en": "The road marking shown in the figure indicates the recommended speed.",
+  "keywords": [],
+  "trick": "There is no major trap word here; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 20922,
+  "it": "Il dispositivo in figura è un dosso artificiale",
+  "answer": true,
+  "en": "The device shown in the figure is an artificial hump.",
+  "keywords": [],
+  "trick": "There is no major trap word here; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 20923,
+  "it": "L'elemento in figura è un rallentatore di velocità installato sulla strada",
+  "answer": true,
+  "en": "The element shown in the figure is a speed-reducing device installed on the road.",
+  "keywords": [],
+  "trick": "There is no major trap word here; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 20924,
+  "it": "L'elemento in figura rappresenta un rallentatore di velocità",
+  "answer": true,
+  "en": "The element shown in the figure is a speed reducer.",
+  "keywords": [],
+  "trick": "There is no major trap word here; the statement is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 20925,
+  "it": "Le strisce di delimitazione gialle in figura individuano un'area di parcheggio riservata a persone invalide",
+  "answer": true,
+  "en": "The yellow boundary lines shown indicate a parking area reserved for disabled people.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "shows the area is reserved, not general parking"
+   }
+  ],
+  "trick": "“Riservata” limits the parking area to a specific category only.",
+  "image": ""
+ },
+ {
+  "n": 20926,
+  "it": "Le strisce gialle diagonali in figura devono essere lasciate libere per consentire l'entrata e l'uscita dal veicolo delle persone invalide",
+  "answer": true,
+  "en": "The yellow diagonal lines shown must be kept clear to allow disabled people to get into and out of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "devono essere lasciate libere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per consentire",
+    "why": "shows purpose: to allow access"
+   }
+  ],
+  "trick": "The sentence imposes a duty to keep the area clear for a specific purpose.",
+  "image": ""
+ },
+ {
+  "n": 20927,
+  "it": "In presenza dell'iscrizione in figura non è consentito il transito di veicoli con massa a pieno carico superiore a 50 quintali",
+  "answer": false,
+  "en": "In the presence of the inscription shown, the transit of vehicles with a fully loaded mass exceeding 50 quintals is not permitted.",
+  "keywords": [
+   {
+    "phrase": "In presenza di",
+    "why": "restricts the rule to this sign being present"
+   },
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "superiore a",
+    "why": "sets a strict threshold: above, not equal to"
+   }
+  ],
+  "trick": "The key traps are the prohibition and the weight limit applying only above the stated value.",
+  "image": "images/q_20927.png"
+ },
+ {
+  "n": 20928,
+  "it": "L'elemento in figura è posto su un tratto di strada su cui è vietata la sosta",
+  "answer": false,
+  "en": "The element shown is placed on a stretch of road where stopping is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietata la sosta",
+    "why": "expresses prohibition of parking/stopping over time"
+   }
+  ],
+  "trick": "The trap is the prohibition phrase indicating that parking is forbidden.",
+  "image": "images/q_20928.png"
+ },
+ {
+  "n": 20929,
+  "it": "L'elemento in figura individua un attraversamento ciclabile",
+  "answer": false,
+  "en": "The element shown indicates a cycle crossing.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the challenge is identifying the road marking.",
+  "image": "images/q_20929.png"
+ },
+ {
+  "n": 20930,
+  "it": "L'elemento in figura individua un attraversamento pedonale",
+  "answer": false,
+  "en": "The element shown indicates a pedestrian crossing.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the challenge is identifying the road marking.",
+  "image": ""
+ },
+ {
+  "n": 20931,
+  "it": "Le strisce gialle in figura delimitano un'area di parcheggio riservata ai taxi",
+  "answer": false,
+  "en": "The yellow lines shown mark out a parking area reserved for taxis.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "shows the area is reserved, not open to all vehicles"
+   }
+  ],
+  "trick": "“Riservata” restricts the area to taxis only.",
+  "image": ""
+ },
+ {
+  "n": 20932,
+  "it": "Le strisce gialle in figura delimitano un'area riservata al carico e allo scarico di merci",
+  "answer": false,
+  "en": "The yellow lines shown mark out an area reserved for loading and unloading goods.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "limits the area to a specific use only"
+   }
+  ],
+  "trick": "The key trap is that the area is reserved for a particular purpose.",
+  "image": ""
+ },
+ {
+  "n": 20933,
+  "it": "La striscia bianca laterale discontinua in figura separa la carreggiata da una piazzola di sosta",
+  "answer": true,
+  "en": "The broken white edge line shown separates the carriageway from a lay-by.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it is mainly a vocabulary identification question.",
+  "image": ""
+ },
+ {
+  "n": 20934,
+  "it": "La striscia bianca laterale discontinua in figura separa la carreggiata da un passo carrabile",
+  "answer": true,
+  "en": "The broken white edge line shown separates the carriageway from a driveway entrance.",
+  "keywords": [],
+  "trick": "There are no real trap words here; it mainly tests the meaning of the road feature.",
+  "image": ""
+ },
+ {
+  "n": 20935,
+  "it": "Le strisce bianche discontinue sull'intersezione in figura sono strisce di guida",
+  "answer": true,
+  "en": "The broken white lines at the intersection shown are guide lines.",
+  "keywords": [],
+  "trick": "There are no genuine trap words; the issue is recognizing the marking type.",
+  "image": ""
+ },
+ {
+  "n": 20936,
+  "it": "La striscia bianca laterale discontinua in figura divide la carreggiata da una corsia di accelerazione",
+  "answer": true,
+  "en": "The broken white edge line shown separates the carriageway from an acceleration lane.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the sentence is straightforward.",
+  "image": ""
+ },
+ {
+  "n": 20937,
+  "it": "La striscia bianca laterale discontinua in figura individua il bordo della strada principale, separandolo da quello della strada secondaria",
+  "answer": true,
+  "en": "The broken white edge line shown marks the edge of the main road, separating it from that of the secondary road.",
+  "keywords": [],
+  "trick": "There are no strong trap words here; the sentence mainly describes a road layout.",
+  "image": ""
+ },
+ {
+  "n": 20938,
+  "it": "La striscia bianca laterale discontinua in figura può essere superata solo in caso di emergenza",
+  "answer": false,
+  "en": "The broken white edge line shown may be crossed only in an emergency.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "in caso di emergenza",
+    "why": "states a narrow exception"
+   }
+  ],
+  "trick": "Permission is limited by “solo” to the single exception of an emergency.",
+  "image": ""
+ },
+ {
+  "n": 20939,
+  "it": "La striscia bianca laterale discontinua in figura significa che la sosta non è possibile",
+  "answer": false,
+  "en": "The broken white edge line shown means that parking is not possible.",
+  "keywords": [
+   {
+    "phrase": "non è possibile",
+    "why": "negates possibility"
+   }
+  ],
+  "trick": "The trap is the negation, which says parking is not possible.",
+  "image": ""
+ },
+ {
+  "n": 20940,
+  "it": "La striscia bianca laterale discontinua separa la carreggiata dalla corsia di emergenza",
+  "answer": false,
+  "en": "The broken white edge line separates the carriageway from the emergency lane.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the sentence is direct.",
+  "image": ""
+ },
+ {
+  "n": 20941,
+  "it": "La striscia bianca laterale discontinua segnala l'inizio di una banchina",
+  "answer": false,
+  "en": "The broken white edge line indicates the beginning of a shoulder.",
+  "keywords": [],
+  "trick": "There are no genuine trap words here; it is mainly about identifying the feature.",
+  "image": ""
+ },
+ {
+  "n": 20942,
+  "it": "Le strisce bianche di guida in figura non consentono la svolta",
+  "answer": false,
+  "en": "The white guide lines shown do not allow turning.",
+  "keywords": [
+   {
+    "phrase": "non consentono",
+    "why": "expresses prohibition by negating permission"
+   }
+  ],
+  "trick": "The key trap is the negation of permission, meaning turning is not allowed.",
+  "image": "images/q_20942.png"
+ },
+ {
+  "n": 20943,
+  "it": "La striscia bianca laterale discontinua in figura delimita l'accesso ad una pista ciclabile",
+  "answer": false,
+  "en": "The broken white edge line shown marks the access to a cycle path.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the sentence is straightforward.",
+  "image": "images/q_20943.png"
+ },
+ {
+  "n": 20944,
+  "it": "La striscia bianca laterale discontinua in figura, delimita una piazzola di sosta",
+  "answer": false,
+  "en": "The broken white edge line shown marks out a lay-by.",
+  "keywords": [],
+  "trick": "There are no real trap words here; the sentence mainly tests recognition of the marking.",
+  "image": "images/q_20944.png"
+ },
+ {
+  "n": 21009,
+  "it": "È possibile trovare la luce gialla lampeggiante quando le altre sono spente",
+  "answer": true,
+  "en": "It is possible to find a flashing yellow light when the other lights are off.",
+  "keywords": [
+   {
+    "phrase": "È possibile",
+    "why": "expresses possibility, not certainty or obligation"
+   },
+   {
+    "phrase": "quando le altre sono spente",
+    "why": "sets the condition that the other lights are off"
+   }
+  ],
+  "trick": "The key traps are the idea of possibility and the condition that the other lights are off.",
+  "image": "images/q_21009.png"
+ },
+ {
+  "n": 21010,
+  "it": "La luce circolare gialla lampeggiante (tipo A di figura) è un segnale di pericolo generico",
+  "answer": true,
+  "en": "The flashing circular yellow light (type A in the figure) is a general danger signal.",
+  "keywords": [],
+  "trick": "There are no major trap words; the sentence states a definition directly.",
+  "image": "images/q_21010.png"
+ },
+ {
+  "n": 21011,
+  "it": "La luce circolare gialla lampeggiante (tipo A di figura) invita a moderare la velocità",
+  "answer": true,
+  "en": "The flashing circular yellow light (type A in the figure) tells drivers to slow down.",
+  "keywords": [
+   {
+    "phrase": "invita a",
+    "why": "means advises/urges, not strictly commands"
+   }
+  ],
+  "trick": "The main trap is that invita a expresses a recommendation rather than a strict order.",
+  "image": "images/q_21011.png"
+ },
+ {
+  "n": 21012,
+  "it": "La luce circolare gialla lampeggiante (tipo A di figura) invita a procedere con particolare prudenza",
+  "answer": true,
+  "en": "The flashing circular yellow light (type A in the figure) tells drivers to proceed with particular caution.",
+  "keywords": [
+   {
+    "phrase": "invita a",
+    "why": "means advises/urges, not strictly commands"
+   }
+  ],
+  "trick": "The main trap is that invita a expresses a recommendation rather than a strict order.",
+  "image": "images/q_21012.png"
+ },
+ {
+  "n": 21013,
+  "it": "Nel semaforo la luce gialla lampeggiante impone l'arresto sempre prima dell'incrocio",
+  "answer": false,
+  "en": "In traffic lights, the flashing yellow light requires stopping always before the junction.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute in every case"
+   },
+   {
+    "phrase": "prima dell'incrocio",
+    "why": "specifies the stopping point before the junction"
+   }
+  ],
+  "trick": "The traps are the strong obligation and the absolute word sempre, which makes the claim too broad.",
+  "image": ""
+ },
+ {
+  "n": 21014,
+  "it": "La luce circolare gialla lampeggiante (tipo A di figura) può essere posta prima di un ponte mobile",
+  "answer": false,
+  "en": "The flashing circular yellow light (type A in the figure) may be placed before a movable bridge.",
+  "keywords": [
+   {
+    "phrase": "può essere posta",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The trap is può essere posta, which states that this placement is possible.",
+  "image": ""
+ },
+ {
+  "n": 21015,
+  "it": "La luce circolare gialla lampeggiante (tipo A di figura) può essere posta prima di un pontile d'imbarco di navi traghetto",
+  "answer": false,
+  "en": "The flashing circular yellow light (type A in the figure) may be placed before a ferry boarding pier.",
+  "keywords": [
+   {
+    "phrase": "può essere posta",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The trap is può essere posta, which states that this placement is possible.",
+  "image": ""
+ },
+ {
+  "n": 21016,
+  "it": "La luce gialla lampeggiante insieme a quella rossa in figura indica pericolo",
+  "answer": false,
+  "en": "The flashing yellow light together with the red one in the figure indicates danger.",
+  "keywords": [
+   {
+    "phrase": "insieme a",
+    "why": "changes the meaning by combining two lights"
+   }
+  ],
+  "trick": "The key trap is insieme a, because the meaning depends on the lights being shown together.",
+  "image": "images/q_21016.png"
+ },
+ {
+  "n": 21194,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico significa che tutti i veicoli si devono arrestare, in condizioni di sicurezza",
+  "answer": true,
+  "en": "A prolonged whistle blown by the traffic officer means that all vehicles must stop, in safe conditions.",
+  "keywords": [
+   {
+    "phrase": "tutti i veicoli",
+    "why": "applies the rule to all vehicles without exception"
+   },
+   {
+    "phrase": "si devono arrestare",
+    "why": "expresses obligation to stop"
+   },
+   {
+    "phrase": "in condizioni di sicurezza",
+    "why": "limits the action to what is safe"
+   }
+  ],
+  "trick": "The traps are the universal rule for all vehicles, the obligation to stop, and the safety condition.",
+  "image": ""
+ },
+ {
+  "n": 21195,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico serve per consentire il passaggio di veicoli di soccorso in servizio di emergenza",
+  "answer": true,
+  "en": "A prolonged whistle blown by the traffic officer is used to allow emergency vehicles on an emergency call to pass.",
+  "keywords": [
+   {
+    "phrase": "serve per consentire",
+    "why": "shows purpose: it is used to allow something"
+   },
+   {
+    "phrase": "in servizio di emergenza",
+    "why": "restricts it to vehicles actually on emergency duty"
+   }
+  ],
+  "trick": "The traps are the purpose phrase and the restriction to vehicles in emergency service.",
+  "image": ""
+ },
+ {
+  "n": 21196,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico impone a chi ha impegnato l'incrocio di liberarlo ed eventualmente di arrestarsi subito dopo",
+  "answer": true,
+  "en": "A prolonged whistle blown by the traffic officer requires anyone who has entered the junction to clear it and, if necessary, to stop immediately afterwards.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "ha impegnato l'incrocio",
+    "why": "refers specifically to those already in the junction"
+   },
+   {
+    "phrase": "eventualmente",
+    "why": "means if necessary/possibly, not always"
+   }
+  ],
+  "trick": "The key traps are the obligation, the fact it applies to those already in the junction, and the optional nature of stopping afterwards.",
+  "image": ""
+ },
+ {
+  "n": 21197,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico indica che occorre arrestarsi, se non si è ancora occupato l'incrocio",
+  "answer": true,
+  "en": "A prolonged whistle blown by the traffic officer indicates that one must stop if one has not yet entered the junction.",
+  "keywords": [
+   {
+    "phrase": "occorre arrestarsi",
+    "why": "expresses necessity to stop"
+   },
+   {
+    "phrase": "se non si è ancora occupato l'incrocio",
+    "why": "sets the condition that the junction has not yet been entered"
+   }
+  ],
+  "trick": "The traps are the necessity to stop and the condition that this applies only if you have not yet entered the junction.",
+  "image": ""
+ },
+ {
+  "n": 21198,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico indica che occorre tornare indietro",
+  "answer": false,
+  "en": "A prolonged whistle blown by the traffic officer indicates that one must turn back.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or obligation"
+   }
+  ],
+  "trick": "The trap is occorre, which makes the statement sound like a required action.",
+  "image": ""
+ },
+ {
+  "n": 21199,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico serve per arrestare o deviare solo i veicoli che arrivano dalla sua destra",
+  "answer": false,
+  "en": "A prolonged whistle blown by the traffic officer is used to stop or divert only the vehicles coming from his right.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only that group"
+   }
+  ],
+  "trick": "The key trap is solo, which wrongly limits the action to vehicles from the officer's right.",
+  "image": ""
+ },
+ {
+  "n": 21200,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico significa che i veicoli fermi devono mettersi in marcia",
+  "answer": false,
+  "en": "A prolonged whistle blown by the traffic officer means that stationary vehicles must set off.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "The trap is devono, which makes the sentence a compulsory instruction.",
+  "image": ""
+ },
+ {
+  "n": 21201,
+  "it": "Il suono prolungato del fischietto da parte dell'agente preposto al traffico impone ai soli veicoli pesanti di arrestarsi",
+  "answer": false,
+  "en": "A prolonged whistle blown by the traffic officer requires only heavy vehicles to stop.",
+  "keywords": [
+   {
+    "phrase": "impone",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "ai soli veicoli pesanti",
+    "why": "restricts the rule to only heavy vehicles"
+   }
+  ],
+  "trick": "The traps are the obligation and the limiting phrase ai soli veicoli pesanti.",
+  "image": ""
+ },
+ {
+  "n": 21202,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è necessario fermarsi sulla linea d'arresto",
+  "answer": true,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, it is necessary to stop at the stop line.",
+  "keywords": [
+   {
+    "phrase": "ancora alzata",
+    "why": "shows the barrier is still up, which can mislead learners"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses obligation to act"
+   },
+   {
+    "phrase": "fermarsi",
+    "why": "requires stopping, not just slowing down"
+   }
+  ],
+  "trick": "The traps are that the barrier is still raised, but stopping is still mandatory.",
+  "image": ""
+ },
+ {
+  "n": 21203,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, non si deve accelerare per attraversare prima che si abbassi la semibarriera",
+  "answer": true,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, you must not accelerate to cross before the half-barrier comes down.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "negates the obligation and creates a prohibition"
+   },
+   {
+    "phrase": "prima che si abbassi",
+    "why": "sets the time condition before the barrier lowers"
+   },
+   {
+    "phrase": "ancora alzata",
+    "why": "shows the barrier is still up, which can mislead learners"
+   }
+  ],
+  "trick": "The traps are the prohibition non si deve and the misleading fact that the barrier is still raised.",
+  "image": ""
+ },
+ {
+  "n": 21204,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, si può passare velocemente, se non si vede sopraggiungere il treno",
+  "answer": false,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, you may pass quickly if no train can be seen approaching.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "se non si vede sopraggiungere il treno",
+    "why": "adds a condition that can wrongly suggest an exception"
+   },
+   {
+    "phrase": "ancora alzata",
+    "why": "shows the barrier is still up, which can mislead learners"
+   }
+  ],
+  "trick": "The traps are the apparent permission and the misleading condition about not seeing a train.",
+  "image": ""
+ },
+ {
+  "n": 21205,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, bisogna accelerare per liberare rapidamente l'attraversamento",
+  "answer": false,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, you must accelerate to clear the crossing quickly.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per liberare rapidamente l'attraversamento",
+    "why": "states the supposed purpose of accelerating"
+   },
+   {
+    "phrase": "ancora alzata",
+    "why": "shows the barrier is still up, which can mislead learners"
+   }
+  ],
+  "trick": "The traps are the false obligation to accelerate and the misleading fact that the barrier is still raised.",
+  "image": ""
+ },
+ {
+  "n": 21206,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, bisogna fermarsi in corrispondenza del terzo pannello distanziometrico",
+  "answer": false,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, you must stop at the third distance marker panel.",
+  "keywords": [
+   {
+    "phrase": "bisogna fermarsi",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ancora alzata",
+    "why": "means still raised, not lowered yet"
+   }
+  ],
+  "trick": "The trap is the obligation \"must stop\" and the fact the barrier is still up, which may mislead you into thinking you can continue.",
+  "image": ""
+ },
+ {
+  "n": 21207,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare se la linea ferroviaria è ad un solo binario",
+  "answer": false,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, it is possible to cross if the railway line has only one track.",
+  "keywords": [
+   {
+    "phrase": "è possibile attraversare",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "ad un solo binario",
+    "why": "restricts the case to a single-track line"
+   }
+  ],
+  "trick": "The trap is the apparent permission to cross, limited to the case of only one track.",
+  "image": ""
+ },
+ {
+  "n": 21208,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare i binari se non si sente ancora il fischio del treno",
+  "answer": false,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, it is possible to cross the tracks if the train whistle cannot yet be heard.",
+  "keywords": [
+   {
+    "phrase": "è possibile attraversare",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non si sente ancora",
+    "why": "negates hearing and means not yet"
+   }
+  ],
+  "trick": "The trap is the false permission based on not yet hearing the train whistle.",
+  "image": ""
+ },
+ {
+  "n": 21209,
+  "it": "Avvicinandosi ad un passaggio a livello con luci rosse accese e semibarriera ancora alzata, è possibile attraversare i binari se non vi sono altri veicoli in attesa",
+  "answer": false,
+  "en": "When approaching a level crossing with red lights on and the half-barrier still raised, it is possible to cross the tracks if there are no other vehicles waiting.",
+  "keywords": [
+   {
+    "phrase": "è possibile attraversare",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "non vi sono",
+    "why": "negates the presence of vehicles"
+   }
+  ],
+  "trick": "The trap is the claimed permission to cross when no other vehicles are waiting.",
+  "image": ""
+ },
+ {
+  "n": 21210,
+  "it": "Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, la carta di circolazione",
+  "answer": true,
+  "en": "Anyone driving motor vehicles or motorcycles must show the vehicle registration document when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve esibire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is that showing the document is mandatory when requested by officers.",
+  "image": ""
+ },
+ {
+  "n": 21211,
+  "it": "Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, la patente di guida",
+  "answer": true,
+  "en": "Anyone driving motor vehicles or motorcycles must show their driving licence when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve esibire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is that showing the licence is mandatory when requested by officers.",
+  "image": ""
+ },
+ {
+  "n": 21212,
+  "it": "Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, il certificato di assicurazione del veicolo",
+  "answer": true,
+  "en": "Anyone driving motor vehicles or motorcycles must show the vehicle insurance certificate when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve esibire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is that showing the insurance certificate is mandatory when requested by officers.",
+  "image": ""
+ },
+ {
+  "n": 21213,
+  "it": "Chi guida autoveicoli deve esibire, a richiesta degli agenti, il segnale mobile di pericolo (triangolo)",
+  "answer": true,
+  "en": "Anyone driving motor vehicles must show the portable warning sign (triangle) when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve esibire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is that the warning triangle must be shown if officers ask for it.",
+  "image": ""
+ },
+ {
+  "n": 21214,
+  "it": "Chi guida autoveicoli o motocicli deve mostrare, a richiesta degli agenti, la valigetta di pronto soccorso",
+  "answer": false,
+  "en": "Anyone driving motor vehicles or motorcycles must show the first-aid kit when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve mostrare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to show the first-aid kit when requested.",
+  "image": ""
+ },
+ {
+  "n": 21215,
+  "it": "Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, il certificato di proprietà",
+  "answer": false,
+  "en": "Anyone driving motor vehicles or motorcycles must show the certificate of ownership when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve esibire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to show the ownership certificate when requested.",
+  "image": ""
+ },
+ {
+  "n": 21216,
+  "it": "Chi guida autoveicoli o motocicli deve esibire, a richiesta degli agenti, il codice fiscale",
+  "answer": false,
+  "en": "Anyone driving motor vehicles or motorcycles must show their tax code when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve esibire",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to show the tax code when requested.",
+  "image": "images/q_21216.png"
+ },
+ {
+  "n": 21217,
+  "it": "Chi guida autoveicoli o motocicli deve mostrare, a richiesta degli agenti, l'attestazione di pagamento della tassa di possesso (bollo)",
+  "answer": false,
+  "en": "Anyone driving motor vehicles or motorcycles must show proof of payment of the vehicle ownership tax (road tax) when requested by officers.",
+  "keywords": [
+   {
+    "phrase": "deve mostrare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "a richiesta degli agenti",
+    "why": "applies only when officers request it"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to show proof of road tax payment when requested.",
+  "image": "images/q_21217.png"
+ },
+ {
+  "n": 21218,
+  "it": "Gli addetti a servizi di polizia stradale vengono riconosciuti dall'uniforme (divisa)",
+  "answer": true,
+  "en": "Road police officers are recognised by their uniform.",
+  "keywords": [],
+  "trick": "There is no major language trap here beyond recognising that the sentence states how officers are identified.",
+  "image": "images/q_21218.png"
+ },
+ {
+  "n": 21219,
+  "it": "Gli addetti a servizi di polizia stradale vengono riconosciuti dalla 'paletta' bianca e rossa",
+  "answer": true,
+  "en": "Road police officers are recognised by the white-and-red paddle.",
+  "keywords": [],
+  "trick": "There is no major language trap here; the key point is the identifying white-and-red paddle.",
+  "image": "images/q_21219.png"
+ },
+ {
+  "n": 21220,
+  "it": "Gli addetti a servizi di polizia stradale vengono riconosciuti dal segnale distintivo",
+  "answer": true,
+  "en": "Road police officers are recognised by their distinctive sign.",
+  "keywords": [],
+  "trick": "There is no major language trap here; it simply states the identifying distinctive sign.",
+  "image": "images/q_21220.png"
+ },
+ {
+  "n": 21221,
+  "it": "Gli addetti a servizi di polizia stradale vengono riconosciuti dalla 'paletta' bianca e nera",
+  "answer": false,
+  "en": "Road police officers are recognised by the white-and-black paddle.",
+  "keywords": [],
+  "trick": "There is no major language trap here; the statement hinges on the paddle colours.",
+  "image": "images/q_21221.png"
+ },
+ {
+  "n": 21222,
+  "it": "Gli addetti a servizi di polizia stradale vengono riconosciuti dai guantoni e dalle strisce rifrangenti",
+  "answer": false,
+  "en": "Road police officers are recognised by their gloves and reflective stripes.",
+  "keywords": [],
+  "trick": "There is no major language trap here; it simply claims identification by gloves and reflective stripes.",
+  "image": ""
+ },
+ {
+  "n": 22007,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di pericolo, indica la distanza tra il segnale ed il punto d'inizio del pericolo",
+  "answer": true,
+  "en": "The supplementary panel shown, placed below a warning sign, indicates the distance between the sign and the point where the danger begins.",
+  "keywords": [
+   {
+    "phrase": "posto sotto",
+    "why": "specifies it applies when placed below the sign"
+   },
+   {
+    "phrase": "punto d'inizio del pericolo",
+    "why": "means the point where the danger starts"
+   }
+  ],
+  "trick": "The trap is that the panel indicates distance to the start of the danger only when placed below a warning sign.",
+  "image": ""
+ },
+ {
+  "n": 22008,
+  "it": "Il pannello integrativo raffigurato può essere posto sotto i segnali per completarne il significato",
+  "answer": true,
+  "en": "The supplementary panel shown may be placed below signs to complete their meaning.",
+  "keywords": [
+   {
+    "phrase": "può essere posto",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "per completarne il significato",
+    "why": "shows its function is to complete the sign's meaning"
+   }
+  ],
+  "trick": "The trap is that this says the panel may be used, not that it must be used.",
+  "image": ""
+ },
+ {
+  "n": 22009,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di indicazione, serve a precisare la distanza che manca per raggiungere il punto indicato dal segnale",
+  "answer": true,
+  "en": "The supplementary panel shown, placed below an information sign, is used to specify the remaining distance to reach the place indicated by the sign.",
+  "keywords": [
+   {
+    "phrase": "posto sotto",
+    "why": "specifies it applies when placed below the sign"
+   },
+   {
+    "phrase": "la distanza che manca",
+    "why": "means the remaining distance still to go"
+   }
+  ],
+  "trick": "The trap is that it refers to the remaining distance to the indicated place when the panel is under an information sign.",
+  "image": ""
+ },
+ {
+  "n": 22010,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di obbligo o divieto, indica la distanza dalla quale inizia la prescrizione",
+  "answer": true,
+  "en": "The supplementary plate shown, placed below a mandatory or prohibitory sign, indicates the distance from which the regulation begins.",
+  "keywords": [
+   {
+    "phrase": "obbligo o divieto",
+    "why": "refers to mandatory or prohibitory signs, not a general instruction"
+   },
+   {
+    "phrase": "dalla quale inizia",
+    "why": "marks the point from which the rule starts"
+   }
+  ],
+  "trick": "Watch the start-point meaning: it says where the rule begins to apply.",
+  "image": ""
+ },
+ {
+  "n": 22011,
+  "it": "Il pannello integrativo mostrato in figura A indica i metri di strada già fatta",
+  "answer": false,
+  "en": "The supplementary plate shown in figure A indicates the metres of road already travelled.",
+  "keywords": [
+   {
+    "phrase": "già fatta",
+    "why": "means already covered, not still to go"
+   }
+  ],
+  "trick": "The trap is già fatta, which refers to distance already travelled.",
+  "image": ""
+ },
+ {
+  "n": 22012,
+  "it": "Il pannello integrativo raffigurato indica la pendenza di una strada",
+  "answer": false,
+  "en": "The supplementary plate shown indicates the gradient of a road.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is direct.",
+  "image": ""
+ },
+ {
+  "n": 22013,
+  "it": "Il pannello integrativo mostrato in figura A indica la distanza di sicurezza da mantenere dal veicolo che sta davanti",
+  "answer": false,
+  "en": "The supplementary plate shown in figure A indicates the safe distance to be kept from the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "expresses a distance that must be kept"
+   }
+  ],
+  "trick": "Da mantenere signals a required maintained distance, not a simple description.",
+  "image": "images/q_22013.png"
+ },
+ {
+  "n": 22014,
+  "it": "Il pannello integrativo raffigurato indica la larghezza di una strada",
+  "answer": false,
+  "en": "The supplementary plate shown indicates the width of a road.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is direct.",
+  "image": "images/q_22014.png"
+ },
+ {
+  "n": 22015,
+  "it": "Il pannello integrativo raffigurato, posto sotto il segnale di pericolo, indica la lunghezza del tratto di strada pericoloso",
+  "answer": false,
+  "en": "The supplementary plate shown, placed below a warning sign, indicates the length of the dangerous stretch of road.",
+  "keywords": [
+   {
+    "phrase": "posto sotto",
+    "why": "its meaning depends on being placed under another sign"
+   },
+   {
+    "phrase": "segnale di pericolo",
+    "why": "specifically means a warning sign"
+   },
+   {
+    "phrase": "lunghezza del tratto di strada pericoloso",
+    "why": "refers to the length of the hazardous section, not the distance to it"
+   }
+  ],
+  "trick": "The key trap is length of the dangerous section versus distance before it starts.",
+  "image": "images/q_22015.png"
+ },
+ {
+  "n": 22016,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di pericolo, indica la lunghezza del tratto di strada pericoloso",
+  "answer": true,
+  "en": "The supplementary plate shown, placed below a warning sign, indicates the length of the dangerous stretch of road.",
+  "keywords": [
+   {
+    "phrase": "posto sotto",
+    "why": "its meaning depends on being placed under another sign"
+   },
+   {
+    "phrase": "segnale di pericolo",
+    "why": "specifically means a warning sign"
+   },
+   {
+    "phrase": "lunghezza del tratto di strada pericoloso",
+    "why": "refers to the length of the hazardous section, not the distance to it"
+   }
+  ],
+  "trick": "The key trap is length of the dangerous section versus distance before it starts.",
+  "image": "images/q_22016.png"
+ },
+ {
+  "n": 22017,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di obbligo, indica la lunghezza del tratto stradale nel quale vale la prescrizione del segnale",
+  "answer": true,
+  "en": "The supplementary plate shown, placed below a mandatory sign, indicates the length of the stretch of road on which the sign's regulation applies.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "means a mandatory sign, not a general obligation"
+   },
+   {
+    "phrase": "nel quale vale",
+    "why": "means within which the rule is in force"
+   }
+  ],
+  "trick": "Vale marks the stretch where the sign remains in force.",
+  "image": "images/q_22017.png"
+ },
+ {
+  "n": 22018,
+  "it": "Il pannello integrativo raffigurato può essere posto sotto un segnale di divieto",
+  "answer": true,
+  "en": "The supplementary plate shown may be placed below a prohibitory sign.",
+  "keywords": [
+   {
+    "phrase": "può essere posto",
+    "why": "expresses possibility, not obligation"
+   },
+   {
+    "phrase": "segnale di divieto",
+    "why": "specifically means a prohibitory sign"
+   }
+  ],
+  "trick": "Può essere posto indicates permission/possibility, not that it must be used.",
+  "image": "images/q_22018.png"
+ },
+ {
+  "n": 22019,
+  "it": "Il pannello integrativo raffigurato in figura B, posto sotto ad un segnale di pericolo, indica, in chilometri, la lunghezza del tratto di strada pericoloso",
+  "answer": true,
+  "en": "The supplementary plate shown in figure B, placed below a warning sign, indicates, in kilometres, the length of the dangerous stretch of road.",
+  "keywords": [
+   {
+    "phrase": "in chilometri",
+    "why": "specifies the unit of measurement"
+   },
+   {
+    "phrase": "lunghezza del tratto di strada pericoloso",
+    "why": "means the length of the hazardous section, not distance to the hazard"
+   }
+  ],
+  "trick": "The main trap is that it gives the section length, measured in kilometres.",
+  "image": "images/q_22019.png"
+ },
+ {
+  "n": 22020,
+  "it": "Il segnale raffigurato indica la lunghezza di un tratto stradale con curve pericolose in successione",
+  "answer": true,
+  "en": "The sign shown indicates the length of a stretch of road with a series of dangerous bends.",
+  "keywords": [
+   {
+    "phrase": "in successione",
+    "why": "means one after another, not just a single bend"
+   }
+  ],
+  "trick": "In successione changes the meaning to a series of bends.",
+  "image": "images/q_22020.png"
+ },
+ {
+  "n": 22021,
+  "it": "Il pannello integrativo rappresentato in figura A obbliga a proseguire diritto per 380 metri",
+  "answer": false,
+  "en": "The supplementary plate shown in figure A requires you to continue straight ahead for 380 metres.",
+  "keywords": [
+   {
+    "phrase": "obbliga",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "per 380 metri",
+    "why": "indicates duration/length of the rule over that distance"
+   }
+  ],
+  "trick": "Obbliga makes this a mandatory requirement, not a simple indication.",
+  "image": "images/q_22021.png"
+ },
+ {
+  "n": 22022,
+  "it": "Il pannello integrativo rappresentato in figura A indica la distanza di sicurezza da mantenere in caso di pioggia",
+  "answer": false,
+  "en": "The supplementary plate shown in figure A indicates the safe distance to be kept in case of rain.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "expresses a distance that must be kept"
+   },
+   {
+    "phrase": "in caso di pioggia",
+    "why": "limits the rule to the case of rain"
+   }
+  ],
+  "trick": "In caso di pioggia restricts the meaning to rainy conditions only.",
+  "image": "images/q_22022.png"
+ },
+ {
+  "n": 22023,
+  "it": "Il pannello integrativo raffigurato indica la distanza tra il segnale e il punto d'inizio del pericolo",
+  "answer": false,
+  "en": "The supplementary plate shown indicates the distance between the sign and the point where the danger begins.",
+  "keywords": [
+   {
+    "phrase": "punto d'inizio del pericolo",
+    "why": "means the starting point of the danger, not its length"
+   }
+  ],
+  "trick": "The trap is start point of the danger versus length of the dangerous section.",
+  "image": "images/q_22023.png"
+ },
+ {
+  "n": 22024,
+  "it": "Il segnale raffigurato indica la distanza tra il segnale e l'inizio della strada in cattivo stato",
+  "answer": false,
+  "en": "The sign shown indicates the distance between the sign and the beginning of the uneven road.",
+  "keywords": [
+   {
+    "phrase": "la distanza tra",
+    "why": "refers to distance from one point to another"
+   },
+   {
+    "phrase": "l'inizio",
+    "why": "means the start of the condition, not its length"
+   }
+  ],
+  "trick": "The key distinction is distance to the start, not the length of the bad road.",
+  "image": "images/q_22024.png"
+ },
+ {
+  "n": 22025,
+  "it": "Il pannello integrativo raffigurato in figura A indica l'altezza di un viadotto",
+  "answer": false,
+  "en": "The supplementary plate shown in figure A indicates the height of a viaduct.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the meaning is direct.",
+  "image": "images/q_22025.png"
+ },
+ {
+  "n": 22026,
+  "it": "Il segnale raffigurato vieta la sosta dalle ore 7.30 alle ore 19.00",
+  "answer": true,
+  "en": "The sign shown prohibits parking from 7:30 a.m. to 7:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vieta la sosta",
+    "why": "expresses a parking prohibition"
+   },
+   {
+    "phrase": "dalle ore 7.30 alle ore 19.00",
+    "why": "limits the prohibition to the stated time period"
+   }
+  ],
+  "trick": "The trap is the timed prohibition: parking is forbidden only during those hours.",
+  "image": "images/q_22026.png"
+ },
+ {
+  "n": 22027,
+  "it": "Il segnale raffigurato vieta il transito dalle ore 7.30 alle 19.00",
+  "answer": true,
+  "en": "The sign shown prohibits transit from 7:30 a.m. to 7:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses a prohibition on passing through"
+   },
+   {
+    "phrase": "dalle ore 7.30 alle 19.00",
+    "why": "limits the prohibition to the stated time period"
+   }
+  ],
+  "trick": "The key trap is that the prohibition applies only during the indicated hours.",
+  "image": "images/q_22027.png"
+ },
+ {
+  "n": 22028,
+  "it": "Il pannello integrativo (A), posto sotto il segnale (B), vieta il transito ai pedoni nelle sole ore indicate",
+  "answer": true,
+  "en": "The supplementary plate (A), placed below sign (B), prohibits pedestrians from passing through only during the hours indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito ai pedoni",
+    "why": "prohibits pedestrian passage, not all traffic"
+   },
+   {
+    "phrase": "nelle sole ore indicate",
+    "why": "restricts the prohibition to only those hours"
+   }
+  ],
+  "trick": "Sole is the trap: the ban applies only in the indicated hours.",
+  "image": "images/q_22028.png"
+ },
+ {
+  "n": 22029,
+  "it": "Il pannello integrativo rappresentato in figura B indica le ore di tutti i giorni nelle quali vale il segnale",
+  "answer": true,
+  "en": "The supplementary plate shown in figure B indicates the hours of every day during which the sign is in force.",
+  "keywords": [
+   {
+    "phrase": "tutti i giorni",
+    "why": "means every day, not only weekdays"
+   },
+   {
+    "phrase": "nelle quali vale il segnale",
+    "why": "means the sign applies during those hours"
+   }
+  ],
+  "trick": "Tutti i giorni and vale show that the sign is in force every day during those hours.",
+  "image": "images/q_22029.png"
+ },
+ {
+  "n": 22030,
+  "it": "Il segnale raffigurato consente il transito ai motocicli nelle sole ore indicate",
+  "answer": false,
+  "en": "The sign shown allows motorcycles to pass only during the hours indicated.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "nelle sole ore indicate",
+    "why": "limits the rule to only those hours"
+   }
+  ],
+  "trick": "\"Consente\" shows permission, while \"nelle sole ore indicate\" strictly limits it to the stated times.",
+  "image": "images/q_22030.png"
+ },
+ {
+  "n": 22031,
+  "it": "Il segnale raffigurato indica che il clacson può essere usato dalle ore 7.30 alle ore 19.00",
+  "answer": false,
+  "en": "The sign shown indicates that the horn may be used from 7:30 a.m. to 7:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "può essere usato",
+    "why": "expresses permission, not requirement"
+   }
+  ],
+  "trick": "\"Può essere usato\" means it is allowed, not mandatory.",
+  "image": "images/q_22031.png"
+ },
+ {
+  "n": 22032,
+  "it": "Il segnale raffigurato indica l'orario di apertura di una zona a traffico limitato",
+  "answer": false,
+  "en": "The sign shown indicates the opening hours of a limited traffic zone.",
+  "keywords": [],
+  "trick": "There are no major trap words; the key point is the meaning of the whole phrase.",
+  "image": "images/q_22032.png"
+ },
+ {
+  "n": 22033,
+  "it": "Il pannello integrativo rappresentato in figura B indica in quali ore si può circolare a fari spenti",
+  "answer": false,
+  "en": "The supplementary panel shown in figure B indicates the hours during which one may drive with headlights off.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "\"Si può\" means it is permitted, not required.",
+  "image": "images/q_22033.png"
+ },
+ {
+  "n": 22034,
+  "it": "Il pannello integrativo rappresentato in figura B indica le fasce orarie durante le quali si circola a targhe alterne",
+  "answer": false,
+  "en": "The supplementary panel shown in figure B indicates the time slots during which driving with alternating number plates is in force.",
+  "keywords": [],
+  "trick": "There are no key negation or restriction trap words here beyond the time limitation itself.",
+  "image": "images/q_22034.png"
+ },
+ {
+  "n": 22035,
+  "it": "Il pannello integrativo raffigurato limita la validità del segnale sotto cui è posto ai giorni festivi e alla fascia oraria indicata",
+  "answer": true,
+  "en": "The supplementary panel shown limits the validity of the sign below it to public holidays and to the time slot indicated.",
+  "keywords": [
+   {
+    "phrase": "limita",
+    "why": "restricts the scope of the sign"
+   },
+   {
+    "phrase": "ai giorni festivi",
+    "why": "applies only on public holidays"
+   }
+  ],
+  "trick": "\"Limita\" restricts the sign, and \"ai giorni festivi\" confines it to holidays.",
+  "image": "images/q_22035.png"
+ },
+ {
+  "n": 22036,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di prescrizione, precisa che il segnale vale solo nei giorni festivi e nelle fasce orarie indicate",
+  "answer": true,
+  "en": "The supplementary panel shown, placed below a regulatory sign, specifies that the sign applies only on public holidays and during the time slots indicated.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to this case only"
+   },
+   {
+    "phrase": "nei giorni festivi",
+    "why": "applies only on public holidays"
+   }
+  ],
+  "trick": "\"Solo\" and \"nei giorni festivi\" narrow the sign’s validity to those specific days and times.",
+  "image": "images/q_22036.png"
+ },
+ {
+  "n": 22037,
+  "it": "Il segnale raffigurato consente il transito nei giorni festivi e nelle fasce orarie indicate ai soli pedoni",
+  "answer": true,
+  "en": "The sign shown allows passage, on public holidays and during the time slots indicated, to pedestrians only.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "ai soli pedoni",
+    "why": "restricts access to pedestrians only"
+   }
+  ],
+  "trick": "\"Consente\" gives permission, while \"ai soli pedoni\" excludes everyone except pedestrians.",
+  "image": "images/q_22037.png"
+ },
+ {
+  "n": 22038,
+  "it": "Il segnale raffigurato vieta la sosta nella fascia oraria indicata, dei giorni festivi",
+  "answer": true,
+  "en": "The sign shown prohibits parking during the time slot indicated on public holidays.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dei giorni festivi",
+    "why": "applies only on public holidays"
+   }
+  ],
+  "trick": "\"Vieta\" makes it a prohibition, limited by \"dei giorni festivi\" to holidays.",
+  "image": "images/q_22038.png"
+ },
+ {
+  "n": 22039,
+  "it": "Il segnale raffigurato consente il transito dalle ore 8.00 alle ore 20.00 dei giorni festivi ai soli ciclisti",
+  "answer": true,
+  "en": "The sign shown allows passage from 8:00 a.m. to 8:00 p.m. on public holidays to cyclists only.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "ai soli ciclisti",
+    "why": "restricts access to cyclists only"
+   },
+   {
+    "phrase": "dei giorni festivi",
+    "why": "applies only on public holidays"
+   }
+  ],
+  "trick": "The statement combines permission with strict limits on users and days.",
+  "image": "images/q_22039.png"
+ },
+ {
+  "n": 22040,
+  "it": "Il segnale raffigurato vieta il transito dalle ore 8.00 alle ore 20.00 dei giorni festivi",
+  "answer": true,
+  "en": "The sign shown prohibits transit from 8:00 a.m. to 8:00 p.m. on public holidays.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dei giorni festivi",
+    "why": "applies only on public holidays"
+   }
+  ],
+  "trick": "\"Vieta\" is a prohibition, and the holiday phrase limits when it applies.",
+  "image": "images/q_22040.png"
+ },
+ {
+  "n": 22041,
+  "it": "Il pannello integrativo raffigurato indica l'orario d'ingresso nel cimitero",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the entrance time to the cemetery.",
+  "keywords": [],
+  "trick": "There are no specific trap words; the possible confusion is semantic, not grammatical.",
+  "image": "images/q_22041.png"
+ },
+ {
+  "n": 22042,
+  "it": "Il pannello integrativo raffigurato indica l'orario di apertura delle chiese",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the opening hours of churches.",
+  "keywords": [],
+  "trick": "There are no specific trap words in this sentence.",
+  "image": "images/q_22042.png"
+ },
+ {
+  "n": 22043,
+  "it": "Il pannello integrativo raffigurato indica l'orario di celebrazione delle funzioni religiose",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the time of celebration of religious services.",
+  "keywords": [],
+  "trick": "There are no key trap words; the issue is the meaning of the whole statement.",
+  "image": "images/q_22043.png"
+ },
+ {
+  "n": 22044,
+  "it": "Il segnale raffigurato indica che si può parcheggiare tutti i giorni nella fascia oraria indicata",
+  "answer": false,
+  "en": "The sign shown indicates that parking is allowed every day during the time slot indicated.",
+  "keywords": [
+   {
+    "phrase": "si può parcheggiare",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "tutti i giorni",
+    "why": "extends the rule to every day"
+   }
+  ],
+  "trick": "\"Si può parcheggiare\" means parking is allowed, and \"tutti i giorni\" broadens it to all days.",
+  "image": "images/q_22044.png"
+ },
+ {
+  "n": 22045,
+  "it": "Il pannello integrativo raffigurato vale nei giorni lavorativi",
+  "answer": false,
+  "en": "The supplementary panel shown applies on working days.",
+  "keywords": [
+   {
+    "phrase": "vale",
+    "why": "means the rule applies, not merely exists"
+   },
+   {
+    "phrase": "nei giorni lavorativi",
+    "why": "applies only on working days"
+   }
+  ],
+  "trick": "\"Vale\" means the sign is in force, limited here to working days.",
+  "image": "images/q_22045.png"
+ },
+ {
+  "n": 22046,
+  "it": "Il segnale raffigurato consente il transito dei motocicli la domenica dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The sign shown allows motorcycles to pass on Sunday from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "\"Consente\" means motorcycles are allowed, not required, to pass.",
+  "image": "images/q_22046.png"
+ },
+ {
+  "n": 22047,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale, ne limita la validità nei giorni lavorativi e alle fasce orarie indicate",
+  "answer": true,
+  "en": "The supplementary panel shown, placed below a sign, limits its validity to working days and to the time slots indicated.",
+  "keywords": [
+   {
+    "phrase": "limita",
+    "why": "restricts the scope of the sign"
+   },
+   {
+    "phrase": "nei giorni lavorativi",
+    "why": "applies only on working days"
+   }
+  ],
+  "trick": "\"Limita\" narrows the sign’s effect, and \"nei giorni lavorativi\" restricts it to weekdays.",
+  "image": "images/q_22047.png"
+ },
+ {
+  "n": 22048,
+  "it": "Il segnale raffigurato vieta il transito nella fascia oraria indicata, dei giorni lavorativi",
+  "answer": true,
+  "en": "The sign shown prohibits transit during the time slot indicated on working days.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "dei giorni lavorativi",
+    "why": "applies only on working days"
+   }
+  ],
+  "trick": "The sentence states a prohibition that is limited to working days and the stated times.",
+  "image": "images/q_22048.png"
+ },
+ {
+  "n": 22049,
+  "it": "Il pannello integrativo raffigurato indica la fascia oraria dei giorni lavorativi durante la quale vale la prescrizione del segnale sotto cui è posto",
+  "answer": true,
+  "en": "The supplementary panel shown indicates the time slot on working days during which the prescription of the sign below it applies.",
+  "keywords": [
+   {
+    "phrase": "durante la quale vale",
+    "why": "shows when the rule is in force"
+   },
+   {
+    "phrase": "dei giorni lavorativi",
+    "why": "applies only on working days"
+   }
+  ],
+  "trick": "The key trap is that the panel shows when the sign is valid, only on working days.",
+  "image": "images/q_22049.png"
+ },
+ {
+  "n": 22050,
+  "it": "Il segnale raffigurato vieta la sosta nella fascia oraria indicata dei giorni lavorativi",
+  "answer": true,
+  "en": "The sign shown prohibits parking during the indicated time slot on working days.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "fascia oraria indicata",
+    "why": "limits the rule to the stated times"
+   },
+   {
+    "phrase": "giorni lavorativi",
+    "why": "means working days, not all days"
+   }
+  ],
+  "trick": "Watch for prohibition and the restriction to the indicated times on working days only.",
+  "image": "images/q_22050.png"
+ },
+ {
+  "n": 22051,
+  "it": "Il pannello integrativo raffigurato, posto sotto un segnale di obbligo, indica che esso vale dalle ore 8.00 alle ore 20.00 dei giorni lavorativi",
+  "answer": true,
+  "en": "The supplementary panel shown, placed below a mandatory sign, indicates that it applies from 8:00 a.m. to 8:00 p.m. on working days.",
+  "keywords": [
+   {
+    "phrase": "segnale di obbligo",
+    "why": "means a mandatory sign, not just information"
+   },
+   {
+    "phrase": "vale",
+    "why": "means the sign applies/is in force"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "sets the exact time range"
+   },
+   {
+    "phrase": "giorni lavorativi",
+    "why": "means working days, not every day"
+   }
+  ],
+  "trick": "The panel makes the mandatory sign apply only within the stated hours on working days.",
+  "image": "images/q_22051.png"
+ },
+ {
+  "n": 22052,
+  "it": "Il segnale raffigurato vieta il transito agli autocarri di massa complessiva superiore a 3,5 t. nell'orario indicato, dei giorni lavorativi",
+  "answer": true,
+  "en": "The sign shown prohibits transit by goods vehicles with a total mass exceeding 3.5 tonnes during the indicated hours on working days.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses prohibition of passing through"
+   },
+   {
+    "phrase": "massa complessiva superiore a 3,5 t.",
+    "why": "applies only above this weight limit"
+   },
+   {
+    "phrase": "nell'orario indicato",
+    "why": "limits the rule to the stated hours"
+   },
+   {
+    "phrase": "giorni lavorativi",
+    "why": "means working days only"
+   }
+  ],
+  "trick": "The ban is limited by vehicle type, weight, indicated hours, and working days.",
+  "image": "images/q_22052.png"
+ },
+ {
+  "n": 22053,
+  "it": "Il pannello integrativo raffigurato indica che il segnale al quale è abbinato vale tutti i giorni, ma solo nelle ore indicate",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that the sign it is paired with applies every day, but only during the indicated hours.",
+  "keywords": [
+   {
+    "phrase": "tutti i giorni",
+    "why": "extends the rule to every day"
+   },
+   {
+    "phrase": "ma solo",
+    "why": "restricts it to this case only"
+   },
+   {
+    "phrase": "nelle ore indicate",
+    "why": "limits the rule to the stated times"
+   }
+  ],
+  "trick": "The key trap is the restriction created by 'but only' to the indicated hours.",
+  "image": "images/q_22053.png"
+ },
+ {
+  "n": 22054,
+  "it": "Il pannello integrativo raffigurato indica gli orari di apertura di un museo di attrezzi da lavoro",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the opening hours of a museum of work tools.",
+  "keywords": [],
+  "trick": "There are no key negation or restriction words here; the trap is the meaning of the panel itself.",
+  "image": "images/q_22054.png"
+ },
+ {
+  "n": 22055,
+  "it": "Il pannello integrativo raffigurato indica la fascia oraria di apertura delle officine di soccorso stradale",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the opening time slot of road assistance workshops.",
+  "keywords": [],
+  "trick": "There are no key negation or restriction words here; the trap is the meaning of the panel itself.",
+  "image": "images/q_22055.png"
+ },
+ {
+  "n": 22056,
+  "it": "Il segnale raffigurato è riservato ai veicoli per il soccorso stradale",
+  "answer": false,
+  "en": "The sign shown is reserved for road assistance vehicles.",
+  "keywords": [
+   {
+    "phrase": "riservato",
+    "why": "means reserved exclusively for these vehicles"
+   }
+  ],
+  "trick": "The trap is 'reserved', which implies exclusivity.",
+  "image": "images/q_22056.png"
+ },
+ {
+  "n": 22057,
+  "it": "Il pannello integrativo raffigurato indica che il segnale al quale è abbinato vale nei giorni festivi",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that the sign it is paired with applies on public holidays.",
+  "keywords": [
+   {
+    "phrase": "vale",
+    "why": "means the sign applies/is in force"
+   },
+   {
+    "phrase": "giorni festivi",
+    "why": "means public holidays, not working days"
+   }
+  ],
+  "trick": "The main trap is whether the panel applies on public holidays rather than on other days.",
+  "image": "images/q_22057.png"
+ },
+ {
+  "n": 22058,
+  "it": "Il pannello integrativo raffigurato, posto sotto il segnale PARCHEGGIO, indica che si può parcheggiare nei giorni festivi dalle ore 8.00 alle ore 20.00",
+  "answer": false,
+  "en": "The supplementary panel shown, placed below the PARKING sign, indicates that parking is allowed on public holidays from 8:00 a.m. to 8:00 p.m.",
+  "keywords": [
+   {
+    "phrase": "si può parcheggiare",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "giorni festivi",
+    "why": "means public holidays only"
+   },
+   {
+    "phrase": "dalle ore 8.00 alle ore 20.00",
+    "why": "sets the exact permitted time range"
+   }
+  ],
+  "trick": "The sentence combines permission with a restriction to public holidays and specific hours.",
+  "image": "images/q_22058.png"
+ },
+ {
+  "n": 22059,
+  "it": "Il segnale raffigurato vieta il transito ai soli veicoli indicati",
+  "answer": true,
+  "en": "The sign shown prohibits transit only to the vehicles indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta il transito",
+    "why": "expresses prohibition of passing through"
+   },
+   {
+    "phrase": "ai soli veicoli indicati",
+    "why": "restricts the ban only to those vehicles"
+   }
+  ],
+  "trick": "The key trap is 'only', which limits the prohibition to the indicated vehicles.",
+  "image": "images/q_22059.png"
+ },
+ {
+  "n": 22060,
+  "it": "Il segnale raffigurato vieta la sosta ai veicoli indicati",
+  "answer": true,
+  "en": "The sign shown prohibits parking for the vehicles indicated.",
+  "keywords": [
+   {
+    "phrase": "vieta la sosta",
+    "why": "expresses prohibition of parking"
+   },
+   {
+    "phrase": "ai veicoli indicati",
+    "why": "limits the rule to those vehicles"
+   }
+  ],
+  "trick": "The prohibition applies specifically to the vehicles shown, not to all vehicles.",
+  "image": "images/q_22060.png"
+ },
+ {
+  "n": 22061,
+  "it": "Il segnale raffigurato vieta la sosta agli autoarticolati",
+  "answer": true,
+  "en": "The sign shown prohibits parking for articulated lorries.",
+  "keywords": [
+   {
+    "phrase": "vieta la sosta",
+    "why": "expresses prohibition of parking"
+   }
+  ],
+  "trick": "The main trap is that it is a parking prohibition, not a permission or obligation.",
+  "image": "images/q_22061.png"
+ },
+ {
+  "n": 22062,
+  "it": "Il pannello integrativo raffigurato indica che il segnale al quale è abbinato vale solo per i veicoli rappresentati",
+  "answer": true,
+  "en": "The supplementary panel shown indicates that the sign it is paired with applies only to the vehicles shown.",
+  "keywords": [
+   {
+    "phrase": "vale solo per",
+    "why": "restricts the rule only to this category"
+   }
+  ],
+  "trick": "The key trap is 'only', which limits the sign's effect to the vehicles shown.",
+  "image": "images/q_22062.png"
+ },
+ {
+  "n": 22063,
+  "it": "Il pannello integrativo raffigurato può essere abbinato ad un segnale di obbligo",
+  "answer": true,
+  "en": "The supplementary panel shown can be paired with a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "può essere abbinato",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The trap is that 'can be paired' indicates possibility, not that it must be paired.",
+  "image": "images/q_22063.png"
+ },
+ {
+  "n": 22064,
+  "it": "Il pannello integrativo raffigurato può essere abbinato ad un segnale di divieto",
+  "answer": true,
+  "en": "The supplementary panel shown can be paired with a prohibitory sign.",
+  "keywords": [
+   {
+    "phrase": "può essere abbinato",
+    "why": "expresses possibility, not obligation"
+   }
+  ],
+  "trick": "The trap is that 'can be paired' indicates possibility, not certainty or obligation.",
+  "image": "images/q_22064.png"
+ },
+ {
+  "n": 22065,
+  "it": "Il pannello integrativo raffigurato indica un'officina meccanica per autotreni",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a mechanical workshop for road trains.",
+  "keywords": [],
+  "trick": "There are no key negation or restriction words here; the trap is the panel meaning.",
+  "image": "images/q_22065.png"
+ },
+ {
+  "n": 22066,
+  "it": "Il pannello integrativo raffigurato indica una stazione di rifornimento per soli mezzi pesanti",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a refuelling station for heavy vehicles only.",
+  "keywords": [
+   {
+    "phrase": "soli mezzi pesanti",
+    "why": "restricts it exclusively to heavy vehicles"
+   }
+  ],
+  "trick": "The key trap is 'only', which makes the statement exclusive.",
+  "image": "images/q_22066.png"
+ },
+ {
+  "n": 22067,
+  "it": "Il segnale raffigurato consente la sosta agli autoarticolati",
+  "answer": false,
+  "en": "The sign shown allows parking for articulated lorries.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is 'allows', which expresses permission rather than prohibition.",
+  "image": "images/q_22067.png"
+ },
+ {
+  "n": 22068,
+  "it": "Il segnale raffigurato prescrive che possono transitare gli autoarticolati",
+  "answer": false,
+  "en": "The sign shown prescribes that articulated lorries may pass through.",
+  "keywords": [
+   {
+    "phrase": "prescrive",
+    "why": "expresses an instruction or requirement"
+   },
+   {
+    "phrase": "possono transitare",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The sentence mixes prescription wording with 'may pass through', which signals permission.",
+  "image": "images/q_22068.png"
+ },
+ {
+  "n": 22069,
+  "it": "Il pannello integrativo raffigurato, posto sotto il segnale PARCHEGGIO, indica che possono parcheggiare tutti i veicoli pesanti",
+  "answer": false,
+  "en": "The supplementary panel shown, placed below the PARKING sign, indicates that all heavy vehicles may park.",
+  "keywords": [
+   {
+    "phrase": "possono parcheggiare",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "tutti i veicoli pesanti",
+    "why": "extends the rule to all heavy vehicles"
+   }
+  ],
+  "trick": "The trap is the broad permission created by 'all heavy vehicles may park'.",
+  "image": "images/q_22069.png"
+ },
+ {
+  "n": 22070,
+  "it": "Il pannello integrativo (A), posto sotto un segnale di divieto, evidenzia il punto d'inizio della prescrizione",
+  "answer": true,
+  "en": "The supplementary panel (A), placed below a prohibition sign, indicates the point where the restriction begins.",
+  "keywords": [
+   {
+    "phrase": "di divieto",
+    "why": "means prohibition, not a general instruction"
+   },
+   {
+    "phrase": "punto d'inizio",
+    "why": "marks the starting point, not the whole length"
+   }
+  ],
+  "trick": "Watch for wording that shows a prohibition and that it starts at a specific point.",
+  "image": "images/q_22070.png"
+ },
+ {
+  "n": 22071,
+  "it": "Il segnale raffigurato indica che il divieto di sosta ha inizio in quel punto",
+  "answer": true,
+  "en": "The sign shown indicates that the no-parking restriction begins at that point.",
+  "keywords": [
+   {
+    "phrase": "divieto di sosta",
+    "why": "means no parking, not no stopping"
+   },
+   {
+    "phrase": "ha inizio",
+    "why": "means begins here, not continues or ends"
+   }
+  ],
+  "trick": "The trap is distinguishing no parking from no stopping and start from continuation.",
+  "image": "images/q_22071.png"
+ },
+ {
+  "n": 22072,
+  "it": "Il segnale raffigurato evidenzia l'inizio dell'area dove è possibile parcheggiare",
+  "answer": true,
+  "en": "The sign shown indicates the beginning of the area where parking is permitted.",
+  "keywords": [
+   {
+    "phrase": "inizio",
+    "why": "marks the start, not the end"
+   },
+   {
+    "phrase": "è possibile",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The key traps are that the area starts here and parking is allowed.",
+  "image": "images/q_22072.png"
+ },
+ {
+  "n": 22073,
+  "it": "il segnale raffigurato evidenzia il punto d'inizio del divieto di fermata",
+  "answer": true,
+  "en": "The sign shown indicates the starting point of the no-stopping restriction.",
+  "keywords": [
+   {
+    "phrase": "punto d'inizio",
+    "why": "marks the exact point where it starts"
+   },
+   {
+    "phrase": "divieto di fermata",
+    "why": "means no stopping, stricter than no parking"
+   }
+  ],
+  "trick": "The main trap is the exact start point and the stronger restriction of no stopping.",
+  "image": "images/q_22073.png"
+ },
+ {
+  "n": 22074,
+  "it": "Il segnale raffigurato evidenzia il punto d'inizio del viale pedonale",
+  "answer": true,
+  "en": "The sign shown indicates the starting point of the pedestrian avenue.",
+  "keywords": [
+   {
+    "phrase": "punto d'inizio",
+    "why": "shows where the zone begins, not where it continues"
+   }
+  ],
+  "trick": "The important detail is that it marks the beginning point.",
+  "image": "images/q_22074.png"
+ },
+ {
+  "n": 22075,
+  "it": "Il pannello raffigurato (A) indica una strada in salita",
+  "answer": false,
+  "en": "The panel shown (A) indicates an uphill road.",
+  "keywords": [],
+  "trick": "There are no major trap words here beyond the sign meaning itself.",
+  "image": "images/q_22075.png"
+ },
+ {
+  "n": 22076,
+  "it": "Il pannello raffigurato (A) indica l'obbligo di proseguire diritto",
+  "answer": false,
+  "en": "The panel shown (A) indicates an obligation to continue straight ahead.",
+  "keywords": [
+   {
+    "phrase": "obbligo",
+    "why": "expresses obligation, not mere advice or permission"
+   }
+  ],
+  "trick": "The key trap is that obbligo means a mandatory action.",
+  "image": "images/q_22076.png"
+ },
+ {
+  "n": 22077,
+  "it": "Il pannello raffigurato (A) indica la fine di una strada a senso unico",
+  "answer": false,
+  "en": "The panel shown (A) indicates the end of a one-way street.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "means the end, not the beginning"
+   }
+  ],
+  "trick": "The only real trap is the word fine, which changes the direction of meaning.",
+  "image": "images/q_22077.png"
+ },
+ {
+  "n": 22078,
+  "it": "Il pannello raffigurato (B) indica la corsia riservata agli autobus urbani",
+  "answer": false,
+  "en": "The panel shown (B) indicates the lane reserved for urban buses.",
+  "keywords": [
+   {
+    "phrase": "riservata",
+    "why": "means reserved exclusively for that category"
+   }
+  ],
+  "trick": "The trap is that riservata implies a restricted lane, not a general one.",
+  "image": "images/q_22078.png"
+ },
+ {
+  "n": 22079,
+  "it": "Il segnale raffigurato evidenzia il punto in cui finisce l'area destinata al parcheggio",
+  "answer": false,
+  "en": "The sign shown indicates the point where the area designated for parking ends.",
+  "keywords": [
+   {
+    "phrase": "finisce",
+    "why": "means ends, not begins"
+   },
+   {
+    "phrase": "destinata al parcheggio",
+    "why": "refers to an area intended for parking"
+   }
+  ],
+  "trick": "The trap is recognizing that the statement talks about the end of the parking area.",
+  "image": "images/q_22079.png"
+ },
+ {
+  "n": 22080,
+  "it": "Il pannello raffigurato (A), posto sotto un segnale di pericolo, evidenzia il punto dove finisce il pericolo",
+  "answer": false,
+  "en": "The supplementary panel shown (A), placed below a warning sign, indicates the point where the danger ends.",
+  "keywords": [
+   {
+    "phrase": "di pericolo",
+    "why": "refers to a warning sign, not a prohibition sign"
+   },
+   {
+    "phrase": "finisce",
+    "why": "means ends, not starts or continues"
+   }
+  ],
+  "trick": "The traps are the type of main sign and the fact that it says the danger ends.",
+  "image": "images/q_22080.png"
+ },
+ {
+  "n": 22081,
+  "it": "Il segnale raffigurato indica che il divieto di sosta continua",
+  "answer": true,
+  "en": "The sign shown indicates that the no-parking restriction continues.",
+  "keywords": [
+   {
+    "phrase": "divieto di sosta",
+    "why": "means no parking, not no stopping"
+   },
+   {
+    "phrase": "continua",
+    "why": "means continues, not begins or ends"
+   }
+  ],
+  "trick": "The trap is the difference between continuation and start/end, and between parking and stopping.",
+  "image": "images/q_22081.png"
+ },
+ {
+  "n": 22082,
+  "it": "Il segnale raffigurato conferma la continuazione del divieto di sorpasso",
+  "answer": true,
+  "en": "The sign shown confirms the continuation of the no-overtaking restriction.",
+  "keywords": [
+   {
+    "phrase": "continuazione",
+    "why": "means the restriction is still in force"
+   },
+   {
+    "phrase": "divieto di sorpasso",
+    "why": "means no overtaking, not a speed limit"
+   }
+  ],
+  "trick": "The key trap is that the prohibition continues rather than starting or ending.",
+  "image": "images/q_22082.png"
+ },
+ {
+  "n": 22083,
+  "it": "Il segnale raffigurato indica la continuazione del limite massimo di velocità",
+  "answer": true,
+  "en": "The sign shown indicates the continuation of the maximum speed limit.",
+  "keywords": [
+   {
+    "phrase": "continuazione",
+    "why": "means it remains valid beyond this point"
+   },
+   {
+    "phrase": "limite massimo",
+    "why": "specifies the upper speed limit"
+   }
+  ],
+  "trick": "The trap is that the maximum speed limit is continuing, not being introduced or removed.",
+  "image": "images/q_22083.png"
+ },
+ {
+  "n": 22084,
+  "it": "Il segnale raffigurato indica la continuazione del tratto di strada sdrucciolevole",
+  "answer": true,
+  "en": "The sign shown indicates the continuation of the stretch of slippery road.",
+  "keywords": [
+   {
+    "phrase": "continuazione",
+    "why": "means the condition continues ahead"
+   }
+  ],
+  "trick": "The important trap word is continuazione, showing the hazard is ongoing.",
+  "image": "images/q_22084.png"
+ },
+ {
+  "n": 22085,
+  "it": "Il segnale raffigurato indica che la fermata è vietata sia prima che dopo il segnale",
+  "answer": true,
+  "en": "The sign shown indicates that stopping is prohibited both before and after the sign.",
+  "keywords": [
+   {
+    "phrase": "fermata è vietata",
+    "why": "means stopping is prohibited, not parking only"
+   },
+   {
+    "phrase": "sia prima che dopo",
+    "why": "extends the rule to both sides of the sign"
+   }
+  ],
+  "trick": "The traps are the stronger ban on stopping and that it applies both before and after the sign.",
+  "image": "images/q_22085.png"
+ },
+ {
+  "n": 22086,
+  "it": "Il pannello integrativo raffigurato (A), posto sotto un segnale di pericolo, ne indica la continuazione",
+  "answer": true,
+  "en": "The supplementary panel shown (A), placed below a warning sign, indicates its continuation.",
+  "keywords": [
+   {
+    "phrase": "di pericolo",
+    "why": "means a warning sign, not a prohibition sign"
+   },
+   {
+    "phrase": "continuazione",
+    "why": "means it continues, not that it begins or ends"
+   }
+  ],
+  "trick": "The traps are the warning-sign context and the idea of continuation.",
+  "image": "images/q_22086.png"
+ },
+ {
+  "n": 22087,
+  "it": "Il pannello integrativo raffigurato (A) indica di tornare indietro",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates turning back.",
+  "keywords": [],
+  "trick": "There are no notable grammar traps; the difficulty is the sign meaning itself.",
+  "image": "images/q_22087.png"
+ },
+ {
+  "n": 22088,
+  "it": "Il segnale raffigurato indica la fine della zona destinata al parcheggio",
+  "answer": false,
+  "en": "The sign shown indicates the end of the area designated for parking.",
+  "keywords": [
+   {
+    "phrase": "fine",
+    "why": "means the end, not the beginning"
+   },
+   {
+    "phrase": "destinata al parcheggio",
+    "why": "refers specifically to a parking area"
+   }
+  ],
+  "trick": "The trap is that it refers to the end of a parking area, not its start.",
+  "image": "images/q_22088.png"
+ },
+ {
+  "n": 22089,
+  "it": "Il pannello integrativo raffigurato (A) indica un senso unico alternato",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates alternating one-way traffic.",
+  "keywords": [
+   {
+    "phrase": "senso unico alternato",
+    "why": "means alternating one-way traffic, not ordinary one-way traffic"
+   }
+  ],
+  "trick": "The trap is the word alternato, which changes the meaning from simple one-way traffic.",
+  "image": "images/q_22089.png"
+ },
+ {
+  "n": 22090,
+  "it": "Il pannello integrativo raffigurato (A), posto sotto un segnale di pericolo, ne indica la fine",
+  "answer": false,
+  "en": "The supplementary panel shown (A), placed below a warning sign, indicates its end.",
+  "keywords": [
+   {
+    "phrase": "ne indica la fine",
+    "why": "means it indicates the end of that sign/hazard"
+   },
+   {
+    "phrase": "posto sotto",
+    "why": "links the panel's meaning to the sign placed above it"
+   }
+  ],
+  "trick": "Watch ne indica la fine: it means the end of the condition shown by the sign above, not a generic meaning.",
+  "image": "images/q_22090.png"
+ },
+ {
+  "n": 22091,
+  "it": "Il pannello integrativo raffigurato (A) indica le due direzioni consentite",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates the two permitted directions.",
+  "keywords": [
+   {
+    "phrase": "consentite",
+    "why": "expresses permission, not simple direction"
+   }
+  ],
+  "trick": "Consentite means allowed/permitted, which can change the legal meaning of the sentence.",
+  "image": "images/q_22091.png"
+ },
+ {
+  "n": 22092,
+  "it": "Il pannello integrativo raffigurato (A) indica una strada a doppio senso di circolazione",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates a two-way road.",
+  "keywords": [
+   {
+    "phrase": "a doppio senso di circolazione",
+    "why": "fixed phrase meaning two-way traffic"
+   }
+  ],
+  "trick": "A doppio senso di circolazione is a specific traffic term and should not be confused with two directions allowed.",
+  "image": "images/q_22092.png"
+ },
+ {
+  "n": 22093,
+  "it": "Il segnale raffigurato indica il punto nel quale termina il divieto di sosta",
+  "answer": true,
+  "en": "The sign shown indicates the point where the no-parking prohibition ends.",
+  "keywords": [
+   {
+    "phrase": "termina",
+    "why": "marks the end of the rule"
+   },
+   {
+    "phrase": "divieto di sosta",
+    "why": "means no parking, not no stopping"
+   }
+  ],
+  "trick": "Do not confuse divieto di sosta with divieto di fermata, and note that termina signals the prohibition ends here.",
+  "image": "images/q_22093.png"
+ },
+ {
+  "n": 22094,
+  "it": "Il segnale raffigurato indica il punto dove termina il divieto di fermata",
+  "answer": true,
+  "en": "The sign shown indicates the point where the no-stopping prohibition ends.",
+  "keywords": [
+   {
+    "phrase": "termina",
+    "why": "marks the end of the rule"
+   },
+   {
+    "phrase": "divieto di fermata",
+    "why": "means no stopping, stronger than no parking"
+   }
+  ],
+  "trick": "Divieto di fermata is no stopping, not just no parking, and termina means the restriction ends here.",
+  "image": "images/q_22094.png"
+ },
+ {
+  "n": 22095,
+  "it": "Il segnale raffigurato indica la fine del cantiere stradale",
+  "answer": true,
+  "en": "The sign shown indicates the end of the roadworks.",
+  "keywords": [
+   {
+    "phrase": "la fine",
+    "why": "signals the end of the condition"
+   }
+  ],
+  "trick": "La fine shows that the sign refers to the end, not the start or presence, of roadworks.",
+  "image": "images/q_22095.png"
+ },
+ {
+  "n": 22096,
+  "it": "Il segnale raffigurato indica la fine dell'area destinata al parcheggio",
+  "answer": true,
+  "en": "The sign shown indicates the end of the area designated for parking.",
+  "keywords": [
+   {
+    "phrase": "la fine",
+    "why": "signals the end of the condition"
+   },
+   {
+    "phrase": "destinata al parcheggio",
+    "why": "means designated/reserved for parking"
+   }
+  ],
+  "trick": "The key trap is la fine: it marks where the parking area ends.",
+  "image": "images/q_22096.png"
+ },
+ {
+  "n": 22097,
+  "it": "Il segnale raffigurato indica la fine della strada deformata",
+  "answer": true,
+  "en": "The sign shown indicates the end of the uneven road.",
+  "keywords": [
+   {
+    "phrase": "la fine",
+    "why": "signals the end of the condition"
+   }
+  ],
+  "trick": "La fine means the hazard is ending, not beginning.",
+  "image": "images/q_22097.png"
+ },
+ {
+  "n": 22098,
+  "it": "Il segnale raffigurato indica la fine della strada sdrucciolevole",
+  "answer": true,
+  "en": "The sign shown indicates the end of the slippery road.",
+  "keywords": [
+   {
+    "phrase": "la fine",
+    "why": "signals the end of the condition"
+   }
+  ],
+  "trick": "La fine changes the meaning from warning of danger to warning that the danger ends.",
+  "image": "images/q_22098.png"
+ },
+ {
+  "n": 22099,
+  "it": "Il pannello integrativo raffigurato (A) indica una strada in discesa",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates a downhill road.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the difficulty depends mainly on recognizing the image.",
+  "image": "images/q_22099.png"
+ },
+ {
+  "n": 22100,
+  "it": "Il pannello integrativo raffigurato (B), posto sotto il segnale PARCHEGGIO, indica l'inizio della zona destinata al parcheggio",
+  "answer": false,
+  "en": "The supplementary panel shown (B), placed below the PARKING sign, indicates the start of the area designated for parking.",
+  "keywords": [
+   {
+    "phrase": "posto sotto",
+    "why": "links the panel's meaning to the sign placed above it"
+   },
+   {
+    "phrase": "l'inizio",
+    "why": "signals the start, not the end"
+   },
+   {
+    "phrase": "destinata al parcheggio",
+    "why": "means designated/reserved for parking"
+   }
+  ],
+  "trick": "L'inizio is the key trap because it refers to the beginning of the parking area, not its end.",
+  "image": "images/q_22100.png"
+ },
+ {
+  "n": 22101,
+  "it": "Il pannello integrativo raffigurato (A), posto sotto un segnale di divieto, indica l'inizio del divieto",
+  "answer": false,
+  "en": "The supplementary panel shown (A), placed below a prohibition sign, indicates the start of the prohibition.",
+  "keywords": [
+   {
+    "phrase": "posto sotto",
+    "why": "links the panel's meaning to the sign placed above it"
+   },
+   {
+    "phrase": "di divieto",
+    "why": "refers to a prohibitory sign"
+   },
+   {
+    "phrase": "l'inizio del divieto",
+    "why": "means the prohibition begins here"
+   }
+  ],
+  "trick": "The trap is l'inizio del divieto, which indicates the prohibition starts rather than ends.",
+  "image": "images/q_22101.png"
+ },
+ {
+  "n": 22102,
+  "it": "Il pannello integrativo raffigurato (A) indica una strada chiusa al traffico",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates a road closed to traffic.",
+  "keywords": [
+   {
+    "phrase": "chiusa al traffico",
+    "why": "means closed/prohibited to traffic"
+   }
+  ],
+  "trick": "Chiusa al traffico expresses a prohibition of access, not just a road feature.",
+  "image": "images/q_22102.png"
+ },
+ {
+  "n": 22103,
+  "it": "Il segnale raffigurato indica la continuazione del divieto di sorpasso",
+  "answer": false,
+  "en": "The sign shown indicates the continuation of the no-overtaking prohibition.",
+  "keywords": [
+   {
+    "phrase": "continuazione",
+    "why": "means the rule continues, not starts or ends"
+   },
+   {
+    "phrase": "divieto di sorpasso",
+    "why": "means no overtaking"
+   }
+  ],
+  "trick": "Continuazione is the key trap because it means the prohibition remains in force.",
+  "image": "images/q_22103.png"
+ },
+ {
+  "n": 22104,
+  "it": "Il pannello integrativo raffigurato (A) indica l'unica direzione consentita",
+  "answer": false,
+  "en": "The supplementary panel shown (A) indicates the only permitted direction.",
+  "keywords": [
+   {
+    "phrase": "l'unica",
+    "why": "restricts the rule to only one"
+   },
+   {
+    "phrase": "consentita",
+    "why": "expresses permission, not simple direction"
+   }
+  ],
+  "trick": "L'unica direction consentita means one single allowed direction, a stronger restriction than a normal direction sign.",
+  "image": "images/q_22104.png"
+ },
+ {
+  "n": 22124,
+  "it": "Il pannello integrativo raffigurato indica la presenza di binari di manovra",
+  "answer": true,
+  "en": "The supplementary panel shown indicates the presence of shunting tracks.",
+  "keywords": [
+   {
+    "phrase": "presenza di",
+    "why": "warns that something is present nearby"
+   }
+  ],
+  "trick": "Presenza di is the main trap because it indicates the existence of the hazard, not a command.",
+  "image": "images/q_22124.png"
+ },
+ {
+  "n": 22125,
+  "it": "Il segnale raffigurato indica l'attraversamento di binari di manovra",
+  "answer": true,
+  "en": "The sign shown indicates a crossing of shunting tracks.",
+  "keywords": [
+   {
+    "phrase": "attraversamento",
+    "why": "means a crossing point, not just presence nearby"
+   }
+  ],
+  "trick": "Attraversamento specifically means a place where the tracks are crossed.",
+  "image": "images/q_22125.png"
+ },
+ {
+  "n": 22126,
+  "it": "Il pannello integrativo raffigurato preavvisa la presenza di binari di manovra o di raccordo in prossimità di scali merci",
+  "answer": true,
+  "en": "The supplementary panel gives advance warning of the presence of shunting or connecting tracks near freight yards.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means gives advance warning, not immediate presence only"
+   },
+   {
+    "phrase": "presenza di",
+    "why": "warns that something is present nearby"
+   },
+   {
+    "phrase": "in prossimità di",
+    "why": "limits the rule to near that place"
+   }
+  ],
+  "trick": "Preavvisa and in prossimità di together show this is an advance warning of something near freight yards.",
+  "image": "images/q_22126.png"
+ },
+ {
+  "n": 22127,
+  "it": "Il segnale raffigurato invita a diminuire la velocità",
+  "answer": true,
+  "en": "The sign shown advises drivers to reduce speed.",
+  "keywords": [
+   {
+    "phrase": "invita a diminuire",
+    "why": "advises/recommends an action, not a direct order"
+   }
+  ],
+  "trick": "Invita a diminuire is softer than an absolute obligation, so do not translate it as a strict command.",
+  "image": "images/q_22127.png"
+ },
+ {
+  "n": 22128,
+  "it": "Il pannello integrativo è abbinato al segnale ALTRI PERICOLI",
+  "answer": true,
+  "en": "The supplementary panel is combined with the OTHER DANGERS sign.",
+  "keywords": [
+   {
+    "phrase": "è abbinato a",
+    "why": "means used together with another sign"
+   }
+  ],
+  "trick": "È abbinato a indicates association with another sign, not an independent meaning.",
+  "image": "images/q_22128.png"
+ },
+ {
+  "n": 22129,
+  "it": "Il pannello integrativo indica un'area attrezzata per gare di modellismo",
+  "answer": false,
+  "en": "The supplementary panel indicates an area equipped for model-making competitions.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is mainly about identifying the sign's meaning.",
+  "image": "images/q_22129.png"
+ },
+ {
+  "n": 22130,
+  "it": "Il pannello integrativo raffigurato indica di fare attenzione perché la strada può essere attraversata dai tram",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that you should be careful because the road may be crossed by trams.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The main trap is può, which means it may happen, not that it always happens.",
+  "image": "images/q_22130.png"
+ },
+ {
+  "n": 22131,
+  "it": "Il pannello integrativo raffigurato va rispettato dai conducenti dei treni",
+  "answer": false,
+  "en": "The supplementary panel shown must be obeyed by train drivers.",
+  "keywords": [
+   {
+    "phrase": "va rispettato",
+    "why": "expresses obligation, not simple description"
+   }
+  ],
+  "trick": "Va rispettato means must be obeyed, showing obligation.",
+  "image": "images/q_22131.png"
+ },
+ {
+  "n": 22132,
+  "it": "Il pannello integrativo raffigurato indica un passaggio a livello con due binari",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a level crossing with two tracks.",
+  "keywords": [],
+  "trick": "No major trap words; the statement depends on the exact sign shown.",
+  "image": "images/q_22132.png"
+ },
+ {
+  "n": 22145,
+  "it": "Il pannello integrativo raffigurato indica una strada che in caso di forte pioggia si può allagare",
+  "answer": true,
+  "en": "The supplementary panel shown indicates a road that can flood in the event of heavy rain.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this condition only"
+   },
+   {
+    "phrase": "si può allagare",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "In caso di sets the condition, while si può allagare means flooding is possible, not guaranteed.",
+  "image": "images/q_22145.png"
+ },
+ {
+  "n": 22146,
+  "it": "Il pannello integrativo raffigurato indica che stiamo percorrendo un tratto di strada che può allagarsi in caso di forte pioggia",
+  "answer": true,
+  "en": "The supplementary panel shown indicates that we are travelling along a stretch of road that can flood in the event of heavy rain.",
+  "keywords": [
+   {
+    "phrase": "può allagarsi",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this condition only"
+   }
+  ],
+  "trick": "The road may flood only under the condition stated, not always.",
+  "image": "images/q_22146.png"
+ },
+ {
+  "n": 22147,
+  "it": "Il segnale raffigurato indica che la strada si può allagare in caso di forte pioggia",
+  "answer": true,
+  "en": "The sign shown indicates that the road can flood in the event of heavy rain.",
+  "keywords": [
+   {
+    "phrase": "si può allagare",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this condition only"
+   }
+  ],
+  "trick": "The wording states a possible risk under a specific condition.",
+  "image": "images/q_22147.png"
+ },
+ {
+  "n": 22148,
+  "it": "Il pannello integrativo raffigurato indica il pericolo di allagamento della carreggiata in caso di pioggia o forte mareggiata",
+  "answer": true,
+  "en": "The supplementary panel shown indicates the danger of the carriageway flooding in the event of rain or heavy seas.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "limits the danger to these conditions only"
+   }
+  ],
+  "trick": "In caso di restricts the danger to the stated weather conditions.",
+  "image": "images/q_22148.png"
+ },
+ {
+  "n": 22149,
+  "it": "Il pannello integrativo raffigurato indica una piscina nelle vicinanze",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a swimming pool nearby.",
+  "keywords": [
+   {
+    "phrase": "nelle vicinanze",
+    "why": "means nearby, not directly on the road"
+   }
+  ],
+  "trick": "Nelle vicinanze refers to something being nearby, which can mislead sign interpretation.",
+  "image": "images/q_22149.png"
+ },
+ {
+  "n": 22150,
+  "it": "Il pannello integrativo raffigurato indica un tratto di strada coperto di neve",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a stretch of road covered with snow.",
+  "keywords": [],
+  "trick": "No major trap words; the key issue is the actual meaning of the sign.",
+  "image": "images/q_22150.png"
+ },
+ {
+  "n": 22151,
+  "it": "Il pannello integrativo raffigurato preavvisa una banchina cedevole",
+  "answer": false,
+  "en": "The supplementary panel shown warns of a soft verge.",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not states a current condition"
+   }
+  ],
+  "trick": "Preavvisa indicates advance warning rather than describing what is immediately present.",
+  "image": "images/q_22151.png"
+ },
+ {
+  "n": 22152,
+  "it": "Il pannello integrativo raffigurato vieta il transito ai veicoli che trasportano prodotti che potrebbero inquinare l'acqua",
+  "answer": false,
+  "en": "The supplementary panel shown prohibits the passage of vehicles carrying products that could pollute the water.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "Vieta makes it a prohibition, while potrebbero indicates possible pollution, not definite pollution.",
+  "image": "images/q_22152.png"
+ },
+ {
+  "n": 22153,
+  "it": "Il pannello integrativo raffigurato indica un tratto di strada dove è possibile trovare nebbia",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a stretch of road where it is possible to encounter fog.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "È possibile means fog may be found there, not that it is always present.",
+  "image": "images/q_22153.png"
+ },
+ {
+  "n": 22154,
+  "it": "Il pannello integrativo raffigurato preavvisa la presenza di cordoli trasversali di rallentamento (dossi artificiali)",
+  "answer": false,
+  "en": "The supplementary panel shown warns of the presence of transverse slowing strips (artificial humps).",
+  "keywords": [
+   {
+    "phrase": "preavvisa",
+    "why": "means warns in advance, not states a current condition"
+   }
+  ],
+  "trick": "Preavvisa signals an advance warning, which can affect how the sentence is understood.",
+  "image": "images/q_22154.png"
+ },
+ {
+  "n": 22177,
+  "it": "Il segnale raffigurato indica la possibilità di trovare un tratto di strada sdrucciolevole a causa di ghiaccio",
+  "answer": true,
+  "en": "The sign shown indicates the possibility of encountering a slippery stretch of road due to ice.",
+  "keywords": [
+   {
+    "phrase": "la possibilità",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "a causa di",
+    "why": "states the cause of the danger"
+   }
+  ],
+  "trick": "The sentence describes a possible danger and specifies its cause.",
+  "image": "images/q_22177.png"
+ },
+ {
+  "n": 22178,
+  "it": "Il pannello integrativo raffigurato indica la possibilità di trovare tratti di strada ghiacciati",
+  "answer": true,
+  "en": "The supplementary panel shown indicates the possibility of encountering icy stretches of road.",
+  "keywords": [
+   {
+    "phrase": "la possibilità",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "La possibilità shows that icy road sections may be present, not that they definitely are.",
+  "image": "images/q_22178.png"
+ },
+ {
+  "n": 22179,
+  "it": "Il pannello integrativo raffigurato indica, in caso di bassa temperatura, la presenza di tratti pericolosi per ghiaccio",
+  "answer": true,
+  "en": "The supplementary panel shown indicates, in the event of low temperature, the presence of dangerous icy stretches.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "limits the warning to this condition only"
+   }
+  ],
+  "trick": "In caso di makes the warning conditional on low temperature.",
+  "image": "images/q_22179.png"
+ },
+ {
+  "n": 22180,
+  "it": "Il pannello integrativo raffigurato indica, su strade coperte di neve, il pericolo di formazione di ghiaccio",
+  "answer": true,
+  "en": "The supplementary panel shown indicates, on roads covered with snow, the danger of ice forming.",
+  "keywords": [
+   {
+    "phrase": "il pericolo di formazione di ghiaccio",
+    "why": "refers to risk of ice forming, not ice already present"
+   }
+  ],
+  "trick": "The trap is that it warns of possible ice formation, not necessarily existing ice.",
+  "image": "images/q_22180.png"
+ },
+ {
+  "n": 22181,
+  "it": "Il pannello integrativo raffigurato invita ad usare particolare prudenza, perché la strada può essere ghiacciata",
+  "answer": true,
+  "en": "The supplementary panel shown advises using particular caution, because the road may be icy.",
+  "keywords": [
+   {
+    "phrase": "invita ad usare",
+    "why": "gives advice, not a strict obligation"
+   },
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The sentence advises caution because ice is possible, not certain.",
+  "image": "images/q_22181.png"
+ },
+ {
+  "n": 22182,
+  "it": "Il segnale raffigurato indica strada sdrucciolevole per ghiaccio, in caso di bassa temperatura",
+  "answer": true,
+  "en": "The sign shown indicates a slippery road due to ice, in the event of low temperature.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "limits the warning to this condition only"
+   }
+  ],
+  "trick": "In caso di restricts the slippery-road warning to low-temperature conditions.",
+  "image": "images/q_22182.png"
+ },
+ {
+  "n": 22183,
+  "it": "Il pannello integrativo raffigurato indica la presenza nelle vicinanze di impianti di risalita",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the presence of ski lifts nearby.",
+  "keywords": [
+   {
+    "phrase": "nelle vicinanze",
+    "why": "limits the meaning to nearby, not exactly at the spot"
+   }
+  ],
+  "trick": "\"nelle vicinanze\" means nearby, which narrows the location.",
+  "image": "images/q_22183.png"
+ },
+ {
+  "n": 22184,
+  "it": "Il pannello integrativo raffigurato indica la strada da prendere per raggiungere le alpi",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the road to take to reach the Alps.",
+  "keywords": [],
+  "trick": "There are no major trap words; the sentence is straightforward.",
+  "image": "images/q_22184.png"
+ },
+ {
+  "n": 22185,
+  "it": "Il pannello integrativo raffigurato indica la presenza nelle vicinanze di una stazione sciistica",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the presence of a ski resort nearby.",
+  "keywords": [
+   {
+    "phrase": "nelle vicinanze",
+    "why": "limits the meaning to nearby, not exactly at the spot"
+   }
+  ],
+  "trick": "\"nelle vicinanze\" means nearby, not directly here.",
+  "image": "images/q_22185.png"
+ },
+ {
+  "n": 22186,
+  "it": "Il pannello integrativo raffigurato invita ad usare le luci di emergenza durante la sosta",
+  "answer": false,
+  "en": "The supplementary panel shown advises you to use the hazard lights while parked.",
+  "keywords": [
+   {
+    "phrase": "invita ad usare",
+    "why": "expresses advice, not a strict obligation"
+   },
+   {
+    "phrase": "durante la sosta",
+    "why": "limits the action to while stopped or parked"
+   }
+  ],
+  "trick": "The tricky part is that it gives advice and applies only during parking/stopping.",
+  "image": "images/q_22186.png"
+ },
+ {
+  "n": 22187,
+  "it": "Il pannello integrativo raffigurato invita a non usare i fari abbaglianti",
+  "answer": false,
+  "en": "The supplementary panel shown advises you not to use full-beam headlights.",
+  "keywords": [
+   {
+    "phrase": "invita a non usare",
+    "why": "advises against an action, not a formal prohibition"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   }
+  ],
+  "trick": "The meaning turns on the negation and on advice rather than a strict ban.",
+  "image": "images/q_22187.png"
+ },
+ {
+  "n": 22188,
+  "it": "Il pannello integrativo raffigurato indica una zona dove nevica spesso",
+  "answer": false,
+  "en": "The supplementary panel shown indicates an area where it often snows.",
+  "keywords": [
+   {
+    "phrase": "spesso",
+    "why": "means often, not always"
+   }
+  ],
+  "trick": "\"spesso\" is frequency language and does not mean always.",
+  "image": "images/q_22188.png"
+ },
+ {
+  "n": 22201,
+  "it": "Il pannello integrativo raffigurato indica un tratto di strada in salita con probabile presenza di autocarri che marciano a bassa velocità",
+  "answer": true,
+  "en": "The supplementary panel shown indicates an uphill stretch of road with the likely presence of lorries travelling at low speed.",
+  "keywords": [
+   {
+    "phrase": "probabile presenza",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "a bassa velocità",
+    "why": "means at low speed, not stopped"
+   }
+  ],
+  "trick": "The key traps are that the lorries are only likely to be present and are moving slowly, not stationary.",
+  "image": "images/q_22201.png"
+ },
+ {
+  "n": 22202,
+  "it": "Il pannello integrativo raffigurato indica un tratto di strada in ripida salita che costringe gli autocarri a rallentare",
+  "answer": true,
+  "en": "The supplementary panel shown indicates a steep uphill stretch of road that forces lorries to slow down.",
+  "keywords": [
+   {
+    "phrase": "ripida salita",
+    "why": "means steep uphill, stronger than just uphill"
+   },
+   {
+    "phrase": "costringe",
+    "why": "shows the slope causes or compels the slowing"
+   }
+  ],
+  "trick": "The sentence stresses a steep ascent that effectively forces heavy vehicles to reduce speed.",
+  "image": "images/q_22202.png"
+ },
+ {
+  "n": 22203,
+  "it": "Il pannello integrativo raffigurato indica di fare attenzione per la probabile presenza di veicoli pesanti in lento movimento",
+  "answer": true,
+  "en": "The supplementary panel shown indicates that you should be careful because of the likely presence of heavy vehicles moving slowly.",
+  "keywords": [
+   {
+    "phrase": "probabile presenza",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "lento movimento",
+    "why": "means moving slowly, not stopped"
+   }
+  ],
+  "trick": "The warning is about possible heavy vehicles that are still moving, just slowly.",
+  "image": "images/q_22203.png"
+ },
+ {
+  "n": 22204,
+  "it": "Il presenza del segnale raffigurato il conducente deve moderare la velocità per la possibile presenza di autocarri in lento movimento",
+  "answer": true,
+  "en": "In the presence of the sign shown, the driver must reduce speed because of the possible presence of slowly moving lorries.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "possibile presenza",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "in lento movimento",
+    "why": "means moving slowly, not stationary"
+   }
+  ],
+  "trick": "The sentence combines a clear obligation with a hazard that is only possible, not guaranteed.",
+  "image": "images/q_22204.png"
+ },
+ {
+  "n": 22205,
+  "it": "Il pannello integrativo raffigurato indica di circolare ad una velocità prudenziale, per evitare incidenti con gli autocarri che potrebbero stare davanti",
+  "answer": true,
+  "en": "The supplementary panel shown indicates that you should travel at a prudent speed to avoid accidents with lorries that might be ahead.",
+  "keywords": [
+   {
+    "phrase": "velocità prudenziale",
+    "why": "means a cautious or prudent speed, not a fixed speed"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "It refers to a cautious speed and to lorries that may be ahead, not definitely are.",
+  "image": "images/q_22205.png"
+ },
+ {
+  "n": 22206,
+  "it": "Il pannello integrativo raffigurato indica un tratto di strada chiuso a causa di un tamponamento",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a stretch of road closed because of a rear-end collision.",
+  "keywords": [
+   {
+    "phrase": "chiuso",
+    "why": "means closed, not just obstructed"
+   },
+   {
+    "phrase": "a causa di",
+    "why": "gives the reason or cause"
+   }
+  ],
+  "trick": "The key meaning is a closure specifically caused by an accident.",
+  "image": "images/q_22206.png"
+ },
+ {
+  "n": 22207,
+  "it": "Il pannello integrativo raffigurato indica che è vietato sorpassare gli autocarri",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that overtaking lorries is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The trap is the formal prohibition expressed by \"è vietato\".",
+  "image": "images/q_22207.png"
+ },
+ {
+  "n": 22208,
+  "it": "Il pannello integrativo raffigurato si trova nei pontili d'imbarco delle navi traghetto",
+  "answer": false,
+  "en": "The supplementary panel shown is found on ferry boarding ramps.",
+  "keywords": [],
+  "trick": "There are no major trap words; the sentence is straightforward.",
+  "image": "images/q_22208.png"
+ },
+ {
+  "n": 22209,
+  "it": "Il pannello integrativo raffigurato indica di diminuire la distanza di sicurezza",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that you should reduce the safety distance.",
+  "keywords": [
+   {
+    "phrase": "diminuire",
+    "why": "means reduce, the opposite of increase"
+   }
+  ],
+  "trick": "The key trap is the verb \"diminuire\", which reverses the direction of the action.",
+  "image": "images/q_22209.png"
+ },
+ {
+  "n": 22210,
+  "it": "Il pannello integrativo raffigurato indica di proseguire con le luci accese",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that you should continue with your lights on.",
+  "keywords": [
+   {
+    "phrase": "proseguire",
+    "why": "means continue onward, not simply switch on"
+   },
+   {
+    "phrase": "luci accese",
+    "why": "means lights already on or to be kept on"
+   }
+  ],
+  "trick": "The sentence is about continuing while keeping the lights on, not merely turning them on once.",
+  "image": "images/q_22210.png"
+ },
+ {
+  "n": 22211,
+  "it": "Il pannello integrativo raffigurato indica che bisogna suonare il clacson ogni qualvolta si sorpassa un autocarro",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that you must sound the horn every time you overtake a lorry.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "ogni qualvolta",
+    "why": "means every time, with no exception"
+   }
+  ],
+  "trick": "The force comes from an obligation that applies on every single occasion.",
+  "image": "images/q_22211.png"
+ },
+ {
+  "n": 22212,
+  "it": "Il pannello integrativo raffigurato segnala la possibilità di poter essere trainati",
+  "answer": false,
+  "en": "The supplementary panel shown signals the possibility of being towed.",
+  "keywords": [
+   {
+    "phrase": "possibilità",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "poter essere trainati",
+    "why": "expresses being able to be towed, not an obligation"
+   }
+  ],
+  "trick": "The sentence refers only to a possibility of towing, not a requirement or certainty.",
+  "image": "images/q_22212.png"
+ },
+ {
+  "n": 22213,
+  "it": "Il pannello integrativo raffigurato indica che il veicolo lasciato in sosta può essere portato via dal carro-attrezzi",
+  "answer": true,
+  "en": "The supplementary panel shown indicates that a vehicle left parked may be removed by a tow truck.",
+  "keywords": [
+   {
+    "phrase": "può essere portato via",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "in sosta",
+    "why": "specifically refers to a parked or stationary vehicle"
+   }
+  ],
+  "trick": "The key meaning is that a parked vehicle may be removed, not that it will always be removed.",
+  "image": "images/q_22213.png"
+ },
+ {
+  "n": 22214,
+  "it": "Il segnale raffigurato indica che il veicolo può essere spostato in una depositeria comunale",
+  "answer": true,
+  "en": "The sign shown indicates that the vehicle may be taken to a municipal vehicle pound.",
+  "keywords": [
+   {
+    "phrase": "può essere spostato",
+    "why": "indicates possibility, not certainty"
+   }
+  ],
+  "trick": "The crucial point is that removal to the municipal depot is possible, not automatic.",
+  "image": "images/q_22214.png"
+ },
+ {
+  "n": 22215,
+  "it": "In presenza del segnale raffigurato i veicoli al servizio di persone diversamente abili, muniti di apposito contrassegno, non possono essere portati nella depositeria comunale, né bloccati con le ganasce",
+  "answer": true,
+  "en": "In the presence of the sign shown, vehicles used to serve disabled persons, provided with the proper permit, may not be taken to the municipal impound lot nor immobilized with wheel clamps.",
+  "keywords": [
+   {
+    "phrase": "In presenza del",
+    "why": "means when this sign is present, not a general rule"
+   },
+   {
+    "phrase": "non possono",
+    "why": "negates permission"
+   },
+   {
+    "phrase": "né",
+    "why": "adds a second negative condition"
+   },
+   {
+    "phrase": "muniti di apposito contrassegno",
+    "why": "restricts the rule to vehicles with the proper permit"
+   }
+  ],
+  "trick": "The key traps are the restricted condition and the double negative prohibition.",
+  "image": "images/q_22215.png"
+ },
+ {
+  "n": 22216,
+  "it": "Il pannello integrativo raffigurato indica una zona di divieto di sosta con rimozione del veicolo",
+  "answer": true,
+  "en": "The supplementary panel shown indicates a no-parking zone with removal of the vehicle.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the main point is the sign meaning.",
+  "image": "images/q_22216.png"
+ },
+ {
+  "n": 22217,
+  "it": "Il segnale raffigurato prevede lo spostamento del veicolo o il suo blocco tramite ganasce",
+  "answer": true,
+  "en": "The sign shown provides for the vehicle to be moved or immobilized by means of wheel clamps.",
+  "keywords": [
+   {
+    "phrase": "o",
+    "why": "shows an alternative, not both together"
+   }
+  ],
+  "trick": "The main trap is that the statement gives two alternative enforcement actions.",
+  "image": "images/q_22217.png"
+ },
+ {
+  "n": 22218,
+  "it": "Il pannello integrativo raffigurato indica la presenza di officine attrezzate per il soccorso stradale",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the presence of workshops equipped for roadside assistance.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the main point is the sign meaning.",
+  "image": "images/q_22218.png"
+ },
+ {
+  "n": 22219,
+  "it": "Il pannello integrativo raffigurato indica l'imbarco delle autovetture sui treni merce",
+  "answer": false,
+  "en": "The supplementary panel shown indicates the loading of cars onto freight trains.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the main point is the sign meaning.",
+  "image": "images/q_22219.png"
+ },
+ {
+  "n": 22220,
+  "it": "Il pannello integrativo raffigurato indica un'officina meccanica attrezzata per il cambio d'olio",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a mechanical workshop equipped for an oil change.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the main point is the sign meaning.",
+  "image": "images/q_22220.png"
+ },
+ {
+  "n": 22221,
+  "it": "Il pannello integrativo raffigurato indica che possono sostare i veicoli per il soccorso stradale",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that roadside assistance vehicles may park.",
+  "keywords": [
+   {
+    "phrase": "possono sostare",
+    "why": "expresses permission to park"
+   }
+  ],
+  "trick": "The key trap is the permission idea expressed by 'may park'.",
+  "image": "images/q_22221.png"
+ },
+ {
+  "n": 22222,
+  "it": "Il pannello integrativo raffigurato indica che dopo tre ore il veicolo lasciato in sosta viene rimosso o bloccato",
+  "answer": false,
+  "en": "The supplementary panel shown indicates that after three hours the parked vehicle is removed or immobilized.",
+  "keywords": [
+   {
+    "phrase": "dopo tre ore",
+    "why": "limits the rule to a time condition"
+   },
+   {
+    "phrase": "o",
+    "why": "shows an alternative, not both together"
+   }
+  ],
+  "trick": "The traps are the time condition and the alternative between removal and immobilization.",
+  "image": "images/q_22222.png"
+ },
+ {
+  "n": 22223,
+  "it": "Il pannello integrativo raffigurato indica una strada chiusa per incidente",
+  "answer": false,
+  "en": "The supplementary panel shown indicates a road closed because of an accident.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the main point is the sign meaning.",
+  "image": "images/q_22223.png"
+ },
+ {
+  "n": 22261,
+  "it": "Il segnale in figura consente l'accesso solo agli autobus",
+  "answer": true,
+  "en": "The sign shown allows access only to buses.",
+  "keywords": [
+   {
+    "phrase": "consente",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule exclusively to this vehicle type"
+   }
+  ],
+  "trick": "The traps are permission and the exclusivity expressed by 'only'.",
+  "image": "images/q_22261.png"
+ },
+ {
+  "n": 22262,
+  "it": "Il segnale in figura permette di transitare solo agli autobus",
+  "answer": true,
+  "en": "The sign shown allows only buses to pass through.",
+  "keywords": [
+   {
+    "phrase": "permette",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule exclusively to this vehicle type"
+   }
+  ],
+  "trick": "The traps are permission and the exclusivity expressed by 'only'.",
+  "image": "images/q_22262.png"
+ },
+ {
+  "n": 22263,
+  "it": "Il segnale in figura indica che possono parcheggiare tutti i veicoli tranne gli autobus",
+  "answer": true,
+  "en": "The sign shown indicates that all vehicles except buses may park.",
+  "keywords": [
+   {
+    "phrase": "tutti i veicoli tranne gli autobus",
+    "why": "creates an exception excluding buses"
+   }
+  ],
+  "trick": "The key trap is the exception: all vehicles are included except buses.",
+  "image": "images/q_22263.png"
+ },
+ {
+  "n": 22264,
+  "it": "Il pannello integrativo in figura può essere abbinato ad un segnale di obbligo",
+  "answer": true,
+  "en": "The supplementary panel shown may be combined with a mandatory sign.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "indicates possibility, not obligation"
+   }
+  ],
+  "trick": "The main trap is that it says 'may be' combined, not 'must be' combined.",
+  "image": "images/q_22264.png"
+ },
+ {
+  "n": 22265,
+  "it": "Il pannello integrativo in figura può essere abbinato ad un segnale di divieto",
+  "answer": true,
+  "en": "The supplementary panel shown may be combined with a prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "indicates possibility, not obligation"
+   }
+  ],
+  "trick": "The main trap is that it says 'may be' combined, not 'must be' combined.",
+  "image": "images/q_22265.png"
+ },
+ {
+  "n": 22266,
+  "it": "Il segnale in figura vieta l'accesso agli autobus",
+  "answer": false,
+  "en": "The sign shown prohibits access to buses.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition meaning of 'vieta'.",
+  "image": "images/q_22266.png"
+ },
+ {
+  "n": 22267,
+  "it": "Il segnale in figura vieta il transito agli autobus",
+  "answer": false,
+  "en": "The sign shown prohibits buses from passing through.",
+  "keywords": [
+   {
+    "phrase": "vieta",
+    "why": "expresses prohibition"
+   }
+  ],
+  "trick": "The key trap is the prohibition meaning of 'vieta'.",
+  "image": "images/q_22267.png"
+ },
+ {
+  "n": 22268,
+  "it": "Il pannello integrativo in figura può trovarsi da solo",
+  "answer": false,
+  "en": "The supplementary panel shown can be found on its own.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "indicates possibility, not certainty"
+   },
+   {
+    "phrase": "da solo",
+    "why": "means by itself, without another sign"
+   }
+  ],
+  "trick": "The traps are the possibility expressed by 'can' and the idea of being used alone.",
+  "image": "images/q_22268.png"
+ },
+ {
+  "n": 22269,
+  "it": "Il pannello integrativo in figura vale solo per gli autobus urbani",
+  "answer": false,
+  "en": "The supplementary panel shown applies only to urban buses.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule exclusively to this case"
+   }
+  ],
+  "trick": "The key trap is the restriction expressed by 'only'.",
+  "image": "images/q_22269.png"
+ },
+ {
+  "n": 22270,
+  "it": "Il conducente deve regolare la velocità in relazione alle caratteristiche del veicolo",
+  "answer": true,
+  "en": "The driver must adjust speed according to the characteristics of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is that 'deve' expresses a duty, not a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 22271,
+  "it": "Il conducente deve regolare la velocità in relazione allo stato del veicolo",
+  "answer": true,
+  "en": "The driver must adjust speed according to the condition of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key trap is that 'deve' expresses a duty, not a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 22272,
+  "it": "Il conducente deve regolare la velocità in relazione al carico del veicolo",
+  "answer": true,
+  "en": "The driver must adjust speed in relation to the vehicle's load.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "\"deve\" makes this a legal requirement.",
+  "image": ""
+ },
+ {
+  "n": 22273,
+  "it": "Il conducente deve regolare la velocità in relazione alle caratteristiche della strada",
+  "answer": true,
+  "en": "The driver must adjust speed in relation to the characteristics of the road.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "\"deve\" makes this a legal requirement.",
+  "image": ""
+ },
+ {
+  "n": 22274,
+  "it": "Il conducente deve regolare la velocità in relazione alle condizioni della strada",
+  "answer": true,
+  "en": "The driver must adjust speed in relation to the condition of the road.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "\"deve\" makes this a legal requirement.",
+  "image": ""
+ },
+ {
+  "n": 22275,
+  "it": "Il conducente deve regolare la velocità in relazione alle condizioni del traffico",
+  "answer": true,
+  "en": "The driver must adjust speed in relation to traffic conditions.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "\"deve\" makes this a legal requirement.",
+  "image": ""
+ },
+ {
+  "n": 22276,
+  "it": "Il conducente deve regolare la velocità in modo da non costituire pericolo di danno alle cose",
+  "answer": true,
+  "en": "The driver must adjust speed so as not to create a risk of damage to property.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   }
+  ],
+  "trick": "The sentence is compulsory and includes a negated purpose: not to create danger.",
+  "image": ""
+ },
+ {
+  "n": 22277,
+  "it": "Il conducente deve regolare la velocità in modo da non costituire pericolo per le persone",
+  "answer": true,
+  "en": "The driver must adjust speed so as not to create a danger to people.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   }
+  ],
+  "trick": "The sentence is compulsory and includes a negated purpose: not to create danger.",
+  "image": ""
+ },
+ {
+  "n": 22278,
+  "it": "Il conducente deve regolare la velocità in modo da non costituire disordine per la circolazione",
+  "answer": true,
+  "en": "The driver must adjust speed so as not to cause disruption to traffic.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   }
+  ],
+  "trick": "The sentence is compulsory and includes a negated purpose: not to cause disruption.",
+  "image": ""
+ },
+ {
+  "n": 22279,
+  "it": "Il conducente deve regolare la velocità entro i limiti massimi consentiti",
+  "answer": true,
+  "en": "The driver must adjust speed within the maximum permitted limits.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "consentiti",
+    "why": "means legally permitted, not merely possible"
+   }
+  ],
+  "trick": "It refers to staying within the legal maximum limits, not just any suitable speed.",
+  "image": ""
+ },
+ {
+  "n": 22280,
+  "it": "Il conducente deve regolare la velocità in modo da rispettare le limitazioni imposte",
+  "answer": true,
+  "en": "The driver must adjust speed so as to comply with the imposed restrictions.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "\"deve\" makes compliance mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22281,
+  "it": "Il conducente deve regolare la velocità in relazione alle condizioni atmosferiche",
+  "answer": true,
+  "en": "The driver must adjust speed in relation to weather conditions.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "\"deve\" makes this a legal requirement.",
+  "image": ""
+ },
+ {
+  "n": 22282,
+  "it": "Il conducente deve regolare la velocità tenendo conto esclusivamente dei limiti massimi",
+  "answer": false,
+  "en": "The driver must adjust speed taking into account exclusively the maximum limits.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "esclusivamente",
+    "why": "restricts the rule to only this factor"
+   }
+  ],
+  "trick": "\"esclusivamente\" is the trap because it wrongly limits speed adjustment to only maximum limits.",
+  "image": ""
+ },
+ {
+  "n": 22283,
+  "it": "Il conducente deve regolare la velocità in relazione alla propria abilità alla guida",
+  "answer": false,
+  "en": "The driver must adjust speed in relation to his or her own driving ability.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "propria",
+    "why": "limits the statement to the driver's own ability"
+   }
+  ],
+  "trick": "The key trap is the claimed factor for speed choice, not the obligation itself.",
+  "image": ""
+ },
+ {
+  "n": 22284,
+  "it": "Il conducente deve regolare la velocità in relazione alla marca dei pneumatici",
+  "answer": false,
+  "en": "The driver must adjust speed in relation to the brand of the tyres.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The trap is the irrelevant factor given as a supposed rule for speed adjustment.",
+  "image": ""
+ },
+ {
+  "n": 22285,
+  "it": "Il conducente deve regolare la velocità in relazione alla distanza del luogo da raggiungere",
+  "answer": false,
+  "en": "The driver must adjust speed in relation to the distance to the destination.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The trap is the irrelevant factor given as a supposed rule for speed adjustment.",
+  "image": ""
+ },
+ {
+  "n": 22286,
+  "it": "Il conducente deve sempre mantenere il controllo del veicolo",
+  "answer": true,
+  "en": "The driver must always maintain control of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "sempre",
+    "why": "means at all times, without exception"
+   }
+  ],
+  "trick": "\"sempre\" makes the obligation apply in every situation.",
+  "image": ""
+ },
+ {
+  "n": 22287,
+  "it": "Il conducente deve sempre essere in grado di arrestare il veicolo in condizioni di sicurezza",
+  "answer": true,
+  "en": "The driver must always be able to stop the vehicle in safe conditions.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "sempre",
+    "why": "means at all times, without exception"
+   }
+  ],
+  "trick": "\"sempre\" makes the obligation apply in every situation.",
+  "image": ""
+ },
+ {
+  "n": 22288,
+  "it": "Il conducente deve poter arrestare il veicolo nel campo di visibilità e in condizioni di sicurezza.",
+  "answer": true,
+  "en": "The driver must be able to stop the vehicle within the visible distance and in safe conditions.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "nel campo di visibilità",
+    "why": "limits stopping distance to what is visible ahead"
+   }
+  ],
+  "trick": "The key trap is that stopping must be possible within the visible area, not beyond it.",
+  "image": ""
+ },
+ {
+  "n": 22289,
+  "it": "E' obbligatorio regolare la velocità nelle curve",
+  "answer": true,
+  "en": "It is compulsory to adjust speed on bends.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "states a legal obligation"
+   }
+  ],
+  "trick": "\"E' obbligatorio\" means it is legally mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22290,
+  "it": "E' obbligatorio regolare la velocità nei tratti di strada a visibilità limitata",
+  "answer": true,
+  "en": "It is compulsory to adjust speed on stretches of road with limited visibility.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "states a legal obligation"
+   },
+   {
+    "phrase": "a visibilità limitata",
+    "why": "restricts the rule to roads where visibility is limited"
+   }
+  ],
+  "trick": "The sentence imposes a legal duty specifically where visibility is limited.",
+  "image": ""
+ },
+ {
+  "n": 22291,
+  "it": "E' obbligatorio regolare la velocità in prossimità delle intersezioni",
+  "answer": true,
+  "en": "It is compulsory to adjust speed near intersections.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "states a legal obligation"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near or approaching, not only at the exact point"
+   }
+  ],
+  "trick": "\"in prossimità\" extends the rule to the approach to intersections, not just the junction itself.",
+  "image": ""
+ },
+ {
+  "n": 22292,
+  "it": "E' obbligatorio regolare la velocità in prossimità delle scuole",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed near schools.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near/in the vicinity of, not only directly at"
+   }
+  ],
+  "trick": "The trap is the mandatory wording and that the rule applies near schools, not just at them.",
+  "image": ""
+ },
+ {
+  "n": 22293,
+  "it": "E' obbligatorio regolare la velocità in prossimità di luoghi frequentati dai bambini",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed near places frequented by children.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near/in the vicinity of, not only directly at"
+   }
+  ],
+  "trick": "The trap is the mandatory wording and that the rule applies near places used by children.",
+  "image": ""
+ },
+ {
+  "n": 22294,
+  "it": "E' obbligatorio regolare la velocità nelle forti discese",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed on steep downhill stretches.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "forti discese",
+    "why": "refers specifically to steep descents"
+   }
+  ],
+  "trick": "The trap is that this is a duty, specifically in steep downhill sections.",
+  "image": ""
+ },
+ {
+  "n": 22295,
+  "it": "E' obbligatorio regolare la velocità nei passaggi stretti",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed at narrow passages.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "passaggi stretti",
+    "why": "refers to narrow sections where space is limited"
+   }
+  ],
+  "trick": "The trap is the obligation to adapt speed in narrow passageways.",
+  "image": ""
+ },
+ {
+  "n": 22296,
+  "it": "E' obbligatorio regolare la velocità nei passaggi ingombrati",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed at obstructed passages.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "passaggi ingombrati",
+    "why": "means passages obstructed or encumbered by obstacles"
+   }
+  ],
+  "trick": "The trap is that speed must be adjusted where passages are obstructed.",
+  "image": ""
+ },
+ {
+  "n": 22297,
+  "it": "E' obbligatorio regolare la velocità nelle ore notturne",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed during the night hours.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "ore notturne",
+    "why": "restricts the rule to nighttime hours"
+   }
+  ],
+  "trick": "The trap is that this is an obligation specifically during nighttime.",
+  "image": ""
+ },
+ {
+  "n": 22298,
+  "it": "E' obbligatorio regolare la velocità nell'attraversamento di abitati",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed when passing through built-up areas.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "nell'attraversamento di abitati",
+    "why": "means when passing through inhabited/built-up areas"
+   }
+  ],
+  "trick": "The trap is the mandatory rule while travelling through built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 22299,
+  "it": "E' obbligatorio regolare la velocità nei tratti di strada fiancheggiati da edifici",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed on stretches of road lined with buildings.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "fiancheggiati da edifici",
+    "why": "limits the rule to roads bordered by buildings"
+   }
+  ],
+  "trick": "The trap is that the obligation applies on road sections lined with buildings.",
+  "image": ""
+ },
+ {
+  "n": 22300,
+  "it": "E' obbligatorio ridurre la velocità quando sia difficoltoso l'incrocio con altri veicoli",
+  "answer": true,
+  "en": "It is mandatory to reduce your speed when passing oncoming vehicles is difficult.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "quando sia difficoltoso",
+    "why": "sets the condition only when it is difficult"
+   },
+   {
+    "phrase": "l'incrocio con altri veicoli",
+    "why": "means passing/crossing with other vehicles, not a road junction"
+   }
+  ],
+  "trick": "The trap is that speed reduction is required when meeting other vehicles is difficult.",
+  "image": ""
+ },
+ {
+  "n": 22301,
+  "it": "E' obbligatorio regolare la velocità in caso di nebbia o foschia",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed in case of fog or mist.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "sets the condition in the event of"
+   },
+   {
+    "phrase": "nebbia o foschia",
+    "why": "covers both dense fog and lighter mist"
+   }
+  ],
+  "trick": "The trap is that the obligation applies whenever there is fog or mist.",
+  "image": ""
+ },
+ {
+  "n": 22302,
+  "it": "E' obbligatorio regolare la velocità nei tratti di strada coperti da neve",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed on stretches of road covered with snow.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "coperti da neve",
+    "why": "limits the rule to road sections covered with snow"
+   }
+  ],
+  "trick": "The trap is that the obligation applies on snowy road sections.",
+  "image": ""
+ },
+ {
+  "n": 22303,
+  "it": "E' obbligatorio regolare la velocità nei tratti di strada coperti da ghiaccio",
+  "answer": true,
+  "en": "It is mandatory to adjust your speed on stretches of road covered with ice.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "coperti da ghiaccio",
+    "why": "limits the rule to road sections covered with ice"
+   }
+  ],
+  "trick": "The trap is that the obligation applies on icy road sections.",
+  "image": ""
+ },
+ {
+  "n": 22304,
+  "it": "E' obbligatorio ridurre la velocità su strada a senso unico",
+  "answer": false,
+  "en": "It is mandatory to reduce your speed on a one-way road.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "means one-way, which does not itself create this duty"
+   }
+  ],
+  "trick": "The trap is that one-way traffic alone does not automatically require reducing speed.",
+  "image": ""
+ },
+ {
+  "n": 22305,
+  "it": "E' obbligatorio ridurre la velocità fuori dai centri abitati",
+  "answer": false,
+  "en": "It is mandatory to reduce your speed outside built-up areas.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "fuori dai centri abitati",
+    "why": "means outside built-up areas, not always a reason by itself"
+   }
+  ],
+  "trick": "The trap is that being outside built-up areas alone does not automatically require reducing speed.",
+  "image": ""
+ },
+ {
+  "n": 22306,
+  "it": "E' obbligatorio ridurre la velocità nelle strade provinciali",
+  "answer": false,
+  "en": "It is mandatory to reduce your speed on provincial roads.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "strade provinciali",
+    "why": "road type alone does not automatically create this duty"
+   }
+  ],
+  "trick": "The trap is that simply being on a provincial road does not by itself require reducing speed.",
+  "image": ""
+ },
+ {
+  "n": 22307,
+  "it": "E' obbligatorio regolare la velocità nelle ore diurne ma non in quelle notturne",
+  "answer": false,
+  "en": "It is mandatory to adjust your speed during the daytime but not during the night.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast by excluding the second case"
+   },
+   {
+    "phrase": "non in quelle notturne",
+    "why": "negates the rule for nighttime, which is misleading"
+   }
+  ],
+  "trick": "The trap is the contrast: it wrongly excludes nighttime, when speed must also be adjusted.",
+  "image": ""
+ },
+ {
+  "n": 22308,
+  "it": "E' obbligatorio regolare la velocità nei rettilinei e non in curva",
+  "answer": false,
+  "en": "It is mandatory to adjust your speed on straight stretches and not on bends.",
+  "keywords": [
+   {
+    "phrase": "e non in curva",
+    "why": "negates the rule for bends, creating a false contrast"
+   },
+   {
+    "phrase": "in curva",
+    "why": "bends are actually a key case where speed must be adjusted"
+   }
+  ],
+  "trick": "The trap is the false contrast suggesting bends are excluded.",
+  "image": ""
+ },
+ {
+  "n": 22309,
+  "it": "E' obbligatorio ridurre la velocità nelle strade in salita",
+  "answer": false,
+  "en": "It is mandatory to reduce your speed on uphill roads.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in salita",
+    "why": "uphill condition alone does not automatically create this duty"
+   }
+  ],
+  "trick": "The trap is that an uphill road by itself does not automatically require reducing speed.",
+  "image": ""
+ },
+ {
+  "n": 22310,
+  "it": "E' obbligatorio ridurre la velocità in presenza di qualunque segnale stradale",
+  "answer": false,
+  "en": "It is mandatory to reduce your speed in the presence of any road sign.",
+  "keywords": [
+   {
+    "phrase": "in presenza di",
+    "why": "means in the presence of/when there is"
+   },
+   {
+    "phrase": "qualunque",
+    "why": "means any whatsoever, making the claim too broad"
+   },
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The trap is the word 'any', which makes the statement overly broad.",
+  "image": ""
+ },
+ {
+  "n": 22311,
+  "it": "E' obbligatorio ridurre la velocità solo in presenza degli agenti del traffico",
+  "answer": false,
+  "en": "It is mandatory to reduce your speed only in the presence of traffic officers.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "in presenza di",
+    "why": "means in the presence of/when there is"
+   },
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   }
+  ],
+  "trick": "The trap is 'only', which wrongly limits speed reduction to traffic officers being present.",
+  "image": ""
+ },
+ {
+  "n": 22313,
+  "it": "E' obbligatorio regolare la velocità sulle strade extraurbane secondarie, ma non in quelle principali",
+  "answer": false,
+  "en": "It is compulsory to adjust your speed on secondary rural roads, but not on main rural roads.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ma non",
+    "why": "creates a contrast and negates the second part"
+   }
+  ],
+  "trick": "The trap is the negated contrast 'but not on main roads', which makes the statement false.",
+  "image": ""
+ },
+ {
+  "n": 22314,
+  "it": "E' obbligatorio ridurre la velocità solo se l'autovettura è scarica",
+  "answer": false,
+  "en": "It is compulsory to reduce speed only if the car is unloaded.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The word 'only' wrongly limits the obligation to one specific case.",
+  "image": ""
+ },
+ {
+  "n": 22315,
+  "it": "E' obbligatorio ridurre la velocità in prossimità degli autovelox",
+  "answer": false,
+  "en": "It is compulsory to reduce speed near speed cameras.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near or approaching, not exactly at"
+   }
+  ],
+  "trick": "The trap is treating proximity to speed cameras as a specific legal obligation.",
+  "image": ""
+ },
+ {
+  "n": 22316,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando riesce malagevole l'incrocio con altri veicoli",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop when passing other vehicles is difficult.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "quando",
+    "why": "makes the rule apply only in this situation"
+   }
+  ],
+  "trick": "The key trap is 'if necessary', meaning stopping is required only when needed.",
+  "image": ""
+ },
+ {
+  "n": 22317,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in prossimità degli attraversamenti pedonali",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop near pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near or approaching, not exactly at"
+   }
+  ],
+  "trick": "The statement is correct because the duty applies when approaching pedestrian crossings, with stopping if needed.",
+  "image": ""
+ },
+ {
+  "n": 22318,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando i pedoni, che sono sul percorso, tardano a scansarsi",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop when pedestrians on your path are slow to move out of the way.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this situation"
+   }
+  ],
+  "trick": "The trap is that the obligation applies specifically when pedestrians do not clear the path promptly.",
+  "image": ""
+ },
+ {
+  "n": 22319,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando i pedoni, che sono sul percorso, danno segni d'incertezza",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop when pedestrians on your path show signs of uncertainty.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this situation"
+   }
+  ],
+  "trick": "The key point is that uncertain pedestrian behavior triggers the obligation.",
+  "image": ""
+ },
+ {
+  "n": 22320,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando gli animali che si trovano sulla strada danno segni di spavento",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop when animals on the road show signs of fear.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this situation"
+   }
+  ],
+  "trick": "The obligation applies specifically when frightened animals are on the road.",
+  "image": ""
+ },
+ {
+  "n": 22321,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi quando si rimane abbagliati",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop when you are dazzled.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this situation"
+   }
+  ],
+  "trick": "The rule applies when glare impairs vision, with stopping if needed.",
+  "image": ""
+ },
+ {
+  "n": 22322,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in corrispondenza dei passi carrabili",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop at driveways.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "in corrispondenza di",
+    "why": "means at or in correspondence with that location"
+   }
+  ],
+  "trick": "The trap is claiming a specific obligation at driveways, which is not a general rule.",
+  "image": ""
+ },
+ {
+  "n": 22323,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in prossimità delle fermate degli autobus",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop near bus stops.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near or approaching, not exactly at"
+   }
+  ],
+  "trick": "The trap is presenting bus stops as a case with an automatic legal obligation.",
+  "image": ""
+ },
+ {
+  "n": 22324,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi ogni volta che si percorre un cavalcavia",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop every time you drive on an overpass.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "ogni volta che",
+    "why": "means every single time, making it absolute"
+   }
+  ],
+  "trick": "The absolute phrase 'every time' makes the statement false.",
+  "image": ""
+ },
+ {
+  "n": 22325,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in prossimità degli autovelox",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop near speed cameras.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "in prossimità",
+    "why": "means near or approaching, not exactly at"
+   }
+  ],
+  "trick": "The trap is treating speed cameras as a place requiring this specific duty.",
+  "image": ""
+ },
+ {
+  "n": 22326,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi in corrispondenza di qualunque segnale stradale",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop at any road sign.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "qualunque",
+    "why": "means any whatsoever, making it too broad"
+   }
+  ],
+  "trick": "The word 'any' makes the claim overly broad and therefore false.",
+  "image": ""
+ },
+ {
+  "n": 22327,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi all'uscita dei centri abitati",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop when leaving built-up areas.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means if necessary, not always"
+   },
+   {
+    "phrase": "all'uscita",
+    "why": "means on leaving or at the exit of"
+   }
+  ],
+  "trick": "The trap is claiming a general duty at the exit of built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 22328,
+  "it": "Il limite massimo di velocità per un'autovettura sulle autostrade è ordinariamente di 130 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car on motorways is ordinarily 130 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "refers to the legal maximum, not a required speed"
+   },
+   {
+    "phrase": "ordinariamente",
+    "why": "means ordinarily or normally, allowing exceptions"
+   }
+  ],
+  "trick": "The key trap is 'ordinarily', which means this is the normal limit, not an invariable one.",
+  "image": ""
+ },
+ {
+  "n": 22329,
+  "it": "Il limite massimo di velocità per un'autovettura sulle strade extraurbane principali è ordinariamente di 110 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car on main rural roads is ordinarily 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "refers to the legal maximum, not a required speed"
+   },
+   {
+    "phrase": "ordinariamente",
+    "why": "means ordinarily or normally, allowing exceptions"
+   }
+  ],
+  "trick": "The important word is 'ordinarily', showing the figure is the normal limit.",
+  "image": ""
+ },
+ {
+  "n": 22330,
+  "it": "Il limite massimo di velocità per un'autovettura sulle strade extraurbane secondarie è di 90 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car on secondary rural roads is 90 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "refers to the legal maximum, not a required speed"
+   }
+  ],
+  "trick": "The trap is understanding this as a maximum allowed speed, not the speed you must drive at.",
+  "image": ""
+ },
+ {
+  "n": 22331,
+  "it": "Il limite massimo di velocità per un'autovettura nei centri abitati è ordinariamente di 50 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car in built-up areas is ordinarily 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "refers to the legal maximum, not a required speed"
+   },
+   {
+    "phrase": "ordinariamente",
+    "why": "means ordinarily or normally, allowing exceptions"
+   }
+  ],
+  "trick": "The word 'ordinarily' matters because different limits may apply in special cases.",
+  "image": ""
+ },
+ {
+  "n": 22332,
+  "it": "Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate sulle autostrade è ordinariamente di 130 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a motor vehicle up to 3.5 tonnes on motorways is ordinarily 130 km/h.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "includes vehicles up to that weight limit"
+   },
+   {
+    "phrase": "limite massimo",
+    "why": "refers to the legal maximum, not a required speed"
+   },
+   {
+    "phrase": "ordinariamente",
+    "why": "means ordinarily or normally, allowing exceptions"
+   }
+  ],
+  "trick": "The main traps are the weight category and 'ordinarily', which sets the normal maximum.",
+  "image": ""
+ },
+ {
+  "n": 22333,
+  "it": "Il limite massimo di velocità per un autocarro fino a 3,5 tonnellate sulle strade extraurbane principali è di 110 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a goods vehicle up to 3.5 tonnes on main extra-urban roads is 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "fino a",
+    "why": "sets an upper weight limit, not an approximate value"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "specific road category with its own rule"
+   }
+  ],
+  "trick": "Watch the vehicle weight threshold and the exact road type.",
+  "image": ""
+ },
+ {
+  "n": 22334,
+  "it": "Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate sulle strade extraurbane secondarie è di 90 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a motor vehicle up to 3.5 tonnes on secondary extra-urban roads is 90 km/h.",
+  "keywords": [
+   {
+    "phrase": "fino a",
+    "why": "sets an upper weight limit, not an approximate value"
+   },
+   {
+    "phrase": "strade extraurbane secondarie",
+    "why": "specific road category with its own rule"
+   }
+  ],
+  "trick": "The limit depends on both the weight bracket and the precise road category.",
+  "image": ""
+ },
+ {
+  "n": 22335,
+  "it": "Il limite massimo di velocità per un motociclo nei centri abitati, è ordinariamente di 50 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a motorcycle in built-up areas is ordinarily 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "ordinariamente",
+    "why": "means normally, so exceptions may exist"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "\"Ordinariamente\" means this is the normal rule, not an absolute one.",
+  "image": ""
+ },
+ {
+  "n": 22336,
+  "it": "Il limite massimo di velocità per un'autovettura, in presenza di apposito segnale in tratti di autostrade con particolari caratteristiche, è di 150 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car, when a specific sign is present on motorway sections with particular characteristics, is 150 km/h.",
+  "keywords": [
+   {
+    "phrase": "in presenza di apposito segnale",
+    "why": "applies only if the specific sign is present"
+   },
+   {
+    "phrase": "con particolari caratteristiche",
+    "why": "limits the rule to special motorway sections"
+   }
+  ],
+  "trick": "The 150 km/h limit applies only under the stated special conditions and with the proper sign.",
+  "image": ""
+ },
+ {
+  "n": 22337,
+  "it": "Il limite massimo di velocità per un'autovettura in presenza di segnali su una strada urbana con particolari caratteristiche è di 70 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car, when signs are present on an urban road with particular characteristics, is 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "in presenza di segnali",
+    "why": "applies only if signs are present"
+   },
+   {
+    "phrase": "con particolari caratteristiche",
+    "why": "limits the rule to specially qualifying roads"
+   }
+  ],
+  "trick": "This higher limit is conditional, not the standard urban rule.",
+  "image": ""
+ },
+ {
+  "n": 22338,
+  "it": "Il limite massimo di velocità per un'autovettura in caso di precipitazioni atmosferiche sulle autostrade è di 110 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car in case of atmospheric precipitation on motorways is 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "in caso di precipitazioni atmosferiche",
+    "why": "changes the rule only in rain or similar conditions"
+   },
+   {
+    "phrase": "sulle autostrade",
+    "why": "restricts the rule to motorways"
+   }
+  ],
+  "trick": "Bad weather changes the motorway limit from the normal one.",
+  "image": ""
+ },
+ {
+  "n": 22339,
+  "it": "Il limite massimo di velocità per un'autovettura in caso di precipitazioni atmosferiche su strade extraurbane principali è di 90 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a car in case of atmospheric precipitation on main extra-urban roads is 90 km/h.",
+  "keywords": [
+   {
+    "phrase": "in caso di precipitazioni atmosferiche",
+    "why": "changes the rule only in rain or similar conditions"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "specific road category with its own rule"
+   }
+  ],
+  "trick": "The weather condition and the exact road type both matter here.",
+  "image": ""
+ },
+ {
+  "n": 22340,
+  "it": "Il limite massimo di velocità per i ciclomotori è di 45 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for mopeds is 45 km/h.",
+  "keywords": [],
+  "trick": "No major trap word here; the key is the exact vehicle category.",
+  "image": ""
+ },
+ {
+  "n": 22341,
+  "it": "Il limite massimo di velocità per i quadricicli non leggeri, fuori dai centri urbani, è di 80 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for non-light quadricycles, outside built-up areas, is 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "non leggeri",
+    "why": "excludes light quadricycles from this rule"
+   },
+   {
+    "phrase": "fuori dai centri urbani",
+    "why": "applies only outside built-up areas"
+   }
+  ],
+  "trick": "The rule is limited by both the quadricycle type and the location.",
+  "image": ""
+ },
+ {
+  "n": 22342,
+  "it": "Il limite massimo di velocità per un'autovettura su una qualsiasi autostrada è di 150 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a car on any motorway is 150 km/h.",
+  "keywords": [
+   {
+    "phrase": "qualsiasi",
+    "why": "means any motorway without exception"
+   }
+  ],
+  "trick": "\"Qualsiasi\" makes the statement too absolute.",
+  "image": ""
+ },
+ {
+  "n": 22343,
+  "it": "Il limite massimo di velocità per un'autovettura su una strada extraurbana principale è di 90 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a car on a main extra-urban road is 90 km/h.",
+  "keywords": [
+   {
+    "phrase": "strada extraurbana principale",
+    "why": "specific road category often confused with others"
+   }
+  ],
+  "trick": "The trap is confusing this road type with a different speed category.",
+  "image": ""
+ },
+ {
+  "n": 22344,
+  "it": "Il limite massimo di velocità per un'autovettura su una strada extraurbana secondaria è di 70 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a car on a secondary extra-urban road is 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "strada extraurbana secondaria",
+    "why": "specific road category often confused with others"
+   }
+  ],
+  "trick": "The exact extra-urban road category determines the correct limit.",
+  "image": ""
+ },
+ {
+  "n": 22345,
+  "it": "Il limite massimo di velocità per un'autovettura nei centri abitati è sempre di 70 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a car in built-up areas is always 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute with no exceptions"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "\"Sempre\" is the trap because urban limits are not always 70 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22346,
+  "it": "Il limite massimo di velocità per un'autovettura nei centri abitati è sempre di 50 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a car in built-up areas is always 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute with no exceptions"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "The word \"sempre\" is crucial because exceptions to the normal urban limit exist.",
+  "image": ""
+ },
+ {
+  "n": 22347,
+  "it": "Il limite massimo di velocità dei quadricicli fuori dai centri abitati è di 70 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for quadricycles outside built-up areas is 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "fuori dai centri abitati",
+    "why": "applies only outside built-up areas"
+   }
+  ],
+  "trick": "The location matters, but the statement also hides a vehicle-type distinction.",
+  "image": ""
+ },
+ {
+  "n": 22348,
+  "it": "Il limite massimo di velocità degli autocarri nei centri abitati è di 40 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for goods vehicles in built-up areas is 40 km/h.",
+  "keywords": [
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "The trap is the incorrect numeric limit for this location.",
+  "image": ""
+ },
+ {
+  "n": 22349,
+  "it": "Il limite massimo di velocità per un autocarro di massa complessiva fino a 3,5 tonnellate sulle autostrade è di 120 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a goods vehicle with a maximum authorised mass up to 3.5 tonnes on motorways is 120 km/h.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper weight limit, not an approximate value"
+   },
+   {
+    "phrase": "sulle autostrade",
+    "why": "restricts the rule to motorways"
+   }
+  ],
+  "trick": "The weight threshold is important, but the stated motorway limit is wrong.",
+  "image": ""
+ },
+ {
+  "n": 22350,
+  "it": "Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate sulle strade extraurbane principali è di 80 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a motor vehicle up to 3.5 tonnes on main extra-urban roads is 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper weight limit, not an approximate value"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "specific road category with its own rule"
+   }
+  ],
+  "trick": "The trap is the wrong speed given for this weight class and road type.",
+  "image": ""
+ },
+ {
+  "n": 22351,
+  "it": "Il limite massimo di velocità per un autoveicolo fino a 3,5 tonnellate nei centri abitati è di 40 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a motor vehicle up to 3.5 tonnes in built-up areas is 40 km/h.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper weight limit, not an approximate value"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "The statement is false because the urban speed given is too low for this class.",
+  "image": ""
+ },
+ {
+  "n": 22352,
+  "it": "Il limite massimo di velocità per qualsiasi veicolo nei centri abitati è di 60 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for any vehicle in built-up areas is 60 km/h.",
+  "keywords": [
+   {
+    "phrase": "qualsiasi veicolo",
+    "why": "makes the claim apply to every vehicle without exception"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "restricts the rule to built-up areas"
+   }
+  ],
+  "trick": "\"Qualsiasi veicolo\" makes the statement overly broad and absolute.",
+  "image": ""
+ },
+ {
+  "n": 22353,
+  "it": "Il limite massimo di velocità per una macchina agricola con pneumatici è di 50 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for an agricultural machine with pneumatic tyres is 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "means the top permitted speed, not a general speed."
+   }
+  ],
+  "trick": "\"limite massimo\" sets the highest legally allowed speed.",
+  "image": ""
+ },
+ {
+  "n": 22354,
+  "it": "Il limite massimo di velocità per una macchina operatrice gommata è di 50 km/h",
+  "answer": false,
+  "en": "The maximum speed limit for a wheeled work machine is 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "means the top permitted speed, not a general speed."
+   }
+  ],
+  "trick": "\"limite massimo\" sets the highest legally allowed speed.",
+  "image": ""
+ },
+ {
+  "n": 22355,
+  "it": "Il limite massimo di velocità per una macchina agricola gommata è di 40 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a wheeled agricultural machine is 40 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "means the top permitted speed, not a general speed."
+   }
+  ],
+  "trick": "\"limite massimo\" sets the highest legally allowed speed.",
+  "image": ""
+ },
+ {
+  "n": 22356,
+  "it": "Il limite massimo di velocità per una macchina operatrice gommata è di 40 km/h",
+  "answer": true,
+  "en": "The maximum speed limit for a wheeled work machine is 40 km/h.",
+  "keywords": [
+   {
+    "phrase": "limite massimo",
+    "why": "means the top permitted speed, not a general speed."
+   }
+  ],
+  "trick": "\"limite massimo\" sets the highest legally allowed speed.",
+  "image": ""
+ },
+ {
+  "n": 22357,
+  "it": "Il limite di velocità sulle autostrade per coloro che hanno conseguito la patente da meno di 3 anni è di 100 km/h",
+  "answer": true,
+  "en": "The speed limit on motorways for those who obtained their driving licence less than 3 years ago is 100 km/h.",
+  "keywords": [
+   {
+    "phrase": "da meno di 3 anni",
+    "why": "restricts the rule to drivers licensed for under 3 years."
+   }
+  ],
+  "trick": "\"da meno di 3 anni\" limits the statement to new drivers within the first three years.",
+  "image": ""
+ },
+ {
+  "n": 22358,
+  "it": "Il limite di velocità sulle strade extraurbane principali per coloro che hanno conseguito la patente da meno di 3 anni è di 90 km/h",
+  "answer": true,
+  "en": "The speed limit on main extra-urban roads for those who obtained their driving licence less than 3 years ago is 90 km/h.",
+  "keywords": [
+   {
+    "phrase": "da meno di 3 anni",
+    "why": "restricts the rule to drivers licensed for under 3 years."
+   }
+  ],
+  "trick": "\"da meno di 3 anni\" limits the statement to new drivers within the first three years.",
+  "image": ""
+ },
+ {
+  "n": 22359,
+  "it": "Viaggiare ad alta velocità incide sul consumo di carburante e sull'inquinamento ambientale",
+  "answer": true,
+  "en": "Travelling at high speed affects fuel consumption and environmental pollution.",
+  "keywords": [],
+  "trick": "There are no major trap words here; it is a straightforward statement of effect.",
+  "image": ""
+ },
+ {
+  "n": 22360,
+  "it": "Brusche variazioni di velocità comportano maggior consumo di carburante",
+  "answer": true,
+  "en": "Sudden changes in speed lead to higher fuel consumption.",
+  "keywords": [],
+  "trick": "There are no major trap words here; it is a straightforward cause-and-effect statement.",
+  "image": ""
+ },
+ {
+  "n": 22361,
+  "it": "La velocità in curva incide sulla tenuta di strada del veicolo",
+  "answer": true,
+  "en": "Speed on a bend affects the vehicle's road holding.",
+  "keywords": [],
+  "trick": "There are no major trap words here; the wording is direct.",
+  "image": ""
+ },
+ {
+  "n": 22362,
+  "it": "L'eccessiva velocità in curva può determinare il ribaltamento del veicolo",
+  "answer": true,
+  "en": "Excessive speed on a bend can cause the vehicle to overturn.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty."
+   }
+  ],
+  "trick": "\"può\" means it can happen, not that it always happens.",
+  "image": ""
+ },
+ {
+  "n": 22363,
+  "it": "I tratti di strada in curva debbono essere percorsi con il pedale della frizione abbassato",
+  "answer": false,
+  "en": "Road sections with bends must be driven through with the clutch pedal depressed.",
+  "keywords": [
+   {
+    "phrase": "debbono",
+    "why": "expresses obligation, not advice."
+   },
+   {
+    "phrase": "abbassato",
+    "why": "means pressed down, which can be misread in driving context."
+   }
+  ],
+  "trick": "\"debbono\" makes it a mandatory claim, and \"abbassato\" means the pedal is held down.",
+  "image": ""
+ },
+ {
+  "n": 22364,
+  "it": "Il limite di velocità sulle autostrade per coloro che hanno conseguito la patente da meno di tre anni è di 110 km/h",
+  "answer": false,
+  "en": "The speed limit on motorways for those who obtained their driving licence less than three years ago is 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "da meno di tre anni",
+    "why": "restricts the rule to drivers licensed for under 3 years."
+   }
+  ],
+  "trick": "\"da meno di tre anni\" limits the statement to new drivers within the first three years.",
+  "image": ""
+ },
+ {
+  "n": 22365,
+  "it": "Il limite di velocità sulle strade extraurbane principali per coloro che hanno conseguito la patente da meno di 3 anni è di 110 km/h",
+  "answer": false,
+  "en": "The speed limit on main extra-urban roads for those who obtained their driving licence less than 3 years ago is 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "da meno di 3 anni",
+    "why": "restricts the rule to drivers licensed for under 3 years."
+   }
+  ],
+  "trick": "\"da meno di 3 anni\" limits the statement to new drivers within the first three years.",
+  "image": ""
+ },
+ {
+  "n": 22366,
+  "it": "Il limite massimo di velocità sulle autostrade è ordinariamente di 130 km/h per le autovetture con carrello appendice",
+  "answer": true,
+  "en": "The maximum speed limit on motorways is ordinarily 130 km/h for passenger cars with a luggage trailer.",
+  "keywords": [
+   {
+    "phrase": "ordinariamente",
+    "why": "means normally or as a general rule, not always."
+   }
+  ],
+  "trick": "\"ordinariamente\" signals the ordinary rule, which may have exceptions.",
+  "image": ""
+ },
+ {
+  "n": 22367,
+  "it": "Il limite massimo di velocità sulle autostrade è di 80 km/h per le autovetture con rimorchio",
+  "answer": true,
+  "en": "The maximum speed limit on motorways is 80 km/h for passenger cars with a trailer.",
+  "keywords": [
+   {
+    "phrase": "con rimorchio",
+    "why": "specifies a towing case, so the limit applies only in that situation."
+   }
+  ],
+  "trick": "\"con rimorchio\" narrows the rule to cars towing a trailer.",
+  "image": ""
+ },
+ {
+  "n": 22368,
+  "it": "Il limite massimo di velocità sulle autostrade è ordinariamente di 130 km/h per i motocicli",
+  "answer": true,
+  "en": "The maximum speed limit on motorways is ordinarily 130 km/h for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "ordinariamente",
+    "why": "means normally or as a general rule, not always."
+   }
+  ],
+  "trick": "\"ordinariamente\" signals the ordinary rule, which may have exceptions.",
+  "image": ""
+ },
+ {
+  "n": 22369,
+  "it": "Il limite massimo di velocità sulle autostrade è ordinariamente di 130 km/h per autocaravan di massa complessiva fino a 3,5 tonnellate",
+  "answer": true,
+  "en": "The maximum speed limit on motorways is ordinarily 130 km/h for motor caravans with a maximum authorised mass up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "ordinariamente",
+    "why": "means normally or as a general rule, not always."
+   },
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper limit and excludes heavier vehicles."
+   }
+  ],
+  "trick": "\"ordinariamente\" gives the general rule, while \"fino a 3,5 tonnellate\" restricts it by weight.",
+  "image": ""
+ },
+ {
+  "n": 22370,
+  "it": "Il limite massimo di velocità sulle autostrade è di 80 km/h per l'autovettura che traina un caravan",
+  "answer": true,
+  "en": "The maximum speed limit on motorways is 80 km/h for a passenger car towing a caravan.",
+  "keywords": [
+   {
+    "phrase": "che traina",
+    "why": "limits the rule to the case where the car is towing."
+   }
+  ],
+  "trick": "\"che traina\" restricts the statement to a car pulling a caravan.",
+  "image": ""
+ },
+ {
+  "n": 22371,
+  "it": "Il limite massimo di velocità sulle strade extraurbane principali è ordinariamente di 110 km/h per i motocicli",
+  "answer": true,
+  "en": "The maximum speed limit on main extra-urban roads is ordinarily 110 km/h for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "ordinariamente",
+    "why": "means normally or as a general rule, not always."
+   }
+  ],
+  "trick": "\"ordinariamente\" signals the ordinary rule, which may have exceptions.",
+  "image": ""
+ },
+ {
+  "n": 22372,
+  "it": "Il limite massimo di velocità sulle strade extraurbane principali è di 110 km/h per autovetture con carrello appendice",
+  "answer": true,
+  "en": "The maximum speed limit on main extra-urban roads is 110 km/h for passenger cars with a luggage trailer.",
+  "keywords": [
+   {
+    "phrase": "con carrello appendice",
+    "why": "specifies a particular attached trailer type, limiting the rule to that case."
+   }
+  ],
+  "trick": "\"con carrello appendice\" narrows the statement to cars with that specific trailer type.",
+  "image": ""
+ },
+ {
+  "n": 22373,
+  "it": "Il limite massimo di velocità sulle strade extraurbane principali è di 70 km/h per autovetture con rimorchio per trasporto imbarcazioni",
+  "answer": true,
+  "en": "The maximum speed limit on main extra-urban roads is 70 km/h for passenger cars with a trailer used to transport boats.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "Watch the exact road type and vehicle/trailer combination, because the limit depends on both.",
+  "image": ""
+ },
+ {
+  "n": 22374,
+  "it": "Il limite massimo di velocità sulle strade extraurbane secondarie è di 90 km/h per i motocicli",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 90 km/h for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "strade extraurbane secondarie",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The road category is the key detail that determines the stated limit.",
+  "image": ""
+ },
+ {
+  "n": 22375,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per autovettura che traina un caravan con massa complessiva di 900 chilogrammi.",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 70 km/h for a passenger car towing a caravan with a total mass of 900 kilograms.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "strade extraurbane secondarie",
+    "why": "specific road category with its own speed rules"
+   },
+   {
+    "phrase": "massa complessiva",
+    "why": "means total overall mass, not empty weight"
+   }
+  ],
+  "trick": "Be careful with the road type and the towing vehicle details, especially total mass.",
+  "image": ""
+ },
+ {
+  "n": 22376,
+  "it": "Il limite massimo di velocità sulle autostrade è di 130 km/h per le autovetture con rimorchio",
+  "answer": false,
+  "en": "The maximum speed limit on motorways is 130 km/h for passenger cars with a trailer.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "autostrade",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "Motorway limits change when a trailer is attached, so the vehicle combination matters.",
+  "image": ""
+ },
+ {
+  "n": 22377,
+  "it": "Il limite massimo di velocità sulle autostrade è di 90 km/h per i motocicli",
+  "answer": false,
+  "en": "The maximum speed limit on motorways is 90 km/h for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "autostrade",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The trap is the exact motorway limit for motorcycles, not the wording itself.",
+  "image": ""
+ },
+ {
+  "n": 22378,
+  "it": "Il limite massimo di velocità sulle autostrade è di 90 km/h per autocaravan",
+  "answer": false,
+  "en": "The maximum speed limit on motorways is 90 km/h for motor caravans.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "autostrade",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The road category and vehicle type together determine whether the number is correct.",
+  "image": ""
+ },
+ {
+  "n": 22379,
+  "it": "Il limite massimo di velocità sulle autostrade è di 70 km/h per autovettura che traina un caravan",
+  "answer": false,
+  "en": "The maximum speed limit on motorways is 70 km/h for a passenger car towing a caravan.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "autostrade",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The trick is the specific speed stated for this towing situation on motorways.",
+  "image": ""
+ },
+ {
+  "n": 22380,
+  "it": "Il limite massimo di velocità sulle autostrade è di 120 km/h per autovettura con carrello appendice in caso di pioggia",
+  "answer": false,
+  "en": "The maximum speed limit on motorways is 120 km/h for a passenger car with a luggage trailer in case of rain.",
+  "keywords": [
+   {
+    "phrase": "in caso di pioggia",
+    "why": "limits the statement to the case of rain"
+   },
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "autostrade",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The phrase about rain changes the rule, so do not read it as a general motorway limit.",
+  "image": ""
+ },
+ {
+  "n": 22381,
+  "it": "Il limite massimo di velocità su strade extraurbane principali è di 100 km/h per i motocicli",
+  "answer": false,
+  "en": "The maximum speed limit on main extra-urban roads is 100 km/h for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The exact road category is what makes the speed figure right or wrong.",
+  "image": ""
+ },
+ {
+  "n": 22382,
+  "it": "Il limite massimo di velocità sulle strade extraurbane principali è di 80 km/h per autovetture con rimorchio per trasporto di imbarcazioni",
+  "answer": false,
+  "en": "The maximum speed limit on main extra-urban roads is 80 km/h for passenger cars with a trailer for transporting boats.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "Do not confuse this vehicle-and-trailer case with the standard limit for cars alone.",
+  "image": ""
+ },
+ {
+  "n": 22383,
+  "it": "Il limite massimo di velocità sulle strade extraurbane secondarie è di 70 km/h per i motocicli",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 70 km/h for motorcycles.",
+  "keywords": [
+   {
+    "phrase": "limite massimo di velocità",
+    "why": "means the maximum permitted speed"
+   },
+   {
+    "phrase": "strade extraurbane secondarie",
+    "why": "specific road category with its own speed rules"
+   }
+  ],
+  "trick": "The road type is the decisive detail for the motorcycle speed limit.",
+  "image": ""
+ },
+ {
+  "n": 22384,
+  "it": "La velocità dei veicoli deve essere regolata in modo da non causare intralcio alla circolazione",
+  "answer": true,
+  "en": "The speed of vehicles must be adjusted so as not to cause an obstruction to traffic.",
+  "keywords": [
+   {
+    "phrase": "deve essere regolata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non causare",
+    "why": "negates the verb"
+   }
+  ],
+  "trick": "The sentence imposes a duty and includes a negative result that must be avoided.",
+  "image": ""
+ },
+ {
+  "n": 22385,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi negli incroci, per far passare i veicoli cui spetti la precedenza",
+  "answer": true,
+  "en": "It is compulsory to reduce speed and, if necessary, stop at intersections to let vehicles that have right of way pass.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means only if necessary"
+   },
+   {
+    "phrase": "spetti la precedenza",
+    "why": "means they are entitled to right of way"
+   }
+  ],
+  "trick": "This is a mandatory rule, but stopping is required only when necessary.",
+  "image": ""
+ },
+ {
+  "n": 22386,
+  "it": "E' obbligatorio ridurre la velocità e all'occorrenza fermarsi da mezz'ora prima del tramonto a mezz'ora dopo il sorgere del sole",
+  "answer": false,
+  "en": "It is compulsory to reduce speed and, if necessary, stop from half an hour before sunset to half an hour after sunrise.",
+  "keywords": [
+   {
+    "phrase": "E' obbligatorio",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "all'occorrenza",
+    "why": "means only if necessary"
+   },
+   {
+    "phrase": "da mezz'ora prima del tramonto a mezz'ora dopo il sorgere del sole",
+    "why": "sets a specific time range"
+   }
+  ],
+  "trick": "The trap is the time-based condition, which wrongly presents this as a general obligation for those hours.",
+  "image": ""
+ },
+ {
+  "n": 22387,
+  "it": "Si è tenuti a regolare la velocità in funzione del tipo di alimentazione del motore",
+  "answer": false,
+  "en": "You are required to adjust your speed according to the type of engine fuel.",
+  "keywords": [
+   {
+    "phrase": "Si è tenuti a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in funzione di",
+    "why": "means according to or depending on"
+   }
+  ],
+  "trick": "The wording sounds formal and mandatory, so the false part is the criterion given, not the grammar.",
+  "image": ""
+ },
+ {
+  "n": 22388,
+  "it": "Si è tenuti a regolare la velocità in funzione della velocità dei veicoli che seguono",
+  "answer": false,
+  "en": "You are required to adjust your speed according to the speed of the vehicles behind you.",
+  "keywords": [
+   {
+    "phrase": "Si è tenuti a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in funzione di",
+    "why": "means according to or depending on"
+   }
+  ],
+  "trick": "The sentence imposes a duty, but the misleading part is what speed is said to depend on.",
+  "image": ""
+ },
+ {
+  "n": 22389,
+  "it": "Si è tenuti a regolare la velocità in funzione del tipo di cambio di velocità",
+  "answer": false,
+  "en": "You are required to adjust your speed according to the type of gearbox.",
+  "keywords": [
+   {
+    "phrase": "Si è tenuti a",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in funzione di",
+    "why": "means according to or depending on"
+   }
+  ],
+  "trick": "The obligation wording is straightforward; the trap is the incorrect factor mentioned.",
+  "image": ""
+ },
+ {
+  "n": 22390,
+  "it": "La velocità deve essere moderata nei tratti di strada a visuale non libera",
+  "answer": true,
+  "en": "Speed must be moderate on stretches of road where visibility is not clear.",
+  "keywords": [
+   {
+    "phrase": "deve essere moderata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non libera",
+    "why": "negates the visibility condition"
+   }
+  ],
+  "trick": "The key trap is the negative visibility phrase, which limits when the duty applies.",
+  "image": ""
+ },
+ {
+  "n": 22391,
+  "it": "Si deve tenere una velocità che non costituisca pericolo per la sicurezza della circolazione",
+  "answer": true,
+  "en": "You must keep a speed that does not constitute a danger to traffic safety.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non costituisca pericolo",
+    "why": "negates the dangerous outcome"
+   }
+  ],
+  "trick": "This is an obligation phrased with a negative safety condition that must be respected.",
+  "image": ""
+ },
+ {
+  "n": 22392,
+  "it": "Si deve tenere una velocità che consenta di intervenire con sicurezza in caso di imprevisti",
+  "answer": true,
+  "en": "You must keep a speed that allows you to react safely in the event of unexpected situations.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "consenta",
+    "why": "means allows or enables, setting a required condition"
+   },
+   {
+    "phrase": "in caso di imprevisti",
+    "why": "limits the meaning to unexpected situations"
+   }
+  ],
+  "trick": "The sentence requires a speed that still lets you respond safely when something unexpected happens.",
+  "image": ""
+ },
+ {
+  "n": 22393,
+  "it": "Si deve tenere una velocità adeguata alle proprie condizioni psicofisiche",
+  "answer": true,
+  "en": "You must keep a speed suited to your own physical and mental condition.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "adeguata",
+    "why": "means appropriate/suited, not simply reduced"
+   }
+  ],
+  "trick": "The key trap is that this is a legal obligation to choose a speed appropriate to your condition.",
+  "image": ""
+ },
+ {
+  "n": 22394,
+  "it": "E' obbligo del conducente regolare la velocità in relazione al carico del veicolo",
+  "answer": true,
+  "en": "It is the driver's duty to adjust speed in relation to the vehicle's load.",
+  "keywords": [
+   {
+    "phrase": "E' obbligo",
+    "why": "states a legal obligation"
+   },
+   {
+    "phrase": "in relazione al",
+    "why": "means according to/in relation to, linking speed to load"
+   }
+  ],
+  "trick": "The sentence says the driver is legally required to adjust speed based on the vehicle load.",
+  "image": ""
+ },
+ {
+  "n": 22395,
+  "it": "Si deve tenere una velocità regolata in funzione del tempo che abbiamo a disposizione",
+  "answer": false,
+  "en": "You must keep a speed regulated according to the time we have available.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in funzione del",
+    "why": "means based on/according to"
+   }
+  ],
+  "trick": "The trap is the false basis for the speed choice: available time, even though the sentence is phrased as an obligation.",
+  "image": ""
+ },
+ {
+  "n": 22396,
+  "it": "La velocità deve essere moderata fuori dai centri abitati",
+  "answer": false,
+  "en": "Speed must be moderate outside built-up areas.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "fuori dai centri abitati",
+    "why": "restricts the rule to outside built-up areas"
+   }
+  ],
+  "trick": "The tricky part is the absolute obligation claimed for all roads outside built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 22397,
+  "it": "In presenza di apposito segnale, il limite massimo di velocità consentito può essere di 150 km/h su tratti di autostrade con particolari caratteristiche",
+  "answer": true,
+  "en": "When there is the appropriate sign, the maximum permitted speed may be 150 km/h on motorway sections with particular characteristics.",
+  "keywords": [
+   {
+    "phrase": "In presenza di apposito segnale",
+    "why": "makes the rule apply only if the proper sign is present"
+   },
+   {
+    "phrase": "consentito può essere",
+    "why": "means it may be permitted, not that it always is"
+   }
+  ],
+  "trick": "The exception is limited to motorway sections with the proper sign, and 150 km/h is only a possible permitted maximum.",
+  "image": ""
+ },
+ {
+  "n": 22398,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito è di 130 km/h sulle autostrade",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, the maximum permitted speed on motorways is 130 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "limite massimo di velocità consentito",
+    "why": "means the highest legally permitted speed"
+   }
+  ],
+  "trick": "The rule is the default motorway limit, but it can change if road signs indicate a different one.",
+  "image": ""
+ },
+ {
+  "n": 22399,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito è di 50 km/h nei centri abitati",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, the maximum permitted speed in built-up areas is 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "limits the rule to built-up areas"
+   }
+  ],
+  "trick": "This gives the default speed limit specifically for built-up areas, unless signs set another limit.",
+  "image": ""
+ },
+ {
+  "n": 22400,
+  "it": "Salvo diversa segnalazione, per i ciclomotori il limite massimo di velocità consentito è di 45 km/h",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, for mopeds the maximum permitted speed is 45 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "per i ciclomotori",
+    "why": "limits the rule to mopeds only"
+   }
+  ],
+  "trick": "The trap is that the limit applies specifically to mopeds, with the usual exception for different signage.",
+  "image": ""
+ },
+ {
+  "n": 22401,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito per macchine agricole e macchine operatrici con pneumatici è di 40 km/h",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, for agricultural machines and work machines with tyres the maximum permitted speed is 40 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "macchine agricole e macchine operatrici con pneumatici",
+    "why": "applies only to these specific vehicle types"
+   }
+  ],
+  "trick": "The speed limit is a default one applying only to those specific machines, unless signs provide otherwise.",
+  "image": ""
+ },
+ {
+  "n": 22402,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito sulle autostrade è di 110 km/h in caso di pioggia",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, the maximum permitted speed on motorways is 110 km/h in case of rain.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "in caso di pioggia",
+    "why": "restricts the rule to rainy conditions"
+   }
+  ],
+  "trick": "The limit changes under the specific condition of rain, unless different signs are posted.",
+  "image": ""
+ },
+ {
+  "n": 22403,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito su strade extraurbane principali è di 90 km/h in caso di grandine",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, the maximum permitted speed on main extra-urban roads is 90 km/h in the event of hail.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "in caso di grandine",
+    "why": "restricts the rule to hail conditions"
+   }
+  ],
+  "trick": "The tricky part is the weather condition: this reduced limit applies specifically when there is hail.",
+  "image": ""
+ },
+ {
+  "n": 22404,
+  "it": "In presenza di appositi segnali, il limite massimo di velocità consentito nei centri abitati su strade con particolari caratteristiche è di 70 km/h",
+  "answer": true,
+  "en": "When there are the appropriate signs, the maximum permitted speed in built-up areas on roads with particular characteristics is 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "In presenza di appositi segnali",
+    "why": "makes the rule apply only if the proper signs are present"
+   },
+   {
+    "phrase": "con particolari caratteristiche",
+    "why": "limits the rule to roads with specific features"
+   }
+  ],
+  "trick": "The 70 km/h limit is only allowed on certain urban roads and only when the appropriate signs are present.",
+  "image": ""
+ },
+ {
+  "n": 22405,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito sulle strade extraurbane principali è di 110 km/h",
+  "answer": true,
+  "en": "Unless otherwise indicated by signs, the maximum permitted speed on main extra-urban roads is 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "refers to a specific road category"
+   }
+  ],
+  "trick": "This is the default limit for one specific road type, unless signage sets a different limit.",
+  "image": ""
+ },
+ {
+  "n": 22406,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito sulle strade urbane è di 80 km/h",
+  "answer": false,
+  "en": "Unless otherwise indicated by signs, the maximum permitted speed on urban roads is 80 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "sulle strade urbane",
+    "why": "refers to urban roads, which learners may confuse with all roads in town"
+   }
+  ],
+  "trick": "The trap is the incorrect default urban-road limit, even though the sentence uses the usual exception wording.",
+  "image": ""
+ },
+ {
+  "n": 22407,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità consentito per i quadricicli non leggeri è di 70 km/h.",
+  "answer": false,
+  "en": "Unless otherwise indicated by signs, for non-light quadricycles the maximum permitted speed is 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs say otherwise"
+   },
+   {
+    "phrase": "quadricicli non leggeri",
+    "why": "refers to a specific vehicle category"
+   }
+  ],
+  "trick": "The key difficulty is the precise vehicle category and its claimed default speed limit.",
+  "image": ""
+ },
+ {
+  "n": 22408,
+  "it": "Il limite massimo di velocità consentito su qualsiasi autostrada è di 150 km/h",
+  "answer": false,
+  "en": "The maximum permitted speed on any motorway is 150 km/h.",
+  "keywords": [
+   {
+    "phrase": "qualsiasi",
+    "why": "means any/every, making the statement absolute"
+   },
+   {
+    "phrase": "consentito",
+    "why": "means legally permitted"
+   }
+  ],
+  "trick": "The trap is the absolute word 'any', which wrongly removes the usual conditions and exceptions.",
+  "image": ""
+ },
+ {
+  "n": 22409,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 110 km/h per le autovetture",
+  "answer": true,
+  "en": "On main extra-urban roads, the maximum speed limit for cars is 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "per le autovetture",
+    "why": "limits the rule to cars only"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "refers to a specific road category"
+   }
+  ],
+  "trick": "The sentence is specific both about the road type and the vehicle type: cars.",
+  "image": ""
+ },
+ {
+  "n": 22410,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 70 km/h per autovettura che traina caravan da 900 chilogrammi",
+  "answer": true,
+  "en": "On main extra-urban roads, the maximum speed limit is 70 km/h for a car towing a 900-kilogram caravan.",
+  "keywords": [
+   {
+    "phrase": "che traina",
+    "why": "changes the rule because the car is towing"
+   },
+   {
+    "phrase": "per autovettura",
+    "why": "limits the rule to a car in that situation"
+   }
+  ],
+  "trick": "The towing condition is the key trap, because it lowers the speed limit for that specific vehicle setup.",
+  "image": ""
+ },
+ {
+  "n": 22411,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 110 km/h per autoveicoli fino a 3,5t",
+  "answer": true,
+  "en": "On main extra-urban roads, the maximum speed limit is 110 km/h for motor vehicles up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5t",
+    "why": "sets an upper weight limit for the rule"
+   },
+   {
+    "phrase": "autoveicoli",
+    "why": "covers motor vehicles generally, not just cars"
+   }
+  ],
+  "trick": "The important detail is that the 110 km/h limit applies only to motor vehicles within the stated weight limit.",
+  "image": ""
+ },
+ {
+  "n": 22412,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 70 km/h per autotreni",
+  "answer": true,
+  "en": "On main extra-urban roads, the maximum speed limit for road trains is 70 km/h.",
+  "keywords": [
+   {
+    "phrase": "autotreni",
+    "why": "is a specific vehicle category often confused with other heavy vehicles"
+   },
+   {
+    "phrase": "strade extraurbane principali",
+    "why": "refers to a specific road category"
+   }
+  ],
+  "trick": "The trap is knowing the exact vehicle category and the limit that applies to it on that road type.",
+  "image": ""
+ },
+ {
+  "n": 22413,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per autocarri di massa complessiva fino a 3,5 t",
+  "answer": false,
+  "en": "On main extra-urban roads, the maximum speed limit is 100 km/h for goods vehicles with a total mass up to 3.5 t.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 t",
+    "why": "sets an upper limit, not over 3.5 t"
+   }
+  ],
+  "trick": "Watch the weight restriction: it applies only up to 3.5 tonnes.",
+  "image": ""
+ },
+ {
+  "n": 22414,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per autocaravan di massa complessiva fino a 3,5 t",
+  "answer": false,
+  "en": "On main extra-urban roads, the maximum speed limit is 100 km/h for motor caravans with a total mass up to 3.5 t.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 t",
+    "why": "sets an upper limit, not over 3.5 t"
+   }
+  ],
+  "trick": "The mass limit restricts the rule to vehicles up to 3.5 tonnes only.",
+  "image": ""
+ },
+ {
+  "n": 22415,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 80 km/h per autovetture con rimorchio leggero",
+  "answer": false,
+  "en": "On main extra-urban roads, the maximum speed limit is 80 km/h for cars with a light trailer.",
+  "keywords": [
+   {
+    "phrase": "con rimorchio leggero",
+    "why": "specifies a trailer case, not cars in general"
+   }
+  ],
+  "trick": "The trailer wording limits the statement to cars towing a light trailer.",
+  "image": ""
+ },
+ {
+  "n": 22416,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per motocicli",
+  "answer": false,
+  "en": "On main extra-urban roads, the maximum speed limit is 100 km/h for motorcycles.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the key is the exact vehicle and road type.",
+  "image": "images/q_22416.png"
+ },
+ {
+  "n": 22417,
+  "it": "Su strade extraurbane principali il limite massimo di velocità è di 100 km/h per le autovetture con carrello appendice",
+  "answer": false,
+  "en": "On main extra-urban roads, the maximum speed limit is 100 km/h for cars with a luggage trailer.",
+  "keywords": [
+   {
+    "phrase": "con carrello appendice",
+    "why": "applies only when the car is towing this specific small trailer"
+   }
+  ],
+  "trick": "The rule is restricted to cars towing a carrello appendice, not all cars.",
+  "image": "images/q_22417.png"
+ },
+ {
+  "n": 22418,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per motocicli",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 90 km/h for motorcycles.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the key is the exact road type and vehicle.",
+  "image": "images/q_22418.png"
+ },
+ {
+  "n": 22419,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per autovetture con carrello appendice",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 90 km/h for cars with a luggage trailer.",
+  "keywords": [
+   {
+    "phrase": "con carrello appendice",
+    "why": "applies only when towing this specific trailer"
+   }
+  ],
+  "trick": "The trailer phrase narrows the statement to that specific towing situation.",
+  "image": ""
+ },
+ {
+  "n": 22420,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per autovetture con rimorchio per trasporto di imbarcazioni o simili",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 70 km/h for cars with a trailer for transporting boats or similar items.",
+  "keywords": [
+   {
+    "phrase": "o simili",
+    "why": "extends the rule beyond boats to similar loads"
+   },
+   {
+    "phrase": "con rimorchio",
+    "why": "applies only when the car is towing a trailer"
+   }
+  ],
+  "trick": "The statement covers towing cases and includes boats and similar loads, not just boats.",
+  "image": ""
+ },
+ {
+  "n": 22421,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per autocaravan di massa complessiva fino a 3,5t",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 90 km/h for motor caravans with a total mass up to 3.5 t.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5t",
+    "why": "sets an upper weight limit"
+   }
+  ],
+  "trick": "The weight phrase limits the rule to vehicles not exceeding 3.5 tonnes.",
+  "image": ""
+ },
+ {
+  "n": 22422,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per autocarri di massa complessiva fino a 3,5t",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 90 km/h for goods vehicles with a total mass up to 3.5 t.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5t",
+    "why": "sets an upper weight limit"
+   }
+  ],
+  "trick": "The statement applies only to goods vehicles up to 3.5 tonnes.",
+  "image": ""
+ },
+ {
+  "n": 22423,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per autotreni",
+  "answer": true,
+  "en": "The maximum speed limit on secondary extra-urban roads is 70 km/h for road trains.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the main point is the exact vehicle category.",
+  "image": ""
+ },
+ {
+  "n": 22424,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 70 km/h per i ciclomotori",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 70 km/h for mopeds.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the important detail is the vehicle class.",
+  "image": ""
+ },
+ {
+  "n": 22425,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 90 km/h per i quadricicli non leggeri",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 90 km/h for heavy quadricycles.",
+  "keywords": [
+   {
+    "phrase": "non leggeri",
+    "why": "means not light, i.e. heavy quadricycles only"
+   }
+  ],
+  "trick": "The negating phrase excludes light quadricycles and refers only to the heavier category.",
+  "image": ""
+ },
+ {
+  "n": 22426,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 80 km/h per motocicli",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 80 km/h for motorcycles.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the key is the exact speed value.",
+  "image": ""
+ },
+ {
+  "n": 22427,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 100 km/h per le autovetture",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 100 km/h for cars.",
+  "keywords": [],
+  "trick": "There are no special trap words here; the statement hinges on the exact speed limit.",
+  "image": ""
+ },
+ {
+  "n": 22428,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 80 km/h per autovettura che traina caravan da 750 chilogrammi",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 80 km/h for a car towing a caravan weighing 750 kilograms.",
+  "keywords": [
+   {
+    "phrase": "che traina",
+    "why": "applies only when towing"
+   },
+   {
+    "phrase": "da 750 chilogrammi",
+    "why": "specifies the caravan's weight"
+   }
+  ],
+  "trick": "The rule is limited to a towing situation and to a caravan of the stated weight.",
+  "image": ""
+ },
+ {
+  "n": 22429,
+  "it": "Il limite massimo di velocità su strade extraurbane secondarie è di 100 km/h per autoveicoli fino a 3,5 tonnellate",
+  "answer": false,
+  "en": "The maximum speed limit on secondary extra-urban roads is 100 km/h for motor vehicles up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper weight limit"
+   }
+  ],
+  "trick": "The mass phrase restricts the statement to vehicles not exceeding 3.5 tonnes.",
+  "image": ""
+ },
+ {
+  "n": 22430,
+  "it": "Su strade extraurbane secondarie il limite massimo di velocità è di 80 km/h per autovetture con carrello appendice",
+  "answer": false,
+  "en": "On secondary extra-urban roads, the maximum speed limit is 80 km/h for cars with a luggage trailer.",
+  "keywords": [
+   {
+    "phrase": "con carrello appendice",
+    "why": "applies only when towing this specific trailer"
+   }
+  ],
+  "trick": "The statement is restricted to cars towing a carrello appendice.",
+  "image": ""
+ },
+ {
+  "n": 22431,
+  "it": "I contrassegni rappresentati in figura sono applicati sulla parte posteriore di alcune categorie di veicoli",
+  "answer": true,
+  "en": "The signs shown in the figure are applied to the rear of some categories of vehicles.",
+  "keywords": [
+   {
+    "phrase": "alcune categorie di veicoli",
+    "why": "does not mean all vehicles, only some categories"
+   }
+  ],
+  "trick": "The wording limits the statement to some vehicle categories, not every vehicle.",
+  "image": ""
+ },
+ {
+  "n": 22432,
+  "it": "I contrassegni rappresentati in figura indicano le velocità massime consentite al veicolo sul quale sono applicati",
+  "answer": true,
+  "en": "The signs shown in the figure indicate the maximum speeds permitted for the vehicle on which they are displayed.",
+  "keywords": [
+   {
+    "phrase": "consentite",
+    "why": "means permitted, not recommended or usual"
+   }
+  ],
+  "trick": "The key word expresses legally permitted maximum speeds, not suggested ones.",
+  "image": ""
+ },
+ {
+  "n": 22433,
+  "it": "I contrassegni rappresentati in figura sono applicati ad alcuni autobus",
+  "answer": true,
+  "en": "The plates shown in the figure are fitted to some buses.",
+  "keywords": [
+   {
+    "phrase": "alcuni",
+    "why": "limits the statement to some, not all"
+   }
+  ],
+  "trick": "\"alcuni\" makes the statement partial, not universal.",
+  "image": ""
+ },
+ {
+  "n": 22434,
+  "it": "La velocità deve essere diminuita in caso di traffico misto (presenza di veicoli lenti e veloci o di animali e pedoni che occupano la strada)",
+  "answer": true,
+  "en": "Speed must be reduced in the case of mixed traffic (the presence of slow and fast vehicles, or animals and pedestrians occupying the road).",
+  "keywords": [
+   {
+    "phrase": "deve essere diminuita",
+    "why": "expresses obligation to reduce speed"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "presenza di",
+    "why": "means the rule applies when these are present"
+   }
+  ],
+  "trick": "The sentence imposes a duty only when mixed traffic is present.",
+  "image": ""
+ },
+ {
+  "n": 22435,
+  "it": "Si deve regolare la velocità in base alle condizioni del fondo stradale (presenza di buche, sconnessioni, fogliame bagnato.)",
+  "answer": true,
+  "en": "You must adjust your speed according to the condition of the road surface (the presence of potholes, uneven surfaces, wet leaves).",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in base alle",
+    "why": "means according to, not independently of"
+   },
+   {
+    "phrase": "presenza di",
+    "why": "signals the relevant condition is their presence"
+   }
+  ],
+  "trick": "The key trap is that speed adjustment is mandatory and depends on road-surface conditions.",
+  "image": ""
+ },
+ {
+  "n": 22436,
+  "it": "I contrassegni rappresentati in figura sono applicati su autocarri di massa complessiva fino a 3,5 tonnellate",
+  "answer": false,
+  "en": "The plates shown in the figure are fitted to goods vehicles with a total mass up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper limit, not above it"
+   }
+  ],
+  "trick": "\"fino a\" is restrictive and means not exceeding that weight.",
+  "image": "images/q_22436.png"
+ },
+ {
+  "n": 22437,
+  "it": "I contrassegni rappresentati in figura sono applicati su autocaravan di massa totale fino a 3,5 tonnellate",
+  "answer": false,
+  "en": "The plates shown in the figure are fitted to motor caravans with a total mass up to 3.5 tonnes.",
+  "keywords": [
+   {
+    "phrase": "fino a 3,5 tonnellate",
+    "why": "sets an upper limit, not above it"
+   }
+  ],
+  "trick": "The meaning turns on the weight limit expressed by \"fino a\".",
+  "image": "images/q_22437.png"
+ },
+ {
+  "n": 22438,
+  "it": "I contrassegni rappresentati in figura sono applicati sui motocicli di cilindrata superiore a 150 cm3",
+  "answer": false,
+  "en": "The plates shown in the figure are fitted to motorcycles with an engine capacity greater than 150 cc.",
+  "keywords": [
+   {
+    "phrase": "superiore a 150 cm3",
+    "why": "means greater than, not equal to or less than"
+   }
+  ],
+  "trick": "The comparison phrase \"superiore a\" is the main meaning trap.",
+  "image": "images/q_22438.png"
+ },
+ {
+  "n": 22439,
+  "it": "La velocità deve essere particolarmente moderata in prossimità di un incrocio",
+  "answer": true,
+  "en": "Speed must be particularly moderate near a junction.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in prossimità di",
+    "why": "means near or approaching, not only at the exact place"
+   }
+  ],
+  "trick": "The duty applies when approaching the junction, not just at it.",
+  "image": ""
+ },
+ {
+  "n": 22440,
+  "it": "La velocità deve essere particolarmente moderata nelle strettoie",
+  "answer": true,
+  "en": "Speed must be particularly moderate in narrow road sections.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The key point is that moderating speed is mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22441,
+  "it": "La velocità deve essere particolarmente moderata quando risulta difficoltoso l'incrocio con altri veicoli",
+  "answer": true,
+  "en": "Speed must be particularly moderate when passing oncoming or crossing with other vehicles is difficult.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this condition"
+   },
+   {
+    "phrase": "risulta difficoltoso",
+    "why": "means when it is difficult, not impossible"
+   }
+  ],
+  "trick": "The rule is mandatory whenever meeting other vehicles becomes difficult.",
+  "image": ""
+ },
+ {
+  "n": 22442,
+  "it": "La velocità deve essere particolarmente moderata nei tratti di strada in cui manca la visibilità (curve, dossi)",
+  "answer": true,
+  "en": "Speed must be particularly moderate on stretches of road where visibility is lacking (bends, crests).",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in cui manca la visibilità",
+    "why": "means where visibility is insufficient or absent"
+   }
+  ],
+  "trick": "The obligation is tied to road sections with poor visibility.",
+  "image": ""
+ },
+ {
+  "n": 22443,
+  "it": "La velocità deve essere particolarmente moderata quando, in mancanza di marciapiedi, i pedoni occupano la carreggiata",
+  "answer": true,
+  "en": "Speed must be particularly moderate when, in the absence of pavements, pedestrians are on the carriageway.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in mancanza di",
+    "why": "means in the absence of, setting a condition"
+   },
+   {
+    "phrase": "occupano la carreggiata",
+    "why": "means they are on the carriageway, creating the hazard"
+   }
+  ],
+  "trick": "The duty applies specifically when there are no pavements and pedestrians are on the road.",
+  "image": ""
+ },
+ {
+  "n": 22444,
+  "it": "Si deve diminuire la velocità quando la strada è viscida, a causa di acqua, neve, ghiaccio, foglie o fango",
+  "answer": true,
+  "en": "You must reduce speed when the road is slippery because of water, snow, ice, leaves, or mud.",
+  "keywords": [
+   {
+    "phrase": "Si deve diminuire",
+    "why": "expresses obligation to reduce speed"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this condition"
+   },
+   {
+    "phrase": "a causa di",
+    "why": "introduces the cause of the slippery road"
+   }
+  ],
+  "trick": "The statement requires slowing down when slipperiness is caused by these conditions.",
+  "image": ""
+ },
+ {
+  "n": 22445,
+  "it": "La velocità deve essere particolarmente moderata subito dopo il tramonto del sole",
+  "answer": false,
+  "en": "Speed must be particularly moderate immediately after sunset.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "subito dopo",
+    "why": "means immediately after, a very specific time"
+   }
+  ],
+  "trick": "The phrase \"subito dopo\" narrowly fixes the time being referred to.",
+  "image": ""
+ },
+ {
+  "n": 22446,
+  "it": "La velocità deve essere particolarmente moderata subito dopo un incrocio",
+  "answer": false,
+  "en": "Speed must be particularly moderate immediately after a junction.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "subito dopo",
+    "why": "means immediately after, a very specific position"
+   }
+  ],
+  "trick": "The trap is the precise location indicated by \"subito dopo\".",
+  "image": ""
+ },
+ {
+  "n": 22447,
+  "it": "Si deve regolare la velocità in base alla fretta del conducente",
+  "answer": false,
+  "en": "You must adjust your speed according to the driver's haste.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in base alla",
+    "why": "means according to, making this the deciding factor"
+   }
+  ],
+  "trick": "The statement wrongly makes the driver's haste the basis for speed choice.",
+  "image": ""
+ },
+ {
+  "n": 22448,
+  "it": "Si deve tenere una velocità adeguata solo alle nostre condizioni di salute",
+  "answer": false,
+  "en": "You must keep a speed suitable only for our state of health.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this factor"
+   }
+  ],
+  "trick": "\"solo\" is the trap because it excludes all other relevant factors.",
+  "image": ""
+ },
+ {
+  "n": 22449,
+  "it": "Si deve tenere una velocità sempre superiore a 30 km/h",
+  "answer": false,
+  "en": "You must always keep a speed above 30 km/h.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "superiore a 30 km/h",
+    "why": "means strictly above 30 km/h"
+   }
+  ],
+  "trick": "The absolute word \"sempre\" makes the claim too broad.",
+  "image": ""
+ },
+ {
+  "n": 22450,
+  "it": "Si deve diminuire la velocità quando si è seguiti da un autobus di linea",
+  "answer": false,
+  "en": "You must reduce speed when you are being followed by a scheduled bus.",
+  "keywords": [
+   {
+    "phrase": "Si deve diminuire",
+    "why": "expresses obligation to reduce speed"
+   },
+   {
+    "phrase": "quando si è seguiti da",
+    "why": "means when one is being followed by"
+   }
+  ],
+  "trick": "The statement creates a supposed duty based on being followed by a bus.",
+  "image": ""
+ },
+ {
+  "n": 22451,
+  "it": "Si deve regolare la velocità in base allo stato di manutenzione e pulizia della strada",
+  "answer": true,
+  "en": "You must adjust your speed according to the road's state of maintenance and cleanliness.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in base allo stato di manutenzione e pulizia della strada",
+    "why": "makes these road conditions the basis for speed choice"
+   }
+  ],
+  "trick": "Speed choice is mandatory and must take maintenance and cleanliness into account.",
+  "image": ""
+ },
+ {
+  "n": 22452,
+  "it": "La velocità deve essere diminuita in caso di forte vento laterale",
+  "answer": true,
+  "en": "Speed must be reduced in the event of a strong side wind.",
+  "keywords": [
+   {
+    "phrase": "deve essere diminuita",
+    "why": "expresses obligation to reduce speed"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "forte vento laterale",
+    "why": "specifies side wind, not just any wind"
+   }
+  ],
+  "trick": "The rule requires slowing down specifically when there is strong crosswind.",
+  "image": ""
+ },
+ {
+  "n": 22453,
+  "it": "La velocità va diminuita in caso di abbagliamento dovuto al sole",
+  "answer": true,
+  "en": "Speed must be reduced in case of dazzling caused by the sun.",
+  "keywords": [
+   {
+    "phrase": "va diminuita",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this situation"
+   }
+  ],
+  "trick": "The trap is that this is a duty applying specifically when glare from the sun occurs.",
+  "image": ""
+ },
+ {
+  "n": 22454,
+  "it": "Sulle autostrade e sulle strade extraurbane principali, in caso di nebbia fitta, con visibilità inferiore a 100 m, possono essere imposti limiti massimi temporanei di velocità, non superiori a 50 km/h",
+  "answer": true,
+  "en": "On motorways and main extra-urban roads, in case of dense fog, with visibility of less than 100 m, temporary maximum speed limits may be imposed, not exceeding 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "in caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "possono essere imposti",
+    "why": "means they may be imposed, not that they always are"
+   },
+   {
+    "phrase": "non superiori a 50 km/h",
+    "why": "sets an upper limit that must not be exceeded"
+   }
+  ],
+  "trick": "The statement is conditional and possible, and the temporary limit cannot be above 50 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22455,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità sulle strade extraurbane principali è di 100 km/h",
+  "answer": false,
+  "en": "Unless otherwise signposted, the maximum speed limit on main extra-urban roads is 100 km/h.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs indicate otherwise"
+   }
+  ],
+  "trick": "The key trap is the exception clause 'unless otherwise signposted'.",
+  "image": ""
+ },
+ {
+  "n": 22456,
+  "it": "Salvo diversa segnalazione, il limite massimo di velocità nei centri abitati è di 60 km/h, valido fino ad un chilometro dopo l'uscita del paese",
+  "answer": false,
+  "en": "Unless otherwise signposted, the maximum speed limit in built-up areas is 60 km/h, valid until one kilometre after leaving the town.",
+  "keywords": [
+   {
+    "phrase": "Salvo diversa segnalazione",
+    "why": "introduces an exception if signs indicate otherwise"
+   },
+   {
+    "phrase": "fino ad un chilometro dopo",
+    "why": "extends the rule beyond the place named"
+   }
+  ],
+  "trick": "The traps are the exception clause and the claimed extension of validity after leaving the town.",
+  "image": ""
+ },
+ {
+  "n": 22457,
+  "it": "Si deve diminuire la velocità ogni qualvolta si incontra un segnale stradale di indicazione",
+  "answer": false,
+  "en": "You must reduce speed every time you come across a road information sign.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ogni qualvolta",
+    "why": "means every single time, making the claim absolute"
+   }
+  ],
+  "trick": "The trap is the absolute obligation: it says speed must be reduced every time.",
+  "image": ""
+ },
+ {
+  "n": 22458,
+  "it": "Sulle autostrade, il limite massimo di velocità è di 80 km/h per le autovetture che trainano un rimorchio per il trasporto di cavalli",
+  "answer": true,
+  "en": "On motorways, the maximum speed limit is 80 km/h for cars towing a trailer for transporting horses.",
+  "keywords": [],
+  "trick": "There are no major language traps here beyond the specific vehicle case.",
+  "image": ""
+ },
+ {
+  "n": 22459,
+  "it": "Il limite massimo di velocità sulle strade extraurbane secondarie è di 70 km/h per le autovetture che trainano un rimorchio per il trasporto di motocicli",
+  "answer": true,
+  "en": "On secondary extra-urban roads, the maximum speed limit is 70 km/h for cars towing a trailer for transporting motorcycles.",
+  "keywords": [],
+  "trick": "There are no major language traps here beyond the specific vehicle case.",
+  "image": ""
+ },
+ {
+  "n": 22460,
+  "it": "Si deve, in particolare, regolare la velocità in presenza di lavori in corso",
+  "answer": true,
+  "en": "In particular, you must adjust your speed in the presence of roadworks.",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in presenza di",
+    "why": "limits the rule to when this condition is present"
+   }
+  ],
+  "trick": "The trap is that adjusting speed is mandatory specifically when roadworks are present.",
+  "image": ""
+ },
+ {
+  "n": 22461,
+  "it": "Si deve, in particolare, regolare la velocità se si incontra sulla strada il segnale di veicolo fermo (triangolo mobile di pericolo)",
+  "answer": true,
+  "en": "In particular, you must adjust your speed if you encounter on the road the stopped vehicle sign (portable warning triangle).",
+  "keywords": [
+   {
+    "phrase": "Si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional on this event"
+   }
+  ],
+  "trick": "The key point is that adjusting speed is compulsory when this condition occurs.",
+  "image": ""
+ },
+ {
+  "n": 22462,
+  "it": "Quando si viaggia per file parallele, è possibile che nella corsia di destra si circoli ad una velocità superiore a quella di sinistra",
+  "answer": true,
+  "en": "When travelling in parallel lines of traffic, it is possible that traffic in the right-hand lane may be moving at a higher speed than in the left-hand lane.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "means it may happen, not that it must happen"
+   }
+  ],
+  "trick": "The trap is that the statement expresses possibility, not a general rule or obligation.",
+  "image": ""
+ },
+ {
+  "n": 22463,
+  "it": "Lungo le corsie di canalizzazione, è possibile che nella corsia di destra si circoli ad una velocità superiore a quella di sinistra",
+  "answer": true,
+  "en": "Along channelised lanes, it is possible that traffic in the right-hand lane may be moving at a higher speed than in the left-hand lane.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "means it may happen, not that it must happen"
+   }
+  ],
+  "trick": "The trap is that the statement expresses possibility, not a general rule or obligation.",
+  "image": ""
+ },
+ {
+  "n": 22464,
+  "it": "Quando il traffico risulta canalizzato, è possibile che nella corsia di destra si circoli ad una velocità superiore a quella di sinistra",
+  "answer": true,
+  "en": "When traffic is channelised, it is possible that traffic in the right-hand lane may be moving at a higher speed than in the left-hand lane.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "means it may happen, not that it must happen"
+   }
+  ],
+  "trick": "The trap is that the statement expresses possibility, not a general rule or obligation.",
+  "image": ""
+ },
+ {
+  "n": 22465,
+  "it": "Sulle autostrade a quattro corsie è consentito viaggiare fino a 170 km/h",
+  "answer": false,
+  "en": "On four-lane motorways, it is permitted to travel up to 170 km/h.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not possibility"
+   },
+   {
+    "phrase": "fino a 170 km/h",
+    "why": "sets a claimed permitted upper limit"
+   }
+  ],
+  "trick": "The trap is the claimed permission to reach a specific maximum speed.",
+  "image": ""
+ },
+ {
+  "n": 22466,
+  "it": "Sulle autostrade è consentito superare, nelle ore notturne, la velocità di 130 km/h, purché si usino i proiettori a luce abbagliante",
+  "answer": false,
+  "en": "On motorways, it is permitted to exceed 130 km/h at night, provided that dipped-beam headlights are not used but full-beam headlights are used.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not possibility"
+   },
+   {
+    "phrase": "superare",
+    "why": "means to go beyond the stated limit"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition that must be met"
+   }
+  ],
+  "trick": "The trap is the false idea that exceeding the limit is allowed if a stated condition is met.",
+  "image": ""
+ },
+ {
+  "n": 22467,
+  "it": "In autostrada, nella corsia riservata al sorpasso, non è consentito superare la velocità di 110 km/h",
+  "answer": false,
+  "en": "On the motorway, in the lane reserved for overtaking, it is not permitted to exceed 110 km/h.",
+  "keywords": [
+   {
+    "phrase": "non è consentito",
+    "why": "expresses prohibition through negated permission"
+   },
+   {
+    "phrase": "superare",
+    "why": "means to go beyond the stated limit"
+   }
+  ],
+  "trick": "The trap is the prohibition wording: it says exceeding 110 km/h is not allowed in that lane.",
+  "image": ""
+ },
+ {
+  "n": 22468,
+  "it": "Nelle autostrade, il limite massimo di velocità è di 150 km/h nelle ore diurne e di 130 km/h in quelle notturne",
+  "answer": false,
+  "en": "On motorways, the maximum speed limit is 150 km/h during the daytime and 130 km/h at night.",
+  "keywords": [],
+  "trick": "There are no major language traps here beyond the contrasting day and night limits.",
+  "image": ""
+ },
+ {
+  "n": 22469,
+  "it": "Sulle strade extraurbane principali, che abbiano particolari caratteristiche costruttive e di sicurezza, è possibile che il limite massimo di velocità sia di 130 km/h",
+  "answer": false,
+  "en": "On main extra-urban roads that have particular construction and safety characteristics, it is possible that the maximum speed limit is 130 km/h.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "means it may be so, not that it always is"
+   }
+  ],
+  "trick": "The trap is the possibility wording, which makes the statement conditional rather than absolute.",
+  "image": ""
+ },
+ {
+  "n": 22470,
+  "it": "Sulle strade extraurbane principali è consentito superare la velocità di 110 km/h, ma solo nei tratti di strada in discesa",
+  "answer": false,
+  "en": "On main extra-urban roads, it is permitted to exceed 110 km/h, but only on downhill stretches of road.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not possibility"
+   },
+   {
+    "phrase": "superare",
+    "why": "means to go beyond the stated limit"
+   },
+   {
+    "phrase": "ma solo",
+    "why": "restricts the rule to this case only"
+   }
+  ],
+  "trick": "The trap is the claimed permission, narrowly restricted to downhill sections only.",
+  "image": ""
+ },
+ {
+  "n": 22471,
+  "it": "Il limite massimo di velocità sulle strade extraurbane secondarie è di 90 km/h per le autovetture che trainano un rimorchio per il trasporto di gommoni o alianti",
+  "answer": false,
+  "en": "On secondary extra-urban roads, the maximum speed limit is 90 km/h for cars towing a trailer for transporting inflatable boats or gliders.",
+  "keywords": [],
+  "trick": "There are no major language traps here beyond the specific towing case.",
+  "image": ""
+ },
+ {
+  "n": 22472,
+  "it": "Sulle strade extraurbane secondarie il limite massimo di velocità per le macchine agricole e le macchine operatrici è di 70 km/h, se hanno in funzione il dispositivo a luce gialla lampeggiante",
+  "answer": false,
+  "en": "On secondary extra-urban roads, the maximum speed limit for agricultural machines and operating machines is 70 km/h if they have the flashing yellow light device in operation.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional on this requirement"
+   }
+  ],
+  "trick": "The trap is the condition: the claimed limit applies only if the flashing yellow light is operating.",
+  "image": ""
+ },
+ {
+  "n": 22473,
+  "it": "Se si attraversa ad alta velocità un incrocio avendo diritto di precedenza, in caso di incidente, non può escludersi un concorso di colpa",
+  "answer": true,
+  "en": "If you go through an intersection at high speed while having the right of way, in the event of an accident, contributory negligence cannot be ruled out.",
+  "keywords": [
+   {
+    "phrase": "ad alta velocità",
+    "why": "adds the crucial condition of high speed"
+   },
+   {
+    "phrase": "avendo diritto di precedenza",
+    "why": "means despite having the right of way"
+   },
+   {
+    "phrase": "non può escludersi",
+    "why": "double-structure negative meaning cannot be ruled out"
+   },
+   {
+    "phrase": "concorso di colpa",
+    "why": "means shared liability, not full innocence"
+   }
+  ],
+  "trick": "Having priority does not exclude shared fault if you cross too fast.",
+  "image": ""
+ },
+ {
+  "n": 22474,
+  "it": "I limiti massimi di velocità vigenti sulle autostrade e sulle strade extraurbane non sono identici in tutti gli stati d'Europa",
+  "answer": true,
+  "en": "The maximum speed limits in force on motorways and on rural roads are not identical in all European countries.",
+  "keywords": [
+   {
+    "phrase": "non sono identici",
+    "why": "negates sameness between countries"
+   },
+   {
+    "phrase": "in tutti gli stati d'Europa",
+    "why": "the statement refers to all European states"
+   }
+  ],
+  "trick": "The key point is that the limits differ from one European country to another.",
+  "image": ""
+ },
+ {
+  "n": 22475,
+  "it": "Se si attraversa un incrocio a forte velocità avendo il diritto di precedenza, in caso di incidente si è completamente privi di responsabilità",
+  "answer": false,
+  "en": "If you go through an intersection at high speed while having the right of way, in the event of an accident you are completely free of responsibility.",
+  "keywords": [
+   {
+    "phrase": "a forte velocità",
+    "why": "adds the crucial condition of high speed"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "can mislead learners into assuming total protection"
+   },
+   {
+    "phrase": "completamente privi di responsabilità",
+    "why": "absolute wording leaves no responsibility at all"
+   }
+  ],
+  "trick": "The trap is the absolute claim of having no responsibility at all.",
+  "image": ""
+ },
+ {
+  "n": 22476,
+  "it": "Se si attraversa ad alta velocità un incrocio in cui si ha precedenza, in caso di incidente la responsabilità sarà solo del conducente del veicolo proveniente dalla strada senza diritto di precedenza",
+  "answer": false,
+  "en": "If you go through an intersection at high speed where you have the right of way, in the event of an accident the responsibility will be only that of the driver of the vehicle coming from the road without the right of way.",
+  "keywords": [
+   {
+    "phrase": "ad alta velocità",
+    "why": "adds the crucial condition of high speed"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts responsibility exclusively to one driver"
+   },
+   {
+    "phrase": "senza diritto di precedenza",
+    "why": "identifies the other road as lacking priority"
+   }
+  ],
+  "trick": "The word only makes the statement too absolute about liability.",
+  "image": ""
+ },
+ {
+  "n": 22477,
+  "it": "Se si attraversa un incrocio con diritto di precedenza, non si ha alcun obbligo di rallentare",
+  "answer": false,
+  "en": "If you go through an intersection with the right of way, you have no obligation at all to slow down.",
+  "keywords": [
+   {
+    "phrase": "non si ha alcun obbligo",
+    "why": "strong negation of any obligation"
+   },
+   {
+    "phrase": "diritto di precedenza",
+    "why": "may wrongly suggest no need for caution"
+   }
+  ],
+  "trick": "Priority does not remove every duty to slow down.",
+  "image": ""
+ },
+ {
+  "n": 22478,
+  "it": "Se si attraversa ad alta velocità un incrocio con precedenza, in caso di incidente la responsabilità sarà del conducente del veicolo che ha impegnato per primo l'incrocio",
+  "answer": false,
+  "en": "If you go through an intersection at high speed while having the right of way, in the event of an accident the responsibility will be that of the driver of the vehicle that entered the intersection first.",
+  "keywords": [
+   {
+    "phrase": "ad alta velocità",
+    "why": "adds the crucial condition of high speed"
+   },
+   {
+    "phrase": "ha impegnato per primo l'incrocio",
+    "why": "means entered the intersection first, not necessarily who was right"
+   }
+  ],
+  "trick": "Entering first does not automatically decide liability in this case.",
+  "image": ""
+ },
+ {
+  "n": 22479,
+  "it": "In caso di arresto forzato di un veicolo sui binari di un passaggio a livello, bisogna spostarlo, spingendolo quanto prima fuori dai binari",
+  "answer": true,
+  "en": "In the event of a vehicle being forced to stop on the tracks of a level crossing, you must move it by pushing it off the tracks as soon as possible.",
+  "keywords": [
+   {
+    "phrase": "arresto forzato",
+    "why": "means an unavoidable stop, not a voluntary one"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quanto prima",
+    "why": "means as soon as possible"
+   }
+  ],
+  "trick": "The statement imposes an immediate duty to remove the vehicle from the tracks.",
+  "image": ""
+ },
+ {
+  "n": 22480,
+  "it": "In caso di arresto forzato di un veicolo sui binari di un passaggio a livello, se non è possibile spostarlo subito dai binari, bisogna far scendere immediatamente tutte le persone che si trovano a bordo, e avvisare la stazione ferroviaria",
+  "answer": true,
+  "en": "In the event of a vehicle being forced to stop on the tracks of a level crossing, if it is not possible to move it off the tracks immediately, you must make all the people on board get out at once and alert the railway station.",
+  "keywords": [
+   {
+    "phrase": "se non è possibile",
+    "why": "introduces the exception condition"
+   },
+   {
+    "phrase": "subito",
+    "why": "means immediately, stressing urgency"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "immediatamente",
+    "why": "requires action at once"
+   },
+   {
+    "phrase": "tutte le persone",
+    "why": "means everyone on board, with no exception"
+   }
+  ],
+  "trick": "If the vehicle cannot be moved right away, everyone must get out immediately and the railway must be warned.",
+  "image": ""
+ },
+ {
+  "n": 22481,
+  "it": "In caso di arresto forzato del veicolo sui binari ferroviari di un passaggio a livello, bisogna fare in modo che i conducenti dei veicoli su rotaie siano avvisati in tempo utile del pericolo",
+  "answer": true,
+  "en": "In the event of the vehicle being forced to stop on the railway tracks of a level crossing, you must ensure that the drivers of rail vehicles are warned of the danger in good time.",
+  "keywords": [
+   {
+    "phrase": "arresto forzato",
+    "why": "means an unavoidable stop, not a planned one"
+   },
+   {
+    "phrase": "bisogna fare in modo che",
+    "why": "expresses a duty to ensure something happens"
+   },
+   {
+    "phrase": "in tempo utile",
+    "why": "means with enough time to react safely"
+   }
+  ],
+  "trick": "The obligation is to make sure train drivers are warned early enough.",
+  "image": ""
+ },
+ {
+  "n": 22482,
+  "it": "Se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa difficoltoso muovere lo sterzo se il veicolo è dotato di servosterzo",
+  "answer": true,
+  "en": "If you go down a long descent with the gearbox in neutral and the engine off, it becomes difficult to steer if the vehicle is fitted with power steering.",
+  "keywords": [
+   {
+    "phrase": "in folle",
+    "why": "means in neutral gear"
+   },
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   },
+   {
+    "phrase": "se il veicolo è dotato di servosterzo",
+    "why": "limits the effect to vehicles with power steering"
+   }
+  ],
+  "trick": "With the engine off, power steering assistance is reduced, making steering harder.",
+  "image": ""
+ },
+ {
+  "n": 22483,
+  "it": "Se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa difficoltoso frenare se il veicolo è dotato di servofreno",
+  "answer": true,
+  "en": "If you go down a long descent with the gearbox in neutral and the engine off, it becomes difficult to brake if the vehicle is fitted with brake servo assistance.",
+  "keywords": [
+   {
+    "phrase": "in folle",
+    "why": "means in neutral gear"
+   },
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   },
+   {
+    "phrase": "se il veicolo è dotato di servofreno",
+    "why": "limits the effect to vehicles with brake assistance"
+   }
+  ],
+  "trick": "With the engine off, brake assistance may be lost, making braking harder.",
+  "image": ""
+ },
+ {
+  "n": 22484,
+  "it": "Nei veicoli dotati di servofreno, se si percorre una lunga discesa con il cambio in folle e a motore spento, aumenta il rischio di provocare incidenti",
+  "answer": true,
+  "en": "In vehicles fitted with brake servo assistance, if you go down a long descent with the gearbox in neutral and the engine off, the risk of causing accidents increases.",
+  "keywords": [
+   {
+    "phrase": "se si percorre",
+    "why": "sets the condition under which the risk rises"
+   },
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   },
+   {
+    "phrase": "aumenta il rischio",
+    "why": "indicates increased danger, not certainty"
+   }
+  ],
+  "trick": "The statement says this driving condition raises accident risk.",
+  "image": ""
+ },
+ {
+  "n": 22485,
+  "it": "Nei veicoli dotati di servosterzo, se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa difficoltoso girare rapidamente lo sterzo per schivare un ostacolo",
+  "answer": true,
+  "en": "In vehicles fitted with power steering, if you go down a long descent with the gearbox in neutral and the engine off, it becomes difficult to turn the steering wheel quickly to avoid an obstacle.",
+  "keywords": [
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   },
+   {
+    "phrase": "servosterzo",
+    "why": "refers specifically to power steering"
+   },
+   {
+    "phrase": "schivare un ostacolo",
+    "why": "means to swerve to avoid an obstacle"
+   }
+  ],
+  "trick": "Without steering assistance, quick evasive steering becomes harder.",
+  "image": ""
+ },
+ {
+  "n": 22486,
+  "it": "Nei veicoli dotati di servofreno, se si percorre una lunga discesa con il cambio in folle e a motore spento, aumenta pericolosamente lo spazio di frenatura",
+  "answer": true,
+  "en": "In vehicles fitted with brake servo assistance, if you go down a long descent with the gearbox in neutral and the engine off, the braking distance increases dangerously.",
+  "keywords": [
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   },
+   {
+    "phrase": "aumenta pericolosamente",
+    "why": "states a dangerous increase"
+   },
+   {
+    "phrase": "spazio di frenatura",
+    "why": "means braking distance, not stopping place"
+   }
+  ],
+  "trick": "The key idea is that braking distance becomes dangerously longer.",
+  "image": ""
+ },
+ {
+  "n": 22487,
+  "it": "Nei veicoli dotati di servofreno, se si percorre una lunga discesa con il cambio in folle e a motore spento, diventa sempre più difficoltoso arrestare il veicolo",
+  "answer": true,
+  "en": "In vehicles fitted with brake servo assistance, if you go down a long descent with the gearbox in neutral and the engine off, it becomes more and more difficult to stop the vehicle.",
+  "keywords": [
+   {
+    "phrase": "sempre più",
+    "why": "shows a progressive increase in difficulty"
+   },
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   },
+   {
+    "phrase": "arrestare il veicolo",
+    "why": "means bring the vehicle to a stop"
+   }
+  ],
+  "trick": "The phrase always more means stopping becomes progressively harder.",
+  "image": ""
+ },
+ {
+  "n": 22488,
+  "it": "Se si percorre una lunga discesa con il cambio in folle e a motore spento, si ha un sovraccarico di corrente elettrica",
+  "answer": false,
+  "en": "If you go down a long descent with the gearbox in neutral and the engine off, you get an overload of electric current.",
+  "keywords": [
+   {
+    "phrase": "si ha",
+    "why": "states that something occurs as a result"
+   },
+   {
+    "phrase": "sovraccarico di corrente elettrica",
+    "why": "technical phrase that can sound plausible but is misleading"
+   }
+  ],
+  "trick": "The trap is the technical-sounding but incorrect consequence.",
+  "image": ""
+ },
+ {
+  "n": 22489,
+  "it": "Se si percorre una lunga discesa con il cambio in folle e a motore spento, si può avere un'anomalia al differenziale",
+  "answer": false,
+  "en": "If you go down a long descent with the gearbox in neutral and the engine off, you may have a fault in the differential.",
+  "keywords": [
+   {
+    "phrase": "si può avere",
+    "why": "means may occur, not must occur"
+   },
+   {
+    "phrase": "anomalia al differenziale",
+    "why": "technical phrase that may sound credible but is misleading"
+   }
+  ],
+  "trick": "The modal may can make a false technical claim seem believable.",
+  "image": ""
+ },
+ {
+  "n": 22490,
+  "it": "Per una maggiore sicurezza, è conveniente percorrere le lunghe discese con il cambio in folle e a motore spento, risparmiando così anche carburante",
+  "answer": false,
+  "en": "For greater safety, it is advisable to go down long descents with the gearbox in neutral and the engine off, thus also saving fuel.",
+  "keywords": [
+   {
+    "phrase": "Per una maggiore sicurezza",
+    "why": "suggests falsely that the practice is safer"
+   },
+   {
+    "phrase": "è conveniente",
+    "why": "means advisable or worthwhile, not merely possible"
+   },
+   {
+    "phrase": "così anche",
+    "why": "adds an extra claimed benefit"
+   },
+   {
+    "phrase": "a motore spento",
+    "why": "means with the engine off"
+   }
+  ],
+  "trick": "The trap is presenting a dangerous practice as advisable and safer.",
+  "image": ""
+ },
+ {
+  "n": 22491,
+  "it": "Se si percorre una lunga discesa con il cambio in folle e a motore spento, conviene estrarre la chiave di accensione del veicolo",
+  "answer": false,
+  "en": "If you go down a long descent with the gearbox in neutral and the engine off, it is advisable to remove the vehicle's ignition key.",
+  "keywords": [
+   {
+    "phrase": "conviene",
+    "why": "means it is advisable or worthwhile"
+   },
+   {
+    "phrase": "estrarre la chiave di accensione",
+    "why": "means remove the ignition key, a dangerous suggestion"
+   }
+  ],
+  "trick": "The statement is tricky because it presents a dangerous action as advisable.",
+  "image": ""
+ },
+ {
+  "n": 22492,
+  "it": "Nei veicoli dotati di servofreno a depressione, se si percorre una lunga discesa con il cambio in folle e a motore spento, si ottiene la stessa forza frenante che si ha con il motore acceso",
+  "answer": false,
+  "en": "In vehicles fitted with vacuum brake servo assistance, if you go down a long descent with the gearbox in neutral and the engine off, you get the same braking force as you have with the engine running.",
+  "keywords": [
+   {
+    "phrase": "si ottiene la stessa forza frenante",
+    "why": "claims equality of braking force"
+   },
+   {
+    "phrase": "la stessa",
+    "why": "absolute comparison meaning exactly the same"
+   },
+   {
+    "phrase": "con il motore acceso",
+    "why": "compares with the engine running"
+   },
+   {
+    "phrase": "servofreno a depressione",
+    "why": "specific technical term for vacuum brake assistance"
+   }
+  ],
+  "trick": "The absolute phrase the same braking force makes the statement false.",
+  "image": ""
+ },
+ {
+  "n": 22493,
+  "it": "Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, occorre mantenere la calma e sgomberare in qualunque modo la sede ferroviaria",
+  "answer": true,
+  "en": "If, at a level crossing, you are still on the tracks with your vehicle when the barriers begin to close, you must remain calm and clear the railway line by any means possible.",
+  "keywords": [
+   {
+    "phrase": "quando le barriere cominciano a chiudersi",
+    "why": "sets the exact moment the rule applies"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in qualunque modo",
+    "why": "means by any means possible"
+   }
+  ],
+  "trick": "The key traps are the obligation and the very broad phrase requiring the tracks to be cleared by any means possible.",
+  "image": ""
+ },
+ {
+  "n": 22494,
+  "it": "Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, occorre sgomberare in qualunque modo la sede ferroviaria, se necessario anche sfondando le barriere",
+  "answer": true,
+  "en": "If, at a level crossing, you are still on the tracks with your vehicle when the barriers begin to close, you must clear the railway line by any means possible, if necessary even by breaking through the barriers.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in qualunque modo",
+    "why": "means by any means possible"
+   },
+   {
+    "phrase": "se necessario",
+    "why": "limits the action to when needed"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds that this option is included too"
+   }
+  ],
+  "trick": "The statement is mandatory and allows even breaking the barriers, but only if necessary.",
+  "image": ""
+ },
+ {
+  "n": 22495,
+  "it": "Nel caso in cui, per un guasto al veicolo, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre adoperarsi per rimuovere il veicolo al più presto, ad esempio facendosi trainare da altri utenti",
+  "answer": true,
+  "en": "If, because of a vehicle breakdown, you are stranded on the railway line of a level crossing, you must do what you can to remove the vehicle as soon as possible, for example by having it towed by other road users.",
+  "keywords": [
+   {
+    "phrase": "per un guasto al veicolo",
+    "why": "limits the situation to a breakdown"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "al più presto",
+    "why": "means as soon as possible"
+   }
+  ],
+  "trick": "The trap is that this is a required action in the specific case of a breakdown, and it must be done as soon as possible.",
+  "image": ""
+ },
+ {
+  "n": 22496,
+  "it": "Nel caso in cui, per un guasto alla propria autovettura, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre adoperarsi per rimuovere il veicolo al più presto, ad esempio facendosi aiutare da altri utenti a spingere il veicolo fuori dalla linea ferroviaria",
+  "answer": true,
+  "en": "If, because of a breakdown of your car, you are stranded on the railway line of a level crossing, you must do what you can to remove the vehicle as soon as possible, for example by getting other road users to help push the vehicle off the railway line.",
+  "keywords": [
+   {
+    "phrase": "per un guasto alla propria autovettura",
+    "why": "limits the situation to a breakdown of your car"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "al più presto",
+    "why": "means as soon as possible"
+   }
+  ],
+  "trick": "The important points are the specific breakdown situation and the obligation to remove the vehicle quickly.",
+  "image": ""
+ },
+ {
+  "n": 22497,
+  "it": "Ai passaggi a livello occorre usare la massima prudenza e moderare la velocità, per evitare situazioni di pericolo che comportino il danneggiamento delle attrezzature",
+  "answer": true,
+  "en": "At level crossings, you must use the utmost caution and reduce speed, in order to avoid dangerous situations that could result in damage to the equipment.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "la massima prudenza",
+    "why": "requires the highest degree of caution"
+   }
+  ],
+  "trick": "The trap is that this is a duty to be extremely cautious and slow down, not just a recommendation.",
+  "image": ""
+ },
+ {
+  "n": 22498,
+  "it": "Ai passaggi a livello occorre usare la massima prudenza e moderare la velocità, per evitare situazioni di pericolo che comportino la collisione con le barriere del passaggio stesso",
+  "answer": true,
+  "en": "At level crossings, you must use the utmost caution and reduce speed, in order to avoid dangerous situations that could result in a collision with the crossing barriers.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "la massima prudenza",
+    "why": "requires the highest degree of caution"
+   }
+  ],
+  "trick": "The key point is the mandatory nature of using maximum caution and moderating speed.",
+  "image": ""
+ },
+ {
+  "n": 22499,
+  "it": "Attraversare un passaggio a livello senza rispettare tutte le norme previste, può mettere in pericolo l'incolumità di molte persone che viaggino su un treno in transito",
+  "answer": true,
+  "en": "Crossing a level crossing without complying with all the prescribed rules can endanger the safety of many people travelling on a passing train.",
+  "keywords": [
+   {
+    "phrase": "senza rispettare tutte le norme previste",
+    "why": "non-compliance applies to all prescribed rules"
+   },
+   {
+    "phrase": "può",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The trap is that failing to follow all the rules can endanger many people, even if harm is expressed as a possibility.",
+  "image": ""
+ },
+ {
+  "n": 22500,
+  "it": "Attraversare un passaggio a livello con manovra azzardata per guadagnare tempo, può essere un pericolo per molti individui, oltre che per il conducente",
+  "answer": true,
+  "en": "Crossing a level crossing with a reckless manoeuvre to save time can be dangerous for many people, as well as for the driver.",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "oltre che",
+    "why": "adds others besides the driver"
+   }
+  ],
+  "trick": "The statement is broader than just danger to the driver, and it says the manoeuvre can be dangerous.",
+  "image": ""
+ },
+ {
+  "n": 22501,
+  "it": "Nel caso in cui un veicolo rimanga fermo tra le barriere chiuse del passaggio a livello occorre adoperarsi in ogni modo per presegnalare il pericolo a eventuali treni in transito",
+  "answer": true,
+  "en": "If a vehicle is stuck between the closed barriers of a level crossing, you must do everything possible to warn any passing trains of the danger in advance.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "in ogni modo",
+    "why": "means by every possible means"
+   },
+   {
+    "phrase": "eventuali",
+    "why": "means any possible, not certain"
+   }
+  ],
+  "trick": "The duty is broad: you must use every possible means to warn any approaching trains.",
+  "image": ""
+ },
+ {
+  "n": 22502,
+  "it": "Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, occorre scendere e abbandonare rapidamente il veicolo per mettersi in salvo",
+  "answer": false,
+  "en": "If, at a level crossing, you are still on the tracks with your vehicle when the barriers begin to close, you must get out and quickly abandon the vehicle to save yourself.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "abbandonare",
+    "why": "means leave behind completely"
+   },
+   {
+    "phrase": "per mettersi in salvo",
+    "why": "states the purpose is to save yourself"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to abandon the vehicle, which changes the correct required action.",
+  "image": ""
+ },
+ {
+  "n": 22503,
+  "it": "Nel caso in cui, a un passaggio a livello, ci si trova ancora sui binari col proprio veicolo quando le barriere cominciano a chiudersi, se si sta trainando un rimorchio occorre sganciarlo rapidamente e abbandonarlo sui binari per salvare almeno la motrice",
+  "answer": false,
+  "en": "If, at a level crossing, you are still on the tracks with your vehicle when the barriers begin to close, if you are towing a trailer you must quickly unhitch it and abandon it on the tracks in order to save at least the towing vehicle.",
+  "keywords": [
+   {
+    "phrase": "se si sta trainando un rimorchio",
+    "why": "limits the rule to the trailer-towing case"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "almeno",
+    "why": "restricts the aim to saving only the towing vehicle"
+   }
+  ],
+  "trick": "The statement falsely presents abandoning the trailer as a required action in that specific case.",
+  "image": ""
+ },
+ {
+  "n": 22504,
+  "it": "Nel caso in cui, per un guasto al veicolo, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre scaricare rapidamente il veicolo per salvare almeno il carico",
+  "answer": false,
+  "en": "If, because of a vehicle breakdown, you are stranded on the railway line of a level crossing, you must quickly unload the vehicle in order to save at least the cargo.",
+  "keywords": [
+   {
+    "phrase": "per un guasto al veicolo",
+    "why": "limits the situation to a breakdown"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "almeno",
+    "why": "restricts the aim to saving only the load"
+   }
+  ],
+  "trick": "The trap is the false claimed obligation to unload the vehicle, focusing only on saving the cargo.",
+  "image": ""
+ },
+ {
+  "n": 22505,
+  "it": "Nel caso in cui, per un guasto alla propria autovettura, si rimane bloccati sulla sede ferroviaria di un passaggio a livello, occorre svuotare rapidamente il serbatoio per evitare incendi in caso di collisione col treno",
+  "answer": false,
+  "en": "If, because of a breakdown of your car, you are stranded on the railway line of a level crossing, you must quickly empty the fuel tank to avoid fires in the event of a collision with the train.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "states an intended preventive purpose"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "means in the event of, not certainty"
+   }
+  ],
+  "trick": "The statement falsely frames emptying the fuel tank as a required preventive action.",
+  "image": ""
+ },
+ {
+  "n": 22506,
+  "it": "I passaggi a livello vanno affrontati a velocità molto elevata per evitare di rimanere bloccati sulla linea ferroviaria",
+  "answer": false,
+  "en": "Level crossings must be approached at very high speed to avoid becoming stranded on the railway line.",
+  "keywords": [
+   {
+    "phrase": "vanno affrontati",
+    "why": "expresses what is supposedly required"
+   },
+   {
+    "phrase": "molto elevata",
+    "why": "intensifies the speed to very high"
+   }
+  ],
+  "trick": "The trap is the false idea that very high speed is the required way to cross.",
+  "image": ""
+ },
+ {
+  "n": 22507,
+  "it": "I passaggi a livello vanno affrontati a velocità molto elevata per essere in grado di sfondare le barriere se non si è in grado di fermarsi per tempo a barriere abbassate",
+  "answer": false,
+  "en": "Level crossings must be approached at very high speed so as to be able to break through the barriers if you are unable to stop in time when the barriers are down.",
+  "keywords": [
+   {
+    "phrase": "vanno affrontati",
+    "why": "expresses what is supposedly required"
+   },
+   {
+    "phrase": "molto elevata",
+    "why": "intensifies the speed to very high"
+   },
+   {
+    "phrase": "se non si è in grado di",
+    "why": "sets a conditional case if unable to"
+   },
+   {
+    "phrase": "barriere abbassate",
+    "why": "means the barriers are already down"
+   }
+  ],
+  "trick": "The statement is deceptive because it presents high speed as a requirement under a specific stopping-failure condition.",
+  "image": ""
+ },
+ {
+  "n": 22508,
+  "it": "Attraversare un passaggio a livello senza rispettare tutte le norme previste, comporta esclusivamente una lieve sanzione amministrativa in quanto non comporta reali pericoli per gli altri utenti",
+  "answer": false,
+  "en": "Crossing a level crossing without complying with all the prescribed rules results exclusively in a minor administrative penalty, since it does not involve any real danger to other road users.",
+  "keywords": [
+   {
+    "phrase": "esclusivamente",
+    "why": "restricts the consequence to only this"
+   },
+   {
+    "phrase": "lieve",
+    "why": "downplays the severity"
+   },
+   {
+    "phrase": "non comporta",
+    "why": "negates the existence of real danger"
+   }
+  ],
+  "trick": "The traps are the restrictive and minimizing words, which falsely reduce both the penalty and the danger.",
+  "image": ""
+ },
+ {
+  "n": 22509,
+  "it": "Attraversare un passaggio a livello con manovra azzardata per guadagnare tempo, può essere pericoloso solo nelle ore notturne",
+  "answer": false,
+  "en": "Crossing a level crossing with a reckless manoeuvre to save time can be dangerous only at night.",
+  "keywords": [
+   {
+    "phrase": "solo",
+    "why": "restricts the danger to only this case"
+   },
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "The key trap is solo, which wrongly limits the danger to nighttime only.",
+  "image": ""
+ },
+ {
+  "n": 22510,
+  "it": "Nel caso in cui un veicolo rimanga fermo tra le barriere chiuse del passaggio a livello, unico obbligo del conducente è quello di spegnere il motore e invitare eventuali passeggeri a scendere dal veicolo",
+  "answer": false,
+  "en": "If a vehicle remains stationary between the closed barriers of a level crossing, the driver's only obligation is to switch off the engine and ask any passengers to get out of the vehicle.",
+  "keywords": [
+   {
+    "phrase": "unico obbligo",
+    "why": "restricts the duty to only this"
+   },
+   {
+    "phrase": "eventuali",
+    "why": "means any possible, not certain"
+   }
+  ],
+  "trick": "The trap is unico obbligo, which falsely limits the driver's duties to just those actions.",
+  "image": ""
+ },
+ {
+  "n": 22511,
+  "it": "Nel caso in cui un veicolo rimanga fermo tra le barriere chiuse del passaggio a livello occorre allontanarsi di almeno cento metri il prima possibile",
+  "answer": false,
+  "en": "If a vehicle remains stationary between the closed barriers of a level crossing, you must move away at least one hundred metres as soon as possible.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "di almeno cento metri",
+    "why": "sets a minimum distance"
+   },
+   {
+    "phrase": "il prima possibile",
+    "why": "means as soon as possible"
+   }
+  ],
+  "trick": "The statement uses strong obligation with a specific minimum distance and urgency, which makes it misleading.",
+  "image": ""
+ },
+ {
+  "n": 22512,
+  "it": "In caso di tamponamento tra veicoli in corrispondenza di un passaggio a livello, non si devono spostare i veicoli dai binari qualora vi siano stati feriti",
+  "answer": false,
+  "en": "In the event of a rear-end collision between vehicles at a level crossing, the vehicles must not be moved off the tracks if there are injured persons.",
+  "keywords": [
+   {
+    "phrase": "non si devono",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "qualora vi siano stati feriti",
+    "why": "sets the condition if there are injured people"
+   }
+  ],
+  "trick": "The trap is the prohibition linked to the presence of injured persons, which reverses the correct priority at a crossing.",
+  "image": ""
+ },
+ {
+  "n": 22513,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna diminuire subito la velocità",
+  "answer": true,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, you must immediately reduce your speed.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "subito",
+    "why": "means immediately, not later"
+   }
+  ],
+  "trick": "The key traps are the obligation \"bisogna\" and the immediacy of \"subito\".",
+  "image": ""
+ },
+ {
+  "n": 22514,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna rallentare per potersi fermare, se necessario",
+  "answer": true,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, you must slow down so that you can stop, if necessary.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "se necessario",
+    "why": "limits stopping to when needed"
+   }
+  ],
+  "trick": "The sentence imposes a duty to slow down, with stopping required only if necessary.",
+  "image": ""
+ },
+ {
+  "n": 22515,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna prevedere anche il possibile attraversamento della strada da parte di un bambino",
+  "answer": true,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, you must also anticipate the possible crossing of the road by a child.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra thing to anticipate"
+   },
+   {
+    "phrase": "possibile",
+    "why": "refers to a potential risk, not a certain event"
+   }
+  ],
+  "trick": "The traps are the obligation and the added duty to consider even a possible child crossing.",
+  "image": ""
+ },
+ {
+  "n": 22516,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna rallentare progressivamente, per evitare di essere tamponati dal veicolo che segue",
+  "answer": true,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, you must slow down progressively, to avoid being hit from behind by the following vehicle.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "progressivamente",
+    "why": "means gradually, not suddenly"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "states the preventive purpose of the action"
+   }
+  ],
+  "trick": "The statement requires gradual slowing, specifically to prevent a rear-end collision.",
+  "image": ""
+ },
+ {
+  "n": 22517,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna sterzare bruscamente",
+  "answer": false,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, you must steer sharply.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "bruscamente",
+    "why": "means sharply or abruptly"
+   }
+  ],
+  "trick": "The trap is that the sentence presents an abrupt steering action as something obligatory.",
+  "image": ""
+ },
+ {
+  "n": 22518,
+  "it": "In una strada a doppio senso di circolazione, se si vede un pallone rotolare sulla carreggiata, bisogna scansarlo, anche invadendo la corsia opposta",
+  "answer": false,
+  "en": "On a two-way road, if you see a ball rolling onto the carriageway, you must avoid it, even by moving into the opposite lane.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "anche",
+    "why": "extends the action even to this case"
+   },
+   {
+    "phrase": "invadendo la corsia opposta",
+    "why": "means encroaching into the oncoming lane"
+   }
+  ],
+  "trick": "The key trap is \"anche\", which wrongly extends the duty to include entering the opposite lane.",
+  "image": ""
+ },
+ {
+  "n": 22519,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, non occorre rallentare, per evitare di essere tamponati dal veicolo che segue",
+  "answer": false,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, there is no need to slow down, in order to avoid being hit from behind by the following vehicle.",
+  "keywords": [
+   {
+    "phrase": "non occorre",
+    "why": "negates necessity"
+   },
+   {
+    "phrase": "per evitare",
+    "why": "states the claimed purpose of the action"
+   }
+  ],
+  "trick": "The main trap is \"non occorre\", which removes the duty to slow down.",
+  "image": ""
+ },
+ {
+  "n": 22520,
+  "it": "In un centro abitato, se si vede un pallone rotolare sulla carreggiata, bisogna azionare immediatamente la segnalazione luminosa di pericolo",
+  "answer": false,
+  "en": "In a built-up area, if you see a ball rolling onto the carriageway, you must immediately switch on the hazard warning lights.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "immediatamente",
+    "why": "means at once"
+   },
+   {
+    "phrase": "segnalazione luminosa di pericolo",
+    "why": "refers to the hazard warning lights"
+   }
+  ],
+  "trick": "The traps are the claimed obligation to act and the immediacy of turning on the hazard lights.",
+  "image": ""
+ },
+ {
+  "n": 22521,
+  "it": "Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, può essere pericoloso, per la possibile apertura imprudente delle portiere",
+  "answer": true,
+  "en": "Passing very close to a parked car with people still inside may be dangerous because of the possible careless opening of the doors.",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "possibile",
+    "why": "indicates a potential event, not a definite one"
+   }
+  ],
+  "trick": "The sentence warns about a possible danger, not one that is guaranteed to happen.",
+  "image": ""
+ },
+ {
+  "n": 22522,
+  "it": "Può essere pericoloso circolare troppo vicino alle auto parcheggiate, perché potrebbero impedire la vista di un disabile in carrozzella o di un pedone che spinge un passeggino per bambini, che sono in procinto di attraversare",
+  "answer": true,
+  "en": "It may be dangerous to drive too close to parked cars, because they could block the view of a wheelchair user or a pedestrian pushing a baby stroller who is about to cross.",
+  "keywords": [
+   {
+    "phrase": "Può essere",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "potrebbero",
+    "why": "shows a possible consequence, not a certain one"
+   },
+   {
+    "phrase": "in procinto di attraversare",
+    "why": "means about to cross"
+   }
+  ],
+  "trick": "The key traps are the possibility markers and the phrase meaning someone is about to cross.",
+  "image": ""
+ },
+ {
+  "n": 22523,
+  "it": "Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, non rappresenta un grave pericolo se avviene a bassa velocità",
+  "answer": false,
+  "en": "Passing very close to a parked car with people still inside does not represent a serious danger if it happens at low speed.",
+  "keywords": [
+   {
+    "phrase": "non rappresenta",
+    "why": "negates the existence of danger"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the claim conditional"
+   },
+   {
+    "phrase": "a bassa velocità",
+    "why": "restricts the claim to low speed"
+   }
+  ],
+  "trick": "The sentence is tricky because it denies serious danger, but only under the condition of low speed.",
+  "image": ""
+ },
+ {
+  "n": 22524,
+  "it": "Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, è pericoloso solo se una delle portiere risulta già aperta",
+  "answer": false,
+  "en": "Passing very close to a parked car with people still inside is dangerous only if one of the doors is already open.",
+  "keywords": [
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "già",
+    "why": "means already, limiting the timing"
+   }
+  ],
+  "trick": "The main trap is \"solo se\", which wrongly limits the danger to one specific case.",
+  "image": ""
+ },
+ {
+  "n": 22525,
+  "it": "Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, è pericoloso solo se il conducente ed alcuni passeggeri sono già scesi",
+  "answer": false,
+  "en": "Passing very close to a parked car with people still inside is dangerous only if the driver and some passengers have already got out.",
+  "keywords": [
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "già",
+    "why": "means already, limiting the timing"
+   }
+  ],
+  "trick": "The sentence is misleading because \"solo se\" narrows the danger to a single condition.",
+  "image": ""
+ },
+ {
+  "n": 22526,
+  "it": "Passare molto vicino ad un'auto parcheggiata, a bordo della quale si trovano ancora persone, può essere pericoloso, solo se si viaggia ad alta velocità",
+  "answer": false,
+  "en": "Passing very close to a parked car with people still inside may be dangerous only if you are travelling at high speed.",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the rule to only this case"
+   },
+   {
+    "phrase": "ad alta velocità",
+    "why": "limits the claim to high speed"
+   }
+  ],
+  "trick": "The trap is that a possible danger is wrongly restricted to high-speed travel only.",
+  "image": ""
+ },
+ {
+  "n": 22527,
+  "it": "Il rispetto della distanza di sicurezza evita la collisione con il veicolo che precede",
+  "answer": true,
+  "en": "Keeping a safe distance prevents a collision with the vehicle in front.",
+  "keywords": [],
+  "trick": "There are no major trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22528,
+  "it": "Il conducente deve valutare la distanza di sicurezza anche sulla base della velocità del veicolo di cui è alla guida",
+  "answer": true,
+  "en": "The driver must assess the safe distance also on the basis of the speed of the vehicle he or she is driving.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds this factor as well"
+   }
+  ],
+  "trick": "The sentence imposes a duty, and \"anche\" shows speed is an additional factor to consider.",
+  "image": ""
+ },
+ {
+  "n": 22529,
+  "it": "Il conducente deve commisurare la distanza di sicurezza anche in base alla propria prontezza di riflessi",
+  "answer": true,
+  "en": "The driver must adjust the safe distance also according to his or her own reaction readiness.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds this factor as well"
+   }
+  ],
+  "trick": "The traps are the obligation and the fact that personal reaction speed is also a relevant factor.",
+  "image": ""
+ },
+ {
+  "n": 22530,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base alle condizioni del traffico",
+  "answer": true,
+  "en": "The value of the safe distance must also be determined according to traffic conditions.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds this factor as well"
+   }
+  ],
+  "trick": "The sentence is about an obligation, and traffic conditions are one additional factor among others.",
+  "image": ""
+ },
+ {
+  "n": 22531,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base all'andamento planoaltimetrico della strada",
+  "answer": true,
+  "en": "The value of the safe distance must also be determined according to the road's horizontal and vertical alignment.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds this factor as well"
+   },
+   {
+    "phrase": "andamento planoaltimetrico",
+    "why": "technical term for the road's layout and gradient"
+   }
+  ],
+  "trick": "The traps are the obligatory wording, the added factor, and the technical road-design term.",
+  "image": ""
+ },
+ {
+  "n": 22532,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base alle condizioni atmosferiche",
+  "answer": true,
+  "en": "The value of the safe distance must also be determined according to weather conditions.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds this factor as well"
+   }
+  ],
+  "trick": "The key traps are the obligation and the fact that weather is an additional factor to consider.",
+  "image": ""
+ },
+ {
+  "n": 22533,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base al tipo di veicolo di cui si è alla guida",
+  "answer": true,
+  "en": "The safe following distance must also be determined based on the type of vehicle you are driving.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base al",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "\"Deve\" makes it mandatory, and \"anche\" adds another criterion rather than the only one.",
+  "image": ""
+ },
+ {
+  "n": 22534,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base allo stato di efficienza del veicolo",
+  "answer": true,
+  "en": "The safe following distance must also be determined based on the vehicle's state of efficiency.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "\"Deve\" indicates a duty, while \"anche\" shows this factor is included as well.",
+  "image": ""
+ },
+ {
+  "n": 22535,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base all'entità del carico",
+  "answer": true,
+  "en": "The safe following distance must also be determined based on the amount of the load.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "The sentence says this factor must be considered too, not instead of others.",
+  "image": ""
+ },
+ {
+  "n": 22536,
+  "it": "Il valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 20 metri",
+  "answer": true,
+  "en": "The safe distance to be kept from a snowplough while it is operating is 20 metres.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "indicates a required distance to keep"
+   },
+   {
+    "phrase": "in azione",
+    "why": "limits the rule to when the vehicle is operating"
+   }
+  ],
+  "trick": "The rule applies to the distance that must be kept, specifically when the snowplough is working.",
+  "image": ""
+ },
+ {
+  "n": 22537,
+  "it": "Il valore della distanza di sicurezza da mantenere da una macchina spanditrice di sale in azione è di 20 metri",
+  "answer": true,
+  "en": "The safe distance to be kept from a salt-spreading vehicle while it is operating is 20 metres.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "indicates a required distance to keep"
+   },
+   {
+    "phrase": "in azione",
+    "why": "limits the rule to when the vehicle is operating"
+   }
+  ],
+  "trick": "The statement concerns the required distance, but only while the salt spreader is operating.",
+  "image": ""
+ },
+ {
+  "n": 22538,
+  "it": "Il conducente deve valutare la distanza di sicurezza con riferimento anche alla velocità del veicolo che lo precede",
+  "answer": true,
+  "en": "The driver must assess the safe following distance with reference also to the speed of the vehicle ahead.",
+  "keywords": [
+   {
+    "phrase": "deve valutare",
+    "why": "expresses obligation, not a choice"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor that must be considered"
+   },
+   {
+    "phrase": "che lo precede",
+    "why": "refers to the vehicle in front, not the driver's own vehicle"
+   }
+  ],
+  "trick": "The driver is required to consider this too, and the speed mentioned is that of the vehicle ahead.",
+  "image": ""
+ },
+ {
+  "n": 22539,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base all'efficienza dei freni",
+  "answer": true,
+  "en": "The safe following distance must also be determined based on the efficiency of the brakes.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "The sentence makes this factor mandatory in addition to others.",
+  "image": ""
+ },
+ {
+  "n": 22540,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base alla condizione dei pneumatici",
+  "answer": true,
+  "en": "The safe following distance must also be determined based on the condition of the tyres.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "It says the tyre condition must also be taken into account.",
+  "image": ""
+ },
+ {
+  "n": 22541,
+  "it": "Su strada extraurbana a una corsia per senso di marcia, la distanza fra veicoli adibiti al trasporto di merci di massa complessiva superiore a 3,5 tonnellate, cui sia stato imposto il divieto di sorpasso, deve essere di almeno 100 metri",
+  "answer": true,
+  "en": "On rural roads with one lane in each direction, the distance between vehicles used for transporting goods with a total mass exceeding 3.5 tonnes, to which an overtaking ban has been imposed, must be at least 100 metres.",
+  "keywords": [
+   {
+    "phrase": "superiore a 3,5 tonnellate",
+    "why": "means over 3.5 tonnes, not 3.5 or less"
+   },
+   {
+    "phrase": "cui sia stato imposto il divieto di sorpasso",
+    "why": "restricts the rule to vehicles subject to an overtaking ban"
+   },
+   {
+    "phrase": "deve essere di almeno 100 metri",
+    "why": "sets a minimum mandatory distance, not an exact one"
+   }
+  ],
+  "trick": "The rule applies only to certain heavy goods vehicles under an overtaking ban, and 100 metres is the minimum.",
+  "image": ""
+ },
+ {
+  "n": 22542,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base al tipo di alimentazione del motore",
+  "answer": false,
+  "en": "The safe following distance must also be determined based on the engine's fuel type.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "The trap is the mandatory wording with \"also,\" even though the statement is false.",
+  "image": ""
+ },
+ {
+  "n": 22543,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base alla cilindrata del veicolo",
+  "answer": false,
+  "en": "The safe following distance must also be determined based on the vehicle's engine capacity.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "The wording says this must also be considered, which is the key trap in the false statement.",
+  "image": ""
+ },
+ {
+  "n": 22544,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base alla potenza del motore",
+  "answer": false,
+  "en": "The safe following distance must also be determined based on the engine power.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "The sentence uses mandatory language and adds this as another factor, which makes the false claim sound plausible.",
+  "image": ""
+ },
+ {
+  "n": 22545,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base all'ampiezza della carreggiata",
+  "answer": false,
+  "en": "The safe following distance must also be determined based on the width of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   }
+  ],
+  "trick": "The tricky part is the mandatory \"must\" plus \"also,\" even though this factor is not correct here.",
+  "image": ""
+ },
+ {
+  "n": 22546,
+  "it": "Il conducente deve stabilire il valore della distanza di sicurezza anche in base alla larghezza del veicolo di cui è alla guida",
+  "answer": false,
+  "en": "The driver must determine the safe following distance also based on the width of the vehicle he or she is driving.",
+  "keywords": [
+   {
+    "phrase": "deve stabilire",
+    "why": "expresses obligation, not a choice"
+   },
+   {
+    "phrase": "anche in base a",
+    "why": "means this is an additional factor to consider"
+   },
+   {
+    "phrase": "di cui è alla guida",
+    "why": "refers specifically to the vehicle being driven"
+   }
+  ],
+  "trick": "The sentence imposes a duty and ties the factor specifically to the driver's own vehicle.",
+  "image": ""
+ },
+ {
+  "n": 22547,
+  "it": "Il conducente ha l'obbligo di controllare che il veicolo che lo segue rispetti la distanza di sicurezza",
+  "answer": false,
+  "en": "The driver has the obligation to check that the vehicle following him or her respects the safe following distance.",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses a legal duty"
+   },
+   {
+    "phrase": "che lo segue",
+    "why": "refers to the vehicle behind, not ahead"
+   }
+  ],
+  "trick": "The trap is the strong duty wording and the reference to the vehicle behind the driver.",
+  "image": ""
+ },
+ {
+  "n": 22548,
+  "it": "Il valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 10 metri",
+  "answer": false,
+  "en": "The safe distance to be kept from a snowplough while it is operating is 10 metres.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "indicates a required distance to keep"
+   },
+   {
+    "phrase": "in azione",
+    "why": "limits the rule to when the vehicle is operating"
+   }
+  ],
+  "trick": "The statement concerns a required distance, but only for a snowplough that is operating.",
+  "image": ""
+ },
+ {
+  "n": 22549,
+  "it": "Il valore della distanza di sicurezza da mantenere da una macchina spanditrice di sale in azione è di 15 metri",
+  "answer": false,
+  "en": "The safe distance to be kept from a salt-spreading vehicle while it is operating is 15 metres.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "indicates a required distance to keep"
+   },
+   {
+    "phrase": "in azione",
+    "why": "limits the rule to when the vehicle is operating"
+   }
+  ],
+  "trick": "The distance rule applies only while the salt spreader is in operation.",
+  "image": ""
+ },
+ {
+  "n": 22550,
+  "it": "La distanza fra autotreni, in presenza di segnali di divieto di sorpasso fra di loro, deve essere pari ad almeno 10 metri",
+  "answer": false,
+  "en": "The distance between road trains, in the presence of no-overtaking signs applying to them, must be at least 10 metres.",
+  "keywords": [
+   {
+    "phrase": "in presenza di",
+    "why": "limits the rule to when those signs are present"
+   },
+   {
+    "phrase": "divieto di sorpasso",
+    "why": "expresses a prohibition on overtaking"
+   },
+   {
+    "phrase": "deve essere pari ad almeno 10 metri",
+    "why": "sets a minimum mandatory distance, not an exact one"
+   }
+  ],
+  "trick": "The condition depends on the presence of no-overtaking signs, and the wording gives a minimum distance.",
+  "image": ""
+ },
+ {
+  "n": 22551,
+  "it": "Sulle strade extraurbane , il valore della distanza di sicurezza è sempre pari a 70 metri",
+  "answer": false,
+  "en": "On rural roads, the safe following distance is always equal to 70 metres.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute in all cases"
+   }
+  ],
+  "trick": "\"Sempre\" is the key trap because it turns the claim into an absolute rule.",
+  "image": ""
+ },
+ {
+  "n": 22552,
+  "it": "Il valore della distanza di sicurezza deve essere almeno pari a quello della distanza di frenatura",
+  "answer": false,
+  "en": "The safe following distance must be at least equal to the braking distance.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not a possibility"
+   },
+   {
+    "phrase": "almeno pari a",
+    "why": "sets a minimum threshold, not an exact value"
+   }
+  ],
+  "trick": "The trap is the mandatory minimum comparison created by \"deve\" and \"almeno pari a\".",
+  "image": ""
+ },
+ {
+  "n": 22553,
+  "it": "Il valore della distanza di sicurezza deve essere almeno pari a quello della distanza di visibilità",
+  "answer": false,
+  "en": "The safe following distance must be at least equal to the visibility distance.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum, not an exact value"
+   }
+  ],
+  "trick": "Watch the obligation and the minimum requirement.",
+  "image": ""
+ },
+ {
+  "n": 22554,
+  "it": "La distanza di sicurezza non deve essere rispettata a velocità di marcia inferiori ai 50 km/h",
+  "answer": false,
+  "en": "The safe following distance does not have to be respected at speeds below 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "non deve essere rispettata",
+    "why": "negates the obligation"
+   },
+   {
+    "phrase": "inferiori ai 50 km/h",
+    "why": "limits the claim to speeds under 50 km/h"
+   }
+  ],
+  "trick": "The sentence removes the obligation only for speeds below 50 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22555,
+  "it": "Il valore della distanza di sicurezza deve essere stabilito anche in base alla marcia innestata",
+  "answer": false,
+  "en": "The safe following distance must also be determined based on the gear engaged.",
+  "keywords": [
+   {
+    "phrase": "deve essere stabilito",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   }
+  ],
+  "trick": "The trap is the added factor introduced by anche.",
+  "image": ""
+ },
+ {
+  "n": 22556,
+  "it": "La distanza di sicurezza è commisurata anche alle condizioni psicofisiche del conducente",
+  "answer": true,
+  "en": "The safe following distance is also proportionate to the driver's physical and mental condition.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   },
+   {
+    "phrase": "condizioni psicofisiche",
+    "why": "covers both mental and physical condition"
+   }
+  ],
+  "trick": "The meaning changes because it includes an additional factor: the driver's condition.",
+  "image": ""
+ },
+ {
+  "n": 22557,
+  "it": "La distanza di sicurezza va rispettata per non tamponare il veicolo che ci precede",
+  "answer": true,
+  "en": "The safe following distance must be respected in order not to rear-end the vehicle in front of us.",
+  "keywords": [
+   {
+    "phrase": "va rispettata",
+    "why": "expresses obligation in an indirect form"
+   },
+   {
+    "phrase": "per non tamponare",
+    "why": "contains negation of the dangerous outcome"
+   }
+  ],
+  "trick": "The sentence states an obligation and the negative purpose of avoiding a rear-end collision.",
+  "image": ""
+ },
+ {
+  "n": 22558,
+  "it": "La distanza di sicurezza deve essere determinata in relazione alla larghezza del veicolo che precede",
+  "answer": false,
+  "en": "The safe following distance must be determined in relation to the width of the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "deve essere determinata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in relazione a",
+    "why": "links the rule to a specific factor"
+   }
+  ],
+  "trick": "The trap is that the rule is said to depend on a specific factor.",
+  "image": ""
+ },
+ {
+  "n": 22559,
+  "it": "La distanza di sicurezza è commisurata anche al numero di corsie della strada",
+  "answer": false,
+  "en": "The safe following distance is also proportionate to the number of lanes on the road.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   }
+  ],
+  "trick": "Anche is the key trap because it adds another supposed criterion.",
+  "image": ""
+ },
+ {
+  "n": 22560,
+  "it": "La distanza di sicurezza è commisurata anche alla presenza del servosterzo",
+  "answer": false,
+  "en": "The safe following distance is also proportionate to the presence of power steering.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   }
+  ],
+  "trick": "The trap is the added condition introduced by anche.",
+  "image": ""
+ },
+ {
+  "n": 22561,
+  "it": "La distanza di sicurezza è commisurata anche al tipo di veicolo che segue",
+  "answer": false,
+  "en": "The safe following distance is also proportionate to the type of vehicle following behind.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   },
+   {
+    "phrase": "che segue",
+    "why": "refers to the vehicle behind, not the one in front"
+   }
+  ],
+  "trick": "Watch both the added factor and that it refers to the vehicle behind.",
+  "image": ""
+ },
+ {
+  "n": 22562,
+  "it": "La distanza di sicurezza è commisurata anche al limite di velocità riportato sul retro del veicolo che ci precede",
+  "answer": false,
+  "en": "The safe following distance is also proportionate to the speed limit shown on the rear of the vehicle in front of us.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   },
+   {
+    "phrase": "riportato sul retro",
+    "why": "specifies the limit displayed on the back of the vehicle"
+   }
+  ],
+  "trick": "The sentence is tricky because it adds a very specific supposed factor.",
+  "image": ""
+ },
+ {
+  "n": 22563,
+  "it": "La distanza di sicurezza è una distanza fissa",
+  "answer": false,
+  "en": "The safe following distance is a fixed distance.",
+  "keywords": [
+   {
+    "phrase": "fissa",
+    "why": "means fixed and unchanging"
+   }
+  ],
+  "trick": "The key trap is the absolute idea of a fixed distance.",
+  "image": ""
+ },
+ {
+  "n": 22564,
+  "it": "La distanza di sicurezza si deve rispettare al di sopra di una certa velocità",
+  "answer": false,
+  "en": "The safe following distance must be respected above a certain speed.",
+  "keywords": [
+   {
+    "phrase": "si deve rispettare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "al di sopra di una certa velocità",
+    "why": "limits the rule to speeds above a threshold"
+   }
+  ],
+  "trick": "The trap is that the obligation is restricted to only higher speeds.",
+  "image": ""
+ },
+ {
+  "n": 22565,
+  "it": "La distanza di sicurezza è commisurata anche all'aderenza degli pneumatici",
+  "answer": true,
+  "en": "The safe following distance is also proportionate to tyre grip.",
+  "keywords": [
+   {
+    "phrase": "anche",
+    "why": "adds an extra factor to consider"
+   },
+   {
+    "phrase": "aderenza degli pneumatici",
+    "why": "refers to tyre grip/traction"
+   }
+  ],
+  "trick": "The meaning depends on the added factor of tyre grip.",
+  "image": ""
+ },
+ {
+  "n": 22566,
+  "it": "La distanza di sicurezza dipende dallo spazio percorso nel tempo di reazione",
+  "answer": true,
+  "en": "The safe following distance depends on the distance covered during reaction time.",
+  "keywords": [
+   {
+    "phrase": "dipende",
+    "why": "shows dependence on a factor"
+   },
+   {
+    "phrase": "tempo di reazione",
+    "why": "technical term often confused with braking time"
+   }
+  ],
+  "trick": "The trap is the specific dependence on reaction time, not braking time.",
+  "image": ""
+ },
+ {
+  "n": 22567,
+  "it": "La distanza di sicurezza deve essere di almeno 100 metri nelle forti discese",
+  "answer": false,
+  "en": "The safe following distance must be at least 100 metres on steep downhill stretches.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno 100 metri",
+    "why": "sets a minimum threshold"
+   }
+  ],
+  "trick": "Watch the obligation and the stated minimum distance.",
+  "image": ""
+ },
+ {
+  "n": 22568,
+  "it": "La distanza di sicurezza deve essere di almeno 100 metri in caso di nevicata in atto",
+  "answer": false,
+  "en": "The safe following distance must be at least 100 metres in the event of snowfall in progress.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno 100 metri",
+    "why": "sets a minimum threshold"
+   },
+   {
+    "phrase": "in caso di",
+    "why": "restricts the claim to this situation"
+   },
+   {
+    "phrase": "in atto",
+    "why": "means currently happening"
+   }
+  ],
+  "trick": "The sentence is limited to an ongoing snowfall and sets a minimum distance.",
+  "image": ""
+ },
+ {
+  "n": 22569,
+  "it": "La distanza di sicurezza dipende dall'efficienza del freno di stazionamento",
+  "answer": false,
+  "en": "The safe following distance depends on the efficiency of the parking brake.",
+  "keywords": [
+   {
+    "phrase": "dipende",
+    "why": "shows dependence on a factor"
+   }
+  ],
+  "trick": "The trap is the claimed dependence on this specific brake.",
+  "image": ""
+ },
+ {
+  "n": 22570,
+  "it": "La distanza di sicurezza deve essere maggiore se si percorre la corsia d'emergenza",
+  "answer": false,
+  "en": "The safe following distance must be greater if you are travelling in the emergency lane.",
+  "keywords": [
+   {
+    "phrase": "deve essere maggiore",
+    "why": "expresses a comparative obligation"
+   },
+   {
+    "phrase": "se",
+    "why": "makes the rule conditional"
+   }
+  ],
+  "trick": "The sentence imposes a greater distance only under a specific condition.",
+  "image": ""
+ },
+ {
+  "n": 22571,
+  "it": "La distanza di sicurezza deve essere uguale allo spazio di frenatura aumentato di 20 metri",
+  "answer": false,
+  "en": "The safe following distance must be equal to the braking distance plus 20 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "uguale",
+    "why": "states exact equality, not approximation"
+   },
+   {
+    "phrase": "aumentato di 20 metri",
+    "why": "adds a fixed amount"
+   }
+  ],
+  "trick": "The trap is the exact formula: equal to braking distance plus 20 metres.",
+  "image": ""
+ },
+ {
+  "n": 22572,
+  "it": "Lo spazio percorso nel tempo di reazione è quello percorso dal momento della percezione di una situazione di pericolo a quello di inizio della frenata",
+  "answer": true,
+  "en": "The distance covered during reaction time is the distance travelled from the moment a dangerous situation is perceived to the moment braking begins.",
+  "keywords": [
+   {
+    "phrase": "dal momento ... a quello",
+    "why": "defines the exact time interval"
+   },
+   {
+    "phrase": "inizio della frenata",
+    "why": "marks the start of braking, not the whole braking phase"
+   }
+  ],
+  "trick": "The key is the exact interval: from perceiving danger to the start of braking.",
+  "image": ""
+ },
+ {
+  "n": 22573,
+  "it": "La distanza di sicurezza deve essere mantenuta per evitare il tamponamento",
+  "answer": true,
+  "en": "A safe following distance must be maintained to avoid rear-end collisions.",
+  "keywords": [
+   {
+    "phrase": "deve essere mantenuta",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "Watch for deve, which makes the statement mandatory.",
+  "image": ""
+ },
+ {
+  "n": 22574,
+  "it": "La distanza di sicurezza può essere maggiore dello spazio percorso nel tempo di reazione",
+  "answer": true,
+  "en": "The safe following distance may be greater than the distance travelled during reaction time.",
+  "keywords": [
+   {
+    "phrase": "può essere maggiore",
+    "why": "expresses possibility, not certainty or obligation"
+   }
+  ],
+  "trick": "Può means it may be so, not that it must be so.",
+  "image": ""
+ },
+ {
+  "n": 22575,
+  "it": "La distanza di sicurezza deve essere mantenuta per evitare lo scontro frontale",
+  "answer": false,
+  "en": "A safe following distance must be maintained to avoid a head-on collision.",
+  "keywords": [
+   {
+    "phrase": "deve essere mantenuta",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "The trap is the purpose clause: safe distance is for rear-end risk, not head-on collisions.",
+  "image": ""
+ },
+ {
+  "n": 22576,
+  "it": "La distanza di sicurezza deve essere mantenuta per evitare lo scontro laterale",
+  "answer": false,
+  "en": "A safe following distance must be maintained to avoid a side collision.",
+  "keywords": [
+   {
+    "phrase": "deve essere mantenuta",
+    "why": "expresses obligation, not possibility"
+   }
+  ],
+  "trick": "The trap is the purpose clause: safe distance is about following distance, not side collisions.",
+  "image": ""
+ },
+ {
+  "n": 22577,
+  "it": "La distanza di sicurezza può essere inferiore allo spazio percorso nel tempo di reazione",
+  "answer": false,
+  "en": "The safe following distance may be less than the distance travelled during reaction time.",
+  "keywords": [
+   {
+    "phrase": "può essere inferiore",
+    "why": "expresses possibility and compares with a lower amount"
+   }
+  ],
+  "trick": "Inferiore reverses the comparison and is easy to miss.",
+  "image": ""
+ },
+ {
+  "n": 22578,
+  "it": "La distanza minima di sicurezza se si viaggia a 30 km/h è di circa 9 metri",
+  "answer": true,
+  "en": "The minimum safe distance, if travelling at 30 km/h, is about 9 metres.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Circa softens the number so it is approximate.",
+  "image": ""
+ },
+ {
+  "n": 22579,
+  "it": "La distanza minima di sicurezza se si viaggia a 50 km/h deve essere di circa 14 metri",
+  "answer": true,
+  "en": "The minimum safe distance, if travelling at 50 km/h, must be about 14 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22580,
+  "it": "La distanza minima di sicurezza se si viaggia a 100 km/h deve essere di circa 28 metri",
+  "answer": true,
+  "en": "The minimum safe distance, if travelling at 100 km/h, must be about 28 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22581,
+  "it": "La distanza minima di sicurezza se si viaggia a 150 km/h deve essere di circa 42 metri",
+  "answer": true,
+  "en": "The minimum safe distance, if travelling at 150 km/h, must be about 42 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22582,
+  "it": "La distanza minima di sicurezza se si viaggia a 130 km/h deve essere di circa 36 metri",
+  "answer": true,
+  "en": "The minimum safe distance, if travelling at 130 km/h, must be about 36 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22583,
+  "it": "La distanza minima di sicurezza se si viaggia a 30 km/h deve essere di circa 2 metri",
+  "answer": false,
+  "en": "The minimum safe distance, if travelling at 30 km/h, must be about 2 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22584,
+  "it": "La distanza minima di sicurezza se si viaggia a 50 km/h deve essere di circa 5 metri",
+  "answer": false,
+  "en": "The minimum safe distance, if travelling at 50 km/h, must be about 5 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22585,
+  "it": "La distanza minima di sicurezza se si viaggia a 100 km/h deve essere di circa 15 metri",
+  "answer": false,
+  "en": "The minimum safe distance, if travelling at 100 km/h, must be about 15 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22586,
+  "it": "La distanza minima di sicurezza se si viaggia a 130 km/h deve essere di circa 20 metri",
+  "answer": false,
+  "en": "The minimum safe distance, if travelling at 130 km/h, must be about 20 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22587,
+  "it": "La distanza minima di sicurezza se si viaggia a 150 km/h deve essere di circa 25 metri",
+  "answer": false,
+  "en": "The minimum safe distance, if travelling at 150 km/h, must be about 25 metres.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation, not approximation alone"
+   },
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   }
+  ],
+  "trick": "Deve essere gives the required value, while circa keeps it approximate.",
+  "image": ""
+ },
+ {
+  "n": 22588,
+  "it": "La distrazione del conducente può essere causa di incidenti",
+  "answer": true,
+  "en": "Driver distraction can be a cause of accidents.",
+  "keywords": [
+   {
+    "phrase": "può essere",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "Può essere means it can be a cause, not that it always is.",
+  "image": ""
+ },
+ {
+  "n": 22589,
+  "it": "La distrazione del conducente può essere causata dall'accensione del cellulare",
+  "answer": true,
+  "en": "Driver distraction can be caused by switching on a mobile phone.",
+  "keywords": [
+   {
+    "phrase": "può essere causata",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "Può essere causata means it may be caused by this.",
+  "image": ""
+ },
+ {
+  "n": 22590,
+  "it": "La distrazione del conducente può essere causata dalla accensione di una sigaretta",
+  "answer": true,
+  "en": "Driver distraction can be caused by lighting a cigarette.",
+  "keywords": [
+   {
+    "phrase": "può essere causata",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "Può essere causata means it may be caused by this.",
+  "image": ""
+ },
+ {
+  "n": 22591,
+  "it": "La distrazione del conducente può essere causata dalla ricerca dei comandi della radio o di altri apparecchi elettronici",
+  "answer": true,
+  "en": "Driver distraction can be caused by searching for the controls of the radio or other electronic devices.",
+  "keywords": [
+   {
+    "phrase": "può essere causata",
+    "why": "expresses possibility, not certainty"
+   }
+  ],
+  "trick": "Può essere causata means it may be caused by this.",
+  "image": ""
+ },
+ {
+  "n": 22592,
+  "it": "La distrazione del conducente non è determinata dall'uso del \"cellulare\"",
+  "answer": false,
+  "en": "Driver distraction is not caused by the use of a mobile phone.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   }
+  ],
+  "trick": "Non completely reverses the meaning of the sentence.",
+  "image": ""
+ },
+ {
+  "n": 22593,
+  "it": "La distrazione del conducente non rappresenta un pericolo se si limita a pochi secondi",
+  "answer": false,
+  "en": "Driver distraction does not represent a danger if it lasts only a few seconds.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the statement"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional, not absolute"
+   },
+   {
+    "phrase": "si limita a pochi secondi",
+    "why": "restricts the claim to only a short duration"
+   }
+  ],
+  "trick": "Watch the negation and the condition: it says distraction is not dangerous only if limited to a few seconds.",
+  "image": ""
+ },
+ {
+  "n": 22594,
+  "it": "In un secondo, si percorrono circa m 14 se si viaggia a 50 km/h",
+  "answer": true,
+  "en": "In one second, you travel about 14 metres if you are driving at 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 50 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22595,
+  "it": "In un secondo, si percorrono circa m 28 se si viaggia a 100 km/h",
+  "answer": true,
+  "en": "In one second, you travel about 28 metres if you are driving at 100 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 100 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22596,
+  "it": "In un secondo, si percorrono circa m 36 se si viaggia a 130 km/h",
+  "answer": true,
+  "en": "In one second, you travel about 36 metres if you are driving at 130 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 130 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22597,
+  "it": "In un secondo, si percorrono circa m 42 se si viaggia a 150 km/h",
+  "answer": true,
+  "en": "In one second, you travel about 42 metres if you are driving at 150 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 150 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22598,
+  "it": "In un secondo, si percorrono circa m 20 se si viaggia a 150 km/h",
+  "answer": false,
+  "en": "In one second, you travel about 20 metres if you are driving at 150 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 150 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22599,
+  "it": "In un secondo, si percorrono circa m 4 se si viaggia a 50 km/h",
+  "answer": false,
+  "en": "In one second, you travel about 4 metres if you are driving at 50 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 50 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22600,
+  "it": "In un secondo, si percorrono circa m 10 se si viaggia a 100 km/h",
+  "answer": false,
+  "en": "In one second, you travel about 10 metres if you are driving at 100 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 100 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22601,
+  "it": "In un secondo, si percorrono circa m 15 se si viaggia a 130 km/h",
+  "answer": false,
+  "en": "In one second, you travel about 15 metres if you are driving at 130 km/h.",
+  "keywords": [
+   {
+    "phrase": "circa",
+    "why": "means approximately, not exactly"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on that speed"
+   }
+  ],
+  "trick": "The distance is approximate and applies only at 130 km/h.",
+  "image": ""
+ },
+ {
+  "n": 22602,
+  "it": "Lo spazio di frenatura è quello percorso dall'inizio della frenata all'arresto del veicolo",
+  "answer": true,
+  "en": "Braking distance is the distance travelled from the start of braking until the vehicle stops.",
+  "keywords": [],
+  "trick": "This is mainly a definition, with no real trap words.",
+  "image": ""
+ },
+ {
+  "n": 22603,
+  "it": "Lo spazio di frenatura si quadruplica se la velocità si raddoppia",
+  "answer": true,
+  "en": "Braking distance becomes four times greater if the speed doubles.",
+  "keywords": [
+   {
+    "phrase": "si quadruplica",
+    "why": "means becomes four times as much"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on speed doubling"
+   },
+   {
+    "phrase": "si raddoppia",
+    "why": "means doubles, which can be confused with the result"
+   }
+  ],
+  "trick": "Do not confuse the cause and result: if speed doubles, braking distance quadruples.",
+  "image": ""
+ },
+ {
+  "n": 22604,
+  "it": "Lo spazio di frenatura diventa nove volte maggiore se la velocità si triplica",
+  "answer": true,
+  "en": "Braking distance becomes nine times greater if the speed triples.",
+  "keywords": [
+   {
+    "phrase": "nove volte maggiore",
+    "why": "states a ninefold increase"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on speed tripling"
+   },
+   {
+    "phrase": "si triplica",
+    "why": "means triples, which can be confused with the result"
+   }
+  ],
+  "trick": "Do not confuse the cause and result: if speed triples, braking distance becomes nine times greater.",
+  "image": ""
+ },
+ {
+  "n": 22605,
+  "it": "Lo spazio di frenatura diventa sedici volte maggiore se la velocità si quadruplica",
+  "answer": true,
+  "en": "Braking distance becomes sixteen times greater if the speed quadruples.",
+  "keywords": [
+   {
+    "phrase": "sedici volte maggiore",
+    "why": "states a sixteenfold increase"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on speed quadrupling"
+   },
+   {
+    "phrase": "si quadruplica",
+    "why": "means quadruples, which can be confused with the result"
+   }
+  ],
+  "trick": "Do not confuse the cause and result: if speed quadruples, braking distance becomes sixteen times greater.",
+  "image": ""
+ },
+ {
+  "n": 22606,
+  "it": "Lo spazio di frenatura è indipendente dalla velocità",
+  "answer": false,
+  "en": "Braking distance is independent of speed.",
+  "keywords": [
+   {
+    "phrase": "indipendente",
+    "why": "means not affected by, an absolute claim"
+   }
+  ],
+  "trick": "The trap is the absolute claim that speed has no effect.",
+  "image": ""
+ },
+ {
+  "n": 22607,
+  "it": "Lo spazio di frenatura si raddoppia se la velocità si raddoppia",
+  "answer": false,
+  "en": "Braking distance doubles if the speed doubles.",
+  "keywords": [
+   {
+    "phrase": "si raddoppia",
+    "why": "means doubles"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on speed doubling"
+   }
+  ],
+  "trick": "The trap is thinking braking distance rises in direct proportion to speed.",
+  "image": ""
+ },
+ {
+  "n": 22608,
+  "it": "Lo spazio di frenatura aumenta se l'aderenza tra pneumatico e asfalto è bassa",
+  "answer": true,
+  "en": "Braking distance increases if the grip between the tyre and the road surface is low.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes it conditional on low grip"
+   }
+  ],
+  "trick": "The increase applies when grip is low.",
+  "image": ""
+ },
+ {
+  "n": 22609,
+  "it": "Lo spazio di frenatura aumenta se la strada è innevata",
+  "answer": true,
+  "en": "Braking distance increases if the road is snow-covered.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes it conditional on the road being snow-covered"
+   }
+  ],
+  "trick": "The increase applies when the road is snow-covered.",
+  "image": ""
+ },
+ {
+  "n": 22610,
+  "it": "Lo spazio di frenatura aumenta se la strada è bagnata",
+  "answer": true,
+  "en": "Braking distance increases if the road is wet.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes it conditional on the road being wet"
+   }
+  ],
+  "trick": "The increase applies when the road is wet.",
+  "image": ""
+ },
+ {
+  "n": 22611,
+  "it": "Lo spazio di frenatura aumenta se la strada è in discesa",
+  "answer": true,
+  "en": "Braking distance increases if the road is downhill.",
+  "keywords": [
+   {
+    "phrase": "se",
+    "why": "makes it conditional on the road being downhill"
+   },
+   {
+    "phrase": "in discesa",
+    "why": "can be confused with uphill"
+   },
+   {
+    "phrase": "it means downhill",
+    "why": ""
+   }
+  ],
+  "trick": "Watch the condition and do not confuse downhill with uphill.",
+  "image": ""
+ },
+ {
+  "n": 22612,
+  "it": "Lo spazio di frenatura diminuisce se la strada è in salita",
+  "answer": true,
+  "en": "Braking distance decreases if the road is uphill.",
+  "keywords": [
+   {
+    "phrase": "diminuisce",
+    "why": "states a decrease, not an increase"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on the road being uphill"
+   },
+   {
+    "phrase": "in salita",
+    "why": "can be confused with downhill"
+   },
+   {
+    "phrase": "it means uphill",
+    "why": ""
+   }
+  ],
+  "trick": "Watch the decrease and do not confuse uphill with downhill.",
+  "image": ""
+ },
+ {
+  "n": 22613,
+  "it": "Lo spazio di frenatura diminuisce Se il conducente ha i riflessi pronti",
+  "answer": false,
+  "en": "The braking distance decreases if the driver has quick reflexes.",
+  "keywords": [],
+  "trick": "No major trap words; the statement is mainly about braking distance versus reaction time.",
+  "image": ""
+ },
+ {
+  "n": 22614,
+  "it": "Lo spazio di frenatura diminuisce se le ruote si bloccano",
+  "answer": false,
+  "en": "The braking distance decreases if the wheels lock.",
+  "keywords": [],
+  "trick": "No major trap words; the key point is the effect of wheel lock on braking distance.",
+  "image": ""
+ },
+ {
+  "n": 22615,
+  "it": "Lo spazio di frenatura diminuisce sul tratto in discesa di un dosso",
+  "answer": false,
+  "en": "The braking distance decreases on the downhill section of a hump.",
+  "keywords": [],
+  "trick": "No major trap words; the main difficulty is understanding the road situation described.",
+  "image": ""
+ },
+ {
+  "n": 22616,
+  "it": "Lo spazio di frenatura aumenta se la strada è in salita",
+  "answer": false,
+  "en": "The braking distance increases if the road is uphill.",
+  "keywords": [],
+  "trick": "No major trap words; the statement hinges on the effect of an uphill road.",
+  "image": ""
+ },
+ {
+  "n": 22617,
+  "it": "Lo spazio di frenatura diminuisce se la strada è in discesa",
+  "answer": false,
+  "en": "The braking distance decreases if the road is downhill.",
+  "keywords": [],
+  "trick": "No major trap words; the statement hinges on the effect of a downhill road.",
+  "image": ""
+ },
+ {
+  "n": 22618,
+  "it": "Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione più quello percorso durante la frenata",
+  "answer": true,
+  "en": "The total stopping distance is equal to the distance travelled during the reaction time plus the distance travelled during braking.",
+  "keywords": [
+   {
+    "phrase": "più",
+    "why": "adds a second component"
+   },
+   {
+    "phrase": "not one distance alone",
+    "why": ""
+   }
+  ],
+  "trick": "The trap is that total stopping distance includes reaction distance plus braking distance.",
+  "image": ""
+ },
+ {
+  "n": 22619,
+  "it": "Lo spazio totale di arresto dipende dalla velocità",
+  "answer": true,
+  "en": "The total stopping distance depends on speed.",
+  "keywords": [],
+  "trick": "No major trap words; it is a direct dependency statement.",
+  "image": ""
+ },
+ {
+  "n": 22620,
+  "it": "Lo spazio totale di arresto dipende dall'usura dei pneumatici",
+  "answer": true,
+  "en": "The total stopping distance depends on tyre wear.",
+  "keywords": [],
+  "trick": "No major trap words; it is a direct dependency statement.",
+  "image": ""
+ },
+ {
+  "n": 22621,
+  "it": "Lo spazio totale di arresto dipende dalle condizioni dell'asfalto",
+  "answer": true,
+  "en": "The total stopping distance depends on the condition of the road surface.",
+  "keywords": [],
+  "trick": "No major trap words; it is a direct dependency statement.",
+  "image": ""
+ },
+ {
+  "n": 22622,
+  "it": "Lo spazio totale di arresto è indipendente dall'usura dei pneumatici",
+  "answer": false,
+  "en": "The total stopping distance is independent of tyre wear.",
+  "keywords": [
+   {
+    "phrase": "indipendente",
+    "why": "reverses the dependency meaning"
+   }
+  ],
+  "trick": "The trap word says there is no dependency, which changes the statement completely.",
+  "image": ""
+ },
+ {
+  "n": 22623,
+  "it": "Lo spazio totale di arresto è indipendente dalle condizioni dell'asfalto",
+  "answer": false,
+  "en": "The total stopping distance is independent of the condition of the road surface.",
+  "keywords": [
+   {
+    "phrase": "indipendente",
+    "why": "reverses the dependency meaning"
+   }
+  ],
+  "trick": "The trap word says there is no dependency, which changes the statement completely.",
+  "image": ""
+ },
+ {
+  "n": 22624,
+  "it": "Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione",
+  "answer": false,
+  "en": "The total stopping distance is equal to the distance travelled during the reaction time.",
+  "keywords": [],
+  "trick": "The trap is omission: it mentions only reaction distance, not the braking part as well.",
+  "image": ""
+ },
+ {
+  "n": 22625,
+  "it": "Lo spazio totale di arresto è pari allo spazio percorso durante la frenata",
+  "answer": false,
+  "en": "The total stopping distance is equal to the distance travelled during braking.",
+  "keywords": [],
+  "trick": "The trap is omission: it mentions only braking distance, not the reaction part as well.",
+  "image": ""
+ },
+ {
+  "n": 22626,
+  "it": "Lo spazio totale di arresto non dipende dalla velocità",
+  "answer": false,
+  "en": "The total stopping distance does not depend on speed.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the dependency"
+   }
+  ],
+  "trick": "The trap is the negation, which flips the meaning of the statement.",
+  "image": ""
+ },
+ {
+  "n": 22627,
+  "it": "Lo spazio totale di arresto aumenta se aumenta la velocità",
+  "answer": true,
+  "en": "The total stopping distance increases if speed increases.",
+  "keywords": [],
+  "trick": "No major trap words; it is a straightforward cause-and-effect statement.",
+  "image": ""
+ },
+ {
+  "n": 22628,
+  "it": "Lo spazio totale di arresto aumenta se la strada è innevata",
+  "answer": true,
+  "en": "The total stopping distance increases if the road is snowy.",
+  "keywords": [],
+  "trick": "No major trap words; the road condition is the key meaning.",
+  "image": ""
+ },
+ {
+  "n": 22629,
+  "it": "Lo spazio totale di arresto aumenta se la strada è coperta di fango",
+  "answer": true,
+  "en": "The total stopping distance increases if the road is covered with mud.",
+  "keywords": [],
+  "trick": "No major trap words; the road condition is the key meaning.",
+  "image": ""
+ },
+ {
+  "n": 22630,
+  "it": "Lo spazio totale di arresto aumenta se i pneumatici sono usurati",
+  "answer": true,
+  "en": "The total stopping distance increases if the tyres are worn.",
+  "keywords": [],
+  "trick": "No major trap words; the tyre condition is the key meaning.",
+  "image": ""
+ },
+ {
+  "n": 22631,
+  "it": "Lo spazio totale di arresto aumenta se i pneumatici non sono usurati",
+  "answer": false,
+  "en": "The total stopping distance increases if the tyres are not worn.",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the tyre condition"
+   }
+  ],
+  "trick": "The trap is the negation, which reverses the condition about tyre wear.",
+  "image": ""
+ },
+ {
+  "n": 22632,
+  "it": "Lo spazio totale di arresto aumenta se diminuisce la velocità",
+  "answer": false,
+  "en": "The total stopping distance increases if speed decreases.",
+  "keywords": [],
+  "trick": "No major trap words; the main issue is the incorrect inverse relationship stated.",
+  "image": ""
+ },
+ {
+  "n": 22633,
+  "it": "Lo spazio totale di arresto aumenta se l'asfalto è ruvido",
+  "answer": false,
+  "en": "The total stopping distance increases if the asphalt is rough.",
+  "keywords": [
+   {
+    "phrase": "spazio totale di arresto",
+    "why": "technical term meaning total stopping distance, not just braking distance"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a condition"
+   }
+  ],
+  "trick": "Watch the technical term and the conditional 'if'.",
+  "image": ""
+ },
+ {
+  "n": 22634,
+  "it": "Sulla distanza di sicurezza influisce la concentrazione del conducente",
+  "answer": true,
+  "en": "The safety distance is affected by the driver's concentration.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22635,
+  "it": "Sulla distanza di sicurezza influisce la velocità a cui si viaggia",
+  "answer": true,
+  "en": "The safety distance is affected by the speed at which one is travelling.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22636,
+  "it": "Sulla distanza di sicurezza influisce il carico trasportato dal veicolo",
+  "answer": true,
+  "en": "The safety distance is affected by the load carried by the vehicle.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22637,
+  "it": "Sulla distanza di sicurezza influiscono l'aderenza e le condizioni dei pneumatici",
+  "answer": true,
+  "en": "The safety distance is affected by grip and by the condition of the tyres.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22639,
+  "it": "Sulla distanza di sicurezza influisce il numero di corsie della strada",
+  "answer": false,
+  "en": "The safety distance is affected by the number of lanes on the road.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22640,
+  "it": "Sulla distanza di sicurezza influisce la dimensione del veicolo che precede",
+  "answer": false,
+  "en": "The safety distance is affected by the size of the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "che precede",
+    "why": "means the vehicle ahead/in front, not the previous one in time"
+   }
+  ],
+  "trick": "'Che precede' refers to the vehicle ahead.",
+  "image": ""
+ },
+ {
+  "n": 22641,
+  "it": "Sulla distanza di sicurezza influisce il numero di marce del cambio di velocità",
+  "answer": false,
+  "en": "The safety distance is affected by the number of gears in the gearbox.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22642,
+  "it": "Sulla distanza di sicurezza influisce il numero di ruote del veicolo",
+  "answer": false,
+  "en": "The safety distance is affected by the number of wheels on the vehicle.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22643,
+  "it": "Sulla distanza di sicurezza da mantenere dal veicolo che precede influisce il tipo di servosterzo utilizzato",
+  "answer": false,
+  "en": "The safety distance to be kept from the vehicle in front is affected by the type of power steering used.",
+  "keywords": [
+   {
+    "phrase": "da mantenere",
+    "why": "expresses something to be kept/maintained"
+   },
+   {
+    "phrase": "che precede",
+    "why": "means the vehicle ahead/in front, not the previous one in time"
+   }
+  ],
+  "trick": "The traps are the required distance 'to be kept' and the vehicle 'in front'.",
+  "image": ""
+ },
+ {
+  "n": 22644,
+  "it": "La distanza di sicurezza non dipende dal tipo di alimentazione del motore (benzina, gasolio, GPL)",
+  "answer": true,
+  "en": "The safety distance does not depend on the engine's fuel type (petrol, diesel, LPG).",
+  "keywords": [
+   {
+    "phrase": "non",
+    "why": "negates the verb"
+   }
+  ],
+  "trick": "The key trap is the negation 'does not depend'.",
+  "image": ""
+ },
+ {
+  "n": 22645,
+  "it": "La distanza di sicurezza dipende dalle condizioni di salute del conducente",
+  "answer": true,
+  "en": "The safety distance depends on the driver's state of health.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22646,
+  "it": "La distanza di sicurezza dipende dall'attenzione e concentrazione del conducente durante la guida",
+  "answer": true,
+  "en": "The safety distance depends on the driver's attention and concentration while driving.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22647,
+  "it": "Quando si marcia in colonna, conviene aumentare la distanza di sicurezza, per evitare tamponamenti a catena",
+  "answer": true,
+  "en": "When driving in a queue, it is advisable to increase the safety distance in order to avoid chain-reaction rear-end collisions.",
+  "keywords": [
+   {
+    "phrase": "Quando",
+    "why": "sets the rule in this specific situation only"
+   },
+   {
+    "phrase": "conviene",
+    "why": "means it is advisable, not compulsory"
+   }
+  ],
+  "trick": "The statement is limited to this situation and uses advice, not obligation.",
+  "image": ""
+ },
+ {
+  "n": 22648,
+  "it": "La distanza di sicurezza dipende dalla potenza del veicolo che precede",
+  "answer": false,
+  "en": "The safety distance depends on the power of the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "che precede",
+    "why": "means the vehicle ahead/in front, not the previous one in time"
+   }
+  ],
+  "trick": "'Che precede' refers to the vehicle ahead.",
+  "image": ""
+ },
+ {
+  "n": 22649,
+  "it": "La distanza di sicurezza dipende dall'efficienza del freno a mano",
+  "answer": false,
+  "en": "The safety distance depends on the efficiency of the handbrake.",
+  "keywords": [],
+  "trick": "No special trap words; the statement is direct.",
+  "image": ""
+ },
+ {
+  "n": 22650,
+  "it": "La distanza di sicurezza dipende dalla presenza di veicoli che seguono",
+  "answer": false,
+  "en": "The safety distance depends on the presence of vehicles following behind.",
+  "keywords": [
+   {
+    "phrase": "presenza di",
+    "why": "means the rule is linked to whether something is present"
+   }
+  ],
+  "trick": "The trap is the phrase indicating presence of something.",
+  "image": ""
+ },
+ {
+  "n": 22651,
+  "it": "La distanza di sicurezza deve essere mantenuta solo dai quadricicli a motore",
+  "answer": false,
+  "en": "The safety distance must be maintained only by motor quadricycles.",
+  "keywords": [
+   {
+    "phrase": "deve essere mantenuta",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The key traps are the obligation and the limiting word 'only'.",
+  "image": ""
+ },
+ {
+  "n": 22652,
+  "it": "La distanza di sicurezza va sempre mantenuta, anche prima di iniziare un sorpasso",
+  "answer": true,
+  "en": "The safety distance must always be maintained, even before starting an overtaking manoeuvre.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the rule apply in all cases"
+   },
+   {
+    "phrase": "anche",
+    "why": "adds an extra case that learners may overlook"
+   }
+  ],
+  "trick": "The traps are 'always' and the added case 'even before overtaking'.",
+  "image": ""
+ },
+ {
+  "n": 22653,
+  "it": "La distanza di sicurezza deve essere aumentata qualora sia difficile valutare il comportamento del conducente che precede",
+  "answer": true,
+  "en": "The safety distance must be increased if it is difficult to assess the behaviour of the driver in front.",
+  "keywords": [
+   {
+    "phrase": "deve essere aumentata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "qualora",
+    "why": "formal word meaning if/in the event that"
+   },
+   {
+    "phrase": "che precede",
+    "why": "means the driver ahead/in front"
+   }
+  ],
+  "trick": "The traps are the obligation, the formal conditional 'qualora', and 'in front'.",
+  "image": ""
+ },
+ {
+  "n": 22654,
+  "it": "La distanza di sicurezza deve essere tale da riuscire a fermare in tempo il veicolo, in caso di pericolo",
+  "answer": true,
+  "en": "The safety distance must be such that you can stop the vehicle in time in case of danger.",
+  "keywords": [
+   {
+    "phrase": "deve essere tale da",
+    "why": "expresses a requirement, not a suggestion"
+   },
+   {
+    "phrase": "in caso di pericolo",
+    "why": "limits the rule to a danger situation"
+   }
+  ],
+  "trick": "The key traps are the obligation and the condition under which stopping in time must be possible.",
+  "image": ""
+ },
+ {
+  "n": 22655,
+  "it": "La distanza di sicurezza deve essere almeno uguale ai metri che il veicolo percorre durante il tempo di reazione",
+  "answer": true,
+  "en": "The safety distance must be at least equal to the distance the vehicle travels during the reaction time.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum, not an exact value"
+   }
+  ],
+  "trick": "The trap is that this gives a minimum required distance, not a fixed one.",
+  "image": ""
+ },
+ {
+  "n": 22656,
+  "it": "La distanza di sicurezza deve essere sempre uguale allo spazio di frenatura del veicolo",
+  "answer": false,
+  "en": "The safety distance must always be equal to the vehicle's braking distance.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   }
+  ],
+  "trick": "The word 'sempre' makes the claim absolute and therefore easy to misread.",
+  "image": ""
+ },
+ {
+  "n": 22657,
+  "it": "La distanza di sicurezza deve essere aumentata quando il veicolo che precede trasporta un carico sporgente, poco stabile",
+  "answer": true,
+  "en": "The safety distance must be increased when the vehicle in front is carrying a projecting, unstable load.",
+  "keywords": [
+   {
+    "phrase": "deve essere aumentata",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "quando",
+    "why": "applies the rule in this specific case"
+   }
+  ],
+  "trick": "The key point is that increasing the distance is mandatory in this specific situation.",
+  "image": ""
+ },
+ {
+  "n": 22658,
+  "it": "La distanza di sicurezza deve essere di almeno 100 metri, in caso di forte pioggia",
+  "answer": false,
+  "en": "The safety distance must be at least 100 metres in case of heavy rain.",
+  "keywords": [
+   {
+    "phrase": "deve essere",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "almeno",
+    "why": "sets a minimum threshold"
+   },
+   {
+    "phrase": "in caso di forte pioggia",
+    "why": "limits the statement to this condition"
+   }
+  ],
+  "trick": "The traps are the minimum value and the fact that it applies only in heavy rain.",
+  "image": ""
+ },
+ {
+  "n": 22659,
+  "it": "La distanza di sicurezza può essere diminuita nelle gallerie",
+  "answer": false,
+  "en": "The safety distance may be reduced in tunnels.",
+  "keywords": [
+   {
+    "phrase": "può essere diminuita",
+    "why": "expresses permission, not obligation"
+   }
+  ],
+  "trick": "The trap is that the sentence says reducing the distance is allowed.",
+  "image": ""
+ },
+ {
+  "n": 22660,
+  "it": "Quando si circola in autostrada, è possibile diminuire la distanza di sicurezza, in quanto non ci si aspetta una frenata improvvisa dal veicolo che precede",
+  "answer": false,
+  "en": "When driving on a motorway, it is possible to reduce the safety distance, since a sudden braking manoeuvre by the vehicle in front is not expected.",
+  "keywords": [
+   {
+    "phrase": "è possibile",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "diminuire",
+    "why": "changes the rule by allowing a shorter distance"
+   },
+   {
+    "phrase": "non ci si aspetta",
+    "why": "negates expectation and supports the false claim"
+   }
+  ],
+  "trick": "The misleading part is the claimed permission to reduce distance based on a negated expectation.",
+  "image": ""
+ },
+ {
+  "n": 22661,
+  "it": "Se il veicolo che precede è un autocarro, si deve diminuire la distanza di sicurezza, in quanto i veicoli pesanti hanno uno spazio di frenatura molto più lungo rispetto agli altri veicoli",
+  "answer": false,
+  "en": "If the vehicle in front is a lorry, the safety distance must be reduced, since heavy vehicles have a much longer braking distance than other vehicles.",
+  "keywords": [
+   {
+    "phrase": "si deve diminuire",
+    "why": "expresses obligation to do the opposite of the real rule"
+   },
+   {
+    "phrase": "in quanto",
+    "why": "introduces a reason that can mislead learners"
+   }
+  ],
+  "trick": "The trap is the mandatory reduction of distance, justified by a misleading reason.",
+  "image": ""
+ },
+ {
+  "n": 22672,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, tenersi sul margine sinistro della carreggiata per svoltare in una strada a destra",
+  "answer": true,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to keep to the left edge of the carriageway in order to turn into a road on the right.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in quanto",
+    "why": "introduces the reason for the prohibition"
+   }
+  ],
+  "trick": "The main trap is the clear prohibition, supported by a legal-style reason clause.",
+  "image": ""
+ },
+ {
+  "n": 22673,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, sostare sui binari tramviari",
+  "answer": true,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to stop on tram tracks.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in quanto",
+    "why": "introduces the reason for the prohibition"
+   }
+  ],
+  "trick": "The key trap is that this is a prohibition, not a warning or recommendation.",
+  "image": ""
+ },
+ {
+  "n": 22674,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, effettuare un cambiamento di direzione senza segnalare la manovra con sufficiente anticipo",
+  "answer": true,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to change direction without signalling the manoeuvre sufficiently in advance.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "senza",
+    "why": "negates the required signalling action"
+   },
+   {
+    "phrase": "con sufficiente anticipo",
+    "why": "adds the condition of adequate advance notice"
+   }
+  ],
+  "trick": "The traps are the prohibition and the negative form created by 'senza'.",
+  "image": ""
+ },
+ {
+  "n": 22675,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, gareggiare in velocità",
+  "answer": true,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to race at speed.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in quanto",
+    "why": "introduces the reason for the prohibition"
+   }
+  ],
+  "trick": "The sentence is straightforward, but the key legal trap is the prohibition.",
+  "image": ""
+ },
+ {
+  "n": 22676,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, circolare a velocità troppo bassa senza giustificato motivo",
+  "answer": true,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to drive at too low a speed without justified reason.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "senza giustificato motivo",
+    "why": "adds an exception-like condition"
+   }
+  ],
+  "trick": "The trap is that low speed is forbidden only when there is no justified reason.",
+  "image": ""
+ },
+ {
+  "n": 22677,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, immettersi nel flusso della circolazione provenendo da strade laterali",
+  "answer": false,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to enter the traffic flow coming from side roads.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "provenendo da strade laterali",
+    "why": "specifies the situation and may distract from the main claim"
+   }
+  ],
+  "trick": "The trap is the prohibition claim applied to a specific manoeuvre that is normally allowed if done correctly.",
+  "image": ""
+ },
+ {
+  "n": 22678,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, regolare la velocità in relazione alle caratteristiche e condizioni delle strade",
+  "answer": false,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to adjust speed in relation to the characteristics and conditions of the roads.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "in relazione a",
+    "why": "links speed adjustment to road conditions"
+   }
+  ],
+  "trick": "The misleading part is that it presents a normally required behaviour as forbidden.",
+  "image": ""
+ },
+ {
+  "n": 22679,
+  "it": "E' vietato, in quanto costituisce pericolo o intralcio per la circolazione, fermare momentaneamente un veicolo lungo il margine destro di una carreggiata a senso unico",
+  "answer": false,
+  "en": "It is forbidden, since it creates danger or obstruction to traffic, to stop a vehicle momentarily along the right edge of a one-way carriageway.",
+  "keywords": [
+   {
+    "phrase": "E' vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "momentaneamente",
+    "why": "limits the action to a brief stop"
+   },
+   {
+    "phrase": "a senso unico",
+    "why": "specifies a one-way road, which affects the rule"
+   }
+  ],
+  "trick": "The trap is the prohibition wording applied to a brief stop in a specific road layout.",
+  "image": ""
+ },
+ {
+  "n": 22680,
+  "it": "Chi guida un veicolo, anche se ad elevate prestazioni, non deve, comunque, superare i limiti di velocità previsti dalla legge",
+  "answer": true,
+  "en": "Anyone driving a vehicle, even a high-performance one, must not in any case exceed the speed limits laid down by law.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "shows the rule still applies in this case"
+   },
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition through negated obligation"
+   },
+   {
+    "phrase": "comunque",
+    "why": "reinforces that there are no exceptions"
+   }
+  ],
+  "trick": "The key traps are the negated obligation and the emphasis that performance makes no exception.",
+  "image": ""
+ },
+ {
+  "n": 22681,
+  "it": "Chi guida un veicolo, anche se ad elevate prestazioni, deve dare, di norma, la precedenza nei crocevia a tutti i veicoli, che provengono da destra",
+  "answer": true,
+  "en": "Anyone driving a vehicle, even a high-performance one, must normally give way at intersections to all vehicles coming from the right.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "shows the rule still applies in this case"
+   },
+   {
+    "phrase": "deve dare",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means as a general rule, not always without exception"
+   }
+  ],
+  "trick": "The trap is that this is a general obligation, with 'di norma' softening it from an absolute rule.",
+  "image": ""
+ },
+ {
+  "n": 22682,
+  "it": "Chi guida un veicolo, anche se ad elevate prestazioni, deve evitare di costituire pericolo per gli altri utenti della strada",
+  "answer": true,
+  "en": "Anyone driving a vehicle, even a high-performance one, must avoid creating danger for other road users.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "shows the rule still applies in this case"
+   },
+   {
+    "phrase": "deve evitare",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The important point is that this remains a duty even for powerful vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22683,
+  "it": "Chi guida un veicolo, anche se ad elevate prestazioni, deve guardare nello specchietto retrovisore prima di segnalare l'intenzione di cambiare corsia",
+  "answer": true,
+  "en": "Anyone driving a vehicle, even a high-performance one, must look in the rear-view mirror before signalling the intention to change lane.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "shows the rule still applies in this case"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "prima di",
+    "why": "sets the required order of actions"
+   }
+  ],
+  "trick": "The trap is the mandatory sequence: check the mirror before signalling.",
+  "image": ""
+ },
+ {
+  "n": 22684,
+  "it": "Chi guida un veicolo, anche se ad elevate prestazioni, deve tenersi il più vicino possibile al margine destro della carreggiata, quando effettua una svolta a destra",
+  "answer": true,
+  "en": "Anyone driving a vehicle, even a high-performance one, must keep as close as possible to the right-hand edge of the carriageway when making a right turn.",
+  "keywords": [
+   {
+    "phrase": "anche se",
+    "why": "adds a concession: the rule still applies in that case"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not choice"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as possible, not exactly on the edge"
+   },
+   {
+    "phrase": "quando",
+    "why": "limits the rule to this specific situation"
+   }
+  ],
+  "trick": "The traps are the obligation and the fact that the rule applies even to high-performance vehicles, but only when turning right.",
+  "image": ""
+ },
+ {
+  "n": 22685,
+  "it": "Chi guida un veicolo deve guidare sempre al centro della strada, però senza superare la striscia di corsia",
+  "answer": false,
+  "en": "Anyone driving a vehicle must always drive in the middle of the road, but without crossing the lane line.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "però",
+    "why": "introduces a limiting contrast"
+   }
+  ],
+  "trick": "The key trap is the absolute word \"sempre\", which makes the claim too broad.",
+  "image": ""
+ },
+ {
+  "n": 22686,
+  "it": "Chi guida un veicolo deve tenere in funzione gli abbaglianti di giorno anche in città",
+  "answer": false,
+  "en": "Anyone driving a vehicle must keep the full-beam headlights on during the day, even in built-up areas.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not permission"
+   },
+   {
+    "phrase": "anche in città",
+    "why": "extends the claim to urban areas as well"
+   }
+  ],
+  "trick": "The tricky part is that it states an obligation and extends it even to city driving.",
+  "image": ""
+ },
+ {
+  "n": 22687,
+  "it": "Chi guida un veicolo può sorpassare in ogni condizione di traffico, purché non ci sia il segnale di divieto",
+  "answer": false,
+  "en": "Anyone driving a vehicle may overtake in every traffic condition, provided there is no prohibition sign.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "in ogni condizione di traffico",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "purché non ci sia",
+    "why": "sets a condition with negation"
+   }
+  ],
+  "trick": "The trap is the overly broad permission: no sign is not the only condition for overtaking.",
+  "image": ""
+ },
+ {
+  "n": 22688,
+  "it": "Chi guida un veicolo deve usare il clacson nei centri abitati, ogni qualvolta ci si avvicina ad un attraversamento ciclabile",
+  "answer": false,
+  "en": "Anyone driving a vehicle must use the horn in built-up areas whenever they approach a cycle crossing.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not possibility"
+   },
+   {
+    "phrase": "nei centri abitati",
+    "why": "specifies built-up areas, where horn use is restricted"
+   },
+   {
+    "phrase": "ogni qualvolta",
+    "why": "makes the statement apply every time"
+   }
+  ],
+  "trick": "The trap is the absolute obligation to use the horn every time in a built-up area.",
+  "image": ""
+ },
+ {
+  "n": 22689,
+  "it": "Chi guida un veicolo può montare trombe bitonali per essere sentito più agevolmente, usandole però solo fuori dei centri abitati",
+  "answer": false,
+  "en": "Anyone driving a vehicle may fit two-tone horns so as to be heard more easily, but using them only outside built-up areas.",
+  "keywords": [
+   {
+    "phrase": "può",
+    "why": "expresses permission, not requirement"
+   },
+   {
+    "phrase": "però solo",
+    "why": "restricts the claim to only that case"
+   },
+   {
+    "phrase": "fuori dei centri abitati",
+    "why": "limits the rule to outside built-up areas"
+   }
+  ],
+  "trick": "The trap is that \"solo outside built-up areas\" does not make fitting two-tone horns lawful.",
+  "image": ""
+ },
+ {
+  "n": 22690,
+  "it": "Sui motocicli è consentito il trasporto di animali se custoditi in apposita gabbia",
+  "answer": true,
+  "en": "On motorcycles, carrying animals is permitted if they are kept in a suitable cage.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission under conditions"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces a required condition"
+   },
+   {
+    "phrase": "apposita gabbia",
+    "why": "means a proper/suitable cage, not just any container"
+   }
+  ],
+  "trick": "The key is that transport is allowed only if the animal is kept in a suitable cage.",
+  "image": ""
+ },
+ {
+  "n": 22691,
+  "it": "Il carico deve essere sistemato sui motocicli in modo da non sporgere lateralmente di oltre 50 cm",
+  "answer": true,
+  "en": "The load must be arranged on motorcycles so that it does not project sideways by more than 50 cm.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non",
+    "why": "negates the permitted extent"
+   },
+   {
+    "phrase": "di oltre 50 cm",
+    "why": "sets the maximum limit"
+   }
+  ],
+  "trick": "The trap is the negative limit: sideways projection must not exceed 50 cm.",
+  "image": ""
+ },
+ {
+  "n": 22692,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da non diminuire la visibilità del conducente",
+  "answer": true,
+  "en": "The load must be arranged on motor vehicles so that it does not reduce the driver's visibility.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non diminuire",
+    "why": "states what must not happen"
+   }
+  ],
+  "trick": "The key trap is the prohibition hidden inside the obligation: visibility must not be reduced.",
+  "image": ""
+ },
+ {
+  "n": 22693,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da non impedire la libertà di movimenti nella guida",
+  "answer": true,
+  "en": "The load must be arranged on motor vehicles so that it does not hinder freedom of movement while driving.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non impedire",
+    "why": "states a prohibition within the rule"
+   }
+  ],
+  "trick": "The important point is that the load must not restrict the driver's movements.",
+  "image": ""
+ },
+ {
+  "n": 22694,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da evitarne la caduta",
+  "answer": true,
+  "en": "The load must be arranged on motor vehicles so as to prevent it from falling.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "evitarne la caduta",
+    "why": "means preventing the load from falling"
+   }
+  ],
+  "trick": "The rule is an obligation to secure the load against falling.",
+  "image": ""
+ },
+ {
+  "n": 22695,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da non sporgere dalla parte posteriore per più dei tre decimi della lunghezza del veicolo",
+  "answer": true,
+  "en": "The load must be arranged on motor vehicles so that it does not project from the rear by more than three-tenths of the vehicle's length.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non sporgere",
+    "why": "states what is not allowed"
+   },
+   {
+    "phrase": "per più dei tre decimi",
+    "why": "sets a precise maximum limit"
+   }
+  ],
+  "trick": "The trap is the exact rear overhang limit: no more than three-tenths of the vehicle length.",
+  "image": ""
+ },
+ {
+  "n": 22696,
+  "it": "Il carico sugli autoveicoli non deve superare la portata indicata nella carta di circolazione",
+  "answer": true,
+  "en": "The load on motor vehicles must not exceed the capacity indicated in the vehicle registration document.",
+  "keywords": [
+   {
+    "phrase": "non deve superare",
+    "why": "expresses a prohibition"
+   },
+   {
+    "phrase": "portata indicata",
+    "why": "refers to the stated load capacity limit"
+   }
+  ],
+  "trick": "The key trap is the prohibition against exceeding the registered load capacity.",
+  "image": ""
+ },
+ {
+  "n": 22697,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da evitare la sporgenza laterale dello stesso per più di tre decimi della lunghezza del veicolo",
+  "answer": false,
+  "en": "The load must be arranged on motor vehicles so as to avoid it projecting sideways by more than three-tenths of the vehicle's length.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "evitare",
+    "why": "requires preventing something"
+   },
+   {
+    "phrase": "laterale",
+    "why": "specifies sideways projection, not rear projection"
+   },
+   {
+    "phrase": "per più di tre decimi della lunghezza del veicolo",
+    "why": "gives a precise but misleading limit"
+   }
+  ],
+  "trick": "The trap is the sideways projection rule: this three-tenths limit is the wrong measure for lateral overhang.",
+  "image": ""
+ },
+ {
+  "n": 22698,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da non superare di oltre il 10% l'altezza massima prevista dalla carta di circolazione, ma entro 4 metri",
+  "answer": false,
+  "en": "The load must be arranged on motor vehicles so that it does not exceed by more than 10% the maximum height stated in the vehicle registration document, but in any case within 4 metres.",
+  "keywords": [
+   {
+    "phrase": "non superare di oltre il 10%",
+    "why": "sets a percentage limit with negation"
+   },
+   {
+    "phrase": "ma entro 4 metri",
+    "why": "adds a further limiting condition"
+   }
+  ],
+  "trick": "The trap is the combined limit wording: the 10% allowance is misleading here.",
+  "image": ""
+ },
+ {
+  "n": 22699,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da non superare di oltre il 10% la portata utile indicata sul documento di circolazione",
+  "answer": false,
+  "en": "The load must be arranged on motor vehicles so that it does not exceed the payload indicated on the registration document by more than 10%.",
+  "keywords": [
+   {
+    "phrase": "non superare di oltre il 10%",
+    "why": "allows an apparent tolerance through negated wording"
+   },
+   {
+    "phrase": "portata utile indicata",
+    "why": "refers to the official payload limit"
+   }
+  ],
+  "trick": "The trap is the supposed 10% tolerance, which is not allowed for payload.",
+  "image": ""
+ },
+ {
+  "n": 22700,
+  "it": "Il carico deve essere sistemato sugli autoveicoli in modo da sporgere dalla parte anteriore del veicolo di più dei tre decimi della sua lunghezza",
+  "answer": false,
+  "en": "The load must be arranged on motor vehicles so that it projects from the front of the vehicle by more than three-tenths of its length.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sporgere dalla parte anteriore",
+    "why": "states front projection, which is generally not allowed"
+   },
+   {
+    "phrase": "di più dei tre decimi",
+    "why": "sets a misleading excessive limit"
+   }
+  ],
+  "trick": "The trap is that it presents excessive front projection as if it were allowed.",
+  "image": ""
+ },
+ {
+  "n": 22701,
+  "it": "Il carico deve essere segnalato, di giorno, con un panno rosso se sporge dalla parte posteriore",
+  "answer": false,
+  "en": "During the day, the load must be marked with a red cloth if it projects from the rear.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di giorno",
+    "why": "limits the claim to daytime"
+   },
+   {
+    "phrase": "se",
+    "why": "introduces the condition for the rule"
+   }
+  ],
+  "trick": "The trap is the type of marking: a red cloth is not the correct required signal.",
+  "image": ""
+ },
+ {
+  "n": 22702,
+  "it": "La sporgenza posteriore del carico deve essere segnalata con un pannello retroriflettente a strisce gialle e rosse",
+  "answer": false,
+  "en": "The rear projection of the load must be marked with a reflective panel with yellow and red stripes.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "retroriflettente",
+    "why": "specifies a reflective panel, not just any sign"
+   },
+   {
+    "phrase": "gialle e rosse",
+    "why": "colour detail can easily be confused"
+   }
+  ],
+  "trick": "The trap is the panel description: the colour/marking detail is stated incorrectly.",
+  "image": ""
+ },
+ {
+  "n": 22703,
+  "it": "Sui motocicli in nessun caso è consentito trasportare un carico",
+  "answer": false,
+  "en": "On motorcycles, in no case is it permitted to carry a load.",
+  "keywords": [
+   {
+    "phrase": "in nessun caso",
+    "why": "makes the statement absolute through negation"
+   },
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission/prohibition"
+   }
+  ],
+  "trick": "The key trap is the absolute phrase \"in no case\", which makes the statement too broad.",
+  "image": ""
+ },
+ {
+  "n": 22704,
+  "it": "Sui motocicli è consentito trasportare sacchetti con la spesa anche se non saldamente assicurati",
+  "answer": false,
+  "en": "On motorcycles, it is permitted to carry shopping bags even if they are not securely fastened.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "anche se",
+    "why": "means even if, keeping the condition valid"
+   },
+   {
+    "phrase": "non saldamente assicurati",
+    "why": "negates secure fastening"
+   }
+  ],
+  "trick": "Watch permission and the negative condition: it says allowed even when not securely fastened.",
+  "image": ""
+ },
+ {
+  "n": 22705,
+  "it": "L'uso corretto della strada comporta che i veicoli procedano ad una velocità adeguata alle condizioni della strada e del traffico",
+  "answer": true,
+  "en": "Proper use of the road requires vehicles to travel at a speed suited to the road and traffic conditions.",
+  "keywords": [
+   {
+    "phrase": "comporta che",
+    "why": "introduces a requirement or duty"
+   },
+   {
+    "phrase": "adeguata alle condizioni",
+    "why": "means appropriate to the conditions, not simply low or high"
+   }
+  ],
+  "trick": "The key trap is that this expresses a duty to adapt speed to conditions.",
+  "image": "images/q_22705.png"
+ },
+ {
+  "n": 22706,
+  "it": "L'uso corretto della strada comporta che siano osservate le norme di comportamento e quelle dettate dalla comune prudenza",
+  "answer": true,
+  "en": "Proper use of the road requires compliance with the rules of conduct and with those dictated by ordinary prudence.",
+  "keywords": [
+   {
+    "phrase": "comporta che",
+    "why": "introduces a requirement or duty"
+   }
+  ],
+  "trick": "The sentence states an obligation to follow both formal rules and common prudence.",
+  "image": ""
+ },
+ {
+  "n": 22707,
+  "it": "L'uso corretto della strada comporta che ci si affretti a sgombrare l'incrocio, quando compaia sul semaforo la luce gialla fissa e non si è in grado di arrestare il veicolo in sicurezza prima della striscia di arresto",
+  "answer": true,
+  "en": "Proper use of the road requires that one clear the intersection promptly when the traffic light shows a steady yellow light and one is unable to stop the vehicle safely before the stop line.",
+  "keywords": [
+   {
+    "phrase": "luce gialla fissa",
+    "why": "means steady yellow, not flashing yellow"
+   },
+   {
+    "phrase": "non si è in grado di",
+    "why": "negates ability to do something"
+   }
+  ],
+  "trick": "The meaning depends on the exception: if you cannot stop safely before the line, you should clear the junction.",
+  "image": ""
+ },
+ {
+  "n": 22708,
+  "it": "L'uso corretto della strada comporta che si dia la precedenza ai pedoni che attraversano sugli attraversamenti pedonali",
+  "answer": true,
+  "en": "Proper use of the road requires giving way to pedestrians who are crossing on pedestrian crossings.",
+  "keywords": [
+   {
+    "phrase": "comporta che",
+    "why": "introduces a requirement or duty"
+   },
+   {
+    "phrase": "si dia la precedenza",
+    "why": "means must give way or yield"
+   }
+  ],
+  "trick": "The trap is that this is a duty to yield, not a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 22709,
+  "it": "L'uso corretto della strada comporta che si usino proiettori anabbaglianti nei centri abitati nelle ore notturne",
+  "answer": true,
+  "en": "Proper use of the road requires using dipped headlights in built-up areas at night.",
+  "keywords": [
+   {
+    "phrase": "comporta che",
+    "why": "introduces a requirement or duty"
+   },
+   {
+    "phrase": "anabbaglianti",
+    "why": "means dipped headlights, not full beam"
+   },
+   {
+    "phrase": "nelle ore notturne",
+    "why": "restricts the rule to nighttime"
+   }
+  ],
+  "trick": "The rule is specifically about dipped headlights at night in built-up areas.",
+  "image": ""
+ },
+ {
+  "n": 22710,
+  "it": "L'uso corretto della strada comporta che si guardino gli specchi retrovisori prima di azionare l'indicatore di direzione per cambiare corsia",
+  "answer": true,
+  "en": "Proper use of the road requires checking the rear-view mirrors before operating the direction indicator to change lane.",
+  "keywords": [
+   {
+    "phrase": "prima di",
+    "why": "sets the required order of actions"
+   }
+  ],
+  "trick": "The key point is the sequence: mirrors first, then the indicator.",
+  "image": ""
+ },
+ {
+  "n": 22711,
+  "it": "L'uso corretto della strada comporta che i veicoli impegnino sempre la carreggiata il più rapidamente possibile",
+  "answer": false,
+  "en": "Proper use of the road requires vehicles always to enter the carriageway as quickly as possible.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "il più rapidamente possibile",
+    "why": "creates an extreme requirement"
+   }
+  ],
+  "trick": "Absolute words like always and as quickly as possible often make the statement false.",
+  "image": ""
+ },
+ {
+  "n": 22712,
+  "it": "L'uso corretto della strada comporta che ci si arresti sempre ai passaggi pedonali ripartendo solo se non sopraggiungono pedoni",
+  "answer": false,
+  "en": "Proper use of the road requires always stopping at pedestrian crossings and setting off again only if no pedestrians are approaching.",
+  "keywords": [
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "solo se",
+    "why": "restricts the action to one condition"
+   },
+   {
+    "phrase": "non sopraggiungono pedoni",
+    "why": "negates the presence of approaching pedestrians"
+   }
+  ],
+  "trick": "The traps are the absolutes always and only if, which overstate the real rule.",
+  "image": ""
+ },
+ {
+  "n": 22713,
+  "it": "L'uso corretto della strada comporta che si usino in ogni caso i proiettori a luce abbagliante",
+  "answer": false,
+  "en": "Proper use of the road requires using full-beam headlights in every case.",
+  "keywords": [
+   {
+    "phrase": "in ogni caso",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "abbagliante",
+    "why": "means full beam, which is not always allowed"
+   }
+  ],
+  "trick": "In every case is the trap: full beams are not to be used universally.",
+  "image": ""
+ },
+ {
+  "n": 22714,
+  "it": "L'uso corretto della strada comporta che ci si arresti in ogni caso in presenza del segnale in figura",
+  "answer": false,
+  "en": "Proper use of the road requires stopping in every case in the presence of the sign shown.",
+  "keywords": [
+   {
+    "phrase": "in ogni caso",
+    "why": "makes the statement absolute"
+   },
+   {
+    "phrase": "in presenza di",
+    "why": "means when faced with or in the presence of"
+   }
+  ],
+  "trick": "The absolute phrase in every case is the key trap here.",
+  "image": ""
+ },
+ {
+  "n": 22715,
+  "it": "L'uso corretto della strada comporta che si proceda a velocità elevata per non creare intralcio",
+  "answer": false,
+  "en": "Proper use of the road requires proceeding at high speed so as not to cause obstruction.",
+  "keywords": [
+   {
+    "phrase": "velocità elevata",
+    "why": "suggests an excessive speed"
+   },
+   {
+    "phrase": "per non",
+    "why": "expresses purpose with negation"
+   }
+  ],
+  "trick": "The trap is the false idea that avoiding obstruction justifies high speed.",
+  "image": ""
+ },
+ {
+  "n": 22716,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo seguire la direzione consentita dall'eventuale segnaletica orizzontale",
+  "answer": true,
+  "en": "When, having reached the vicinity of an intersection, we realize that we have chosen the wrong lane for selecting our direction, we must follow the direction permitted by any road markings present.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di",
+    "why": "means near or approaching, not inside"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "consentita",
+    "why": "means permitted, limiting what you may do"
+   },
+   {
+    "phrase": "eventuale",
+    "why": "means if present, not necessarily present"
+   }
+  ],
+  "trick": "Near an intersection, you must obey any direction allowed by the road markings if they are present.",
+  "image": ""
+ },
+ {
+  "n": 22717,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione non dobbiamo effettuare cambiamenti di corsia, anche per non intralciare i veicoli che seguono",
+  "answer": true,
+  "en": "When, having reached the vicinity of an intersection, we realize that we have chosen the wrong lane for selecting our direction, we must not change lanes, also so as not to hinder the vehicles behind.",
+  "keywords": [
+   {
+    "phrase": "non dobbiamo",
+    "why": "expresses prohibition or negative obligation"
+   },
+   {
+    "phrase": "anche per non",
+    "why": "adds a further reason with negation"
+   },
+   {
+    "phrase": "in prossimità di",
+    "why": "means near or approaching, not inside"
+   }
+  ],
+  "trick": "The key point is the negative obligation: do not change lanes near the intersection.",
+  "image": ""
+ },
+ {
+  "n": 22718,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione non ci dobbiamo arrestare bruscamente, per evitare tamponamenti e confusione nella circolazione",
+  "answer": true,
+  "en": "When, having reached the vicinity of an intersection, we realize that we have chosen the wrong lane for selecting our direction, we must not stop suddenly, in order to avoid rear-end collisions and confusion in traffic.",
+  "keywords": [
+   {
+    "phrase": "non ci dobbiamo",
+    "why": "expresses prohibition or negative obligation"
+   },
+   {
+    "phrase": "bruscamente",
+    "why": "limits the prohibition to sudden stopping"
+   }
+  ],
+  "trick": "The prohibition is specifically against stopping abruptly, not against every stop.",
+  "image": ""
+ },
+ {
+  "n": 22719,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione non ci dobbiamo fermare a chiedere informazioni, per non ostacolare il flusso della circolazione",
+  "answer": true,
+  "en": "When, having reached the vicinity of an intersection, we realize that we have chosen the wrong lane for selecting our direction, we must not stop to ask for information, so as not to obstruct the flow of traffic.",
+  "keywords": [
+   {
+    "phrase": "non ci dobbiamo",
+    "why": "expresses prohibition or negative obligation"
+   },
+   {
+    "phrase": "per non",
+    "why": "gives a reason using negation"
+   }
+  ],
+  "trick": "The key trap is the negative obligation: do not stop there to ask for directions.",
+  "image": ""
+ },
+ {
+  "n": 22720,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo procedere nel senso voluto dalla segnaletica, dando le dovute precedenze",
+  "answer": true,
+  "en": "When, having reached the vicinity of an intersection, we realize that we have chosen the wrong lane for selecting our direction, we must proceed in the direction indicated by the signs, giving the required right of way.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "nel senso voluto dalla segnaletica",
+    "why": "means in the direction required by the signs"
+   },
+   {
+    "phrase": "dando le dovute precedenze",
+    "why": "means yielding where required"
+   }
+  ],
+  "trick": "The sentence imposes two duties: follow the signed direction and give way where necessary.",
+  "image": ""
+ },
+ {
+  "n": 22721,
+  "it": "Giungendo ad un incrocio, se non si è in grado di capire subito chi ha la precedenza, bisogna procedere con prudenza e accortezza",
+  "answer": true,
+  "en": "On approaching an intersection, if one is not able to understand immediately who has the right of way, one must proceed with prudence and caution.",
+  "keywords": [
+   {
+    "phrase": "se non si è in grado di",
+    "why": "negates ability to do something"
+   },
+   {
+    "phrase": "subito",
+    "why": "means immediately, limiting the condition"
+   },
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "If you cannot immediately tell who has priority, the duty is to proceed cautiously.",
+  "image": ""
+ },
+ {
+  "n": 22722,
+  "it": "Giungendo ad un incrocio, se non si è in grado di capire subito chi ha la precedenza, si può proseguire senza rallentare, se si sceglie di andare diritto",
+  "answer": false,
+  "en": "On approaching an intersection, if one is not able to understand immediately who has the right of way, one may continue without slowing down if one chooses to go straight on.",
+  "keywords": [
+   {
+    "phrase": "se non si è in grado di",
+    "why": "negates ability to do something"
+   },
+   {
+    "phrase": "si può",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "senza rallentare",
+    "why": "removes the expected caution"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on one case only"
+   }
+  ],
+  "trick": "The trap is the false permission: going straight does not allow you to continue without slowing down.",
+  "image": ""
+ },
+ {
+  "n": 22723,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo effettuare la manovra di svolta che intendevamo fare, dando però precedenza a tutti i veicoli",
+  "answer": false,
+  "en": "When, having reached the vicinity of an intersection, we realize that we have chosen the wrong lane for selecting our direction, we must carry out the turning manoeuvre we had intended to make, while however giving way to all vehicles.",
+  "keywords": [
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "però",
+    "why": "adds a contrasting condition"
+   },
+   {
+    "phrase": "a tutti i veicoli",
+    "why": "makes the yielding requirement absolute"
+   }
+  ],
+  "trick": "The trap is the overbroad claim that you should still make your intended turn by giving way to all vehicles.",
+  "image": ""
+ },
+ {
+  "n": 22724,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo chiedere consiglio agli agenti del traffico",
+  "answer": false,
+  "en": "When, on approaching an intersection, we realize that we have chosen the wrong lane for positioning before the turn, we must ask traffic officers for advice.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di un incrocio",
+    "why": "limits the situation to near an intersection"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation, not suggestion"
+   }
+  ],
+  "trick": "The trap is the mandatory wording limited to the specific situation near an intersection.",
+  "image": ""
+ },
+ {
+  "n": 22725,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo azionare l'accensione simultanea di tutti gli indicatori di direzione, quale segnale di pericolo",
+  "answer": false,
+  "en": "When, on approaching an intersection, we realize that we have chosen the wrong lane for positioning before the turn, we must switch on all the direction indicators simultaneously as a danger signal.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di un incrocio",
+    "why": "limits the situation to near an intersection"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "simultanea di tutti gli indicatori di direzione",
+    "why": "means all indicators at once, i.e. hazard lights"
+   }
+  ],
+  "trick": "The trap is the claimed obligation to use all indicators simultaneously in that specific situation.",
+  "image": ""
+ },
+ {
+  "n": 22726,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo accostarci sulla destra e fermarci finché non sia passata la colonna dei veicoli che seguono",
+  "answer": false,
+  "en": "When, on approaching an intersection, we realize that we have chosen the wrong lane for positioning before the turn, we must pull over to the right and stop until the line of vehicles behind us has passed.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di un incrocio",
+    "why": "limits the situation to near an intersection"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "finché non sia passata",
+    "why": "means until it has passed, despite the Italian negation form"
+   }
+  ],
+  "trick": "The trap is the phrase 'finché non sia passata', where 'non' does not create a real negative meaning.",
+  "image": ""
+ },
+ {
+  "n": 22727,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione cerchiamo di retrocedere, con prudenza, fino al punto in cui cessano le strisce continue di corsia",
+  "answer": false,
+  "en": "When, on approaching an intersection, we realize that we have chosen the wrong lane for positioning before the turn, we should try to reverse, carefully, as far as the point where the continuous lane lines end.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di un incrocio",
+    "why": "limits the situation to near an intersection"
+   },
+   {
+    "phrase": "retrocedere",
+    "why": "means reverse/back up, a risky manoeuvre"
+   },
+   {
+    "phrase": "fino al punto in cui cessano",
+    "why": "sets a precise limit for the action"
+   }
+  ],
+  "trick": "The trap is the suggested reversing manoeuvre, limited up to where the continuous lines end.",
+  "image": ""
+ },
+ {
+  "n": 22728,
+  "it": "Quando, giunti in prossimità di un incrocio, ci accorgiamo di aver sbagliato la corsia di preselezione dobbiamo arrivare al semaforo e attendere che la luce ci consenta di effettuare il cambio di corsia",
+  "answer": false,
+  "en": "When, on approaching an intersection, we realize that we have chosen the wrong lane for positioning before the turn, we must reach the traffic light and wait for the light to allow us to change lane.",
+  "keywords": [
+   {
+    "phrase": "in prossimità di un incrocio",
+    "why": "limits the situation to near an intersection"
+   },
+   {
+    "phrase": "dobbiamo",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "ci consenta",
+    "why": "means permits/allows the manoeuvre"
+   }
+  ],
+  "trick": "The trap is the false obligation to wait for the traffic light to permit a lane change.",
+  "image": ""
+ },
+ {
+  "n": 22729,
+  "it": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, è necessario ridurre la velocità e, occorrendo, fermarsi per non investirlo",
+  "answer": true,
+  "en": "In a built-up area, when a pedestrian, outside the pedestrian crossing, shows no sign of giving way to us, it is necessary to reduce speed and, if needed, stop so as not to hit them.",
+  "keywords": [
+   {
+    "phrase": "fuori delle strisce di attraversamento",
+    "why": "means outside the pedestrian crossing"
+   },
+   {
+    "phrase": "non accenni a darci la precedenza",
+    "why": "negates any sign that the pedestrian will give way"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "occorrendo",
+    "why": "means if necessary"
+   }
+  ],
+  "trick": "The trap is that even outside the crossing, if the pedestrian does not appear to give way, you must slow down and stop if needed.",
+  "image": ""
+ },
+ {
+  "n": 22730,
+  "it": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, è opportuno rallentare e avvisarlo con un breve colpo di clacson, in caso di pericolo immediato",
+  "answer": true,
+  "en": "In a built-up area, when a pedestrian, outside the pedestrian crossing, shows no sign of giving way to us, it is advisable to slow down and warn them with a brief horn signal, in case of immediate danger.",
+  "keywords": [
+   {
+    "phrase": "fuori delle strisce di attraversamento",
+    "why": "means outside the pedestrian crossing"
+   },
+   {
+    "phrase": "non accenni a darci la precedenza",
+    "why": "negates any sign that the pedestrian will give way"
+   },
+   {
+    "phrase": "è opportuno",
+    "why": "expresses advice, not strict obligation"
+   },
+   {
+    "phrase": "in caso di pericolo immediato",
+    "why": "restricts horn use to immediate danger"
+   }
+  ],
+  "trick": "The trap is that the horn is only appropriate in the specific case of immediate danger.",
+  "image": ""
+ },
+ {
+  "n": 22731,
+  "it": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, è necessario ridurre la velocità fino a fermarsi tempestivamente, se occorre",
+  "answer": true,
+  "en": "In a built-up area, when a pedestrian, outside the pedestrian crossing, shows no sign of giving way to us, it is necessary to reduce speed so that you can stop promptly, if necessary.",
+  "keywords": [
+   {
+    "phrase": "fuori delle strisce di attraversamento",
+    "why": "means outside the pedestrian crossing"
+   },
+   {
+    "phrase": "non accenni a darci la precedenza",
+    "why": "negates any sign that the pedestrian will give way"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "se occorre",
+    "why": "means if necessary"
+   }
+  ],
+  "trick": "The trap is the mandatory need to slow enough to stop promptly if required.",
+  "image": ""
+ },
+ {
+  "n": 22732,
+  "it": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, è opportuno nelle ore notturne, procedere con gli abbaglianti accesi così che possa accorgersi di noi",
+  "answer": false,
+  "en": "In a built-up area, when a pedestrian, outside the pedestrian crossing, shows no sign of giving way to us, it is advisable at night to proceed with the main-beam headlights on so that they can notice us.",
+  "keywords": [
+   {
+    "phrase": "fuori delle strisce di attraversamento",
+    "why": "means outside the pedestrian crossing"
+   },
+   {
+    "phrase": "non accenni a darci la precedenza",
+    "why": "negates any sign that the pedestrian will give way"
+   },
+   {
+    "phrase": "nelle ore notturne",
+    "why": "limits the statement to night-time"
+   },
+   {
+    "phrase": "abbaglianti accesi",
+    "why": "means main-beam headlights on"
+   }
+  ],
+  "trick": "The trap is the suggested use of main beams at night in a built-up area.",
+  "image": ""
+ },
+ {
+  "n": 22733,
+  "it": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, è opportuno cercare di richiamare la sua attenzione con qualsiasi mezzo, perché ci dia la precedenza",
+  "answer": false,
+  "en": "In a built-up area, when a pedestrian, outside the pedestrian crossing, shows no sign of giving way to us, it is advisable to try to attract their attention by any means so that they give way to us.",
+  "keywords": [
+   {
+    "phrase": "fuori delle strisce di attraversamento",
+    "why": "means outside the pedestrian crossing"
+   },
+   {
+    "phrase": "non accenni a darci la precedenza",
+    "why": "negates any sign that the pedestrian will give way"
+   },
+   {
+    "phrase": "con qualsiasi mezzo",
+    "why": "means by any means whatever, an overbroad claim"
+   },
+   {
+    "phrase": "perché ci dia la precedenza",
+    "why": "states the aim is to make the pedestrian give way"
+   }
+  ],
+  "trick": "The trap is the extreme phrase 'con qualsiasi mezzo', making the advice unlawfully broad.",
+  "image": ""
+ },
+ {
+  "n": 22734,
+  "it": "In un centro abitato, quando un pedone, fuori delle strisce di attraversamento, non accenni a darci la precedenza, è necessario proseguire, senza curarci di lui, perché abbiamo la precedenza",
+  "answer": false,
+  "en": "In a built-up area, when a pedestrian, outside the pedestrian crossing, shows no sign of giving way to us, it is necessary to continue without paying attention to them, because we have the right of way.",
+  "keywords": [
+   {
+    "phrase": "fuori delle strisce di attraversamento",
+    "why": "means outside the pedestrian crossing"
+   },
+   {
+    "phrase": "non accenni a darci la precedenza",
+    "why": "negates any sign that the pedestrian will give way"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "senza curarci di lui",
+    "why": "means without paying attention to them"
+   }
+  ],
+  "trick": "The trap is the false claim that right of way lets you ignore the pedestrian.",
+  "image": ""
+ },
+ {
+  "n": 22735,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve fermarsi sulla destra e attendere che la carreggiata si liberi",
+  "answer": true,
+  "en": "When, in a built-up area, the driver of a vehicle comes upon a procession, they must stop on the right and wait until the carriageway is clear.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "attendere che la carreggiata si liberi",
+    "why": "means wait until the road becomes clear"
+   }
+  ],
+  "trick": "The trap is the strict obligation to stop and wait until the roadway is free.",
+  "image": ""
+ },
+ {
+  "n": 22736,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve evitare di suonare il clacson",
+  "answer": true,
+  "en": "When, in a built-up area, the driver of a vehicle comes upon a procession, they must avoid sounding the horn.",
+  "keywords": [
+   {
+    "phrase": "deve evitare",
+    "why": "expresses an obligation not to do something"
+   }
+  ],
+  "trick": "The trap is that 'deve evitare' is a prohibition in practice, not mere advice.",
+  "image": ""
+ },
+ {
+  "n": 22737,
+  "it": "È opportuno che il conducente di un veicolo, quando in un centro abitato si imbatte in un corteo, imbocchi, se possibile, una strada laterale, purché la manovra possa essere fatta in maniera corretta",
+  "answer": true,
+  "en": "It is advisable that the driver of a vehicle, when in a built-up area they come upon a procession, take a side road, if possible, provided that the manoeuvre can be carried out properly.",
+  "keywords": [
+   {
+    "phrase": "È opportuno",
+    "why": "expresses advice, not strict obligation"
+   },
+   {
+    "phrase": "se possibile",
+    "why": "limits the advice to feasible cases"
+   },
+   {
+    "phrase": "purché",
+    "why": "introduces a condition that must be satisfied"
+   }
+  ],
+  "trick": "The trap is that the action is only advisable if possible and only provided it can be done correctly.",
+  "image": ""
+ },
+ {
+  "n": 22738,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve accertarsi, prima di passare, che esso sia transitato completamente",
+  "answer": true,
+  "en": "When, in a built-up area, the driver of a vehicle comes upon a procession, they must make sure, before passing, that it has completely gone by.",
+  "keywords": [
+   {
+    "phrase": "deve accertarsi",
+    "why": "expresses obligation to make sure"
+   },
+   {
+    "phrase": "prima di passare",
+    "why": "sets a condition before proceeding"
+   },
+   {
+    "phrase": "completamente",
+    "why": "means entirely, not just mostly"
+   }
+  ],
+  "trick": "The trap is the requirement to wait until the procession has passed completely before going on.",
+  "image": ""
+ },
+ {
+  "n": 22739,
+  "it": "È opportuno che il conducente di un veicolo, quando in un centro abitato si imbatte in un corteo, eviti di retrocedere se ciò ostacola il flusso della circolazione",
+  "answer": true,
+  "en": "It is advisable that the driver of a vehicle, when in a built-up area they come upon a procession, avoid reversing if this obstructs the flow of traffic.",
+  "keywords": [
+   {
+    "phrase": "È opportuno",
+    "why": "expresses advice, not strict obligation"
+   },
+   {
+    "phrase": "eviti",
+    "why": "means should avoid the action"
+   },
+   {
+    "phrase": "se ciò ostacola il flusso della circolazione",
+    "why": "limits the rule to cases where traffic flow is obstructed"
+   }
+  ],
+  "trick": "The trap is the conditional limit: reversing is to be avoided if it would hinder traffic flow.",
+  "image": ""
+ },
+ {
+  "n": 22740,
+  "it": "È opportuno che il conducente di un veicolo, quando in un centro abitato si imbatte in un corteo, non faccia inversione di marcia, qualora ciò costituisca intralcio alla circolazione",
+  "answer": true,
+  "en": "It is advisable that the driver of a vehicle, when in a built-up area they come upon a procession, not make a U-turn if this would cause an obstruction to traffic.",
+  "keywords": [
+   {
+    "phrase": "È opportuno",
+    "why": "expresses advice, not strict obligation"
+   },
+   {
+    "phrase": "non faccia inversione di marcia",
+    "why": "negates making a U-turn"
+   },
+   {
+    "phrase": "qualora",
+    "why": "introduces a conditional case: if"
+   },
+   {
+    "phrase": "costituisca intralcio alla circolazione",
+    "why": "means causes an obstruction to traffic"
+   }
+  ],
+  "trick": "The trap is the conditional prohibition: no U-turn if it would obstruct traffic.",
+  "image": ""
+ },
+ {
+  "n": 22741,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve suonare discretamente onde avvertire il corteo di far cessare al più presto l'ingombro",
+  "answer": false,
+  "en": "When, in a built-up area, the driver of a vehicle comes upon a procession, they must sound the horn gently so as to warn the procession to stop blocking the road as soon as possible.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "onde",
+    "why": "formal wording meaning so as to/in order to"
+   },
+   {
+    "phrase": "al più presto",
+    "why": "means as soon as possible"
+   }
+  ],
+  "trick": "The trap is the false claimed obligation to use the horn to hurry the procession along.",
+  "image": ""
+ },
+ {
+  "n": 22742,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve cercare di farsi strada interrompendo il corteo, ma con estrema prudenza",
+  "answer": false,
+  "en": "When, in a built-up area, the driver of a vehicle comes upon a procession, they must try to make their way through by interrupting the procession, but with extreme caution.",
+  "keywords": [
+   {
+    "phrase": "deve cercare di",
+    "why": "still expresses a duty to attempt the action"
+   },
+   {
+    "phrase": "interrompendo il corteo",
+    "why": "means by breaking through the procession"
+   },
+   {
+    "phrase": "ma con estrema prudenza",
+    "why": "softens the action but does not make it lawful"
+   }
+  ],
+  "trick": "The trap is that adding 'with extreme caution' does not make breaking through a procession acceptable.",
+  "image": ""
+ },
+ {
+  "n": 22743,
+  "it": "È opportuno che il conducente di un veicolo, quando in un centro abitato si imbatte in un corteo, accenda le luci di profondità per vedere meglio ed evitare incidenti",
+  "answer": false,
+  "en": "It is advisable that the driver of a vehicle, when in a built-up area they come upon a procession, switch on the main-beam headlights to see better and avoid accidents.",
+  "keywords": [
+   {
+    "phrase": "È opportuno",
+    "why": "expresses advice, not strict obligation"
+   },
+   {
+    "phrase": "luci di profondità",
+    "why": "means main-beam headlights"
+   },
+   {
+    "phrase": "per vedere meglio ed evitare incidenti",
+    "why": "states a persuasive purpose that may mislead learners"
+   }
+  ],
+  "trick": "The trap is the misleading suggestion that main beams are appropriate near a procession in a built-up area.",
+  "image": ""
+ },
+ {
+  "n": 22744,
+  "it": "È opportuno che il conducente di un veicolo, quando in un centro abitato si imbatte in un corteo, se proprio ha molta fretta, passi rapidamente usando il clacson in maniera continua",
+  "answer": false,
+  "en": "When, in a built-up area, a driver comes across a procession, if they are really in a hurry, they should quickly pass through it while using the horn continuously.",
+  "keywords": [
+   {
+    "phrase": "si imbatte in un corteo",
+    "why": "means comes across a procession, not just any group"
+   },
+   {
+    "phrase": "se proprio ha molta fretta",
+    "why": "limits the statement to the case of being really in a hurry"
+   },
+   {
+    "phrase": "passi rapidamente",
+    "why": "expresses that one should do it quickly"
+   }
+  ],
+  "trick": "The trap is the suggestion that urgency justifies passing through a procession while sounding the horn.",
+  "image": ""
+ },
+ {
+  "n": 22745,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve regolarsi in base alla sua densità, oltrepassandolo o interrompendolo qualora sia possibile",
+  "answer": false,
+  "en": "When, in a built-up area, a driver comes across a procession, they must act according to how dense it is, passing it or cutting through it if possible.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "qualora sia possibile",
+    "why": "adds a condition: only if it is possible"
+   },
+   {
+    "phrase": "oltrepassandolo o interrompendolo",
+    "why": "suggests overtaking or breaking through the procession"
+   }
+  ],
+  "trick": "The trap is the conditional wording that makes breaking through the procession sound permitted.",
+  "image": ""
+ },
+ {
+  "n": 22746,
+  "it": "Quando, in un centro abitato, il conducente di un veicolo si imbatte in un corteo, deve retrocedere rapidamente fino al primo incrocio",
+  "answer": false,
+  "en": "When, in a built-up area, a driver comes across a procession, they must reverse quickly as far as the first intersection.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "retrocedere rapidamente",
+    "why": "means reverse quickly, an unsafe action"
+   },
+   {
+    "phrase": "fino al primo incrocio",
+    "why": "sets a specific limit that can sound official"
+   }
+  ],
+  "trick": "The trap is the false obligation to reverse quickly up to the first intersection.",
+  "image": ""
+ },
+ {
+  "n": 22747,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno attendere pazientemente la ripresa della marcia",
+  "answer": true,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable to wait patiently for it to start moving again.",
+  "keywords": [
+   {
+    "phrase": "al segnale di via libera",
+    "why": "means when there is permission to go"
+   },
+   {
+    "phrase": "tarda a riprendere la marcia",
+    "why": "means is slow to move off again"
+   },
+   {
+    "phrase": "è opportuno",
+    "why": "expresses advisable conduct, not a strict order"
+   }
+  ],
+  "trick": "The key is that the sentence recommends patience rather than forcing the situation.",
+  "image": ""
+ },
+ {
+  "n": 22748,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno evitare di suonare il clacson con insistenza e di provocare una situazione di intolleranza negli altri automobilisti",
+  "answer": true,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable to avoid sounding the horn insistently and causing a situation of intolerance among other motorists.",
+  "keywords": [
+   {
+    "phrase": "è opportuno evitare di",
+    "why": "means it is advisable not to do something"
+   },
+   {
+    "phrase": "con insistenza",
+    "why": "means repeatedly or insistently, strengthening the misuse"
+   },
+   {
+    "phrase": "provocare",
+    "why": "introduces an unwanted consequence to be avoided"
+   }
+  ],
+  "trick": "The main trap is the negative advice: avoid using the horn insistently.",
+  "image": ""
+ },
+ {
+  "n": 22749,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno, se c'è bisogno ed è possibile farlo senza pericolo, prestare aiuto all'automobilista rimasto fermo",
+  "answer": true,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable, if needed and if it can be done safely, to help the motorist who has remained stationary.",
+  "keywords": [
+   {
+    "phrase": "se c'è bisogno",
+    "why": "adds the condition only if needed"
+   },
+   {
+    "phrase": "è possibile farlo senza pericolo",
+    "why": "limits the action to cases where it is safe"
+   },
+   {
+    "phrase": "prestare aiuto",
+    "why": "means give assistance, not simply signal"
+   }
+  ],
+  "trick": "The key is that helping is advised only when necessary and safe.",
+  "image": ""
+ },
+ {
+  "n": 22750,
+  "it": "Nei centri abitati è vietato l'uso del segnalatore acustico per sollecitare il conducente del veicolo che precede a riprendere la marcia quando il semaforo diventa verde",
+  "answer": true,
+  "en": "In built-up areas, using the horn to urge the driver of the vehicle in front to move off when the traffic light turns green is prohibited.",
+  "keywords": [
+   {
+    "phrase": "è vietato",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "per sollecitare",
+    "why": "shows the horn use is for urging someone on"
+   },
+   {
+    "phrase": "quando il semaforo diventa verde",
+    "why": "sets the specific situation where learners may think it is allowed"
+   }
+  ],
+  "trick": "The trap is that even when the light turns green, using the horn to hurry the driver ahead is forbidden.",
+  "image": ""
+ },
+ {
+  "n": 22751,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, non si deve superarlo con manovre pericolose",
+  "answer": true,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, you must not overtake it with dangerous manoeuvres.",
+  "keywords": [
+   {
+    "phrase": "non si deve",
+    "why": "expresses prohibition through negated obligation"
+   },
+   {
+    "phrase": "superarlo",
+    "why": "means overtake/pass it, which may seem tempting"
+   },
+   {
+    "phrase": "con manovre pericolose",
+    "why": "restricts the prohibition to dangerous manoeuvres"
+   }
+  ],
+  "trick": "The key trap is the negated obligation: you must not overtake dangerously.",
+  "image": ""
+ },
+ {
+  "n": 22752,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno suonare insistentemente per sollecitare il conducente a rimettersi in moto",
+  "answer": false,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable to sound the horn insistently to urge the driver to move off.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, making the false action sound correct"
+   },
+   {
+    "phrase": "suonare insistentemente",
+    "why": "means sounding repeatedly, which is the problematic part"
+   },
+   {
+    "phrase": "per sollecitare",
+    "why": "shows the purpose is to hurry the other driver"
+   }
+  ],
+  "trick": "The trap is that the sentence presents persistent horn use as advisable when it is not.",
+  "image": ""
+ },
+ {
+  "n": 22753,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno richiamare con il clacson l'attenzione degli automobilisti che seguono",
+  "answer": false,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable to draw the attention of the drivers behind with the horn.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "means advisable, which can mislead learners"
+   },
+   {
+    "phrase": "richiamare con il clacson l'attenzione",
+    "why": "suggests using the horn as a warning signal"
+   },
+   {
+    "phrase": "degli automobilisti che seguono",
+    "why": "specifies the drivers behind, making the use sound reasonable"
+   }
+  ],
+  "trick": "The trap is that horn use is made to sound justified by warning following drivers.",
+  "image": ""
+ },
+ {
+  "n": 22754,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno tirare il freno a mano e scendere per cercare un agente del traffico che prenda i dovuti provvedimenti",
+  "answer": false,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable to apply the handbrake and get out to look for a traffic officer to take the necessary measures.",
+  "keywords": [
+   {
+    "phrase": "è opportuno",
+    "why": "makes the false conduct sound recommended"
+   },
+   {
+    "phrase": "scendere",
+    "why": "means get out of the vehicle, a drastic action"
+   },
+   {
+    "phrase": "prenda i dovuti provvedimenti",
+    "why": "sounds official, which can wrongly suggest correctness"
+   }
+  ],
+  "trick": "The trap is the apparently official suggestion to leave the vehicle and seek an officer.",
+  "image": ""
+ },
+ {
+  "n": 22755,
+  "it": "Quando ad un incrocio urbano, al segnale di via libera, il veicolo che precede tarda a riprendere la marcia, è opportuno cercare di sgombrare al più presto la carreggiata, anche invertendo il senso di marcia",
+  "answer": false,
+  "en": "When, at an urban intersection, after the go-ahead signal, the vehicle in front is slow to move off again, it is advisable to clear the carriageway as quickly as possible, even by making a U-turn.",
+  "keywords": [
+   {
+    "phrase": "al più presto",
+    "why": "means as quickly as possible, adding urgency"
+   },
+   {
+    "phrase": "anche",
+    "why": "means even, extending the action to an extreme case"
+   },
+   {
+    "phrase": "invertendo il senso di marcia",
+    "why": "means turning around/reversing direction, a serious manoeuvre"
+   }
+  ],
+  "trick": "The trap is the word anche, which makes even a U-turn sound acceptable.",
+  "image": ""
+ },
+ {
+  "n": 22756,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre procedere con prudenza, usando le luci anabbaglianti",
+  "answer": true,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must proceed cautiously, using dipped headlights.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "con prudenza",
+    "why": "requires cautious driving, not normal speed"
+   },
+   {
+    "phrase": "usando le luci anabbaglianti",
+    "why": "specifies dipped headlights, not main beams"
+   }
+  ],
+  "trick": "The key is the obligation to continue cautiously with dipped headlights.",
+  "image": ""
+ },
+ {
+  "n": 22757,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre distogliere lo sguardo dal fascio luminoso per non essere abbagliati",
+  "answer": true,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must look away from the beam of light so as not to be dazzled.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "distogliere lo sguardo",
+    "why": "means avert your gaze, not close your eyes"
+   },
+   {
+    "phrase": "per non essere abbagliati",
+    "why": "states the preventive purpose using negation"
+   }
+  ],
+  "trick": "The trap is understanding that the negative purpose means avoiding glare by looking away from the beam.",
+  "image": ""
+ },
+ {
+  "n": 22758,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre rallentare adeguatamente ed eventualmente fermarsi",
+  "answer": true,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must slow down appropriately and, if necessary, stop.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "rallentare adeguatamente",
+    "why": "means slow down sufficiently, not slightly"
+   },
+   {
+    "phrase": "eventualmente fermarsi",
+    "why": "means stop if necessary, not always"
+   }
+  ],
+  "trick": "The key trap is eventualmente, which means if necessary, not automatically.",
+  "image": ""
+ },
+ {
+  "n": 22759,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre tener conto della ridotta visibilità nel nostro comportamento di guida",
+  "answer": true,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must take the reduced visibility into account in our driving behaviour.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "tener conto",
+    "why": "means take into account, not merely notice"
+   },
+   {
+    "phrase": "ridotta visibilità",
+    "why": "signals the specific hazard affecting driving"
+   }
+  ],
+  "trick": "The key is that reduced visibility must actively influence how you drive.",
+  "image": ""
+ },
+ {
+  "n": 22760,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre evitare brusche manovre e cambi di corsia",
+  "answer": true,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must avoid sudden manoeuvres and lane changes.",
+  "keywords": [
+   {
+    "phrase": "occorre evitare",
+    "why": "means one must avoid"
+   },
+   {
+    "phrase": "brusche manovre",
+    "why": "means sudden manoeuvres, a specific risk"
+   },
+   {
+    "phrase": "cambi di corsia",
+    "why": "means lane changes, which are included in what to avoid"
+   }
+  ],
+  "trick": "The trap is the obligation to avoid both sudden manoeuvres and lane changes.",
+  "image": ""
+ },
+ {
+  "n": 22761,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre disporre il retrovisore interno in posizione antiabbagliante",
+  "answer": false,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must set the interior rear-view mirror to the anti-dazzle position.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "retrovisore interno",
+    "why": "means the interior rear-view mirror, not the side mirrors"
+   },
+   {
+    "phrase": "in posizione antiabbagliante",
+    "why": "refers to anti-dazzle setting, usually relevant for following vehicles behind"
+   }
+  ],
+  "trick": "The trap is that the anti-dazzle mirror setting sounds appropriate but does not apply to oncoming glare in this way.",
+  "image": ""
+ },
+ {
+  "n": 22762,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre procedere a nostra volta con i fari abbaglianti, per veder meglio la strada",
+  "answer": false,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must in turn proceed with main-beam headlights, in order to see the road better.",
+  "keywords": [
+   {
+    "phrase": "a nostra volta",
+    "why": "means in turn, suggesting a mirrored response"
+   },
+   {
+    "phrase": "fari abbaglianti",
+    "why": "means main beams, which are the dangerous choice here"
+   },
+   {
+    "phrase": "per veder meglio",
+    "why": "gives a plausible reason that can mislead learners"
+   }
+  ],
+  "trick": "The trap is the plausible but wrong idea of replying with your own main beams.",
+  "image": ""
+ },
+ {
+  "n": 22763,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre fermarsi immediatamente",
+  "answer": false,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, we must stop immediately.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity"
+   },
+   {
+    "phrase": "fermarsi immediatamente",
+    "why": "means stop at once, an absolute action"
+   }
+  ],
+  "trick": "The trap is the absolute wording immediately, which makes the false rule sound strict and official.",
+  "image": ""
+ },
+ {
+  "n": 22764,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre azionare le trombe bitonali per richiamare l'attenzione del veicolo incrociante",
+  "answer": false,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, it is necessary to use the two-tone horn to draw the attention of the oncoming vehicle.",
+  "keywords": [
+   {
+    "phrase": "Allorché",
+    "why": "formal word meaning 'when' introducing the situation"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "fari a luce abbagliante accesi",
+    "why": "specifies main beams are on"
+   }
+  ],
+  "trick": "The trap is 'occorre', which states a required action, not a suggestion.",
+  "image": ""
+ },
+ {
+  "n": 22765,
+  "it": "Allorché di notte, su strada extraurbana, incrociamo un veicolo con fari a luce abbagliante accesi, occorre cercare di ripararsi gli occhi con le mani",
+  "answer": false,
+  "en": "When at night, on an extra-urban road, we meet a vehicle with its main-beam headlights on, it is necessary to try to shield our eyes with our hands.",
+  "keywords": [
+   {
+    "phrase": "Allorché",
+    "why": "formal word meaning 'when' introducing the situation"
+   },
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "cercare di",
+    "why": "means 'try to', not a definite action"
+   }
+  ],
+  "trick": "The trap is 'occorre', which makes the statement say this is required.",
+  "image": ""
+ },
+ {
+  "n": 22766,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario guidare in modo adeguato alle caratteristiche del veicolo, della strada e del traffico",
+  "answer": true,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary to drive in a way suited to the characteristics of the vehicle, the road and the traffic.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "in modo adeguato",
+    "why": "requires adapting behaviour to conditions"
+   }
+  ],
+  "trick": "The key trap is the negative purpose 'per non costituire', which must stay negative.",
+  "image": ""
+ },
+ {
+  "n": 22767,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario osservare non solo le norme sulla circolazione, ma anche le cautele dettate dal buonsenso",
+  "answer": true,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary to observe not only the traffic rules, but also the cautions dictated by common sense.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "non solo ... ma anche",
+    "why": "pairs two required elements, not just one"
+   }
+  ],
+  "trick": "The trap is 'non solo ... ma anche', which means both things are required.",
+  "image": ""
+ },
+ {
+  "n": 22768,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario unire all'applicazione delle fondamentali norme sulla circolazione un forte senso civico",
+  "answer": true,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary to combine a strong civic sense with the application of the fundamental traffic rules.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "unire ... all'applicazione",
+    "why": "means adding one element to another, not replacing it"
+   }
+  ],
+  "trick": "The trap is that civic sense must be added to the rules, not used instead of them.",
+  "image": ""
+ },
+ {
+  "n": 22769,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario limitarsi ad osservare i limiti massimi di velocità",
+  "answer": false,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary to limit oneself to observing the maximum speed limits.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "limitarsi ad",
+    "why": "restricts the rule to only this action"
+   },
+   {
+    "phrase": "limiti massimi di velocità",
+    "why": "means maximum speed limits, not speed limits in general"
+   }
+  ],
+  "trick": "The key trap is 'limitarsi ad', which wrongly restricts safety to only one thing.",
+  "image": ""
+ },
+ {
+  "n": 22770,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario procedere sempre a velocità costante",
+  "answer": false,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary always to proceed at a constant speed.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "absolute word meaning 'always'"
+   }
+  ],
+  "trick": "The trap is 'sempre', which makes the statement absolute.",
+  "image": ""
+ },
+ {
+  "n": 22771,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario dare, comunque, la precedenza a tutti i veicoli negli incroci",
+  "answer": false,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary, in any case, to give way to all vehicles at intersections.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "comunque",
+    "why": "means 'in any case', making it unconditional"
+   },
+   {
+    "phrase": "a tutti i veicoli",
+    "why": "extends the rule to all vehicles"
+   }
+  ],
+  "trick": "The trap is the unconditional wording 'comunque' plus 'a tutti i veicoli'.",
+  "image": ""
+ },
+ {
+  "n": 22772,
+  "it": "Per non costituire pericolo o intralcio per la circolazione, è necessario limitarsi ad osservare i limiti minimi di velocità",
+  "answer": false,
+  "en": "In order not to create danger or obstruction to traffic, it is necessary to limit oneself to observing the minimum speed limits.",
+  "keywords": [
+   {
+    "phrase": "Per non costituire",
+    "why": "negative purpose: 'in order not to cause'"
+   },
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "limitarsi ad",
+    "why": "restricts the rule to only this action"
+   },
+   {
+    "phrase": "limiti minimi di velocità",
+    "why": "means minimum speed limits, not maximum ones"
+   }
+  ],
+  "trick": "The key trap is 'limitarsi ad', which wrongly narrows the rule to only minimum limits.",
+  "image": ""
+ },
+ {
+  "n": 22773,
+  "it": "In caso di traffico intenso il conducente deve regolare la propria velocità uniformandola il più possibile a quella della corrente di traffico che scorre lungo la corsia occupata",
+  "answer": true,
+  "en": "In the event of heavy traffic, the driver must regulate their speed, matching it as closely as possible to that of the traffic flow moving along the occupied lane.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più possibile",
+    "why": "means 'as much as possible', not absolutely"
+   }
+  ],
+  "trick": "The trap is 'il più possibile', which requires approximation, not exact equality.",
+  "image": ""
+ },
+ {
+  "n": 22774,
+  "it": "In caso di traffico intenso il conducente deve mantenere sempre la distanza di sicurezza dal veicolo che lo precede",
+  "answer": true,
+  "en": "In the event of heavy traffic, the driver must always keep a safe distance from the vehicle in front.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "sempre",
+    "why": "absolute word meaning 'always'"
+   }
+  ],
+  "trick": "The key trap is 'sempre', which makes the duty continuous.",
+  "image": ""
+ },
+ {
+  "n": 22775,
+  "it": "In caso di traffico intenso il conducente deve evitare di suonare il clacson per invitare i veicoli che lo precedono ad accelerare l'andatura",
+  "answer": true,
+  "en": "In the event of heavy traffic, the driver must avoid sounding the horn to urge the vehicles ahead to speed up.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "deve evitare di",
+    "why": "expresses an obligation not to do something"
+   }
+  ],
+  "trick": "The trap is 'deve evitare di', which is a duty to refrain from the action.",
+  "image": ""
+ },
+ {
+  "n": 22776,
+  "it": "In caso di traffico intenso il conducente deve cambiare ripetutamente corsia di marcia in modo da impegnare sempre quella più libera",
+  "answer": false,
+  "en": "In the event of heavy traffic, the driver must repeatedly change lane so as always to use the clearest one.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "ripetutamente",
+    "why": "means repeatedly, not just once"
+   },
+   {
+    "phrase": "sempre",
+    "why": "absolute word meaning 'always'"
+   }
+  ],
+  "trick": "The trap is the absolute and repeated requirement created by 'ripetutamente' and 'sempre'.",
+  "image": ""
+ },
+ {
+  "n": 22777,
+  "it": "In caso di traffico intenso il conducente deve occupare le corsie riservate alla marcia dei veicoli in servizio pubblico, se libere",
+  "answer": false,
+  "en": "In the event of heavy traffic, the driver must use the lanes reserved for public service vehicles, if they are free.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "riservate",
+    "why": "means reserved, so not generally available"
+   },
+   {
+    "phrase": "se libere",
+    "why": "condition that may mislead into thinking it becomes allowed"
+   }
+  ],
+  "trick": "The trap is 'se libere', which can wrongly suggest reserved lanes may be used if empty.",
+  "image": ""
+ },
+ {
+  "n": 22778,
+  "it": "In caso di traffico intenso il conducente deve fare uso del lampeggio simultaneo di tutti gli indicatori di direzione",
+  "answer": false,
+  "en": "In the event of heavy traffic, the driver must use the simultaneous flashing of all direction indicators.",
+  "keywords": [
+   {
+    "phrase": "In caso di",
+    "why": "limits the rule to this situation"
+   },
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "lampeggio simultaneo di tutti gli indicatori di direzione",
+    "why": "means hazard warning lights"
+   }
+  ],
+  "trick": "The trap is that 'deve' makes hazard-light use sound mandatory in heavy traffic.",
+  "image": ""
+ },
+ {
+  "n": 22779,
+  "it": "Per effettuare la svolta a destra occorre tenersi il più vicino possibile al margine destro della carreggiata",
+  "answer": true,
+  "en": "To make a right turn, it is necessary to keep as close as possible to the right-hand edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as possible, not necessarily touching"
+   }
+  ],
+  "trick": "The trap is 'il più vicino possibile', which means maximum closeness within reason.",
+  "image": ""
+ },
+ {
+  "n": 22780,
+  "it": "Per effettuare la svolta a destra bisogna segnalare in anticipo la manovra da compiere, azionando l'indicatore di direzione",
+  "answer": true,
+  "en": "To make a right turn, you must signal the manoeuvre to be carried out in advance by using the direction indicator.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses necessity/obligation"
+   },
+   {
+    "phrase": "in anticipo",
+    "why": "requires signalling beforehand, not at the last moment"
+   }
+  ],
+  "trick": "The key trap is 'in anticipo', which requires early signalling.",
+  "image": ""
+ },
+ {
+  "n": 22781,
+  "it": "La svolta a destra si effettua immettendosi nella corsia che consente di eseguire tale manovra",
+  "answer": true,
+  "en": "A right turn is made by moving into the lane that allows this manoeuvre to be carried out.",
+  "keywords": [
+   {
+    "phrase": "la corsia che consente",
+    "why": "specifies the lane suitable for the manoeuvre"
+   }
+  ],
+  "trick": "The trap is that the turn must be made from the lane that permits it.",
+  "image": ""
+ },
+ {
+  "n": 22782,
+  "it": "La svolta a destra si effettua moderando la velocità man mano che ci si avvicina al punto di svolta",
+  "answer": true,
+  "en": "A right turn is made by reducing speed gradually as you approach the turning point.",
+  "keywords": [
+   {
+    "phrase": "moderando la velocità",
+    "why": "means reducing/moderating speed"
+   },
+   {
+    "phrase": "man mano che",
+    "why": "means progressively as you get closer"
+   }
+  ],
+  "trick": "The trap is 'man mano che', which indicates a gradual action, not a sudden one.",
+  "image": ""
+ },
+ {
+  "n": 22783,
+  "it": "La svolta a destra si effettua senza creare pericolo o intralcio agli altri",
+  "answer": true,
+  "en": "A right turn is made without creating danger or obstruction to others.",
+  "keywords": [
+   {
+    "phrase": "senza",
+    "why": "introduces prohibition/absence: the action must not cause this"
+   },
+   {
+    "phrase": "pericolo o intralcio",
+    "why": "covers both danger and obstruction, not just one"
+   }
+  ],
+  "trick": "The key trap is 'senza', which requires the manoeuvre not to create danger or obstruction.",
+  "image": ""
+ },
+ {
+  "n": 22784,
+  "it": "Per svoltare a destra bisogna tenersi il più vicino possibile al margine sinistro della carreggiata",
+  "answer": false,
+  "en": "To turn right, you must keep as close as possible to the left edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "il più vicino possibile",
+    "why": "means as close as possible, strengthening the rule"
+   }
+  ],
+  "trick": "The trap is the obligation and the incorrect reference to the left edge instead of the right side.",
+  "image": ""
+ },
+ {
+  "n": 22785,
+  "it": "Per svoltare a destra bisogna tenersi sulla corsia di sinistra",
+  "answer": false,
+  "en": "To turn right, you must keep in the left lane.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   }
+  ],
+  "trick": "The trap is that it states an obligation to use the left lane for a right turn.",
+  "image": ""
+ },
+ {
+  "n": 22786,
+  "it": "La svolta a destra si effettua senza mai dare la precedenza ai pedoni, se il semaforo ha la luce verde accesa",
+  "answer": false,
+  "en": "A right turn is made without ever giving way to pedestrians if the traffic light is green.",
+  "keywords": [
+   {
+    "phrase": "senza mai",
+    "why": "strong negation meaning never"
+   },
+   {
+    "phrase": "se",
+    "why": "limits the statement to this condition"
+   }
+  ],
+  "trick": "The key trap is 'senza mai', which wrongly says pedestrians never get priority even on green.",
+  "image": ""
+ },
+ {
+  "n": 22787,
+  "it": "La svolta a destra si effettua girando attorno alla colonnina luminosa eventualmente posta al centro dell'incrocio",
+  "answer": false,
+  "en": "A right turn is made by going around the illuminated bollard that may be placed in the center of the intersection.",
+  "keywords": [
+   {
+    "phrase": "eventualmente",
+    "why": "means possibly, not necessarily always"
+   }
+  ],
+  "trick": "The trap is the claimed way of turning, while 'eventualmente' only makes the bollard optional.",
+  "image": ""
+ },
+ {
+  "n": 22788,
+  "it": "Quando si vuole svoltare a destra è necessario portarsi in vicinanza del centro dell'incrocio",
+  "answer": false,
+  "en": "When you want to turn right, it is necessary to move near the center of the intersection.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity or obligation"
+   }
+  ],
+  "trick": "The trap is the false obligation to move near the center when turning right.",
+  "image": ""
+ },
+ {
+  "n": 22789,
+  "it": "Su una strada a tre corsie a doppio senso di marcia, in figura, si deve impegnare quella centrale solo per il sorpasso",
+  "answer": true,
+  "en": "On a three-lane road with two-way traffic, as shown in the figure, you must use the center lane only for overtaking.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The important traps are the obligation and that the center lane is restricted to overtaking only.",
+  "image": ""
+ },
+ {
+  "n": 22790,
+  "it": "Su una strada a due corsie a doppio senso di marcia, in figura, si deve impegnare quella di sinistra solo per il sorpasso",
+  "answer": true,
+  "en": "On a two-lane road with two-way traffic, as shown in the figure, you must use the left lane only for overtaking.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the rule to only this case"
+   }
+  ],
+  "trick": "The key point is that the left lane is to be used only for overtaking.",
+  "image": "images/q_22790.png"
+ },
+ {
+  "n": 22791,
+  "it": "Sulle strade extraurbane principali la sosta è consentita solo nelle apposite aree",
+  "answer": true,
+  "en": "On main extra-urban roads, parking is permitted only in the designated areas.",
+  "keywords": [
+   {
+    "phrase": "è consentita",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts permission to only these places"
+   },
+   {
+    "phrase": "apposite aree",
+    "why": "means specifically designated areas"
+   }
+  ],
+  "trick": "The trap is that parking is permitted, but only in specially designated areas.",
+  "image": "images/q_22791.png"
+ },
+ {
+  "n": 22792,
+  "it": "Su una strada a due carreggiate separate, in figura, si deve percorrere la carreggiata di destra per la marcia normale e quella di sinistra per il sorpasso",
+  "answer": false,
+  "en": "On a road with two separate carriageways, as shown in the figure, you must travel on the right carriageway for normal driving and on the left one for overtaking.",
+  "keywords": [
+   {
+    "phrase": "si deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "per la marcia normale",
+    "why": "limits the rule to ordinary driving"
+   },
+   {
+    "phrase": "per il sorpasso",
+    "why": "limits the other case to overtaking"
+   }
+  ],
+  "trick": "The trap is treating the two separate carriageways like overtaking lanes, which is incorrect.",
+  "image": "images/q_22792.png"
+ },
+ {
+  "n": 22793,
+  "it": "Nelle strade composte da una carreggiata a due corsie a doppio senso di marcia, in figura, si può marciare per file parallele",
+  "answer": false,
+  "en": "On roads consisting of one carriageway with two lanes for two-way traffic, as shown in the figure, you may drive in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "si può",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The trap is the false permission suggested by 'si può'.",
+  "image": ""
+ },
+ {
+  "n": 22794,
+  "it": "Nelle strade a quattro carreggiate separate, quelle centrali sono riservate al sorpasso",
+  "answer": false,
+  "en": "On roads with four separate carriageways, the central ones are reserved for overtaking.",
+  "keywords": [
+   {
+    "phrase": "sono riservate",
+    "why": "means exclusively reserved for that use"
+   }
+  ],
+  "trick": "The trap is the word 'riservate', which falsely claims exclusive use for overtaking.",
+  "image": ""
+ },
+ {
+  "n": 22795,
+  "it": "Chi intende cambiare corsia deve controllare che la corsia che vuole occupare sia libera davanti per un tratto sufficiente",
+  "answer": true,
+  "en": "Anyone intending to change lane must check that the lane they want to move into is clear ahead for a sufficient distance.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "davanti",
+    "why": "specifies the check must be ahead"
+   },
+   {
+    "phrase": "per un tratto sufficiente",
+    "why": "means for a sufficient stretch or distance"
+   }
+  ],
+  "trick": "The key trap is the obligation to ensure the target lane is clear ahead for enough distance.",
+  "image": ""
+ },
+ {
+  "n": 22796,
+  "it": "Chi intende cambiare corsia deve controllare che la corsia che vuole occupare sia libera dietro per un tratto sufficiente",
+  "answer": true,
+  "en": "Anyone intending to change lane must check that the lane they want to move into is clear behind for a sufficient distance.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "dietro",
+    "why": "specifies the check must be behind"
+   },
+   {
+    "phrase": "per un tratto sufficiente",
+    "why": "means for a sufficient stretch or distance"
+   }
+  ],
+  "trick": "The key trap is the obligation to ensure the target lane is also clear behind for enough distance.",
+  "image": ""
+ },
+ {
+  "n": 22797,
+  "it": "Chi intende cambiare corsia, per effettuare un sorpasso, deve controllare che il veicolo che sta davanti non abbia segnalato l'inizio della stessa manovra",
+  "answer": true,
+  "en": "Anyone intending to change lane, in order to overtake, must check that the vehicle in front has not signaled the start of the same maneuver.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "non abbia segnalato",
+    "why": "negates the action being checked"
+   },
+   {
+    "phrase": "la stessa manovra",
+    "why": "refers to the same maneuver, i.e. lane change/overtaking"
+   }
+  ],
+  "trick": "The trap is the negation: you must make sure the vehicle ahead has not already signaled the same maneuver.",
+  "image": ""
+ },
+ {
+  "n": 22798,
+  "it": "Chi intende cambiare corsia deve segnalare la manovra in anticipo, tramite l'indicatore di direzione",
+  "answer": true,
+  "en": "Anyone intending to change lane must signal the maneuver in advance using the direction indicator.",
+  "keywords": [
+   {
+    "phrase": "deve",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "in anticipo",
+    "why": "means before the maneuver, not during or after"
+   }
+  ],
+  "trick": "The key point is the obligation to signal before changing lane.",
+  "image": ""
+ },
+ {
+  "n": 22799,
+  "it": "Chi intende cambiare corsia non deve creare intralcio o pericolo per chi percorre la corsia che vuole impegnare",
+  "answer": true,
+  "en": "Anyone intending to change lane must not create an obstruction or danger for anyone traveling in the lane they want to enter.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "intralcio o pericolo",
+    "why": "covers both obstruction and danger"
+   }
+  ],
+  "trick": "The trap is the prohibition: you must not hinder or endanger traffic already in that lane.",
+  "image": ""
+ },
+ {
+  "n": 22800,
+  "it": "Chi intende cambiare corsia non deve azionare l'indicatore di direzione se la strada è libera",
+  "answer": false,
+  "en": "Anyone intending to change lane must not operate the direction indicator if the road is clear.",
+  "keywords": [
+   {
+    "phrase": "non deve",
+    "why": "expresses prohibition"
+   },
+   {
+    "phrase": "se",
+    "why": "makes it conditional on the road being clear"
+   }
+  ],
+  "trick": "The trap is the false prohibition created by 'non deve', even when the road is clear.",
+  "image": ""
+ },
+ {
+  "n": 22801,
+  "it": "Chi intende cambiare corsia ha l'obbligo di segnalare la manovra con l'uso dell'avvisatore acustico (clacson o trombe)",
+  "answer": false,
+  "en": "Anyone intending to change lane is obliged to signal the maneuver by using the horn (car horn or trumpets).",
+  "keywords": [
+   {
+    "phrase": "ha l'obbligo di",
+    "why": "expresses a strict obligation"
+   }
+  ],
+  "trick": "The trap is the false claim of an obligation to use the horn for a lane change.",
+  "image": ""
+ },
+ {
+  "n": 22802,
+  "it": "Prima di cambiare corsia è necessario accertare che le corsie siano separate da una striscia continua",
+  "answer": false,
+  "en": "Before changing lane, it is necessary to make sure that the lanes are separated by a continuous line.",
+  "keywords": [
+   {
+    "phrase": "è necessario",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "striscia continua",
+    "why": "a continuous line usually forbids crossing"
+   }
+  ],
+  "trick": "The trap is that a continuous line usually means you must not change lane across it.",
+  "image": ""
+ },
+ {
+  "n": 22803,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra bisogna avvicinarsi al centro della carreggiata",
+  "answer": true,
+  "en": "On a carriageway with two-way traffic, to turn left you must move close to the center of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "avvicinarsi al centro",
+    "why": "specifies position near the center, not the edge"
+   }
+  ],
+  "trick": "The key point is the obligation to approach the center before turning left on a two-way carriageway.",
+  "image": ""
+ },
+ {
+  "n": 22804,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra occorre, di norma, occupare l'area sinistra dell'incrocio, come i veicoli in figura, salvo diversa segnalazione",
+  "answer": true,
+  "en": "On a two-way carriageway, to turn left it is normally necessary to occupy the left area of the intersection, like the vehicles in the figure, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "di norma",
+    "why": "means normally, so the rule is not absolute"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs indicate otherwise"
+   }
+  ],
+  "trick": "“Di norma” makes it the usual rule, while “salvo diversa segnalazione” adds a signed exception.",
+  "image": ""
+ },
+ {
+  "n": 22805,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra bisogna girare intorno al centro dell'incrocio come il veicolo H in figura, se c'è il segnale di rotatoria",
+  "answer": true,
+  "en": "On a two-way carriageway, to turn left you must go around the center of the intersection like vehicle H in the figure, if there is a roundabout sign.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not advice"
+   },
+   {
+    "phrase": "se c'è il segnale di rotatoria",
+    "why": "limits the rule only to the case where that sign is present"
+   }
+  ],
+  "trick": "The sentence is compulsory only in the specific case signaled by a roundabout sign.",
+  "image": ""
+ },
+ {
+  "n": 22806,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra bisogna dare la precedenza ai veicoli provenienti da destra, salvo diversa segnalazione",
+  "answer": true,
+  "en": "On a two-way carriageway, to turn left you must give way to vehicles coming from the right, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "bisogna dare la precedenza",
+    "why": "expresses an obligation to yield"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs indicate otherwise"
+   }
+  ],
+  "trick": "The duty to give way applies unless road signs establish a different priority.",
+  "image": ""
+ },
+ {
+  "n": 22807,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra occorre spostarsi il più possibile sul margine sinistro della carreggiata",
+  "answer": false,
+  "en": "On a two-way carriageway, to turn left it is necessary to move as far as possible to the left edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or obligation"
+   },
+   {
+    "phrase": "il più possibile",
+    "why": "strengthens the statement to the maximum extent"
+   }
+  ],
+  "trick": "“Occorre” makes it sound mandatory, and “il più possibile” makes the positioning extreme.",
+  "image": "images/q_22807.png"
+ },
+ {
+  "n": 22808,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra bisogna effettuare la manovra velocemente, per evitare i veicoli provenienti da destra e da sinistra",
+  "answer": false,
+  "en": "On a two-way carriageway, to turn left you must carry out the maneuver quickly, to avoid vehicles coming from the right and from the left.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "velocemente",
+    "why": "imposes speed as part of the maneuver"
+   }
+  ],
+  "trick": "The trap is the false obligation that the turn must be done quickly.",
+  "image": "images/q_22808.png"
+ },
+ {
+  "n": 22809,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra bisogna effettuare la svolta occupando sempre il lato destro dell'incrocio, come i veicoli in figura",
+  "answer": false,
+  "en": "On a two-way carriageway, to turn left you must always make the turn by keeping to the right side of the intersection, like the vehicles in the figure.",
+  "keywords": [
+   {
+    "phrase": "bisogna",
+    "why": "expresses obligation, not suggestion"
+   },
+   {
+    "phrase": "sempre",
+    "why": "makes the statement absolute with no exceptions"
+   }
+  ],
+  "trick": "“Sempre” is the key trap because it turns the rule into an absolute one.",
+  "image": "images/q_22809.png"
+ },
+ {
+  "n": 22810,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra bisogna dare la precedenza ai veicoli che arrivano da sinistra, salvo diversa segnalazione",
+  "answer": false,
+  "en": "On a two-way carriageway, to turn left you must give way to vehicles coming from the left, unless otherwise indicated by signs.",
+  "keywords": [
+   {
+    "phrase": "bisogna dare la precedenza",
+    "why": "expresses an obligation to yield"
+   },
+   {
+    "phrase": "salvo diversa segnalazione",
+    "why": "creates an exception if signs indicate otherwise"
+   }
+  ],
+  "trick": "The sentence sounds formal and correct, but the direction named for priority is the trap.",
+  "image": "images/q_22810.png"
+ },
+ {
+  "n": 22811,
+  "it": "In una carreggiata a doppio senso di circolazione per svoltare a sinistra occorre suonare il clacson, per attraversare con maggior sicurezza l'incrocio",
+  "answer": false,
+  "en": "On a two-way carriageway, to turn left it is necessary to sound the horn in order to cross the intersection more safely.",
+  "keywords": [
+   {
+    "phrase": "occorre",
+    "why": "expresses necessity or obligation"
+   }
+  ],
+  "trick": "The trap is the false idea that using the horn is compulsory for safety.",
+  "image": ""
+ },
+ {
+  "n": 22812,
+  "it": "I veicoli devono, di norma, circolare sulla parte destra della carreggiata ed in vicinanza del margine destro",
+  "answer": true,
+  "en": "Vehicles must normally travel on the right-hand side of the carriageway and near the right edge.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, so the rule is not absolute"
+   }
+  ],
+  "trick": "The rule is obligatory in general, but “di norma” shows it is the usual rule rather than absolute in every case.",
+  "image": ""
+ },
+ {
+  "n": 22813,
+  "it": "In una strada divisa in due carreggiate separate come in figura, i veicoli devono, di norma, circolare sulla carreggiata di destra rispetto alla propria direzione di marcia",
+  "answer": true,
+  "en": "On a road divided into two separate carriageways as shown in the figure, vehicles must normally travel on the carriageway to the right with respect to their direction of travel.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, so the rule is not absolute"
+   },
+   {
+    "phrase": "rispetto alla propria direzione di marcia",
+    "why": "the right side is relative to your travel direction"
+   }
+  ],
+  "trick": "The main trap is that “right” is judged from your own direction of travel, not from the road layout alone.",
+  "image": ""
+ },
+ {
+  "n": 22814,
+  "it": "Su una strada divisa in tre carreggiate separate come in figura, i veicoli devono, di norma, circolare sulla carreggiata centrale o su quella di destra rispetto alla propria direzione di marcia",
+  "answer": true,
+  "en": "On a road divided into three separate carriageways as shown in the figure, vehicles must normally travel on the central carriageway or on the one to the right with respect to their direction of travel.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, so the rule is not absolute"
+   },
+   {
+    "phrase": "o",
+    "why": "allows either of the two indicated carriageways"
+   },
+   {
+    "phrase": "rispetto alla propria direzione di marcia",
+    "why": "the right side is relative to your travel direction"
+   }
+  ],
+  "trick": "The sentence allows two possible carriageways, and “right” is relative to the driver’s direction.",
+  "image": ""
+ },
+ {
+  "n": 22815,
+  "it": "In una carreggiata a doppio senso di marcia con due corsie, come in figura, i veicoli devono circolare nella corsia di destra, impegnando solo quella di sinistra per il sorpasso",
+  "answer": true,
+  "en": "On a two-way carriageway with two lanes, as shown in the figure, vehicles must travel in the right-hand lane, using only the left-hand lane for overtaking.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "solo",
+    "why": "restricts the use of the left lane to one case only"
+   }
+  ],
+  "trick": "“Solo” is the key restriction: the left lane is only for overtaking.",
+  "image": ""
+ },
+ {
+  "n": 22816,
+  "it": "Su carreggiate a tre corsie per senso di marcia, come in figura, i veicoli a motore devono, di norma, percorrere la corsia più libera a destra",
+  "answer": true,
+  "en": "On carriageways with three lanes in each direction, as shown in the figure, motor vehicles must normally use the clearest lane on the right.",
+  "keywords": [
+   {
+    "phrase": "devono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "di norma",
+    "why": "means normally, so the rule is not absolute"
+   },
+   {
+    "phrase": "più libera a destra",
+    "why": "means the free lane furthest to the right, not just any free lane"
+   }
+  ],
+  "trick": "The trap is that drivers must keep to the rightmost available free lane, normally.",
+  "image": ""
+ },
+ {
+  "n": 22817,
+  "it": "I veicoli a motore possono circolare per file parallele in vicinanza di incroci regolati da vigili o da semafori",
+  "answer": true,
+  "en": "Motor vehicles may travel in parallel lines near intersections controlled by traffic officers or traffic lights.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission, not obligation"
+   },
+   {
+    "phrase": "in vicinanza di",
+    "why": "limits the rule to near those intersections"
+   }
+  ],
+  "trick": "This is a permission valid only near intersections controlled by officers or traffic lights.",
+  "image": ""
+ },
+ {
+  "n": 22818,
+  "it": "Su strada a doppio senso di marcia con tre corsie, come in figura, i veicoli possono usare la corsia centrale per la marcia normale",
+  "answer": false,
+  "en": "On a two-way road with three lanes, as shown in the figure, vehicles may use the center lane for normal driving.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "per la marcia normale",
+    "why": "claims it is allowed for ordinary driving, which is the trap"
+   }
+  ],
+  "trick": "The trap is the supposed permission to use the center lane for normal travel.",
+  "image": ""
+ },
+ {
+  "n": 22819,
+  "it": "Quando una strada è a doppio senso di marcia con tre corsie, come in figura, i veicoli possono circolare per file parallele",
+  "answer": false,
+  "en": "When a road is two-way with three lanes, as shown in the figure, vehicles may travel in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The key trap is the false permission suggested by “possono” in this road layout.",
+  "image": ""
+ },
+ {
+  "n": 22820,
+  "it": "Per svoltare a sinistra i veicoli debbono tenersi sul margine destro della carreggiata",
+  "answer": false,
+  "en": "To turn left, vehicles must keep to the right edge of the carriageway.",
+  "keywords": [
+   {
+    "phrase": "debbono",
+    "why": "expresses obligation"
+   },
+   {
+    "phrase": "margine destro",
+    "why": "specifies the right edge, which is the misleading detail"
+   }
+  ],
+  "trick": "The trap is the wrong mandatory position: the sentence says drivers must stay at the right edge.",
+  "image": ""
+ },
+ {
+  "n": 22821,
+  "it": "E' possibile circolare al centro della carreggiata quando la strada è libera",
+  "answer": false,
+  "en": "It is possible to drive in the center of the carriageway when the road is clear.",
+  "keywords": [
+   {
+    "phrase": "E' possibile",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "quando la strada è libera",
+    "why": "limits the permission to a specific condition"
+   }
+  ],
+  "trick": "The trap is the false permission, even though it is limited to when the road is clear.",
+  "image": ""
+ },
+ {
+  "n": 22822,
+  "it": "In una strada a doppio senso di marcia con due corsie, come in figura, i veicoli possono circolare per file parallele",
+  "answer": false,
+  "en": "On a two-way road with two lanes, as shown in the figure, vehicles may travel in parallel lines.",
+  "keywords": [
+   {
+    "phrase": "possono",
+    "why": "expresses permission"
+   }
+  ],
+  "trick": "The statement is built around a permission that is not actually allowed in this case.",
+  "image": ""
+ },
+ {
+  "n": 22823,
+  "it": "In caso di intenso traffico è consentito circolare per file parallele, utilizzando le corsie riservate agli autobus e ai veicoli in servizio pubblico",
+  "answer": false,
+  "en": "In case of heavy traffic, it is permitted to travel in parallel lines, using lanes reserved for buses and public service vehicles.",
+  "keywords": [
+   {
+    "phrase": "è consentito",
+    "why": "expresses permission"
+   },
+   {
+    "phrase": "in caso di intenso traffico",
+    "why": "limits the permission to a special condition"
+   },
+   {
+    "phrase": "corsie riservate",
+    "why": "reserved lanes are a common exception trap"
+   }
+  ],
+  "trick": "The trap is that heavy traffic does not give permission to use reserved bus or public service lanes.",
+  "image": ""
  }
 ];
