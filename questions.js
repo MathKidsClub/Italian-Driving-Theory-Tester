@@ -1996,7 +1996,7 @@ window.QUESTIONS = [
   ],
   "trick": "The restriction applies only to vehicles over 7 tonnes that are going to Lucca.",
   "image": "images/q_21891.png",
-  "sign": "This sign indicates a service area with a fuel station ahead."
+  "sign": ""
  },
  {
   "n": 21892,
@@ -2019,7 +2019,7 @@ window.QUESTIONS = [
   ],
   "trick": "It gives permission to go straight only for lorries under 7 tonnes.",
   "image": "images/q_21892.png",
-  "sign": "This sign indicates a service area with a fuel station ahead."
+  "sign": ""
  },
  {
   "n": 21893,
@@ -2046,7 +2046,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is the negated permission, limited to heavy vehicles going to Lucca.",
   "image": "images/q_21893.png",
-  "sign": "This sign indicates a service area with a fuel station ahead."
+  "sign": ""
  },
  {
   "n": 21894,
@@ -2379,7 +2379,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No notable trap words; it is about the international route number.",
   "image": "images/q_21236.png",
-  "sign": "This sign shows the distances in kilometres to the indicated destinations on the motorway."
+  "sign": ""
  },
  {
   "n": 21237,
@@ -2414,7 +2414,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that it says the sign can appear there, not that it must.",
   "image": "images/q_21239.png",
-  "sign": "This is a direction sign showing the destinations Firenze, Bologna and Milano with their distances in kilometres."
+  "sign": ""
  },
  {
   "n": 21240,
@@ -2499,7 +2499,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Si può trovare\" means it may/can be found, not that it must be there.",
   "image": "images/q_21247.png",
-  "sign": "This is the route marker for European route E55. It may appear inside direction or junction signs to indicate the route number."
+  "sign": ""
  },
  {
   "n": 21248,
@@ -2509,7 +2509,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no special trap words; the challenge is identifying what the sign actually refers to.",
   "image": "images/q_21248.png",
-  "sign": "This route marker identifies European route E55. It does not mean the road is a state road."
+  "sign": ""
  },
  {
   "n": 21249,
@@ -2967,7 +2967,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement is limited to roadworks and uses permission rather than a duty.",
   "image": "images/q_21912.png",
-  "sign": "This sign indicates lane use by vehicle category, showing which lanes different vehicles may occupy."
+  "sign": ""
  },
  {
   "n": 21913,
@@ -3122,7 +3122,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no strong trap words here; the statement is straightforward.",
   "image": "images/q_21293.png",
-  "sign": "This sign shows the lane arrangement ahead: two lanes continue straight, with the right lane reserved for trucks and the left lanes for other vehicles."
+  "sign": ""
  },
  {
   "n": 21294,
@@ -3287,7 +3287,7 @@ window.QUESTIONS = [
   ],
   "trick": "The phrase 'a senso unico' narrows the meaning to one-way tunnels only.",
   "image": "images/q_21941.png",
-  "sign": "This complementary delineator points the side to pass an obstacle: A means pass to the left, B means pass to the right."
+  "sign": ""
  },
  {
   "n": 21942,
@@ -3306,7 +3306,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence states an additional possible use, not the only or mandatory one.",
   "image": "images/q_21942.png",
-  "sign": "This complementary delineator points the side to pass an obstacle: A means pass to the left, B means pass to the right."
+  "sign": ""
  },
  {
   "n": 21943,
@@ -3444,7 +3444,7 @@ window.QUESTIONS = [
   ],
   "trick": "Restriction words like 'ad uso esclusivo' and 'in servizio' narrow who may use the area.",
   "image": "images/q_21314.png",
-  "sign": "This is a roadside delineator post used to mark the edge of the road or an obstacle."
+  "sign": ""
  },
  {
   "n": 21315,
@@ -3735,7 +3735,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No real grammar trap; the statement depends on recognizing what the arrowheads show.",
   "image": "images/q_21972.png",
-  "sign": "This is a temporary warning/direction sign indicating a deviation or detour ahead, with directions toward Novara and a warning sign on the diverted route."
+  "sign": ""
  },
  {
   "n": 21973,
@@ -3854,7 +3854,7 @@ window.QUESTIONS = [
   ],
   "trick": "Può means it may be used this way, and preavvisare means to give advance warning.",
   "image": "images/q_21885.png",
-  "sign": "Chevron alignment board marking a sharp bend or change in road direction; it guides drivers along the curve."
+  "sign": ""
  },
  {
   "n": 21886,
@@ -3949,7 +3949,7 @@ window.QUESTIONS = [
   ],
   "trick": "Raggiungibili can be misleading because it refers to reachable destinations.",
   "image": "images/q_21356.png",
-  "sign": "This sign warns of roadworks ahead in 500 metres and shows a carriageway narrowing on the left, with traffic arranged into lanes."
+  "sign": ""
  },
  {
   "n": 21357,
@@ -3964,7 +3964,7 @@ window.QUESTIONS = [
   ],
   "trick": "Preavvisa signals advance notice rather than an action to take immediately.",
   "image": "images/q_21357.png",
-  "sign": "This sign warns of roadworks ahead in 500 metres and shows a carriageway narrowing on the left, with traffic arranged into lanes."
+  "sign": ""
  },
  {
   "n": 21358,
@@ -4138,7 +4138,7 @@ window.QUESTIONS = [
   ],
   "trick": "Negation and order words like primo can completely change the meaning.",
   "image": "images/q_21367.png",
-  "sign": "Direction sign: go straight ahead for Sora and Napoli; turn right for the town centre and the railway station."
+  "sign": ""
  },
  {
   "n": 21368,
@@ -4372,7 +4372,7 @@ window.QUESTIONS = [
   ],
   "trick": "Advance warning, urban location, and the roundabout term all matter.",
   "image": "images/q_21380.png",
-  "sign": "This is an urban direction sign showing how to reach different destinations and streets, such as the centre, hospital, and other towns. It also indicates that one direction is prohibited by the no-entry sign."
+  "sign": ""
  },
  {
   "n": 21381,
@@ -4391,7 +4391,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement depends on it being advance warning and on the exact turn location.",
   "image": "images/q_21381.png",
-  "sign": "This is an urban direction sign showing how to reach different destinations and streets, such as the centre, hospital, and other towns. It also indicates that one direction is prohibited by the no-entry sign."
+  "sign": ""
  },
  {
   "n": 21382,
@@ -4414,7 +4414,7 @@ window.QUESTIONS = [
   ],
   "trick": "The exact side street number and the advance-warning wording are the traps.",
   "image": "images/q_21382.png",
-  "sign": "This is an urban direction sign showing how to reach different destinations and streets, such as the centre, hospital, and other towns. It also indicates that one direction is prohibited by the no-entry sign."
+  "sign": ""
  },
  {
   "n": 21383,
@@ -4565,7 +4565,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch prohibition, the over-3.5-tonne limit, and the direction straight ahead.",
   "image": "images/q_21391.png",
-  "sign": "Advance direction sign for an urban roundabout, showing directions to the ring road/motorway and local destinations."
+  "sign": ""
  },
  {
   "n": 21392,
@@ -4584,7 +4584,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is permission and the specific direction straight ahead.",
   "image": "images/q_21392.png",
-  "sign": "Advance direction sign for an urban roundabout, showing directions to the ring road/motorway and local destinations."
+  "sign": ""
  },
  {
   "n": 21393,
@@ -5167,7 +5167,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is consente: it permits entry, it does not require it.",
   "image": "images/q_21423.png",
-  "sign": "Lane direction sign: the left lane leads toward Bari, while the right lane continues straight toward Pescara."
+  "sign": ""
  },
  {
   "n": 21424,
@@ -5186,7 +5186,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence is restricted to one destination group and one exact lane.",
   "image": "images/q_21424.png",
-  "sign": "Lane direction sign: the left lane leads toward Bari, while the right lane continues straight toward Pescara."
+  "sign": ""
  },
  {
   "n": 21425,
@@ -5205,7 +5205,7 @@ window.QUESTIONS = [
   ],
   "trick": "The destination restriction and lane instruction are the important traps.",
   "image": "images/q_21425.png",
-  "sign": "Lane direction sign: the left lane leads toward Bari, while the right lane continues straight toward Pescara."
+  "sign": ""
  },
  {
   "n": 21426,
@@ -5435,7 +5435,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Bisogna' expresses necessity, not simple advice.",
   "image": "images/q_21441.png",
-  "sign": "This sign indicates a hospital or first-aid facility in the direction of the arrow, to the left."
+  "sign": ""
  },
  {
   "n": 21442,
@@ -5610,7 +5610,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Bisogna\" means it is necessary to continue straight, not just advisable.",
   "image": "images/q_21452.png",
-  "sign": "Direction sign: continue ahead/right to Bologna via the A1 motorway, while Linate is to the left."
+  "sign": ""
  },
  {
   "n": 21453,
@@ -5949,7 +5949,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that 500 metres refers to the exit junction, not arrival at Frosinone.",
   "image": "images/q_21463.png",
-  "sign": "Roadworks obstacle marker with a mandatory direction: pass the obstacle on the right."
+  "sign": ""
  },
  {
   "n": 21464,
@@ -5968,7 +5968,7 @@ window.QUESTIONS = [
   ],
   "trick": "The wording limits the destinations to places reachable by taking the exit off the main road.",
   "image": "images/q_21464.png",
-  "sign": "Roadworks obstacle marker with a mandatory direction: pass the obstacle on the right."
+  "sign": ""
  },
  {
   "n": 21465,
@@ -5983,7 +5983,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the colour cue, which identifies tourist information.",
   "image": "images/q_21465.png",
-  "sign": "Obstacle marker: pass on the side indicated by the arrow, keeping to the right of the obstacle."
+  "sign": ""
  },
  {
   "n": 21466,
@@ -6135,7 +6135,7 @@ window.QUESTIONS = [
   ],
   "trick": "The wording is limited to the top line, which identifies the next built-up area specifically.",
   "image": "images/q_21473.png",
-  "sign": "Motorway direction sign for the Frosinone exit: the blue panel lists the destinations served by that exit, and the exit is 500 m ahead."
+  "sign": ""
  },
  {
   "n": 21474,
@@ -6320,7 +6320,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for permission language: it says which vehicles may enter.",
   "image": "images/q_21485.png",
-  "sign": "This sign marks the end of the built-up area of Monte Compatri. The lower panel gives directions and distances to other places."
+  "sign": ""
  },
  {
   "n": 21486,
@@ -6437,7 +6437,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement is limited by permission and by 'only' for certain vehicle categories.",
   "image": "images/q_21493.png",
-  "sign": "This sign marks the beginning of a pedestrian area. The lower panel shows exceptions or authorised categories that may enter."
+  "sign": ""
  },
  {
   "n": 21494,
@@ -6521,7 +6521,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the strong meaning of closure, not just congestion.",
   "image": "images/q_21499.png",
-  "sign": "This is an information board for the Stelvio Pass showing its transit status, for example whether the pass is open or closed."
+  "sign": ""
  },
  {
   "n": 21500,
@@ -6536,7 +6536,7 @@ window.QUESTIONS = [
   ],
   "trick": "The word 'solo' makes the permission exclusive to residents.",
   "image": "images/q_21500.png",
-  "sign": "This is an information board for the Stelvio Pass showing its transit status, for example whether the pass is open or closed."
+  "sign": ""
  },
  {
   "n": 21501,
@@ -6546,7 +6546,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No major trap words; the difficulty depends on recognizing the sign.",
   "image": "images/q_21501.png",
-  "sign": "This is an information board for the Stelvio Pass showing its transit status, for example whether the pass is open or closed."
+  "sign": ""
  },
  {
   "n": 21502,
@@ -6565,7 +6565,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Permette di conoscere\" means the sign informs you, and \"transitabilità\" concerns whether passage is possible.",
   "image": "images/q_21502.png",
-  "sign": "This sign marks a limited traffic zone (ZTL): access is restricted and only vehicles or persons listed on the panel below are allowed to enter."
+  "sign": ""
  },
  {
   "n": 21503,
@@ -6584,7 +6584,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"È necessario\" makes it a requirement, and \"solo\" limits transit to vehicles with those equipments.",
   "image": "images/q_21503.png",
-  "sign": "This sign marks a limited traffic zone (ZTL): access is restricted and only vehicles or persons listed on the panel below are allowed to enter."
+  "sign": ""
  },
  {
   "n": 21504,
@@ -6599,7 +6599,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is \"ma solo\", which means the road is open exclusively for those vehicles.",
   "image": "images/q_21504.png",
-  "sign": "This sign marks a limited traffic zone (ZTL): access is restricted and only vehicles or persons listed on the panel below are allowed to enter."
+  "sign": ""
  },
  {
   "n": 21505,
@@ -6717,7 +6717,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Consiglia\" indicates a recommendation rather than a legal obligation.",
   "image": "images/q_21512.png",
-  "sign": "Road information sign for the Stelvio pass that informs drivers about the pass status, typically on mountain roads."
+  "sign": ""
  },
  {
   "n": 21513,
@@ -6751,7 +6751,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Raccomanda\" is not compulsory, and \"fino a\" limits the recommendation to Trafoi.",
   "image": "images/q_21514.png",
-  "sign": "This sign shows that the Stelvio Pass is open. It does not give a recommendation about using snow chains or winter tyres."
+  "sign": ""
  },
  {
   "n": 21515,
@@ -6866,7 +6866,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Se barrato\" makes the meaning conditional, and \"fine\" reverses it to the end of the road.",
   "image": "images/q_21521.png",
-  "sign": "This is an additional information sign showing destination and closure details for the Stelvio pass, with dates and symbols indicating whether the pass is open or closed. It is not the sign for the end of a main extra-urban road."
+  "sign": ""
  },
  {
   "n": 21522,
@@ -7004,7 +7004,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are in vicinanza and provenienti dallo Stato estero, which narrow where the sign is and who must see it.",
   "image": "images/q_21530.png",
-  "sign": "This sign indicates the start of a motorway."
+  "sign": ""
  },
  {
   "n": 21531,
@@ -7211,7 +7211,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for possibility and location wording: it can be found inside the advance interchange sign.",
   "image": "images/q_21542.png",
-  "sign": "This sign shows the general maximum speed limits in Italy for different road types and conditions."
+  "sign": ""
  },
  {
   "n": 21543,
@@ -7453,7 +7453,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the location near the bridge and that the bridge crosses the river.",
   "image": "images/q_21567.png",
-  "sign": "It indicates the direction to a first-aid or emergency medical facility, to the right."
+  "sign": ""
  },
  {
   "n": 21568,
@@ -7472,7 +7472,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch the pronoun lo: it refers to the river, which is crossed by the bridge.",
   "image": "images/q_21568.png",
-  "sign": "It indicates the direction to a first-aid or emergency medical facility, to the right."
+  "sign": ""
  },
  {
   "n": 21569,
@@ -7506,7 +7506,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for phrases that limit when something happens and for wording that means it may happen, not that it always does.",
   "image": "images/q_21570.png",
-  "sign": "This sign indicates a first-aid or medical facility in the direction of the arrow."
+  "sign": ""
  },
  {
   "n": 21571,
@@ -7556,7 +7556,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that the sign warns in advance of a service, rather than marking the exact location.",
   "image": "images/q_21574.png",
-  "sign": "This is a location sign indicating a river, here the Arno River."
+  "sign": ""
  },
  {
   "n": 21575,
@@ -7571,7 +7571,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the sign indicates availability of information, not a mandatory or guaranteed service.",
   "image": "images/q_21575.png",
-  "sign": "This is a location sign indicating a river, here the Arno River."
+  "sign": ""
  },
  {
   "n": 21576,
@@ -7818,7 +7818,7 @@ window.QUESTIONS = [
   ],
   "trick": "The phrase \"se posto\" limits the statement to that specific placement.",
   "image": "images/q_21590.png",
-  "sign": "Pedestrian crossing: drivers must give way to pedestrians crossing the road."
+  "sign": ""
  },
  {
   "n": 21591,
@@ -7945,7 +7945,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence is limited by \"in caso di,\" which specifies when the device is used.",
   "image": "images/q_21598.png",
-  "sign": "This sign marks an SOS emergency roadside assistance call point."
+  "sign": ""
  },
  {
   "n": 21599,
@@ -8015,7 +8015,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no key negation, obligation, permission, or exception traps in this sentence.",
   "image": "images/q_21605.png",
-  "sign": "This sign indicates an emergency call point (SOS)."
+  "sign": ""
  },
  {
   "n": 21606,
@@ -8151,7 +8151,7 @@ window.QUESTIONS = [
   ],
   "trick": "The wording gives advance warning and restricts the dead-end condition specifically to vehicles.",
   "image": "images/q_21614.png",
-  "sign": "Dead-end road: a side road to the right has no outlet."
+  "sign": ""
  },
  {
   "n": 21615,
@@ -8316,7 +8316,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement is about a recommended maximum speed, and only under optimal traffic conditions.",
   "image": "images/q_21624.png",
-  "sign": "Dead end road: the road continues ahead but has no exit, with a side branch to the left before the end."
+  "sign": ""
  },
  {
   "n": 21625,
@@ -8354,7 +8354,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are possibility in \"può\" and recommendation rather than prohibition in \"si consiglia di non superare\".",
   "image": "images/q_21626.png",
-  "sign": "Dead-end road: the road has no exit ahead, with a side branch before the end."
+  "sign": ""
  },
  {
   "n": 21627,
@@ -8373,7 +8373,7 @@ window.QUESTIONS = [
   ],
   "trick": "The meaning depends on the condition introduced by \"se,\" and it marks the end of the sign's effect.",
   "image": "images/q_21627.png",
-  "sign": "Dead-end road: the road has no exit ahead, with a side branch before the end."
+  "sign": ""
  },
  {
   "n": 21628,
@@ -8521,7 +8521,7 @@ window.QUESTIONS = [
   ],
   "trick": "Soli makes the rule exclusive to motor vehicles.",
   "image": "images/q_21635.png",
-  "sign": "Minimum speed 60 km/h."
+  "sign": ""
  },
  {
   "n": 21636,
@@ -8869,7 +8869,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Si può trovare' means it may be found there, not that it must be.",
   "image": "images/q_21656.png",
-  "sign": "This sign indicates a tunnel ahead or the entrance to a tunnel."
+  "sign": ""
  },
  {
   "n": 21657,
@@ -8884,7 +8884,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Può essere abbinato' means it may be combined with a panel, not that it always is.",
   "image": "images/q_21657.png",
-  "sign": "Tunnel; it indicates the entrance to a tunnel."
+  "sign": ""
  },
  {
   "n": 21658,
@@ -8983,7 +8983,7 @@ window.QUESTIONS = [
   ],
   "trick": "'In corrispondenza' precisely indicates the position at that marking.",
   "image": "images/q_21664.png",
-  "sign": "Tunnel; it indicates the entrance to a tunnel."
+  "sign": ""
  },
  {
   "n": 21665,
@@ -8998,7 +8998,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Bisogna dare la precedenza' is an obligation, not just advice.",
   "image": "images/q_21665.png",
-  "sign": "This sign indicates an underpass or subway passage."
+  "sign": ""
  },
  {
   "n": 21666,
@@ -9125,7 +9125,7 @@ window.QUESTIONS = [
   ],
   "trick": "The phrase refers to the route to follow, not a direct maneuver now.",
   "image": "images/q_21673.png",
-  "sign": "This sign indicates a route reserved for bicycles, or a cycle path."
+  "sign": ""
  },
  {
   "n": 21674,
@@ -9144,7 +9144,7 @@ window.QUESTIONS = [
   ],
   "trick": "The negation applies to a direct left turn, not necessarily to reaching the left road by another route.",
   "image": "images/q_21674.png",
-  "sign": "This sign indicates a route reserved for bicycles, or a cycle path."
+  "sign": ""
  },
  {
   "n": 21675,
@@ -9290,7 +9290,7 @@ window.QUESTIONS = [
   ],
   "trick": "The scope is limited to divided roads and specifically to a structure used for a U-turn.",
   "image": "images/q_21683.png",
-  "sign": "Road sign indicating the route to follow to make a U-turn on a divided road, using the side connection shown by the arrow."
+  "sign": ""
  },
  {
   "n": 21684,
@@ -9309,7 +9309,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are the limited road type and the formal meaning of reversing direction.",
   "image": "images/q_21684.png",
-  "sign": "Road sign indicating the route to follow to make a U-turn on a divided road, using the side connection shown by the arrow."
+  "sign": ""
  },
  {
   "n": 21685,
@@ -9641,7 +9641,7 @@ window.QUESTIONS = [
   ],
   "trick": "The tricky parts are that consente means allowed and tutte e due means both lanes.",
   "image": "images/q_21704.png",
-  "sign": "This sign indicates a lay-by or parking bay beside the carriageway."
+  "sign": ""
  },
  {
   "n": 21705,
@@ -9811,7 +9811,7 @@ window.QUESTIONS = [
   ],
   "trick": "This is about mandatory minimum speeds, not recommended ones.",
   "image": "images/q_21713.png",
-  "sign": "Lane-use sign: vehicles carrying dangerous goods are prohibited from using the left lane; the other lanes continue straight ahead."
+  "sign": ""
  },
  {
   "n": 21714,
@@ -9840,7 +9840,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key is permission to use one specific lane.",
   "image": "images/q_21715.png",
-  "sign": "Lane-use sign: vehicles carrying dangerous goods are prohibited from using the left lane; the other lanes continue straight ahead."
+  "sign": ""
  },
  {
   "n": 21716,
@@ -9976,7 +9976,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Riservata' signals exclusive use, not general permission.",
   "image": "images/q_21723.png",
-  "sign": "This sign shows lane use on a multi-lane road: the left lane is recommended for 90 km/h, the middle lane for 60 km/h, and the right lane has no indicated recommended speed."
+  "sign": ""
  },
  {
   "n": 21724,
@@ -9991,7 +9991,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the broad scope: all vehicles.",
   "image": "images/q_21724.png",
-  "sign": "This sign shows lane use on a multi-lane road: the left lane is recommended for 90 km/h, the middle lane for 60 km/h, and the right lane has no indicated recommended speed."
+  "sign": ""
  },
  {
   "n": 21725,
@@ -10070,7 +10070,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No special trap words; the key meaning is 'change in the number of lanes'.",
   "image": "images/q_21730.png",
-  "sign": "This sign shows the traffic lanes continuing straight, with a reserved lane on the right separated by a yellow line. It indicates a change in the number or arrangement of available lanes."
+  "sign": ""
  },
  {
   "n": 21731,
@@ -10095,7 +10095,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Può' means it may be used, not that it must be used.",
   "image": "images/q_21732.png",
-  "sign": "This sign indicates an additional lane opening on the right. It may be accompanied by a supplementary panel showing the distance to the point where the extra lane begins."
+  "sign": ""
  },
  {
   "n": 21733,
@@ -10213,7 +10213,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No special trap words; the key meaning is a reduction in lanes.",
   "image": "images/q_21740.png",
-  "sign": "This sign shows that a lane joins the carriageway from the right; traffic continues straight ahead in the available lanes."
+  "sign": ""
  },
  {
   "n": 21741,
@@ -10345,7 +10345,7 @@ window.QUESTIONS = [
   ],
   "trick": "'Consiglia' is only a recommendation, not a mandatory instruction.",
   "image": "images/q_21749.png",
-  "sign": "This sign shows lane directions: the two left lanes continue straight ahead, while the right lane branches off to the right."
+  "sign": ""
  },
  {
   "n": 21750,
@@ -10720,7 +10720,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch out for extraurbano, which refers to buses serving routes outside the city.",
   "image": "images/q_21760.png",
-  "sign": "Bus stop for public transport buses."
+  "sign": ""
  },
  {
   "n": 21761,
@@ -10824,7 +10824,7 @@ window.QUESTIONS = [
   ],
   "trick": "Nelle vicinanze limits the meaning to something close by, not necessarily on the spot.",
   "image": "images/q_21767.png",
-  "sign": "Bus stop / stopping place for buses."
+  "sign": ""
  },
  {
   "n": 21768,
@@ -10854,7 +10854,7 @@ window.QUESTIONS = [
   ],
   "trick": "È possibile means you may do it, not that you must.",
   "image": "images/q_21769.png",
-  "sign": "Bus stop / stopping place for buses."
+  "sign": ""
  },
  {
   "n": 21770,
@@ -10991,7 +10991,7 @@ window.QUESTIONS = [
   ],
   "trick": "Vicinanza and possibilità show nearby availability, not something mandatory or exactly on site.",
   "image": "images/q_21778.png",
-  "sign": "This sign indicates a park-and-ride car park connected with a bus service. The red times show the operating hours, from 8:00 to 8:45."
+  "sign": ""
  },
  {
   "n": 21779,
@@ -11010,7 +11010,7 @@ window.QUESTIONS = [
   ],
   "trick": "In vicinanza marks proximity, while da caricare specifies the cars are for loading onto the train.",
   "image": "images/q_21779.png",
-  "sign": "This sign indicates a park-and-ride car park connected with a bus service. The red times show the operating hours, from 8:00 to 8:45."
+  "sign": ""
  },
  {
   "n": 21780,
@@ -11025,7 +11025,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for scope-limiting phrases that restrict where the statement applies.",
   "image": "images/q_21780.png",
-  "sign": "This sign indicates a park-and-ride car park connected with a bus service. The red times show the operating hours, from 8:00 to 8:45."
+  "sign": ""
  },
  {
   "n": 21781,
@@ -11092,7 +11092,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key is that this is a discharge area only for vehicles with onboard sanitary systems.",
   "image": "images/q_21784.png",
-  "sign": "Service sign indicating a facility with discharge installations for vehicles equipped with sanitary/toilet systems, such as motor caravans."
+  "sign": ""
  },
  {
   "n": 21785,
@@ -11239,7 +11239,7 @@ window.QUESTIONS = [
   ],
   "trick": "Priority phrases determine who must go first at the junction.",
   "image": "images/q_23042.png",
-  "sign": "The diagram shows an intersection with a tram proceeding along the main road, a car A coming from the left, a car O from the top, and a motorcycle M from the right."
+  "sign": ""
  },
  {
   "n": 23043,
@@ -11258,7 +11258,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important trap is that caution is mandatory for everyone, not optional.",
   "image": "images/q_23043.png",
-  "sign": "The diagram shows an intersection with a tram proceeding along the main road, a car A coming from the left, a car O from the top, and a motorcycle M from the right."
+  "sign": ""
  },
  {
   "n": 23044,
@@ -11277,7 +11277,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence contains a mandatory wait with two separate things to wait for.",
   "image": "images/q_23044.png",
-  "sign": "The diagram shows an intersection with a tram proceeding along the main road, a car A coming from the left, a car O from the top, and a motorcycle M from the right."
+  "sign": ""
  },
  {
   "n": 23045,
@@ -12183,7 +12183,7 @@ window.QUESTIONS = [
   ],
   "trick": "Dopo is the key because it establishes the sequence of vehicles.",
   "image": "images/q_23094.png",
-  "sign": "An uncontrolled intersection with three vehicles: A approaches from the left, B from the right, and E from above, with their intended paths shown by dashed lines."
+  "sign": ""
  },
  {
   "n": 23095,
@@ -14074,7 +14074,7 @@ window.QUESTIONS = [
   ],
   "trick": "Pay attention to the legal basis and the fact that L and H are both first together.",
   "image": "images/q_23205.png",
-  "sign": "An uncontrolled intersection with five vehicles approaching from different directions, each with a dotted line showing the intended path through the junction."
+  "sign": ""
  },
  {
   "n": 23206,
@@ -16150,7 +16150,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch out: 'per primo' fixes D as the first to go.",
   "image": "images/q_23303.png",
-  "sign": "A four-way intersection is shown with vehicle D approaching from the left, vehicle A from the right, and two vehicles at the top, E and S, with their intended paths indicated by dashed lines."
+  "sign": ""
  },
  {
   "n": 23304,
@@ -16859,7 +16859,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no special trap words; the key point is the stated order of passage.",
   "image": "images/q_23383.png",
-  "sign": "A junction is shown with a tram T approaching from the left, a bus M from below, and a red car P from the right, with their intended crossing paths marked by dashed lines."
+  "sign": ""
  },
  {
   "n": 23384,
@@ -17299,7 +17299,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the exact sequence relation between A and R.",
   "image": "images/q_23410.png",
-  "sign": "An uncontrolled intersection is shown with three vehicles approaching: T from the upper left, B from the left, and S from the right, each with dashed paths indicating their intended movements."
+  "sign": ""
  },
  {
   "n": 23411,
@@ -17575,7 +17575,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Può passare per primo\" means P is allowed to go first, not that it must.",
   "image": "images/q_23426.png",
-  "sign": "A four-way intersection is shown with vehicles H, B and D approaching from three directions and their paths traced through the junction."
+  "sign": ""
  },
  {
   "n": 23427,
@@ -17976,7 +17976,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important trap is the full negation: E must give way to no vehicle.",
   "image": "images/q_23449.png",
-  "sign": "An uncontrolled intersection with three vehicles approaching from different roads, showing their intended paths through the junction."
+  "sign": ""
  },
  {
   "n": 23450,
@@ -17991,7 +17991,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the obligation on C to yield to E.",
   "image": "images/q_23450.png",
-  "sign": "An uncontrolled intersection with three vehicles approaching from different roads, showing their intended paths through the junction."
+  "sign": ""
  },
  {
   "n": 23451,
@@ -18118,7 +18118,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no major trap words; it is a factual position statement.",
   "image": "images/q_20971.png",
-  "sign": "An uncontrolled intersection with three vehicles approaching from different roads; the diagram shows their intended paths across the junction."
+  "sign": ""
  },
  {
   "n": 20972,
@@ -19080,7 +19080,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that the green arrows allow continuing only in the directions they indicate.",
   "image": "images/q_20992.png",
-  "sign": "Traffic lights with directional arrows: when the green arrow is lit, you may proceed only in the direction shown by the arrow."
+  "sign": ""
  },
  {
   "n": 20993,
@@ -19414,7 +19414,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the negation: the red X means the lane may not be used.",
   "image": "images/q_21058.png",
-  "sign": "These are lane-control traffic lights for reversible or reserved lanes. The lane marked by the red X must not be occupied or used."
+  "sign": ""
  },
  {
   "n": 21059,
@@ -19429,7 +19429,7 @@ window.QUESTIONS = [
   ],
   "trick": "The green arrow means the lane may be used.",
   "image": "images/q_21059.png",
-  "sign": "These are lane-control traffic lights for reversible or reserved lanes. A lane marked with a green arrow is open and may be entered or used."
+  "sign": ""
  },
  {
   "n": 21060,
@@ -20048,7 +20048,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are that the yellow light is flashing and is placed beside the main vehicle signal.",
   "image": "images/q_21127.png",
-  "sign": "This figure shows a bicycle traffic light with red, yellow, and green bicycle symbols, used to control bicycle traffic."
+  "sign": ""
  },
  {
   "n": 21128,
@@ -20067,7 +20067,7 @@ window.QUESTIONS = [
   ],
   "trick": "The rule is mandatory and applies specifically when turning right.",
   "image": "images/q_21128.png",
-  "sign": "This figure shows a bicycle traffic light; the bicycle symbol light applies to cyclists and regulates their movement."
+  "sign": ""
  },
  {
   "n": 21129,
@@ -20603,7 +20603,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement applies to every lane shown and says straight ahead is allowed.",
   "image": "images/q_20811.png",
-  "sign": "The diagram shows a T-intersection with guide lines assigning different paths to the vehicles and lanes; not all depicted lanes allow going straight ahead."
+  "sign": ""
  },
  {
   "n": 20812,
@@ -20797,7 +20797,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key point is the negation: going straight ahead is not permitted.",
   "image": "images/q_20821.png",
-  "sign": "The diagram shows three approach lanes at an intersection with directional arrows; the lanes are arranged to guide vehicles into different permitted directions, including going straight."
+  "sign": ""
  },
  {
   "n": 20822,
@@ -21305,7 +21305,7 @@ window.QUESTIONS = [
   ],
   "trick": "The wording specifies both where the panel is placed and that it works with another sign.",
   "image": "images/q_22224.png",
-  "sign": "This is a special lane-control traffic light used above lanes to indicate whether a lane is closed, requires caution, or is open."
+  "sign": ""
  },
  {
   "n": 22225,
@@ -22492,7 +22492,7 @@ window.QUESTIONS = [
   ],
   "trick": "The distance is only the normal one, not an absolute rule.",
   "image": "images/q_18982.png",
-  "sign": "Warning sign for a winding stretch of road ahead; the supplementary panel indicates that it extends for 2.8 km."
+  "sign": ""
  },
  {
   "n": 18983,
@@ -22605,7 +22605,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No major trap words; the statement is straightforward.",
   "image": "images/q_18990.png",
-  "sign": "Warning sign for a series of dangerous bends ahead, the first to the right."
+  "sign": ""
  },
  {
   "n": 18991,
@@ -24581,7 +24581,7 @@ window.QUESTIONS = [
   ],
   "trick": "This sentence combines obligation with a condition introduced by 'se'.",
   "image": "images/q_19091.png",
-  "sign": "St. Andrew’s cross marking a level crossing with a single railway track, placed at the crossing."
+  "sign": ""
  },
  {
   "n": 19092,
@@ -24841,7 +24841,7 @@ window.QUESTIONS = [
   ],
   "trick": "The wording gives approximate usual distances, not fixed ones.",
   "image": "images/q_19106.png",
-  "sign": "This is the St. Andrew's cross, marking the presence of a level crossing."
+  "sign": ""
  },
  {
   "n": 19107,
@@ -24856,7 +24856,7 @@ window.QUESTIONS = [
   ],
   "trick": "The phrase indicates you are getting nearer, not already at the crossing.",
   "image": "images/q_19107.png",
-  "sign": "This is the St. Andrew's cross, used to indicate a level crossing ahead at the railway line."
+  "sign": ""
  },
  {
   "n": 19108,
@@ -25526,7 +25526,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that this is a duty, not a choice.",
   "image": "images/q_19146.png",
-  "sign": "Warning sign for a tram crossing ahead."
+  "sign": ""
  },
  {
   "n": 19147,
@@ -25545,7 +25545,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"di norma\" is the key trap because it means the distance is usual, not absolute.",
   "image": "images/q_19147.png",
-  "sign": "Warning sign for a tram crossing ahead."
+  "sign": ""
  },
  {
   "n": 19148,
@@ -27406,7 +27406,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No major trap words; the key idea is a fixed obstacle on the right.",
   "image": "images/q_19249.png",
-  "sign": "Warning sign: the carriageway narrows on the left side ahead."
+  "sign": ""
  },
  {
   "n": 19250,
@@ -27416,7 +27416,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No major trap words; it describes a dangerous narrowing on the right.",
   "image": "images/q_19250.png",
-  "sign": "Warning sign: the carriageway narrows on the left side ahead."
+  "sign": ""
  },
  {
   "n": 19251,
@@ -27758,7 +27758,7 @@ window.QUESTIONS = [
   ],
   "trick": "The danger is only possible and only under the weather conditions named on the supplementary plate.",
   "image": "images/q_19272.png",
-  "sign": "Warning sign for a movable or swing bridge ahead."
+  "sign": ""
  },
  {
   "n": 19273,
@@ -27777,7 +27777,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence says the road surface may become especially slippery, not that it always is.",
   "image": "images/q_19273.png",
-  "sign": "Warning sign for a movable bridge or quay edge ahead."
+  "sign": ""
  },
  {
   "n": 19274,
@@ -27800,7 +27800,7 @@ window.QUESTIONS = [
   ],
   "trick": "The hazard applies only when the main sign is paired with the panel and only in rain.",
   "image": "images/q_19274.png",
-  "sign": "Warning sign for a slippery road ahead, with risk of skidding."
+  "sign": ""
  },
  {
   "n": 19275,
@@ -27823,7 +27823,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement is conditional and expresses probability of ice only in certain weather.",
   "image": "images/q_19275.png",
-  "sign": "Warning sign for a slippery road ahead; with an additional panel it can indicate possible ice in certain weather conditions."
+  "sign": ""
  },
  {
   "n": 19276,
@@ -28290,7 +28290,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch può and nelle vicinanze: the sign may warn of a nearby school, not always or exactly at that point.",
   "image": "images/q_19296.png",
-  "sign": "Warning sign: slippery road surface, especially in wet or icy conditions."
+  "sign": ""
  },
  {
   "n": 19297,
@@ -28313,7 +28313,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is può essere posto: it may be placed there, not that it must be.",
   "image": "images/q_19297.png",
-  "sign": "Warning sign for a slippery road surface: the carriageway may be slippery, especially in wet conditions."
+  "sign": ""
  },
  {
   "n": 19298,
@@ -28679,7 +28679,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sign gives advance warning of likely, not guaranteed, animal crossing.",
   "image": "images/q_19317.png",
-  "sign": "Warning sign: children nearby, with a likely crossing used by schoolchildren. Drivers should slow down and be prepared to stop."
+  "sign": ""
  },
  {
   "n": 19318,
@@ -29127,7 +29127,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is the change from one-way to two-way traffic.",
   "image": "images/q_19339.png",
-  "sign": "Warning that two-way traffic begins ahead; vehicles may be coming from the opposite direction."
+  "sign": ""
  },
  {
   "n": 19340,
@@ -29154,7 +29154,7 @@ window.QUESTIONS = [
   ],
   "trick": "It is a warning of a possible encounter with oncoming traffic further ahead.",
   "image": "images/q_19340.png",
-  "sign": "Warning that two-way traffic begins ahead; vehicles may be coming from the opposite direction."
+  "sign": ""
  },
  {
   "n": 19341,
@@ -29420,7 +29420,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is banchina portuale, which refers to a port dock area.",
   "image": "images/q_19353.png",
-  "sign": "Warning sign indicating two-way traffic ahead or on the road section."
+  "sign": ""
  },
  {
   "n": 19354,
@@ -29774,7 +29774,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"può diminuire\" means grip may decrease, not that it always does.",
   "image": "images/q_19370.png",
-  "sign": "Warning sign for a quay or river bank: the road ends at water ahead."
+  "sign": ""
  },
  {
   "n": 19371,
@@ -30474,7 +30474,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for wording of possibility rather than a mandatory rule.",
   "image": "images/q_19408.png",
-  "sign": "Warning sign for falling rocks or landslide from the right side of the road."
+  "sign": ""
  },
  {
   "n": 19409,
@@ -30497,7 +30497,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence imposes a duty to reduce speed, with stopping only if needed.",
   "image": "images/q_19409.png",
-  "sign": "Warning sign for falling rocks or landslide danger from the right. Slow down and be ready to stop if the carriageway is obstructed."
+  "sign": ""
  },
  {
   "n": 19410,
@@ -30668,7 +30668,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence warns of a possible sudden hazard, not a constant condition.",
   "image": "images/q_19420.png",
-  "sign": "Warning sign for low-flying aircraft overhead."
+  "sign": ""
  },
  {
   "n": 19421,
@@ -30828,7 +30828,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that it warns of exposure to crosswinds, not a different danger.",
   "image": "images/q_19430.png",
-  "sign": "Warning sign indicating aircraft at low altitude or an area near an airport where planes may cross overhead."
+  "sign": ""
  },
  {
   "n": 19431,
@@ -30847,7 +30847,7 @@ window.QUESTIONS = [
   ],
   "trick": "The danger is only a possible one and is tied specifically to a tunnel exit.",
   "image": "images/q_19431.png",
-  "sign": "Warning sign indicating aircraft at low altitude or an area near an airport where planes may cross overhead."
+  "sign": ""
  },
  {
   "n": 19432,
@@ -31330,7 +31330,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that it refers to an area at risk of fire.",
   "image": "images/q_19456.png",
-  "sign": "Warning sign for strong side winds: crosswinds may suddenly push vehicles sideways, especially high-sided or light vehicles, often near tunnel entrances or exits and on exposed stretches."
+  "sign": ""
  },
  {
   "n": 19457,
@@ -31684,7 +31684,7 @@ window.QUESTIONS = [
   ],
   "trick": "It refers only to other dangers, not ones that already have specific warning signs.",
   "image": "images/q_19474.png",
-  "sign": "Warning sign indicating a roundabout ahead."
+  "sign": ""
  },
  {
   "n": 19475,
@@ -31707,7 +31707,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are the obligation to be cautious and that the danger is close ahead.",
   "image": "images/q_19475.png",
-  "sign": "Warning sign indicating a roundabout ahead."
+  "sign": ""
  },
  {
   "n": 19476,
@@ -31875,7 +31875,7 @@ window.QUESTIONS = [
   ],
   "trick": "The panel combination matters, and \"senza barriere\" must keep the negation exactly.",
   "image": "images/q_19483.png",
-  "sign": "General danger warning: it indicates a hazard not specified by other warning signs, often explained by a supplementary panel."
+  "sign": ""
  },
  {
   "n": 19484,
@@ -31894,7 +31894,7 @@ window.QUESTIONS = [
   ],
   "trick": "The tricky point is that the vehicles are described as manoeuvring, and the panel modifies the sign.",
   "image": "images/q_19484.png",
-  "sign": "General danger warning: it indicates a hazard not specified by other warning signs, often explained by a supplementary panel."
+  "sign": ""
  },
  {
   "n": 19485,
@@ -32122,7 +32122,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence is about advance warning, not the exact location.",
   "image": "images/q_19498.png",
-  "sign": "Warning sign indicating traffic lights ahead."
+  "sign": ""
  },
  {
   "n": 19499,
@@ -32147,7 +32147,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Può\" means it is possible or allowed, not required.",
   "image": "images/q_19500.png",
-  "sign": "Warning sign for slippery road, especially due to a wet or low-grip surface."
+  "sign": ""
  },
  {
   "n": 19501,
@@ -32339,7 +32339,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"eventuali\" makes the presence only possible, not guaranteed.",
   "image": "images/q_21848.png",
-  "sign": "Warning sign indicating temporary traffic lights ahead."
+  "sign": ""
  },
  {
   "n": 21849,
@@ -32474,7 +32474,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important detail is that the acceleration lane is specifically on the left.",
   "image": "images/q_20653.png",
-  "sign": "Warning of roadworks ahead."
+  "sign": ""
  },
  {
   "n": 20654,
@@ -32489,7 +32489,7 @@ window.QUESTIONS = [
   ],
   "trick": "The left-side detail changes the meaning of the sign.",
   "image": "images/q_20654.png",
-  "sign": "Warning of roadworks ahead."
+  "sign": ""
  },
  {
   "n": 20655,
@@ -32871,7 +32871,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the side and the fact that the joining road is lower-priority.",
   "image": "images/q_20629.png",
-  "sign": "Warning sign: a side road joins from the right."
+  "sign": ""
  },
  {
   "n": 20630,
@@ -33060,7 +33060,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement hinges on the default right-priority rule applying.",
   "image": "images/q_20536.png",
-  "sign": "Warning sign indicating a crossroads or intersection ahead."
+  "sign": ""
  },
  {
   "n": 20537,
@@ -33679,7 +33679,7 @@ window.QUESTIONS = [
   ],
   "trick": "This sign imposes a full stop and then yielding to other traffic.",
   "image": "images/q_20491.png",
-  "sign": "STOP sign: you must stop and give way before proceeding at the intersection."
+  "sign": ""
  },
  {
   "n": 20492,
@@ -33702,7 +33702,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key is a compulsory complete stop before entering the junction.",
   "image": "images/q_20492.png",
-  "sign": "STOP sign: you must stop and give way before proceeding at the intersection."
+  "sign": ""
  },
  {
   "n": 20493,
@@ -34049,7 +34049,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important traps are the obligation and that priority is for traffic from the opposite direction.",
   "image": "images/q_20547.png",
-  "sign": "Stop sign: you must come to a complete stop at the intersection and give way before proceeding."
+  "sign": ""
  },
  {
   "n": 20548,
@@ -34991,7 +34991,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is no longer, showing that a previous priority has ended.",
   "image": "images/q_20580.png",
-  "sign": "This sign indicates the end of the priority road, so the driver no longer has right of way."
+  "sign": ""
  },
  {
   "n": 20581,
@@ -35403,7 +35403,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Inizio\" is crucial because it means the priority starts here.",
   "image": "images/q_20665.png",
-  "sign": "Start of a priority road: drivers on this road have right of way at intersections unless otherwise indicated."
+  "sign": ""
  },
  {
   "n": 20666,
@@ -35634,7 +35634,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is può, which states an allowed option rather than a requirement.",
   "image": "images/q_20679.png",
-  "sign": "Priority road: you have right of way at intersections along this road. It may be repeated in smaller size with a panel showing the course of the priority road."
+  "sign": ""
  },
  {
   "n": 20680,
@@ -35653,7 +35653,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are comporta, which signals a consequence, and o, which means one of two possible signs.",
   "image": "images/q_20680.png",
-  "sign": "Priority road: you have right of way on the road you are travelling on. Roads joining or crossing it are normally controlled by Give Way or Stop signs."
+  "sign": ""
  },
  {
   "n": 20681,
@@ -35805,7 +35805,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are dobbiamo and accertarci, because they require checking rather than assuming priority.",
   "image": "images/q_20689.png",
-  "sign": "Priority road: you have right of way at intersections until the priority road ends."
+  "sign": ""
  },
  {
   "n": 20690,
@@ -35832,7 +35832,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that passage is allowed only after confirming the oncoming traffic has yielded priority.",
   "image": "images/q_20690.png",
-  "sign": "Priority road: you have right of way at intersections until the priority road ends."
+  "sign": ""
  },
  {
   "n": 20691,
@@ -36726,7 +36726,7 @@ window.QUESTIONS = [
   ],
   "trick": "Sia...che... includes both right and left.",
   "image": "images/q_20510.png",
-  "sign": "Give way (yield): you must give priority to traffic on the intersecting road."
+  "sign": ""
  },
  {
   "n": 20511,
@@ -36946,7 +36946,7 @@ window.QUESTIONS = [
   ],
   "trick": "The condition limits the meaning to cases where roadworks are present.",
   "image": "images/q_21990.png",
-  "sign": "This triangular warning sign indicates traffic lights ahead."
+  "sign": ""
  },
  {
   "n": 21991,
@@ -37392,7 +37392,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that entry is forbidden from this side, but the road can be entered from the other side.",
   "image": "images/q_19529.png",
-  "sign": "No vehicles may enter this road in either direction."
+  "sign": ""
  },
  {
   "n": 19530,
@@ -37411,7 +37411,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence is tricky because it states that even vehicles without an engine are obliged to obey the prohibition.",
   "image": "images/q_19530.png",
-  "sign": "No vehicles may enter this road in either direction."
+  "sign": ""
  },
  {
   "n": 19531,
@@ -37654,7 +37654,7 @@ window.QUESTIONS = [
   ],
   "trick": "The meaning depends on both the weight limit and the exclusion of vehicles used to transport people.",
   "image": "images/q_19628.png",
-  "sign": "No entry for vehicles from this direction."
+  "sign": ""
  },
  {
   "n": 19629,
@@ -37677,7 +37677,7 @@ window.QUESTIONS = [
   ],
   "trick": "The prohibition applies only under that sign and only if the vehicle's authorised laden mass exceeds 3.5 tonnes.",
   "image": "images/q_19629.png",
-  "sign": "No entry for vehicles from this direction."
+  "sign": ""
  },
  {
   "n": 19630,
@@ -37696,7 +37696,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are the permission given by the sign and the exact under-3.5-tonne limit.",
   "image": "images/q_19630.png",
-  "sign": "No entry for vehicles from this direction."
+  "sign": ""
  },
  {
   "n": 19631,
@@ -37997,7 +37997,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence includes both road types and says the sign may be found there.",
   "image": "images/q_19546.png",
-  "sign": "No overtaking by goods vehicles. Trucks and similar goods vehicles are forbidden to overtake motor vehicles."
+  "sign": ""
  },
  {
   "n": 19547,
@@ -38016,7 +38016,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are that repetition is optional and applies after every junction.",
   "image": "images/q_19547.png",
-  "sign": "No overtaking. Vehicles must not overtake other motor vehicles."
+  "sign": ""
  },
  {
   "n": 19548,
@@ -39098,7 +39098,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is almeno 70 metri: the distance must be no less than 70 metres.",
   "image": "images/q_19580.png",
-  "sign": "Maximum speed limit of 80 km/h."
+  "sign": "Drivers must keep a minimum distance of 70 metres from the vehicle ahead."
  },
  {
   "n": 19581,
@@ -39360,7 +39360,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are that it marks the start of a zone and states a prohibition.",
   "image": "images/q_19620.png",
-  "sign": "No vehicles may proceed without keeping at least 70 metres between them."
+  "sign": "No horn: drivers must not sound the horn except in cases of immediate danger."
  },
  {
   "n": 19621,
@@ -40322,7 +40322,7 @@ window.QUESTIONS = [
   ],
   "trick": "Notice that permission is limited to cars in the towing situation described.",
   "image": "images/q_19695.png",
-  "sign": "No entry for bicycles."
+  "sign": ""
  },
  {
   "n": 19696,
@@ -40538,7 +40538,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that permission is limited to a specific subtype of moped.",
   "image": "images/q_19706.png",
-  "sign": "No entry for handcarts and vehicles pushed by hand."
+  "sign": ""
  },
  {
   "n": 19707,
@@ -40969,7 +40969,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main traps are the goods-transport use and the over-3.5-tonne threshold.",
   "image": "images/q_19727.png",
-  "sign": "No entry for buses."
+  "sign": ""
  },
  {
   "n": 19728,
@@ -40988,7 +40988,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for permission wording and the threshold 'more than' value.",
   "image": "images/q_19728.png",
-  "sign": "No entry for buses."
+  "sign": ""
  },
  {
   "n": 19729,
@@ -41007,7 +41007,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for permission wording and the threshold 'more than' value.",
   "image": "images/q_19729.png",
-  "sign": "No entry for buses."
+  "sign": ""
  },
  {
   "n": 19730,
@@ -41354,7 +41354,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the possibility wording and the inclusive limit 'not greater than' on the panel.",
   "image": "images/q_19746.png",
-  "sign": "No entry for goods vehicles with a maximum authorised mass over 6.5 tonnes."
+  "sign": ""
  },
  {
   "n": 19747,
@@ -41844,7 +41844,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is the double negative idea: fuel in the tank is not counted as prohibited transport.",
   "image": "images/q_19778.png",
-  "sign": "No entry for agricultural machines (tractors and similar farm vehicles)."
+  "sign": ""
  },
  {
   "n": 19779,
@@ -41863,7 +41863,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important point is that the sentence states permission under the sign.",
   "image": "images/q_19779.png",
-  "sign": "No entry for agricultural machines (tractors and similar farm vehicles)."
+  "sign": ""
  },
  {
   "n": 19780,
@@ -42396,7 +42396,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important traps are the maximum limit and that height is measured from the road surface.",
   "image": "images/q_19806.png",
-  "sign": "No entry for vehicles or loads wider than 2.30 metres."
+  "sign": ""
  },
  {
   "n": 19807,
@@ -42612,7 +42612,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are the prohibition, the fact it applies to all vehicles, and that it only bans lengths over 10 metres.",
   "image": "images/q_19817.png",
-  "sign": "No entry for vehicles whose overall length exceeds 10 metres."
+  "sign": ""
  },
  {
   "n": 19818,
@@ -43315,7 +43315,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the sign marks the end of earlier restrictions.",
   "image": "images/q_19850.png",
-  "sign": "No transit for vehicles with an axle load exceeding 2.5 tonnes. It is a prohibition sign, not an end-of-restrictions sign."
+  "sign": ""
  },
  {
   "n": 19851,
@@ -43666,7 +43666,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the sign marks the end of an earlier overtaking ban.",
   "image": "images/q_19872.png",
-  "sign": "This sign means the end of the minimum speed limit of 50 km/h."
+  "sign": ""
  },
  {
   "n": 19873,
@@ -43936,7 +43936,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement is limited to when the sign is present and says overtaking is allowed.",
   "image": "images/q_19886.png",
-  "sign": "End of the no-overtaking restriction for motor vehicles."
+  "sign": ""
  },
  {
   "n": 19887,
@@ -44398,7 +44398,7 @@ window.QUESTIONS = [
   ],
   "trick": "The direction phrase is crucial: before the sign, not after it.",
   "image": "images/q_19904.png",
-  "sign": "No parking: parking is prohibited from the sign onward on the side of the road where it is placed."
+  "sign": ""
  },
  {
   "n": 19905,
@@ -44664,7 +44664,7 @@ window.QUESTIONS = [
   ],
   "trick": "The panel is the key condition that completes the sign’s meaning.",
   "image": "images/q_19918.png",
-  "sign": "No parking."
+  "sign": ""
  },
  {
   "n": 19920,
@@ -44687,7 +44687,7 @@ window.QUESTIONS = [
   ],
   "trick": "Place and time qualifiers can turn a general rule into a very specific one.",
   "image": "images/q_19920.png",
-  "sign": "No parking, with the supplementary plate indicating the prohibition applies on working days from 8:00 to 20:00."
+  "sign": ""
  },
  {
   "n": 19921,
@@ -44748,7 +44748,7 @@ window.QUESTIONS = [
   ],
   "trick": "Exception phrases like 'salvo diversa indicazione' can reverse the apparent rule.",
   "image": "images/q_19923.png",
-  "sign": "No parking, with a supplementary plate indicating vehicles may be removed (tow-away zone)."
+  "sign": ""
  },
  {
   "n": 19924,
@@ -45063,7 +45063,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence is tricky because it includes even temporary stopping, not just parking.",
   "image": "images/q_19939.png",
-  "sign": "No parking: stopping briefly is allowed, but leaving the vehicle parked is forbidden."
+  "sign": ""
  },
  {
   "n": 19940,
@@ -45339,7 +45339,7 @@ window.QUESTIONS = [
   ],
   "trick": "The meaning changes because the panel makes the ban apply to the preceding stretch.",
   "image": "images/q_19951.png",
-  "sign": "No stopping. With a supplementary panel, it can indicate that the prohibition applies on the stretch before the sign."
+  "sign": ""
  },
  {
   "n": 19952,
@@ -45502,7 +45502,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that the no-parking rule is temporary, not permanent.",
   "image": "images/q_20014.png",
-  "sign": "No stopping: vehicles must not stop or park here, even briefly."
+  "sign": ""
  },
  {
   "n": 20015,
@@ -45521,7 +45521,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that it refers to places where cleaning is actually carried out.",
   "image": "images/q_20015.png",
-  "sign": "No stopping: vehicles must not stop or park here, even briefly."
+  "sign": ""
  },
  {
   "n": 20016,
@@ -46244,7 +46244,7 @@ window.QUESTIONS = [
   ],
   "trick": "The rule is unlimited parking unless another indication provides an exception.",
   "image": "images/q_19961.png",
-  "sign": "This is a driveway access (passo carrabile) sign: stopping and parking are prohibited in front of the entrance to keep access clear."
+  "sign": ""
  },
  {
   "n": 19962,
@@ -47277,7 +47277,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the advance-warning idea and the specific roundabout circulation wording.",
   "image": "images/q_20274.png",
-  "sign": "Roundabout sign: indicates a junction with circular traffic flow."
+  "sign": ""
  },
  {
   "n": 20275,
@@ -47296,7 +47296,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important meaning is that the sign imposes a mandatory direction of travel.",
   "image": "images/q_20275.png",
-  "sign": "In a square or open area, vehicles must circulate in the direction shown by the arrows."
+  "sign": ""
  },
  {
   "n": 20276,
@@ -47500,7 +47500,7 @@ window.QUESTIONS = [
   ],
   "trick": "The rule applies specifically on extra-urban roads and concerns the order of the signs.",
   "image": "images/q_20287.png",
-  "sign": "This sign indicates a roundabout ahead and requires vehicles to follow the circular flow around the island."
+  "sign": ""
  },
  {
   "n": 20288,
@@ -47610,7 +47610,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that the sign permits that speed because it sets a minimum, not a maximum.",
   "image": "images/q_20293.png",
-  "sign": "Mandatory roundabout: vehicles must follow the circular direction indicated around the central island."
+  "sign": ""
  },
  {
   "n": 20294,
@@ -47629,7 +47629,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the prohibition applies to speeds below the indicated value.",
   "image": "images/q_20294.png",
-  "sign": "Mandatory roundabout: vehicles must follow the circular direction indicated around the central island."
+  "sign": ""
  },
  {
   "n": 20295,
@@ -48091,7 +48091,7 @@ window.QUESTIONS = [
   ],
   "trick": "The mandatory action is to stop for customs checks at the border.",
   "image": "images/q_20427.png",
-  "sign": "Minimum speed 30 km/h: vehicles must not travel below 30 km/h unless traffic or road conditions require it."
+  "sign": ""
  },
  {
   "n": 20428,
@@ -48883,7 +48883,7 @@ window.QUESTIONS = [
   ],
   "trick": "Placement matters here: before the intersection, the sign imposes a mandatory left turn.",
   "image": "images/q_20068.png",
-  "sign": "Mandatory direction: proceed straight ahead only."
+  "sign": ""
  },
  {
   "n": 20069,
@@ -48906,7 +48906,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement combines location and negated permission: at the junction, going straight is not allowed.",
   "image": "images/q_20069.png",
-  "sign": "Mandatory direction: proceed straight ahead only."
+  "sign": ""
  },
  {
   "n": 20070,
@@ -49298,7 +49298,7 @@ window.QUESTIONS = [
   ],
   "trick": "The location phrase limits where the rule applies, and obbliga makes it mandatory.",
   "image": "images/q_20092.png",
-  "sign": "Mandatory direction to the left: at an intersection, vehicles must turn left."
+  "sign": ""
  },
  {
   "n": 20093,
@@ -49317,7 +49317,7 @@ window.QUESTIONS = [
   ],
   "trick": "The position matters, and non consente means straight ahead is prohibited.",
   "image": "images/q_20093.png",
-  "sign": "Mandatory direction to the left: before an intersection, going straight ahead is not allowed."
+  "sign": ""
  },
  {
   "n": 20094,
@@ -49705,7 +49705,7 @@ window.QUESTIONS = [
   ],
   "trick": "Read both the advance-warning element and the two prohibited actions joined by 'or'.",
   "image": "images/q_20116.png",
-  "sign": "Mandatory direction to the right: drivers must proceed right."
+  "sign": ""
  },
  {
   "n": 20117,
@@ -49751,7 +49751,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the sign gives advance warning of a prohibition, not an immediate command.",
   "image": "images/q_20118.png",
-  "sign": "Mandatory direction to the right: drivers must proceed right."
+  "sign": ""
  },
  {
   "n": 20119,
@@ -51914,7 +51914,7 @@ window.QUESTIONS = [
   ],
   "trick": "This is an obligation applying at the intersection, with two allowed options.",
   "image": "images/q_20181.png",
-  "sign": "Mandatory directions: at the junction you must turn either left or right; going straight is not allowed."
+  "sign": ""
  },
  {
   "n": 20182,
@@ -52684,7 +52684,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence imposes a mandatory passing side: left.",
   "image": "images/q_20225.png",
-  "sign": "Mandatory directions sign: drivers may pass either side of the obstruction, straight ahead or to the left as shown."
+  "sign": ""
  },
  {
   "n": 20226,
@@ -53339,7 +53339,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important detail is that passage is allowed on both sides.",
   "image": "images/q_20264.png",
-  "sign": "Pass to the right of the obstacle or traffic island."
+  "sign": ""
  },
  {
   "n": 20265,
@@ -53537,7 +53537,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement says the minimum-speed obligation has ended.",
   "image": "images/q_20320.png",
-  "sign": "Mandatory passage on either side of an obstacle or traffic island."
+  "sign": ""
  },
  {
   "n": 20321,
@@ -53556,7 +53556,7 @@ window.QUESTIONS = [
   ],
   "trick": "It means normal maximum speed rules for that road apply again.",
   "image": "images/q_20321.png",
-  "sign": "Mandatory passage on either side of an obstacle or traffic island."
+  "sign": ""
  },
  {
   "n": 20322,
@@ -53704,7 +53704,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sign makes this equipment mandatory, with either option allowed.",
   "image": "images/q_20329.png",
-  "sign": "End of the minimum distance requirement of 30 metres between vehicles."
+  "sign": ""
  },
  {
   "n": 20330,
@@ -54043,7 +54043,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important trap is “fine,” which reverses the meaning from beginning to end.",
   "image": "images/q_20349.png",
-  "sign": "Pedestrian path: a route reserved for pedestrians only."
+  "sign": ""
  },
  {
   "n": 20350,
@@ -54180,7 +54180,7 @@ window.QUESTIONS = [
   ],
   "trick": "'In corrispondenza di' fixes the sign at that exact route/location.",
   "image": "images/q_20356.png",
-  "sign": "End of the pedestrian path or walkway; the route reserved for pedestrians ends here."
+  "sign": ""
  },
  {
   "n": 20357,
@@ -54530,7 +54530,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that the sign refers to the start of the cycle track.",
   "image": "images/q_20375.png",
-  "sign": "End of the cycle path / bicycle lane; bicycles are no longer allowed on that reserved route."
+  "sign": ""
  },
  {
   "n": 20376,
@@ -54704,7 +54704,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important trap is that unico indicates a single shared route.",
   "image": "images/q_20385.png",
-  "sign": "Mandatory path divided into separate lanes: pedestrians on one side and bicycles on the other."
+  "sign": ""
  },
  {
   "n": 20386,
@@ -54853,7 +54853,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that the sign marks the end of the cycle track beside the sidewalk.",
   "image": "images/q_20394.png",
-  "sign": "Mandatory shared path for pedestrians and cyclists."
+  "sign": ""
  },
  {
   "n": 20395,
@@ -55009,7 +55009,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that this is the end of a single shared pedestrian-cycle path.",
   "image": "images/q_20402.png",
-  "sign": "End of a shared path reserved for pedestrians and bicycles, with separate sides for each."
+  "sign": ""
  },
  {
   "n": 20404,
@@ -55032,7 +55032,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are that it marks the end and that the route is for mixed, shared circulation.",
   "image": "images/q_20404.png",
-  "sign": "End of a shared path reserved for pedestrians and bicycles, with separate sides for each."
+  "sign": ""
  },
  {
   "n": 20405,
@@ -55172,7 +55172,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are that it marks the beginning and that the path is specifically for ridden animals.",
   "image": "images/q_20412.png",
-  "sign": "End of the combined pedestrian and bicycle path."
+  "sign": ""
  },
  {
   "n": 20413,
@@ -55311,7 +55311,7 @@ window.QUESTIONS = [
   ],
   "trick": "Do not turn possibility into obligation, and keep the limit meaning exact.",
   "image": "images/q_18851.png",
-  "sign": "Mandatory route reserved for riders on horseback."
+  "sign": ""
  },
  {
   "n": 18852,
@@ -55341,7 +55341,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the sign gives advance warning.",
   "image": "images/q_18853.png",
-  "sign": "Warning sign for an uneven road surface ahead; the supplementary plate indicates the uneven section extends for 380 metres."
+  "sign": ""
  },
  {
   "n": 18854,
@@ -56566,7 +56566,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch the exact type of animal and that the sign refers to the end point of the route.",
   "image": "images/q_20419.png",
-  "sign": "Warning sign for a dip or hollow in the road ahead. Drivers should slow down and be prepared for an uneven roadway."
+  "sign": ""
  },
  {
   "n": 20420,
@@ -56707,7 +56707,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key is that the sign indicates a national border with an EU country.",
   "image": "images/q_21801.png",
-  "sign": "End of the path reserved for riders on horseback."
+  "sign": ""
  },
  {
   "n": 21802,
@@ -56726,7 +56726,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important detail is that the location is the national border with an EU country.",
   "image": "images/q_21802.png",
-  "sign": "End of the path reserved for riders on horseback."
+  "sign": ""
  },
  {
   "n": 21803,
@@ -57034,7 +57034,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no notable trap words in this sentence.",
   "image": "images/q_21960.png",
-  "sign": "A blue square sign with a white upward arrow: it indicates one-way traffic straight ahead."
+  "sign": ""
  },
  {
   "n": 21961,
@@ -57049,7 +57049,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"di norma\" states what usually happens, not an absolute rule.",
   "image": "images/q_21961.png",
-  "sign": "A blue square sign with a white upward arrow: it indicates one-way traffic straight ahead."
+  "sign": ""
  },
  {
   "n": 21962,
@@ -57501,7 +57501,7 @@ window.QUESTIONS = [
   ],
   "trick": "“Presenza di” can be mistaken for an instruction, but it only warns of something being present.",
   "image": "images/q_22133.png",
-  "sign": "Supplementary panel indicating snowploughs at work or road-clearing vehicles operating in snowy conditions."
+  "sign": ""
  },
  {
   "n": 22134,
@@ -57534,7 +57534,7 @@ window.QUESTIONS = [
   ],
   "trick": "“Invita a” is softer than an obligation, and “in funzione” means the machines are actively operating.",
   "image": "images/q_22135.png",
-  "sign": "This is a traffic light showing the standard meaning: red means stop, yellow means prepare to stop, and green means go."
+  "sign": ""
  },
  {
   "n": 22136,
@@ -57690,7 +57690,7 @@ window.QUESTIONS = [
   ],
   "trick": "“Possibile presenza” warns that something may be present, not that it definitely is.",
   "image": "images/q_22166.png",
-  "sign": "Supplementary panel indicating snow-clearing vehicles or snowploughs may be operating on the road."
+  "sign": ""
  },
  {
   "n": 22167,
@@ -58094,7 +58094,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch for sequence words like 'il primo' and 'serie', which limit the meaning precisely.",
   "image": "images/q_21828.png",
-  "sign": "Supplementary panel warning of falling rocks or landslides from the side shown onto the roadway."
+  "sign": ""
  },
  {
   "n": 21829,
@@ -58113,7 +58113,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that the panel shows order in a series, not distance or another type of number.",
   "image": "images/q_21829.png",
-  "sign": "Supplementary panel warning of falling rocks or landslides from the side shown onto the roadway."
+  "sign": ""
  },
  {
   "n": 21830,
@@ -58226,7 +58226,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important trap is the prohibition 'è vietato' applied only to our direction.",
   "image": "images/q_21157.png",
-  "sign": "The diagram shows a traffic officer with arms outstretched, facing the driver. Traffic from the front and rear must stop."
+  "sign": ""
  },
  {
   "n": 21158,
@@ -58245,7 +58245,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that this is a mandatory stop, with a precise stopping point.",
   "image": "images/q_21158.png",
-  "sign": "The diagram shows a traffic officer with arms outstretched, facing the driver. Traffic from the front and rear must stop."
+  "sign": ""
  },
  {
   "n": 21159,
@@ -59140,7 +59140,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the exact location and the fact that it applies to all entry roads.",
   "image": "images/q_21553.png",
-  "sign": "This is a directional sign showing route 54 and that Piacenza is 4 km ahead."
+  "sign": ""
  },
  {
   "n": 21554,
@@ -59229,7 +59229,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch nearby-location phrases like 'nelle vicinanze', which restrict where the facility is.",
   "image": "images/q_21794.png",
-  "sign": "This is a locality name sign indicating the built-up area of Taranto."
+  "sign": ""
  },
  {
   "n": 21795,
@@ -59263,7 +59263,7 @@ window.QUESTIONS = [
   ],
   "trick": "Phrases like 'a breve distanza' and 'è possibile' soften the statement to nearby possibility.",
   "image": "images/q_21796.png",
-  "sign": "This is a locality name sign indicating the built-up area of Taranto."
+  "sign": ""
  },
  {
   "n": 21797,
@@ -59328,7 +59328,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "No major trick words; the challenge is identifying the roadwork barrier.",
   "image": "images/q_21857.png",
-  "sign": "This sign indicates a dead-end road: the road continues ahead but has no outlet."
+  "sign": ""
  },
  {
   "n": 21858,
@@ -59357,7 +59357,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch 'può' for permission/possibility and 'quando' for a condition limiting the case.",
   "image": "images/q_21859.png",
-  "sign": "This sign indicates a dead-end road: the road continues ahead but has no outlet."
+  "sign": ""
  },
  {
   "n": 21860,
@@ -59595,7 +59595,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch the exact position and the restriction to one-way roads.",
   "image": "images/q_21921.png",
-  "sign": "This is a traffic cone used to mark temporary obstacles, road works, or to channel traffic in a temporary way."
+  "sign": ""
  },
  {
   "n": 21922,
@@ -59624,7 +59624,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the edge placement and the one-way limitation.",
   "image": "images/q_21923.png",
-  "sign": "This is a traffic cone used to mark temporary obstacles, road works, or to channel traffic in a temporary way."
+  "sign": ""
  },
  {
   "n": 21924,
@@ -59977,7 +59977,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are permission in 'consente' and the viewpoint in 'dalla sua sinistra'.",
   "image": "images/q_21184.png",
-  "sign": "A traffic officer is shown with one arm raised at a right angle and the other extended. This position means traffic coming from the officer’s left or right may proceed, while traffic from the front and back must stop."
+  "sign": ""
  },
  {
   "n": 21185,
@@ -60873,7 +60873,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the marking is near the level crossing, not necessarily on it.",
   "image": "images/q_20945.png",
-  "sign": "This sign warns of a level crossing with barriers or half-barriers ahead. Drivers should be prepared for a railway crossing."
+  "sign": ""
  },
  {
   "n": 20946,
@@ -61474,7 +61474,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the location and the condition: inside the carriageway when an obstacle is present.",
   "image": "images/q_21999.png",
-  "sign": "This road marking indicates a pedestrian crossing."
+  "sign": ""
  },
  {
   "n": 22000,
@@ -61612,7 +61612,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are that the light is flashing and the indicator is activated.",
   "image": "images/q_24212.png",
-  "sign": "This symbol indicates a mandatory direction to pass to the right of the obstacle or traffic island."
+  "sign": ""
  },
  {
   "n": 24213,
@@ -61637,7 +61637,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the condition introduced by 'si attiva quando'.",
   "image": "images/q_24214.png",
-  "sign": "This symbol indicates a mandatory direction to pass to the right of the obstacle or traffic island."
+  "sign": ""
  },
  {
   "n": 24215,
@@ -62205,7 +62205,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no major trap words here; the statement is straightforward.",
   "image": "images/q_20755.png",
-  "sign": "This is the dashboard symbol for engine coolant temperature, shown with a thermometer over waves."
+  "sign": ""
  },
  {
   "n": 24273,
@@ -62230,7 +62230,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key detail is that the meaning applies when the warning light is on.",
   "image": "images/q_24274.png",
-  "sign": "This diagram shows a carriageway with several lanes in the same direction, with arrows indicating that some lanes continue straight while others are reserved for turning left."
+  "sign": ""
  },
  {
   "n": 24275,
@@ -62411,7 +62411,7 @@ window.QUESTIONS = [
   ],
   "trick": "Do not miss di norma and the fact that the statement refers to each direction separately.",
   "image": "images/q_18326.png",
-  "sign": "The diagram shows two separate carriageways, each with three lanes in the same direction; the middle lane is for normal driving."
+  "sign": ""
  },
  {
   "n": 18327,
@@ -62430,7 +62430,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is di norma plus the lane rule being stated for each direction of travel.",
   "image": "images/q_18327.png",
-  "sign": "The diagram shows two separate carriageways with three lanes each; normally the right-hand lane is the lane for ordinary driving, not overtaking."
+  "sign": ""
  },
  {
   "n": 18328,
@@ -62459,7 +62459,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch di norma and that the statement applies to each direction separately.",
   "image": "images/q_18329.png",
-  "sign": "The diagram shows two separate carriageways with three lanes each; normally the left-hand lane is used for overtaking, not for ordinary driving."
+  "sign": ""
  },
  {
   "n": 20788,
@@ -63335,7 +63335,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is the prohibition phrase 'divieto di sosta'.",
   "image": "images/q_20780.png",
-  "sign": "Road diagram showing a two-way road with a continuous centre line on the vehicle’s side and a broken line on the opposite side; the car must keep to its lane."
+  "sign": ""
  },
  {
   "n": 20781,
@@ -63987,7 +63987,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the exact passing order, especially the final vehicle.",
   "image": "images/q_23181.png",
-  "sign": "The diagram shows an intersection with a tram T, and vehicles A, C and L approaching on different paths with their intended trajectories marked."
+  "sign": ""
  },
  {
   "n": 24283,
@@ -64006,7 +64006,7 @@ window.QUESTIONS = [
   ],
   "trick": "Watch the condition 'while driving' and the negation that the battery is not being charged.",
   "image": "images/q_24283.png",
-  "sign": "The diagram shows an intersection with a tram T, and vehicles A, C and L approaching on different paths with their intended trajectories marked."
+  "sign": ""
  },
  {
   "n": 24284,
@@ -68522,7 +68522,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"esclusivamente\" makes the claim absolute and easy to get wrong.",
   "image": "images/q_18599.png",
-  "sign": "This is the rear marker panel for a trailer or caravan, with red and yellow diagonal stripes."
+  "sign": ""
  },
  {
   "n": 18600,
@@ -68532,7 +68532,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no real trap words here; the definition is straightforward.",
   "image": "images/q_18600.png",
-  "sign": "This is the rear marker panel for a caravan or trailer, a yellow rectangle with a red border."
+  "sign": ""
  },
  {
   "n": 18601,
@@ -73487,7 +73487,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is non possono, which means crossing is prohibited.",
   "image": "images/q_20720.png",
-  "sign": "The diagram shows double continuous centre lines separating the two directions of traffic."
+  "sign": ""
  },
  {
   "n": 20721,
@@ -73510,7 +73510,7 @@ window.QUESTIONS = [
   ],
   "trick": "Overtaking is allowed only if you do not cross the line and no other prohibition applies.",
   "image": "images/q_20721.png",
-  "sign": "The diagram shows a broken centre line along the carriageway, which may be crossed if safe and not otherwise prohibited."
+  "sign": ""
  },
  {
   "n": 20722,
@@ -73533,7 +73533,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the contrast between prohibited crossing and supposed permitted straddling.",
   "image": "images/q_20722.png",
-  "sign": "The diagram shows a single continuous longitudinal line along the centre of the carriageway."
+  "sign": ""
  },
  {
   "n": 20723,
@@ -73821,7 +73821,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is 'può essere', which means either type of centre line is possible.",
   "image": "images/q_20889.png",
-  "sign": "The diagram shows double continuous centre lines separating the two directions of traffic."
+  "sign": ""
  },
  {
   "n": 20890,
@@ -73840,7 +73840,7 @@ window.QUESTIONS = [
   ],
   "trick": "The rule applies only 'se discontinua', and then crossing it is allowed.",
   "image": "images/q_20890.png",
-  "sign": "This diagram shows a two-way road with a double continuous centre line. The lines separate the two directions of traffic and must not be crossed."
+  "sign": ""
  },
  {
   "n": 20891,
@@ -73855,7 +73855,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is 'può essere costituita', meaning this road marking configuration is possible.",
   "image": "images/q_20891.png",
-  "sign": "This diagram shows a two-way carriageway with two parallel continuous centre lines. They separate opposing traffic flows and may not be crossed."
+  "sign": ""
  },
  {
   "n": 20892,
@@ -73878,7 +73878,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are 'consente' and 'senza', meaning overtaking is allowed only without crossing the lines.",
   "image": "images/q_20892.png",
-  "sign": "This diagram shows a roadway marked with continuous longitudinal lines. Such lines indicate lanes or directions separated by markings that must not be crossed."
+  "sign": ""
  },
  {
   "n": 20893,
@@ -73893,7 +73893,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is 'a doppio senso di circolazione', which frames the meaning as opposite traffic directions.",
   "image": "images/q_20893.png",
-  "sign": "This diagram shows a two-way carriageway with a broken centre line. It divides the two directions of traffic."
+  "sign": ""
  },
  {
   "n": 20894,
@@ -74226,7 +74226,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no real trap words here; the sentence is straightforward.",
   "image": "images/q_20943.png",
-  "sign": "This is a road-layout diagram of an intersection. It shows a broken side edge line marking the area where vehicles may cross the edge to enter or leave a side road."
+  "sign": ""
  },
  {
   "n": 20944,
@@ -74236,7 +74236,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no real trap words here; the sentence mainly tests recognition of the marking.",
   "image": "images/q_20944.png",
-  "sign": "This is a road-layout diagram showing a lay-by or roadside stopping area connected to the carriageway. The broken side edge line marks the access to that area."
+  "sign": ""
  },
  {
   "n": 21009,
@@ -74265,7 +74265,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no major trap words; the sentence states a definition directly.",
   "image": "images/q_21010.png",
-  "sign": "This is a road-marking diagram showing a channelized area bordered by diagonal stripes beside a diverging lane. It is not a traffic light image."
+  "sign": ""
  },
  {
   "n": 21011,
@@ -74280,7 +74280,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that invita a expresses a recommendation rather than a strict order.",
   "image": "images/q_21011.png",
-  "sign": "This image shows a standard three-aspect traffic light with red, amber, and green lenses. The amber light means stop unless you are so close that stopping safely is no longer possible."
+  "sign": ""
  },
  {
   "n": 21012,
@@ -75053,7 +75053,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is length of the dangerous section versus distance before it starts.",
   "image": "images/q_22016.png",
-  "sign": "Supplementary plate showing the length of the section to which the warning applies, such as 320 m or 3.8 km."
+  "sign": ""
  },
  {
   "n": 22017,
@@ -75125,7 +75125,7 @@ window.QUESTIONS = [
   ],
   "trick": "In successione changes the meaning to a series of bends.",
   "image": "images/q_22020.png",
-  "sign": "Supplementary plate indicating the length of the road section affected by the danger sign, for example a series of dangerous bends."
+  "sign": ""
  },
  {
   "n": 22021,
@@ -75226,7 +75226,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the timed prohibition: parking is forbidden only during those hours.",
   "image": "images/q_22026.png",
-  "sign": "This sign prohibits access to all vehicles. The supplementary plate shows the prohibition applies from 7:30 to 19:00."
+  "sign": ""
  },
  {
   "n": 22027,
@@ -75245,7 +75245,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is that the prohibition applies only during the indicated hours.",
   "image": "images/q_22027.png",
-  "sign": "This is a supplementary plate indicating a time period: from 7:30 to 19:00."
+  "sign": ""
  },
  {
   "n": 22028,
@@ -75264,7 +75264,7 @@ window.QUESTIONS = [
   ],
   "trick": "Sole is the trap: the ban applies only in the indicated hours.",
   "image": "images/q_22028.png",
-  "sign": "These supplementary plates indicate the length of the section to which a sign applies: 380 metres or 2.8 kilometres."
+  "sign": ""
  },
  {
   "n": 22029,
@@ -75302,7 +75302,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Consente\" shows permission, while \"nelle sole ore indicate\" strictly limits it to the stated times.",
   "image": "images/q_22030.png",
-  "sign": "These are time supplementary plates indicating when a sign applies: all day (0-24) or from 7:30 to 19:00."
+  "sign": ""
  },
  {
   "n": 22031,
@@ -75317,7 +75317,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Può essere usato\" means it is allowed, not mandatory.",
   "image": "images/q_22031.png",
-  "sign": "This sign prohibits bicycles. The supplementary plate shows the prohibition applies from 7:30 to 19:00."
+  "sign": ""
  },
  {
   "n": 22032,
@@ -75327,7 +75327,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no major trap words; the key point is the meaning of the whole phrase.",
   "image": "images/q_22032.png",
-  "sign": "No sounding of audible warning devices (use of the horn prohibited). The supplementary panel indicates the restriction applies from 7:30 to 19:00."
+  "sign": ""
  },
  {
   "n": 22033,
@@ -75342,7 +75342,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Si può\" means it is permitted, not required.",
   "image": "images/q_22033.png",
-  "sign": "Pedestrians only. The supplementary panel indicates it applies on public holidays from 8:00 to 20:00."
+  "sign": ""
  },
  {
   "n": 22034,
@@ -75371,7 +75371,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Limita\" restricts the sign, and \"ai giorni festivi\" confines it to holidays.",
   "image": "images/q_22035.png",
-  "sign": "Supplementary time panel indicating the sign above applies from 7:30 to 19:00."
+  "sign": ""
  },
  {
   "n": 22036,
@@ -75519,7 +75519,7 @@ window.QUESTIONS = [
   ],
   "trick": "\"Si può parcheggiare\" means parking is allowed, and \"tutti i giorni\" broadens it to all days.",
   "image": "images/q_22044.png",
-  "sign": "Supplementary panel meaning the sign applies on public holidays from 8:00 to 20:00."
+  "sign": ""
  },
  {
   "n": 22045,
@@ -75745,7 +75745,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is 'reserved', which implies exclusivity.",
   "image": "images/q_22056.png",
-  "sign": "Supplementary panel meaning the related sign applies on working days from 8:00 to 20:00."
+  "sign": ""
  },
  {
   "n": 22057,
@@ -75764,7 +75764,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is whether the panel applies on public holidays rather than on other days.",
   "image": "images/q_22057.png",
-  "sign": "Parking sign with a supplementary panel meaning parking is allowed on working days from 8:00 to 20:00."
+  "sign": ""
  },
  {
   "n": 22058,
@@ -75925,7 +75925,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is 'allows', which expresses permission rather than prohibition.",
   "image": "images/q_22067.png",
-  "sign": "No entry sign with a supplementary panel showing that the prohibition applies to articulated lorries."
+  "sign": ""
  },
  {
   "n": 22068,
@@ -75944,7 +75944,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence mixes prescription wording with 'may pass through', which signals permission.",
   "image": "images/q_22068.png",
-  "sign": "Supplementary panel indicating articulated lorries or heavy goods vehicles shown."
+  "sign": ""
  },
  {
   "n": 22069,
@@ -75963,7 +75963,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the broad permission created by 'all heavy vehicles may park'.",
   "image": "images/q_22069.png",
-  "sign": "No parking sign with a supplementary panel showing that the prohibition applies to articulated lorries."
+  "sign": ""
  },
  {
   "n": 22070,
@@ -76001,7 +76001,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is distinguishing no parking from no stopping and start from continuation.",
   "image": "images/q_22071.png",
-  "sign": "Supplementary directional panels used with prohibition signs: panel A indicates the start of the restriction, and panel B indicates the restriction continues in the indicated direction."
+  "sign": ""
  },
  {
   "n": 22072,
@@ -76020,7 +76020,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key traps are that the area starts here and parking is allowed.",
   "image": "images/q_22072.png",
-  "sign": "No parking from this point onward in the direction indicated by the supplementary panel (start of the restriction)."
+  "sign": ""
  },
  {
   "n": 22073,
@@ -76039,7 +76039,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is the exact start point and the stronger restriction of no stopping.",
   "image": "images/q_22073.png",
-  "sign": "Supplementary panels for road signs: A indicates validity from this point onward; B indicates validity to the left or the stretch/area on the left side."
+  "sign": ""
  },
  {
   "n": 22074,
@@ -76054,7 +76054,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important detail is that it marks the beginning point.",
   "image": "images/q_22074.png",
-  "sign": "Supplementary panels for road signs: A indicates validity from this point onward; B indicates validity to the left or the stretch/area on the left side."
+  "sign": ""
  },
  {
   "n": 22075,
@@ -76166,7 +76166,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the difference between continuation and start/end, and between parking and stopping.",
   "image": "images/q_22081.png",
-  "sign": "Supplementary panels showing extent of validity: A means the restriction continues both before and after the sign; B means it applies in both directions."
+  "sign": ""
  },
  {
   "n": 22082,
@@ -76219,7 +76219,7 @@ window.QUESTIONS = [
   ],
   "trick": "The important trap word is continuazione, showing the hazard is ongoing.",
   "image": "images/q_22084.png",
-  "sign": "No parking, with a supplementary panel indicating the prohibition continues along the road."
+  "sign": ""
  },
  {
   "n": 22085,
@@ -76238,7 +76238,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the stronger ban on stopping and that it applies both before and after the sign.",
   "image": "images/q_22085.png",
-  "sign": "No overtaking, with a supplementary panel indicating the restriction continues both before and after the sign."
+  "sign": ""
  },
  {
   "n": 22086,
@@ -76257,7 +76257,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the warning-sign context and the idea of continuation.",
   "image": "images/q_22086.png",
-  "sign": "Maximum speed limit 80 km/h, with a supplementary panel indicating the limit continues along the road."
+  "sign": ""
  },
  {
   "n": 22087,
@@ -76286,7 +76286,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that it refers to the end of a parking area, not its start.",
   "image": "images/q_22088.png",
-  "sign": "Supplementary panel A indicates extension in both directions from the sign: the sign applies both ahead and behind the installation point."
+  "sign": ""
  },
  {
   "n": 22089,
@@ -76350,7 +76350,7 @@ window.QUESTIONS = [
   ],
   "trick": "A doppio senso di circolazione is a specific traffic term and should not be confused with two directions allowed.",
   "image": "images/q_22092.png",
-  "sign": "The parking sign with panel B indicates a parking area extending to the left and right of the sign."
+  "sign": ""
  },
  {
   "n": 22093,
@@ -76403,7 +76403,7 @@ window.QUESTIONS = [
   ],
   "trick": "La fine shows that the sign refers to the end, not the start or presence, of roadworks.",
   "image": "images/q_22095.png",
-  "sign": "Warning of a slippery road. The right-pointing supplementary arrow indicates that the danger begins at the sign and continues ahead."
+  "sign": ""
  },
  {
   "n": 22096,
@@ -76422,7 +76422,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is la fine: it marks where the parking area ends.",
   "image": "images/q_22096.png",
-  "sign": "These are supplementary panels showing the extent or direction of a sign’s validity: panel A indicates validity up to the sign, and panel B indicates validity in the direction of the arrow (to the right)."
+  "sign": ""
  },
  {
   "n": 22097,
@@ -76437,7 +76437,7 @@ window.QUESTIONS = [
   ],
   "trick": "La fine means the hazard is ending, not beginning.",
   "image": "images/q_22097.png",
-  "sign": "These are supplementary panels showing the extent or direction of a sign’s validity: panel A indicates validity up to the sign, and panel B indicates validity in the direction of the arrow (to the right)."
+  "sign": ""
  },
  {
   "n": 22098,
@@ -76452,7 +76452,7 @@ window.QUESTIONS = [
   ],
   "trick": "La fine changes the meaning from warning of danger to warning that the danger ends.",
   "image": "images/q_22098.png",
-  "sign": "These are supplementary panels showing the extent or direction of a sign’s validity: panel A indicates validity up to the sign, and panel B indicates validity in the direction of the arrow (to the right)."
+  "sign": ""
  },
  {
   "n": 22099,
@@ -76485,7 +76485,7 @@ window.QUESTIONS = [
   ],
   "trick": "L'inizio is the key trap because it refers to the beginning of the parking area, not its end.",
   "image": "images/q_22100.png",
-  "sign": "The road works warning sign with the right-pointing supplementary panel indicates that the parking area begins in the direction of the arrow, to the right."
+  "sign": ""
  },
  {
   "n": 22101,
@@ -76508,7 +76508,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is l'inizio del divieto, which indicates the prohibition starts rather than ends.",
   "image": "images/q_22101.png",
-  "sign": "Placed below a prohibition sign, panel A indicates the prohibition ends at the sign or applies up to that point."
+  "sign": ""
  },
  {
   "n": 22102,
@@ -76614,7 +76614,7 @@ window.QUESTIONS = [
   ],
   "trick": "Preavvisa and in prossimità di together show this is an advance warning of something near freight yards.",
   "image": "images/q_22126.png",
-  "sign": "These supplementary panels indicate the extent or direction of validity of a sign: A means the sign applies straight ahead, and B means it applies to the right."
+  "sign": ""
  },
  {
   "n": 22127,
@@ -76713,7 +76713,7 @@ window.QUESTIONS = [
   ],
   "trick": "In caso di sets the condition, while si può allagare means flooding is possible, not guaranteed.",
   "image": "images/q_22145.png",
-  "sign": "Supplementary plate indicating a road section liable to flooding or water on the carriageway."
+  "sign": ""
  },
  {
   "n": 22146,
@@ -76751,7 +76751,7 @@ window.QUESTIONS = [
   ],
   "trick": "The wording states a possible risk under a specific condition.",
   "image": "images/q_22147.png",
-  "sign": "Supplementary plate indicating a road section liable to flooding or water on the carriageway."
+  "sign": ""
  },
  {
   "n": 22148,
@@ -76766,7 +76766,7 @@ window.QUESTIONS = [
   ],
   "trick": "In caso di restricts the danger to the stated weather conditions.",
   "image": "images/q_22148.png",
-  "sign": "Warning sign for a hump or uneven road, with a supplementary plate indicating possible flooding or water on the carriageway."
+  "sign": ""
  },
  {
   "n": 22149,
@@ -76874,7 +76874,7 @@ window.QUESTIONS = [
   ],
   "trick": "The sentence describes a possible danger and specifies its cause.",
   "image": "images/q_22177.png",
-  "sign": "Supplementary panel indicating the possible presence of fog along that stretch of road."
+  "sign": ""
  },
  {
   "n": 22178,
@@ -76889,7 +76889,7 @@ window.QUESTIONS = [
   ],
   "trick": "La possibilità shows that icy road sections may be present, not that they definitely are.",
   "image": "images/q_22178.png",
-  "sign": "Supplementary panel indicating the risk of icy road sections when the temperature is low."
+  "sign": ""
  },
  {
   "n": 22179,
@@ -77280,7 +77280,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key meaning is that a parked vehicle may be removed, not that it will always be removed.",
   "image": "images/q_22213.png",
-  "sign": "Supplementary panel meaning removal by tow truck: a parked vehicle may be towed away."
+  "sign": ""
  },
  {
   "n": 22214,
@@ -77295,7 +77295,7 @@ window.QUESTIONS = [
   ],
   "trick": "The crucial point is that removal to the municipal depot is possible, not automatic.",
   "image": "images/q_22214.png",
-  "sign": "Supplementary panel showing that vehicles parked in violation may be removed and taken away by tow truck."
+  "sign": ""
  },
  {
   "n": 22215,
@@ -77332,7 +77332,7 @@ window.QUESTIONS = [
   "keywords": [],
   "trick": "There are no major trap words here; the main point is the sign meaning.",
   "image": "images/q_22216.png",
-  "sign": "No parking, with enforced removal by tow truck of vehicles left in violation."
+  "sign": ""
  },
  {
   "n": 22217,
@@ -77347,7 +77347,7 @@ window.QUESTIONS = [
   ],
   "trick": "The main trap is that the statement gives two alternative enforcement actions.",
   "image": "images/q_22217.png",
-  "sign": "Supplementary panel indicating that improperly parked vehicles may be removed by tow truck or immobilized with wheel clamps."
+  "sign": ""
  },
  {
   "n": 22218,
@@ -77440,7 +77440,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are permission and the exclusivity expressed by 'only'.",
   "image": "images/q_22261.png",
-  "sign": "No entry for all vehicles, except buses."
+  "sign": ""
  },
  {
   "n": 22262,
@@ -77519,7 +77519,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is the prohibition meaning of 'vieta'.",
   "image": "images/q_22266.png",
-  "sign": "Supplementary plate meaning 'except buses'. It exempts buses from the main sign above."
+  "sign": ""
  },
  {
   "n": 22267,
@@ -77534,7 +77534,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is the prohibition meaning of 'vieta'.",
   "image": "images/q_22267.png",
-  "sign": "Supplementary plate meaning 'except buses'. It exempts buses from the main sign above."
+  "sign": ""
  },
  {
   "n": 22268,
@@ -87257,7 +87257,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that parking is permitted, but only in specially designated areas.",
   "image": "images/q_22791.png",
-  "sign": "The diagram shows a main extra-urban divided road with two separate carriageways, each having multiple lanes, separated by a central median."
+  "sign": ""
  },
  {
   "n": 22792,
@@ -87280,7 +87280,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is treating the two separate carriageways like overtaking lanes, which is incorrect.",
   "image": "images/q_22792.png",
-  "sign": "The diagram shows a single carriageway with two lanes in the same direction of travel."
+  "sign": ""
  },
  {
   "n": 22793,
@@ -87584,7 +87584,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the false obligation that the turn must be done quickly.",
   "image": "images/q_22808.png",
-  "sign": "The diagram shows a two-way road divided into two carriageways by a central median, with two lanes on each carriageway."
+  "sign": ""
  },
  {
   "n": 22809,
@@ -87603,7 +87603,7 @@ window.QUESTIONS = [
   ],
   "trick": "“Sempre” is the key trap because it turns the rule into an absolute one.",
   "image": "images/q_22809.png",
-  "sign": "The diagram shows a wide road with separate carriageways divided by medians, with multiple lanes in each direction."
+  "sign": ""
  },
  {
   "n": 22810,
@@ -87938,7 +87938,7 @@ window.QUESTIONS = [
   ],
   "trick": "The rule applies specifically when meeting other vehicles and requires a near-maximum move right.",
   "image": "images/q_22826.png",
-  "sign": "The diagram shows a two-way road with two lanes, one lane for each direction of travel."
+  "sign": ""
  },
  {
   "n": 22827,
@@ -87957,7 +87957,7 @@ window.QUESTIONS = [
   ],
   "trick": "The right lane is mandatory, and the left lane is allowed only for overtaking.",
   "image": "images/q_22827.png",
-  "sign": "The diagram shows a dual carriageway with two roadways separated by a central median, each roadway having two lanes in the same direction."
+  "sign": ""
  },
  {
   "n": 22828,
@@ -88003,7 +88003,7 @@ window.QUESTIONS = [
   ],
   "trick": "Pay attention to the one-way context and the obligation to stay near a specific edge.",
   "image": "images/q_22829.png",
-  "sign": "The diagram shows a one-way carriageway with four lanes all going in the same direction."
+  "sign": ""
  },
  {
   "n": 22830,
@@ -88175,7 +88175,7 @@ window.QUESTIONS = [
   ],
   "trick": "The statement is about permission, but only under a stated condition.",
   "image": "images/q_22837.png",
-  "sign": "The diagram shows a car travelling in a marked emergency lane or reserved side lane alongside the main carriageway near a junction."
+  "sign": ""
  },
  {
   "n": 22838,
@@ -88571,7 +88571,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the prohibition against entering the new road on the wrong side.",
   "image": "images/q_22857.png",
-  "sign": "The diagram shows two vehicles at a crossroads, each turning left without cutting into the wrong side of the road they are entering."
+  "sign": ""
  },
  {
   "n": 22858,
@@ -88594,7 +88594,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the exact left-turn path, stated as the normal rule rather than an absolute one.",
   "image": "images/q_22858.png",
-  "sign": "The diagram shows a one-way carriageway with four lanes all going in the same direction."
+  "sign": ""
  },
  {
   "n": 22859,
@@ -88613,7 +88613,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is that only lanes permitting continuation in that direction may be used.",
   "image": "images/q_22859.png",
-  "sign": "The diagram shows a carriageway divided into three lanes, labelled A, B and C, all running in the same direction."
+  "sign": ""
  },
  {
   "n": 22860,
@@ -88934,7 +88934,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the absolute scope: 'in any traffic condition'.",
   "image": "images/q_22874.png",
-  "sign": "A roadway with several lanes marked by broken lines, allowing traffic to proceed in parallel files in the same direction."
+  "sign": ""
  },
  {
   "n": 22875,
@@ -88953,7 +88953,7 @@ window.QUESTIONS = [
   ],
   "trick": "The key trap is 'obbligatorio': required, not just allowed.",
   "image": "images/q_22875.png",
-  "sign": "Stop: drivers must come to a complete halt at the stop line or before entering the intersection and give way if necessary."
+  "sign": ""
  },
  {
   "n": 22876,
@@ -88972,7 +88972,7 @@ window.QUESTIONS = [
   ],
   "trick": "The trap is the obligation to keep the indicator continuously on.",
   "image": "images/q_22876.png",
-  "sign": "Warning sign for an intersection where the usual right-of-way rules apply."
+  "sign": ""
  },
  {
   "n": 22877,
@@ -102380,7 +102380,7 @@ window.QUESTIONS = [
   ],
   "trick": "The traps are the mandatory wording and the weight threshold.",
   "image": "images/q_23951.png",
-  "sign": "This is a diagonal striped hazard marker used to mark fixed obstacles or projections, not a rear plate specific to buses."
+  "sign": ""
  },
  {
   "n": 23952,
