@@ -86,9 +86,36 @@
   .ad-right { right: 28px; }
   /* hide when there isn't room beside the 820px card (820 + 2*220 + gaps) */
   @media (max-width: 1320px) { .ad { display: none; } }
+
+  /* Loading splash */
+  .splash {
+    position: fixed; inset: 0; z-index: 20; display: grid; place-items: center;
+    padding: 24px; background: radial-gradient(circle at center, #202747 0%, var(--bg) 62%);
+    transition: opacity .35s ease, visibility .35s ease;
+  }
+  .splash.hide { opacity: 0; visibility: hidden; pointer-events: none; }
+  .splash-panel {
+    width: min(100%, 520px); text-align: center; border: 1px solid var(--line);
+    border-radius: 16px; padding: 28px 24px; background: rgba(26,31,54,.88);
+    box-shadow: 0 20px 60px rgba(0,0,0,.45);
+  }
+  .splash-title { margin: 0 0 12px; font-size: 28px; line-height: 1.2; font-weight: 700; }
+  .splash-copy { margin: 0; color: var(--muted); font-size: 16px; line-height: 1.55; }
+  .splash-copy strong { color: var(--ink); font-weight: 700; }
+  .splash-foot { margin-top: 18px; color: var(--muted); font-size: 13px; }
 </style>
 </head>
 <body>
+  <div class="splash" id="splash" role="status" aria-live="polite">
+    <div class="splash-panel">
+      <h2 class="splash-title">Italian Driving Theory Practice</h2>
+      <p class="splash-copy">
+        Loading more than <strong>7,500 questions</strong> from the official Italian license exam.
+      </p>
+      <div class="splash-foot">&copy; 2026 Math Kids Club</div>
+    </div>
+  </div>
+
   <a class="ad ad-left" href="https://tutor.math-kids.club/"
      target="_blank" rel="noopener" title="Math Kids Club — Mobile App">
     <img src="ads/ad-1.png" alt="Math Kids Club mobile app">
@@ -139,6 +166,17 @@
     const Q = window.QUESTIONS || [];
     let current = null, answered = false;
     let correct = 0, total = 0;
+    const splashStarted = Date.now();
+
+    function hideSplash() {
+      const splash = document.getElementById('splash');
+      if (!splash) return;
+      const wait = Math.max(0, 850 - (Date.now() - splashStarted));
+      setTimeout(() => {
+        splash.classList.add('hide');
+        setTimeout(() => splash.remove(), 400);
+      }, wait);
+    }
 
     // ---- Text-to-speech (browser built-in) ----
     const synth = window.speechSynthesis;
@@ -290,6 +328,8 @@
     } else {
       pick();
     }
+
+    hideSplash();
   </script>
 </body>
 </html>
