@@ -17,9 +17,14 @@
     display: flex; flex-direction: column; align-items: center; padding: 24px 16px;
   }
   header { width: 100%; max-width: 820px; display: flex; justify-content: space-between;
-    align-items: baseline; margin-bottom: 16px; }
+    align-items: center; gap: 12px; margin-bottom: 16px; }
   h1 { font-size: 18px; margin: 0; font-weight: 600; letter-spacing: .3px; }
+  .topline { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; justify-content: flex-end; }
   .score { color: var(--muted); font-size: 14px; }
+  .lang-btn { background: var(--line); color: var(--ink); border: 1px solid #3a4470;
+    border-radius: 9px; padding: 8px 10px; font-size: 13px; font-weight: 700;
+    cursor: pointer; }
+  .lang-btn:hover { background: #384068; }
   .card {
     width: 100%; max-width: 820px; background: var(--card); border: 1px solid var(--line);
     border-radius: 16px; padding: 24px; box-shadow: 0 12px 40px rgba(0,0,0,.35);
@@ -43,6 +48,7 @@
     border-radius: 12px; }
   .english { color: var(--ink); font-size: 16px; line-height: 1.5; opacity: .92;
     border-left: 3px solid var(--accent); padding-left: 12px; margin: 4px 0 16px; }
+  .english.is-hidden { display: none; }
   .traps { margin: 0 0 20px; }
   .traps h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .5px;
     color: var(--trap); margin: 0 0 8px; }
@@ -126,7 +132,10 @@
   </a>
   <header>
     <h1>Italian Driving Theory — Practice</h1>
-    <div class="score">Score: <span id="correct">0</span> / <span id="total">0</span></div>
+    <div class="topline">
+      <button class="lang-btn" id="langToggle" type="button" onclick="toggleLanguage()">Italian only</button>
+      <div class="score"><span id="scoreLabel">Score</span>: <span id="correct">0</span> / <span id="total">0</span></div>
+    </div>
   </header>
 
   <div class="card" id="card">
@@ -150,10 +159,10 @@
 
     <div class="reveal" id="reveal">
       <div class="signbox" id="signbox" style="display:none">
-        <div class="lbl">Sign</div>
+        <div class="lbl" id="signLabel">Sign</div>
         <div class="english" id="sign"></div>
       </div>
-      <div class="lbl">Question (English)</div>
+      <div class="lbl" id="englishLabel">Question (English)</div>
       <div class="english" id="english"></div>
       <div class="traps" id="traps"></div>
     </div>
@@ -166,6 +175,8 @@
     const Q = window.QUESTIONS || [];
     let current = null, answered = false;
     let correct = 0, total = 0;
+    let languageMode = 'both';
+    let lastAnswerRight = null;
     const splashStarted = Date.now();
 
     function hideSplash() {
@@ -227,7 +238,86 @@
     }
 
     function esc(s) {
-      return s.replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+      return String(s || '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    }
+
+    function italianOnly() {
+      return languageMode === 'it';
+    }
+
+    function toggleLanguage() {
+      languageMode = italianOnly() ? 'both' : 'it';
+      renderLanguage();
+    }
+
+    function italianSignMeaning() {
+      if (!current) return '';
+      if (current.answer) {
+        return 'Significato del segnale: ' + current.it + '.';
+      }
+      return 'Significato del segnale: la frase proposta non descrive correttamente il segnale raffigurato. Osserva il segnale e confrontalo con le parole evidenziate.';
+    }
+
+    function renderLanguage() {
+      const itOnly = italianOnly();
+      document.documentElement.lang = itOnly ? 'it' : 'en';
+      document.getElementById('langToggle').textContent = itOnly ? 'Italian + English' : 'Italian only';
+      document.getElementById('scoreLabel').textContent = itOnly ? 'Punteggio' : 'Score';
+      document.getElementById('autoRead').parentElement.lastChild.textContent = itOnly ? 'Lettura automatica' : 'Auto-read';
+      document.getElementById('btnTrue').textContent = itOnly ? 'VERO' : 'VERO (True)';
+      document.getElementById('btnFalse').textContent = itOnly ? 'FALSO' : 'FALSO (False)';
+      document.getElementById('btnSpeak').title = itOnly ? 'Leggi la domanda in italiano (R)' : 'Read the Italian aloud (R)';
+      document.getElementById('voicewarn').innerHTML = itOnly
+        ? 'Nessuna voce italiana (it-IT) trovata su questo PC. Installa il pacchetto lingua italiano in Windows &rarr; Settings &rarr; Time &amp; Language &rarr; Speech.'
+        : 'No Italian (it-IT) voice found on this PC. Install the Italian language pack in Windows &rarr; Settings &rarr; Time &amp; Language &rarr; Speech.';
+      document.getElementById('btnNext').textContent = itOnly ? 'Prossima domanda' : 'Next question \u2192';
+      if (current) renderQuestionDetails();
+      if (answered && lastAnswerRight !== null) renderFeedback(lastAnswerRight);
+    }
+
+    function renderQuestionDetails() {
+      const itOnly = italianOnly();
+      document.getElementById('qnum').textContent = (itOnly ? 'Domanda #' : 'Question #') + current.n;
+      document.getElementById('italian').innerHTML = highlight(current.it, current.keywords || []);
+
+      const signbox = document.getElementById('signbox');
+      const sign = document.getElementById('sign');
+      if (current.sign || itOnly) {
+        document.getElementById('signLabel').textContent = itOnly ? 'Significato del segnale' : 'Sign';
+        sign.textContent = itOnly ? italianSignMeaning() : current.sign;
+        signbox.style.display = '';
+      } else {
+        signbox.style.display = 'none';
+      }
+
+      const englishLabel = document.getElementById('englishLabel');
+      const english = document.getElementById('english');
+      englishLabel.textContent = itOnly ? '' : 'Question (English)';
+      english.textContent = itOnly ? '' : current.en;
+      englishLabel.style.display = itOnly ? 'none' : '';
+      english.classList.toggle('is-hidden', itOnly);
+
+      const traps = document.getElementById('traps');
+      const keywords = current.keywords || [];
+      if (keywords.length || (!itOnly && current.trick)) {
+        const li = keywords
+          .map(k => '<li><b>' + esc(k.phrase) + '</b>' + (!itOnly && k.why ? ' &mdash; ' + esc(k.why) : '') + '</li>')
+          .join('');
+        traps.innerHTML =
+          '<h3>' + (itOnly ? 'Parole a cui fare attenzione' : 'Tricky wording') + '</h3><ul>' + li + '</ul>' +
+          (!itOnly && current.trick ? '<div class="trickline">' + esc(current.trick) + '</div>' : '');
+      } else {
+        traps.innerHTML = '';
+      }
+    }
+
+    function renderFeedback(isRight) {
+      const itOnly = italianOnly();
+      const fb = document.getElementById('feedback');
+      const truth = current.answer ? (itOnly ? 'VERO' : 'VERO (True)') : (itOnly ? 'FALSO' : 'FALSO (False)');
+      fb.innerHTML = (isRight ? (itOnly ? 'Corretto!' : '&#10003; Correct!') : (itOnly ? 'Sbagliato.' : '&#10007; Wrong.')) +
+        '<div class="ans-line">' + (itOnly ? 'Risposta: ' : 'Answer: ') + truth + '</div>';
+      fb.className = 'feedback ' + (isRight ? 'right' : 'wrong');
     }
 
     // Wrap each trap phrase found in the Italian text with a highlight span.
@@ -246,37 +336,14 @@
 
     function pick() {
       answered = false;
+      lastAnswerRight = null;
       current = Q[Math.floor(Math.random() * Q.length)];
-
-      document.getElementById('qnum').textContent = 'Question #' + current.n;
-      document.getElementById('italian').innerHTML = highlight(current.it, current.keywords);
 
       const imgwrap = document.getElementById('imgwrap');
       imgwrap.innerHTML = current.image
         ? '<img src="' + current.image + '" alt="road sign" onerror="this.style.display=\'none\'">'
         : '';
-
-      const signbox = document.getElementById('signbox');
-      if (current.sign) {
-        document.getElementById('sign').textContent = current.sign;
-        signbox.style.display = '';
-      } else {
-        signbox.style.display = 'none';
-      }
-
-      document.getElementById('english').textContent = current.en;
-
-      const traps = document.getElementById('traps');
-      if (current.keywords.length || current.trick) {
-        let li = current.keywords
-          .map(k => '<li><b>' + esc(k.phrase) + '</b>' + (k.why ? ' — ' + esc(k.why) : '') + '</li>')
-          .join('');
-        traps.innerHTML =
-          '<h3>Tricky wording</h3><ul>' + li + '</ul>' +
-          (current.trick ? '<div class="trickline">' + esc(current.trick) + '</div>' : '');
-      } else {
-        traps.innerHTML = '';
-      }
+      renderQuestionDetails();
 
       document.getElementById('reveal').classList.remove('show');
       document.getElementById('feedback').textContent = '';
@@ -287,29 +354,23 @@
 
       if (document.getElementById('autoRead').checked) speakCurrent();
     }
-
     function answer(choice) {
       if (answered) return;
       answered = true;
       total++;
       const isRight = choice === current.answer;
+      lastAnswerRight = isRight;
       if (isRight) correct++;
 
       document.getElementById('correct').textContent = correct;
       document.getElementById('total').textContent = total;
-
-      const fb = document.getElementById('feedback');
-      const truth = current.answer ? 'VERO (True)' : 'FALSO (False)';
-      fb.innerHTML = (isRight ? '✓ Correct!' : '✗ Wrong.') +
-        '<div class="ans-line">Answer: ' + truth + '</div>';
-      fb.className = 'feedback ' + (isRight ? 'right' : 'wrong');
+      renderFeedback(isRight);
 
       document.getElementById('reveal').classList.add('show');
       document.getElementById('btnTrue').disabled = true;
       document.getElementById('btnFalse').disabled = true;
       document.getElementById('btnNext').style.display = 'block';
     }
-
     // keyboard: T / F / arrows
     document.addEventListener('keydown', e => {
       const k = e.key.toLowerCase();
