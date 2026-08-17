@@ -124,11 +124,11 @@
 
   <a class="ad ad-left" href="https://tutor.math-kids.club/"
      target="_blank" rel="noopener" title="Math Kids Club — Mobile App">
-    <img src="ads/ad-1.png" alt="Math Kids Club mobile app">
+    <img data-src="ads/ad-1.png" alt="Math Kids Club mobile app">
   </a>
   <a class="ad ad-right" href="https://games.math-kids.club/"
      target="_blank" rel="noopener" title="Math Kids Club — Web Games">
-    <img src="ads/ad-2.png" alt="Math Kids Club web games">
+    <img data-src="ads/ad-2.png" alt="Math Kids Club web games">
   </a>
   <header>
     <h1>Italian Driving Theory — Practice</h1>
@@ -178,6 +178,18 @@
     let languageMode = 'both';
     let lastAnswerRight = null;
     const splashStarted = Date.now();
+
+    // Always request a fresh image. GitHub Pages does not let this repository
+    // configure Cache-Control headers, so a unique query string is required.
+    let imageRequestId = 0;
+    function uncachedImageUrl(url) {
+      const separator = url.includes('?') ? '&' : '?';
+      return url + separator + '_nocache=' + Date.now() + '-' + (++imageRequestId);
+    }
+
+    document.querySelectorAll('img[data-src]').forEach(img => {
+      img.src = uncachedImageUrl(img.dataset.src);
+    });
 
     function hideSplash() {
       const splash = document.getElementById('splash');
@@ -341,7 +353,7 @@
 
       const imgwrap = document.getElementById('imgwrap');
       imgwrap.innerHTML = current.image
-        ? '<img src="' + current.image + '" alt="road sign" onerror="this.style.display=\'none\'">'
+        ? '<img src="' + uncachedImageUrl(current.image) + '" alt="road sign" onerror="this.style.display=\'none\'">'
         : '';
       renderQuestionDetails();
 
