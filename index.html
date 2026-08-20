@@ -97,6 +97,9 @@
   .learn-answer:hover:not(:disabled) { border-color: var(--accent); background: #283156; }
   .learn-answer.correct { border-color: var(--good); background: rgba(52,211,153,.16); }
   .learn-answer.wrong { border-color: var(--bad); background: rgba(248,113,113,.16); }
+  .choice-it { display: block; font-size: 17px; font-weight: 650; line-height: 1.4; }
+  .choice-en { display: block; margin-top: 6px; color: var(--muted); font-size: 13px; font-weight: 500; line-height: 1.35; }
+  .supporting-translation { margin: -7px 0 20px; padding-left: 12px; border-left: 3px solid var(--accent); color: var(--muted); font-size: 15px; line-height: 1.45; }
   #learnNext, #ruleNext { width: 100%; margin-top: 18px; padding: 15px; font-size: 17px; font-weight: 700; border: none; border-radius: 12px; cursor: pointer; background: var(--accent); color: #10131f; }
   @media (max-width: 720px) { .menu-options { grid-template-columns: 1fr; } .menu-card { padding: 30px 20px; } }
   .countdown { text-align: center; color: var(--muted); font-size: 13px; margin-top: 8px; min-height: 18px; }
@@ -223,14 +226,13 @@
   <div class="card hidden" id="rulesCard">
     <div class="qnum" id="ruleNum">Learn the rules</div>
     <div class="italian" id="ruleItalian"></div>
+    <div class="supporting-translation" id="ruleTranslation"></div>
     <div class="answers">
       <button class="ans tf-true" id="ruleTrue" onclick="answerRule(true)">VERO (True)</button>
       <button class="ans tf-false" id="ruleFalse" onclick="answerRule(false)">FALSO (False)</button>
     </div>
     <div class="feedback" id="ruleFeedback"></div>
     <div class="reveal" id="ruleReveal">
-      <div class="lbl" id="ruleRevealLabel">Rule (English)</div>
-      <div class="english" id="ruleEnglish"></div>
       <div class="traps" id="ruleExplanation"></div>
     </div>
     <button id="ruleNext" class="hidden" onclick="pickRule()">Next rule &rarr;</button>
@@ -466,7 +468,6 @@
       document.getElementById('learnLabel').textContent = itOnly ? 'Impara i segnali' : 'Learn the signs';
       document.getElementById('learnPrompt').textContent = itOnly ? 'Cosa significa questo segnale?' : 'What does this sign mean?';
       document.getElementById('learnNext').innerHTML = itOnly ? 'Prossimo segnale &rarr;' : 'Next sign &rarr;';
-      document.getElementById('ruleRevealLabel').textContent = itOnly ? 'Spiegazione' : 'Rule (English)';
       document.getElementById('ruleNext').innerHTML = itOnly ? 'Prossima regola &rarr;' : 'Next rule &rarr;';
       document.getElementById('ruleTrue').textContent = itOnly ? 'VERO' : 'VERO (True)';
       document.getElementById('ruleFalse').textContent = itOnly ? 'FALSO' : 'FALSO (False)';
@@ -581,7 +582,7 @@
       showDueMobileAd();
     }
 
-    const SIGN_QUESTIONS = Q.filter(q => q.image && q.sign && q.sign.trim());
+    const SIGN_QUESTIONS = Q.filter(q => q.image && q.sign && q.sign.trim() && q.answer === true);
     const RULE_QUESTIONS = Q.filter(q => !q.image);
 
     function showMenu() {
@@ -648,11 +649,10 @@
     function renderRule() {
       const itOnly = italianOnly();
       document.getElementById('ruleNum').textContent = (itOnly ? 'Regola #' : 'Rule #') + ruleCurrent.n;
-      document.getElementById('ruleItalian').innerHTML = itOnly
-        ? highlight(ruleCurrent.it, ruleCurrent.keywords || [])
-        : esc(ruleCurrent.en || ruleCurrent.it);
-      document.getElementById('ruleRevealLabel').textContent = itOnly ? 'Traduzione inglese' : 'Original Italian';
-      document.getElementById('ruleEnglish').textContent = itOnly ? (ruleCurrent.en || '') : ruleCurrent.it;
+      document.getElementById('ruleItalian').innerHTML = highlight(ruleCurrent.it, ruleCurrent.keywords || []);
+      const translation = document.getElementById('ruleTranslation');
+      translation.textContent = itOnly ? '' : (ruleCurrent.en || '');
+      translation.classList.toggle('hidden', itOnly);
       document.getElementById('ruleExplanation').innerHTML = ruleCurrent.trick
         ? '<h3>' + (itOnly ? 'Nota (in inglese)' : 'What to remember') + '</h3><div class="trickline">' + esc(ruleCurrent.trick) + '</div>'
         : '';
@@ -676,12 +676,13 @@
     function pickSign() {
       if (SIGN_QUESTIONS.length < 3) return;
       learnCurrent = SIGN_QUESTIONS[Math.floor(Math.random() * SIGN_QUESTIONS.length)];
-      const alternatives = SIGN_QUESTIONS.filter(q => q.sign !== learnCurrent.sign).sort(() => Math.random() - .5).slice(0, 2);
+      const alternatives = SIGN_QUESTIONS.filter(q => q.image !== learnCurrent.image && q.sign !== learnCurrent.sign).sort(() => Math.random() - .5).slice(0, 2);
       const choices = [learnCurrent, ...alternatives].sort(() => Math.random() - .5);
       document.getElementById('learnImage').innerHTML = '<img src="' + uncachedImageUrl(learnCurrent.image) + '" alt="Italian road sign">';
-      document.getElementById('learnAnswers').innerHTML = choices.map(q =>
-        '<button class="learn-answer" type="button" data-correct="' + (q === learnCurrent) + '" onclick="answerSign(this)">' + esc(q.sign) + '</button>'
-      ).join('');
+      document.getElementById('learnAnswers').innerHTML = choices.map(q => {
+        const english = italianOnly() ? '' : '<span class="choice-en">' + esc(q.sign) + '</span>';
+        return '<button class="learn-answer" type="button" data-correct="' + (q === learnCurrent) + '" onclick="answerSign(this)"><span class="choice-it">' + esc(q.it) + '</span>' + english + '</button>';
+      }).join('');
       document.getElementById('learnFeedback').textContent = '';
       document.getElementById('learnFeedback').className = 'feedback';
       document.getElementById('learnNext').classList.add('hidden');
