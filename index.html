@@ -82,6 +82,9 @@
   .menu-card { text-align: center; padding: 42px 32px; }
   .menu-card h2 { margin: 0 0 10px; font-size: clamp(27px, 5vw, 38px); }
   .menu-card > p { color: var(--muted); margin: 0 auto 30px; max-width: 560px; line-height: 1.55; }
+  .language-choice { display: inline-flex; gap: 4px; margin-bottom: 22px; padding: 4px; border: 1px solid var(--line); border-radius: 11px; background: var(--bg); }
+  .language-choice button { min-width: 50px; padding: 8px 12px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); font-weight: 800; cursor: pointer; }
+  .language-choice button.active { background: var(--accent); color: #10131f; }
   .menu-options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
   .menu-option { border: 1px solid var(--line); background: #202747; color: var(--ink); border-radius: 14px; padding: 24px 18px; cursor: pointer; text-align: left; }
   .menu-option:hover { border-color: var(--accent); background: #252d50; }
@@ -150,7 +153,7 @@
     <img data-src="ads/ad-2.png" alt="Math Kids Club web games">
   </a>
   <header>
-    <h1>Italian Driving Theory — Practice</h1>
+    <h1 id="appTitle">Italian Driving Theory — Practice</h1>
     <div class="topline">
       <button class="home-btn hidden" id="homeBtn" type="button" onclick="showMenu()">&larr; Main menu</button>
       <div class="score hidden" id="scoreBox"><span id="scoreLabel">Score</span>: <span id="correct">0</span> / <span id="total">0</span></div>
@@ -158,19 +161,23 @@
   </header>
 
   <div class="card menu-card" id="menuCard">
-    <h2>What would you like to practise?</h2>
-    <p>Learn Italian road signs and driving rules at your own pace, or test yourself with official driving-theory questions.</p>
+    <div class="language-choice" aria-label="Language">
+      <button id="langEN" class="active" type="button" onclick="setLanguage('en')">EN</button>
+      <button id="langIT" type="button" onclick="setLanguage('it')">IT</button>
+    </div>
+    <h2 id="menuTitle">What would you like to practise?</h2>
+    <p id="menuIntro">Learn Italian road signs and driving rules at your own pace, or test yourself with official driving-theory questions.</p>
     <div class="menu-options">
-      <button class="menu-option" type="button" onclick="startLearn()"><strong>Learn the signs</strong><span>Look at a road sign and choose its meaning from three answers.</span></button>
-      <button class="menu-option" type="button" onclick="startRules()"><strong>Learn the rules</strong><span>Decide whether a randomly selected driving rule is true or false.</span></button>
-      <button class="menu-option" type="button" onclick="startMockTest()"><strong>Take the mock test</strong><span>Answer true-or-false questions from the Italian licence exam.</span></button>
+      <button class="menu-option" type="button" onclick="startLearn()"><strong id="signsTitle">Learn the signs</strong><span id="signsCopy">Look at a road sign and choose its meaning from three answers.</span></button>
+      <button class="menu-option" type="button" onclick="startRules()"><strong id="rulesTitle">Learn the rules</strong><span id="rulesCopy">Decide whether a randomly selected driving rule is true or false.</span></button>
+      <button class="menu-option" type="button" onclick="startMockTest()"><strong id="mockTitle">Take the mock test</strong><span id="mockCopy">Answer true-or-false questions from the Italian licence exam.</span></button>
     </div>
   </div>
 
   <div class="card hidden" id="learnCard">
-    <div class="qnum">Learn the signs</div>
+    <div class="qnum" id="learnLabel">Learn the signs</div>
     <div class="imgwrap" id="learnImage"></div>
-    <h2 class="learn-title">What does this sign mean?</h2>
+    <h2 class="learn-title" id="learnPrompt">What does this sign mean?</h2>
     <div class="learn-answers" id="learnAnswers"></div>
     <div class="feedback" id="learnFeedback"></div>
     <button id="learnNext" class="hidden" onclick="pickSign()">Next sign &rarr;</button>
@@ -185,7 +192,7 @@
     </div>
     <div class="feedback" id="ruleFeedback"></div>
     <div class="reveal" id="ruleReveal">
-      <div class="lbl">Rule (English)</div>
+      <div class="lbl" id="ruleRevealLabel">Rule (English)</div>
       <div class="english" id="ruleEnglish"></div>
       <div class="traps" id="ruleExplanation"></div>
     </div>
@@ -319,6 +326,12 @@
       renderLanguage();
     }
 
+    function setLanguage(language) {
+      languageMode = language === 'it' ? 'it' : 'both';
+      renderLanguage();
+      if (mode === 'rules' && ruleCurrent) renderRule();
+    }
+
     function italianSignMeaning() {
       if (!current) return '';
       if (current.answer) {
@@ -330,6 +343,25 @@
     function renderLanguage() {
       const itOnly = italianOnly();
       document.documentElement.lang = itOnly ? 'it' : 'en';
+      document.getElementById('langEN').classList.toggle('active', !itOnly);
+      document.getElementById('langIT').classList.toggle('active', itOnly);
+      document.getElementById('appTitle').textContent = itOnly ? 'Teoria della patente italiana — Esercitazione' : 'Italian Driving Theory — Practice';
+      document.getElementById('homeBtn').innerHTML = itOnly ? '&larr; Menu principale' : '&larr; Main menu';
+      document.getElementById('menuTitle').textContent = itOnly ? 'Cosa vuoi esercitare?' : 'What would you like to practise?';
+      document.getElementById('menuIntro').textContent = itOnly ? 'Impara i segnali e le regole stradali con calma, oppure mettiti alla prova con le domande ufficiali.' : 'Learn Italian road signs and driving rules at your own pace, or test yourself with official driving-theory questions.';
+      document.getElementById('signsTitle').textContent = itOnly ? 'Impara i segnali' : 'Learn the signs';
+      document.getElementById('signsCopy').textContent = itOnly ? 'Osserva un segnale e scegli il significato corretto tra tre risposte.' : 'Look at a road sign and choose its meaning from three answers.';
+      document.getElementById('rulesTitle').textContent = itOnly ? 'Impara le regole' : 'Learn the rules';
+      document.getElementById('rulesCopy').textContent = itOnly ? 'Decidi se una regola stradale scelta a caso è vera o falsa.' : 'Decide whether a randomly selected driving rule is true or false.';
+      document.getElementById('mockTitle').textContent = itOnly ? 'Fai il test simulato' : 'Take the mock test';
+      document.getElementById('mockCopy').textContent = itOnly ? 'Rispondi alle domande vero o falso dell\'esame italiano.' : 'Answer true-or-false questions from the Italian licence exam.';
+      document.getElementById('learnLabel').textContent = itOnly ? 'Impara i segnali' : 'Learn the signs';
+      document.getElementById('learnPrompt').textContent = itOnly ? 'Cosa significa questo segnale?' : 'What does this sign mean?';
+      document.getElementById('learnNext').innerHTML = itOnly ? 'Prossimo segnale &rarr;' : 'Next sign &rarr;';
+      document.getElementById('ruleRevealLabel').textContent = itOnly ? 'Spiegazione' : 'Rule (English)';
+      document.getElementById('ruleNext').innerHTML = itOnly ? 'Prossima regola &rarr;' : 'Next rule &rarr;';
+      document.getElementById('ruleTrue').textContent = itOnly ? 'VERO' : 'VERO (True)';
+      document.getElementById('ruleFalse').textContent = itOnly ? 'FALSO' : 'FALSO (False)';
       document.getElementById('scoreLabel').textContent = itOnly ? 'Punteggio' : 'Score';
       document.getElementById('autoRead').parentElement.lastChild.textContent = itOnly ? 'Lettura automatica' : 'Auto-read';
       document.getElementById('btnTrue').textContent = itOnly ? 'VERO' : 'VERO (True)';
@@ -494,12 +526,7 @@
         while (next === ruleCurrent) next = RULE_QUESTIONS[Math.floor(Math.random() * RULE_QUESTIONS.length)];
       }
       ruleCurrent = next;
-      document.getElementById('ruleNum').textContent = 'Rule #' + ruleCurrent.n;
-      document.getElementById('ruleItalian').innerHTML = highlight(ruleCurrent.it, ruleCurrent.keywords || []);
-      document.getElementById('ruleEnglish').textContent = ruleCurrent.en || '';
-      document.getElementById('ruleExplanation').innerHTML = ruleCurrent.trick
-        ? '<h3>What to remember</h3><div class="trickline">' + esc(ruleCurrent.trick) + '</div>'
-        : '';
+      renderRule();
       document.getElementById('ruleFeedback').textContent = '';
       document.getElementById('ruleFeedback').className = 'feedback';
       document.getElementById('ruleReveal').classList.remove('show');
@@ -508,12 +535,26 @@
       document.getElementById('ruleFalse').disabled = false;
     }
 
+    function renderRule() {
+      const itOnly = italianOnly();
+      document.getElementById('ruleNum').textContent = (itOnly ? 'Regola #' : 'Rule #') + ruleCurrent.n;
+      document.getElementById('ruleItalian').innerHTML = itOnly
+        ? highlight(ruleCurrent.it, ruleCurrent.keywords || [])
+        : esc(ruleCurrent.en || ruleCurrent.it);
+      document.getElementById('ruleRevealLabel').textContent = itOnly ? 'Traduzione inglese' : 'Original Italian';
+      document.getElementById('ruleEnglish').textContent = itOnly ? (ruleCurrent.en || '') : ruleCurrent.it;
+      document.getElementById('ruleExplanation').innerHTML = ruleCurrent.trick
+        ? '<h3>' + (itOnly ? 'Nota (in inglese)' : 'What to remember') + '</h3><div class="trickline">' + esc(ruleCurrent.trick) + '</div>'
+        : '';
+    }
+
     function answerRule(choice) {
       if (!ruleCurrent || document.getElementById('ruleTrue').disabled) return;
       const isCorrect = choice === ruleCurrent.answer;
       const fb = document.getElementById('ruleFeedback');
-      const truth = ruleCurrent.answer ? 'VERO (True)' : 'FALSO (False)';
-      fb.innerHTML = (isCorrect ? 'Correct!' : 'Not quite.') + '<div class="ans-line">Answer: ' + truth + '</div>';
+      const truth = ruleCurrent.answer ? (italianOnly() ? 'VERO' : 'VERO (True)') : (italianOnly() ? 'FALSO' : 'FALSO (False)');
+      fb.innerHTML = (isCorrect ? (italianOnly() ? 'Corretto!' : 'Correct!') : (italianOnly() ? 'Non proprio.' : 'Not quite.')) +
+        '<div class="ans-line">' + (italianOnly() ? 'Risposta: ' : 'Answer: ') + truth + '</div>';
       fb.className = 'feedback ' + (isCorrect ? 'right' : 'wrong');
       document.getElementById('ruleReveal').classList.add('show');
       document.getElementById('ruleTrue').disabled = true;
@@ -543,7 +584,9 @@
       });
       if (!isCorrect) button.classList.add('wrong');
       const fb = document.getElementById('learnFeedback');
-      fb.textContent = isCorrect ? 'Correct!' : 'Not quite - the correct answer is highlighted.';
+      fb.textContent = isCorrect
+        ? (italianOnly() ? 'Corretto!' : 'Correct!')
+        : (italianOnly() ? 'Non proprio: la risposta corretta è evidenziata.' : 'Not quite - the correct answer is highlighted.');
       fb.className = 'feedback ' + (isCorrect ? 'right' : 'wrong');
       document.getElementById('learnNext').classList.remove('hidden');
     }
@@ -573,6 +616,7 @@
       document.getElementById('card').innerHTML =
         '<p>No questions loaded. Run <code>python TEST/export_questions.py</code> first.</p>';
     } else {
+      renderLanguage();
       showMenu();
     }
 
