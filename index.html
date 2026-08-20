@@ -82,7 +82,7 @@
   .menu-card { text-align: center; padding: 42px 32px; }
   .menu-card h2 { margin: 0 0 10px; font-size: clamp(27px, 5vw, 38px); }
   .menu-card > p { color: var(--muted); margin: 0 auto 30px; max-width: 560px; line-height: 1.55; }
-  .menu-options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+  .menu-options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
   .menu-option { border: 1px solid var(--line); background: #202747; color: var(--ink); border-radius: 14px; padding: 24px 18px; cursor: pointer; text-align: left; }
   .menu-option:hover { border-color: var(--accent); background: #252d50; }
   .menu-option strong { display: block; font-size: 20px; margin-bottom: 7px; }
@@ -93,8 +93,8 @@
   .learn-answer:hover:not(:disabled) { border-color: var(--accent); background: #283156; }
   .learn-answer.correct { border-color: var(--good); background: rgba(52,211,153,.16); }
   .learn-answer.wrong { border-color: var(--bad); background: rgba(248,113,113,.16); }
-  #learnNext { width: 100%; margin-top: 18px; padding: 15px; font-size: 17px; font-weight: 700; border: none; border-radius: 12px; cursor: pointer; background: var(--accent); color: #10131f; }
-  @media (max-width: 600px) { .menu-options { grid-template-columns: 1fr; } .menu-card { padding: 30px 20px; } }
+  #learnNext, #ruleNext { width: 100%; margin-top: 18px; padding: 15px; font-size: 17px; font-weight: 700; border: none; border-radius: 12px; cursor: pointer; background: var(--accent); color: #10131f; }
+  @media (max-width: 720px) { .menu-options { grid-template-columns: 1fr; } .menu-card { padding: 30px 20px; } }
   .countdown { text-align: center; color: var(--muted); font-size: 13px; margin-top: 8px; min-height: 18px; }
   .reveal { display: none; }
   .reveal.show { display: block; }
@@ -159,9 +159,10 @@
 
   <div class="card menu-card" id="menuCard">
     <h2>What would you like to practise?</h2>
-    <p>Learn Italian road signs at your own pace, or test yourself with official driving-theory questions.</p>
+    <p>Learn Italian road signs and driving rules at your own pace, or test yourself with official driving-theory questions.</p>
     <div class="menu-options">
       <button class="menu-option" type="button" onclick="startLearn()"><strong>Learn the signs</strong><span>Look at a road sign and choose its meaning from three answers.</span></button>
+      <button class="menu-option" type="button" onclick="startRules()"><strong>Learn the rules</strong><span>Decide whether a randomly selected driving rule is true or false.</span></button>
       <button class="menu-option" type="button" onclick="startMockTest()"><strong>Take the mock test</strong><span>Answer true-or-false questions from the Italian licence exam.</span></button>
     </div>
   </div>
@@ -173,6 +174,22 @@
     <div class="learn-answers" id="learnAnswers"></div>
     <div class="feedback" id="learnFeedback"></div>
     <button id="learnNext" class="hidden" onclick="pickSign()">Next sign &rarr;</button>
+  </div>
+
+  <div class="card hidden" id="rulesCard">
+    <div class="qnum" id="ruleNum">Learn the rules</div>
+    <div class="italian" id="ruleItalian"></div>
+    <div class="answers">
+      <button class="ans tf-true" id="ruleTrue" onclick="answerRule(true)">VERO (True)</button>
+      <button class="ans tf-false" id="ruleFalse" onclick="answerRule(false)">FALSO (False)</button>
+    </div>
+    <div class="feedback" id="ruleFeedback"></div>
+    <div class="reveal" id="ruleReveal">
+      <div class="lbl">Rule (English)</div>
+      <div class="english" id="ruleEnglish"></div>
+      <div class="traps" id="ruleExplanation"></div>
+    </div>
+    <button id="ruleNext" class="hidden" onclick="pickRule()">Next rule &rarr;</button>
   </div>
 
   <div class="card hidden" id="card">
@@ -216,6 +233,7 @@
     let lastAnswerRight = null;
     let mode = 'menu';
     let learnCurrent = null;
+    let ruleCurrent = null;
     const splashStarted = Date.now();
 
     // Always request a fresh image. GitHub Pages does not let this repository
@@ -423,6 +441,7 @@
     }
 
     const SIGN_QUESTIONS = Q.filter(q => q.image && q.sign && q.sign.trim());
+    const RULE_QUESTIONS = Q.filter(q => !q.image);
 
     function showMenu() {
       mode = 'menu';
@@ -430,6 +449,7 @@
       document.getElementById('menuCard').classList.remove('hidden');
       document.getElementById('card').classList.add('hidden');
       document.getElementById('learnCard').classList.add('hidden');
+      document.getElementById('rulesCard').classList.add('hidden');
       document.getElementById('homeBtn').classList.add('hidden');
       document.getElementById('scoreBox').classList.add('hidden');
     }
@@ -438,6 +458,7 @@
       mode = 'mock';
       document.getElementById('menuCard').classList.add('hidden');
       document.getElementById('learnCard').classList.add('hidden');
+      document.getElementById('rulesCard').classList.add('hidden');
       document.getElementById('card').classList.remove('hidden');
       document.getElementById('homeBtn').classList.remove('hidden');
       document.getElementById('scoreBox').classList.remove('hidden');
@@ -448,10 +469,56 @@
       mode = 'learn';
       document.getElementById('menuCard').classList.add('hidden');
       document.getElementById('card').classList.add('hidden');
+      document.getElementById('rulesCard').classList.add('hidden');
       document.getElementById('learnCard').classList.remove('hidden');
       document.getElementById('homeBtn').classList.remove('hidden');
       document.getElementById('scoreBox').classList.add('hidden');
       pickSign();
+    }
+
+    function startRules() {
+      mode = 'rules';
+      document.getElementById('menuCard').classList.add('hidden');
+      document.getElementById('card').classList.add('hidden');
+      document.getElementById('learnCard').classList.add('hidden');
+      document.getElementById('rulesCard').classList.remove('hidden');
+      document.getElementById('homeBtn').classList.remove('hidden');
+      document.getElementById('scoreBox').classList.add('hidden');
+      pickRule();
+    }
+
+    function pickRule() {
+      if (!RULE_QUESTIONS.length) return;
+      let next = RULE_QUESTIONS[Math.floor(Math.random() * RULE_QUESTIONS.length)];
+      if (RULE_QUESTIONS.length > 1) {
+        while (next === ruleCurrent) next = RULE_QUESTIONS[Math.floor(Math.random() * RULE_QUESTIONS.length)];
+      }
+      ruleCurrent = next;
+      document.getElementById('ruleNum').textContent = 'Rule #' + ruleCurrent.n;
+      document.getElementById('ruleItalian').innerHTML = highlight(ruleCurrent.it, ruleCurrent.keywords || []);
+      document.getElementById('ruleEnglish').textContent = ruleCurrent.en || '';
+      document.getElementById('ruleExplanation').innerHTML = ruleCurrent.trick
+        ? '<h3>What to remember</h3><div class="trickline">' + esc(ruleCurrent.trick) + '</div>'
+        : '';
+      document.getElementById('ruleFeedback').textContent = '';
+      document.getElementById('ruleFeedback').className = 'feedback';
+      document.getElementById('ruleReveal').classList.remove('show');
+      document.getElementById('ruleNext').classList.add('hidden');
+      document.getElementById('ruleTrue').disabled = false;
+      document.getElementById('ruleFalse').disabled = false;
+    }
+
+    function answerRule(choice) {
+      if (!ruleCurrent || document.getElementById('ruleTrue').disabled) return;
+      const isCorrect = choice === ruleCurrent.answer;
+      const fb = document.getElementById('ruleFeedback');
+      const truth = ruleCurrent.answer ? 'VERO (True)' : 'FALSO (False)';
+      fb.innerHTML = (isCorrect ? 'Correct!' : 'Not quite.') + '<div class="ans-line">Answer: ' + truth + '</div>';
+      fb.className = 'feedback ' + (isCorrect ? 'right' : 'wrong');
+      document.getElementById('ruleReveal').classList.add('show');
+      document.getElementById('ruleTrue').disabled = true;
+      document.getElementById('ruleFalse').disabled = true;
+      document.getElementById('ruleNext').classList.remove('hidden');
     }
 
     function pickSign() {
@@ -482,8 +549,17 @@
     }
     // keyboard: T / F / arrows
     document.addEventListener('keydown', e => {
-      if (mode !== 'mock') return;
       const k = e.key.toLowerCase();
+      if (mode === 'rules') {
+        if (document.getElementById('ruleTrue').disabled) {
+          if (k === 'enter' || k === ' ' || k === 'n') { e.preventDefault(); pickRule(); }
+        } else {
+          if (k === 't' || k === 'v' || k === 'arrowleft') answerRule(true);
+          if (k === 'f' || k === 'arrowright') answerRule(false);
+        }
+        return;
+      }
+      if (mode !== 'mock') return;
       if (k === 'r') { speakCurrent(); return; }   // replay audio anytime
       if (answered) {
         if (k === 'enter' || k === ' ' || k === 'n') { e.preventDefault(); pick(); }
