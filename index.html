@@ -106,15 +106,33 @@
   .toggle input { vertical-align: middle; }
 
   /* Side ads */
-  .ad { position: fixed; top: 50%; transform: translateY(-50%); width: 220px;
+  .ad { position: fixed; transform: translateY(-50%); width: 210px;
     z-index: 5; border-radius: 14px; overflow: hidden; line-height: 0;
     box-shadow: 0 12px 40px rgba(0,0,0,.35); transition: transform .12s ease; }
   .ad:hover { transform: translateY(-50%) scale(1.02); }
-  .ad img { width: 100%; height: auto; display: block; }
+  .ad img { width: 100%; max-height: 40vh; object-fit: contain; display: block; background: #fff; }
   .ad-left { left: 28px; }
   .ad-right { right: 28px; }
+  .ad-top { top: 27%; }
+  .ad-bottom { top: 73%; }
   /* hide when there isn't room beside the 820px card (820 + 2*220 + gaps) */
   @media (max-width: 1320px) { .ad { display: none; } }
+
+  /* Mobile promotional overlay */
+  .mobile-ad { display: none; position: fixed; z-index: 15; left: 50%; bottom: 16px;
+    width: min(88vw, 360px); transform: translate(-50%, 24px); opacity: 0;
+    transition: opacity .2s ease, transform .2s ease; }
+  .mobile-ad.show { display: block; opacity: 1; transform: translate(-50%, 0); }
+  .mobile-ad-panel { position: relative; padding: 9px; border: 1px solid #46517f;
+    border-radius: 16px; background: var(--card); box-shadow: 0 18px 55px rgba(0,0,0,.62); }
+  .mobile-ad-label { display: block; padding: 2px 42px 8px 4px; color: var(--muted);
+    font-size: 11px; line-height: 1; text-transform: uppercase; letter-spacing: .7px; }
+  .mobile-ad-link { display: block; overflow: hidden; border-radius: 11px; line-height: 0; background: #fff; }
+  .mobile-ad-link img { display: block; width: 100%; max-height: 65vh; object-fit: contain; }
+  .mobile-ad-close { position: absolute; z-index: 2; top: 5px; right: 5px; width: 42px;
+    height: 42px; border: 0; border-radius: 50%; background: #30395f; color: #fff;
+    font-size: 24px; line-height: 1; cursor: pointer; }
+  @media (min-width: 769px) { .mobile-ad { display: none !important; } }
 
   /* Loading splash */
   .splash {
@@ -145,14 +163,32 @@
     </div>
   </div>
 
-  <a class="ad ad-left" href="https://tutor.math-kids.club/"
-     target="_blank" rel="noopener" title="Math Kids Club — Mobile App">
-    <img data-src="ads/ad-1.png" alt="Math Kids Club mobile app">
+  <a class="ad ad-left ad-top" href="https://tutor.math-kids.club/"
+     target="_blank" rel="noopener" title="Homework Tutor AI">
+    <img data-src="ads/ad-1.png" alt="Homework Tutor AI">
   </a>
-  <a class="ad ad-right" href="https://games.math-kids.club/"
+  <a class="ad ad-left ad-bottom" href="https://teacher.math-kids.club/"
+     target="_blank" rel="noopener" title="School AI Teacher">
+    <img data-src="ads/ad-ai-teacher.png" alt="School AI Teacher">
+  </a>
+  <a class="ad ad-right ad-top" href="https://games.math-kids.club/"
      target="_blank" rel="noopener" title="Math Kids Club — Web Games">
     <img data-src="ads/ad-2.png" alt="Math Kids Club web games">
   </a>
+  <a class="ad ad-right ad-bottom" href="https://parla.math-kids.club/"
+     target="_blank" rel="noopener" title="Parla Language Tutor">
+    <img data-src="ads/ad-parla.png" alt="Parla Language Tutor">
+  </a>
+
+  <aside class="mobile-ad" id="mobileAd" aria-label="Sponsored recommendation" aria-hidden="true">
+    <div class="mobile-ad-panel">
+      <span class="mobile-ad-label">From Math Kids Club</span>
+      <button class="mobile-ad-close" type="button" onclick="closeMobileAd()" aria-label="Close advertisement">&times;</button>
+      <a class="mobile-ad-link" id="mobileAdLink" href="#" target="_blank" rel="noopener" onclick="mobileAdClicked()">
+        <img id="mobileAdImage" src="" alt="">
+      </a>
+    </div>
+  </aside>
   <header>
     <h1 id="appTitle">Italian Driving Theory — Practice</h1>
     <div class="topline">
@@ -254,6 +290,77 @@
 
     document.querySelectorAll('img[data-src]').forEach(img => {
       img.src = uncachedImageUrl(img.dataset.src);
+    });
+
+    const MOBILE_ADS = [
+      { image: 'ads/ad-1.png', href: 'https://tutor.math-kids.club/', alt: 'Homework Tutor AI' },
+      { image: 'ads/ad-2.png', href: 'https://games.math-kids.club/', alt: 'Math Kids Club games' },
+      { image: 'ads/ad-ai-teacher.png', href: 'https://teacher.math-kids.club/', alt: 'School AI Teacher' },
+      { image: 'ads/ad-parla.png', href: 'https://parla.math-kids.club/', alt: 'Parla Language Tutor' }
+    ];
+    const mobileMedia = window.matchMedia('(max-width: 768px)');
+    let mobileAdTimer = null;
+    let lastMobileAd = -1;
+    let mobileAdDue = false;
+
+    function scheduleMobileAd(delay) {
+      clearTimeout(mobileAdTimer);
+      if (!mobileMedia.matches) return;
+      mobileAdDue = false;
+      mobileAdTimer = setTimeout(showMobileAd, delay);
+    }
+
+    function learnerIsAnswering() {
+      if (mode === 'mock') return !answered;
+      if (mode === 'learn') return document.getElementById('learnNext').classList.contains('hidden');
+      if (mode === 'rules') return !document.getElementById('ruleTrue').disabled;
+      return false;
+    }
+
+    function showMobileAd() {
+      if (!mobileMedia.matches || document.hidden) {
+        scheduleMobileAd(15000);
+        return;
+      }
+      if (learnerIsAnswering()) {
+        mobileAdDue = true;
+        return;
+      }
+      mobileAdDue = false;
+      let index = Math.floor(Math.random() * MOBILE_ADS.length);
+      while (MOBILE_ADS.length > 1 && index === lastMobileAd) index = Math.floor(Math.random() * MOBILE_ADS.length);
+      lastMobileAd = index;
+      const ad = MOBILE_ADS[index];
+      document.getElementById('mobileAdLink').href = ad.href;
+      const image = document.getElementById('mobileAdImage');
+      image.src = uncachedImageUrl(ad.image);
+      image.alt = ad.alt;
+      const overlay = document.getElementById('mobileAd');
+      overlay.classList.add('show');
+      overlay.setAttribute('aria-hidden', 'false');
+    }
+
+    function showDueMobileAd() {
+      if (mobileAdDue && mobileMedia.matches) setTimeout(showMobileAd, 300);
+    }
+
+    function closeMobileAd() {
+      const overlay = document.getElementById('mobileAd');
+      overlay.classList.remove('show');
+      overlay.setAttribute('aria-hidden', 'true');
+      scheduleMobileAd(5 * 60 * 1000);
+    }
+
+    function mobileAdClicked() {
+      closeMobileAd();
+    }
+
+    mobileMedia.addEventListener('change', event => {
+      if (event.matches) scheduleMobileAd(60000 + Math.random() * 30000);
+      else {
+        clearTimeout(mobileAdTimer);
+        document.getElementById('mobileAd').classList.remove('show');
+      }
     });
 
     function hideSplash() {
@@ -471,6 +578,7 @@
       document.getElementById('btnTrue').disabled = true;
       document.getElementById('btnFalse').disabled = true;
       document.getElementById('btnNext').style.display = 'block';
+      showDueMobileAd();
     }
 
     const SIGN_QUESTIONS = Q.filter(q => q.image && q.sign && q.sign.trim());
@@ -485,6 +593,7 @@
       document.getElementById('rulesCard').classList.add('hidden');
       document.getElementById('homeBtn').classList.add('hidden');
       document.getElementById('scoreBox').classList.add('hidden');
+      showDueMobileAd();
     }
 
     function startMockTest() {
@@ -561,6 +670,7 @@
       document.getElementById('ruleTrue').disabled = true;
       document.getElementById('ruleFalse').disabled = true;
       document.getElementById('ruleNext').classList.remove('hidden');
+      showDueMobileAd();
     }
 
     function pickSign() {
@@ -590,6 +700,7 @@
         : (italianOnly() ? 'Non proprio: la risposta corretta è evidenziata.' : 'Not quite - the correct answer is highlighted.');
       fb.className = 'feedback ' + (isCorrect ? 'right' : 'wrong');
       document.getElementById('learnNext').classList.remove('hidden');
+      showDueMobileAd();
     }
     // keyboard: T / F / arrows
     document.addEventListener('keydown', e => {
@@ -622,6 +733,7 @@
     }
 
     hideSplash();
+    scheduleMobileAd(60000 + Math.random() * 30000);
   </script>
 </body>
 </html>
