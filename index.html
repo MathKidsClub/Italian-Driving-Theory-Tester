@@ -210,7 +210,7 @@
     <div class="menu-options">
       <button class="menu-option" type="button" onclick="startLearn()"><img src="images/q_19531.png" alt="No entry road sign"><strong id="signsTitle">Learn the signs</strong><span id="signsCopy">Look at a road sign and choose its meaning from three answers.</span></button>
       <button class="menu-option" type="button" onclick="startRules()"><img src="images/q_21531.png" alt="Italian speed limit rules"><strong id="rulesTitle">Learn the rules</strong><span id="rulesCopy">Decide whether a randomly selected driving rule is true or false.</span></button>
-      <button class="menu-option" type="button" onclick="startMockTest()"><img src="images/mock-exam.png" alt="Driving theory exam checklist"><strong id="mockTitle">Take the mock test</strong><span id="mockCopy">Answer true-or-false questions from the Italian licence exam.</span></button>
+      <button class="menu-option" type="button" onclick="startMockTest()"><img src="images/mock-exam.png" alt="Driving theory exam checklist"><strong id="mockTitle">Take the mock test</strong><span id="mockCopy">Answer true-or-false questions from the Italian licence exam. Covers B, B1, BE, A, A1 and A2.</span></button>
     </div>
   </div>
 
@@ -464,7 +464,7 @@
       document.getElementById('rulesTitle').textContent = itOnly ? 'Impara le regole' : 'Learn the rules';
       document.getElementById('rulesCopy').textContent = itOnly ? 'Decidi se una regola stradale scelta a caso è vera o falsa.' : 'Decide whether a randomly selected driving rule is true or false.';
       document.getElementById('mockTitle').textContent = itOnly ? 'Fai il test simulato' : 'Take the mock test';
-      document.getElementById('mockCopy').textContent = itOnly ? 'Rispondi alle domande vero o falso dell\'esame italiano.' : 'Answer true-or-false questions from the Italian licence exam.';
+      document.getElementById('mockCopy').textContent = itOnly ? 'Rispondi alle domande vero o falso dell\'esame italiano. Copre B, B1, BE, A, A1 e A2.' : 'Answer true-or-false questions from the Italian licence exam. Covers B, B1, BE, A, A1 and A2.';
       document.getElementById('learnLabel').textContent = itOnly ? 'Impara i segnali' : 'Learn the signs';
       document.getElementById('learnPrompt').textContent = itOnly ? 'Cosa significa questo segnale?' : 'What does this sign mean?';
       document.getElementById('learnNext').innerHTML = itOnly ? 'Prossimo segnale &rarr;' : 'Next sign &rarr;';
