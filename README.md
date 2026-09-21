@@ -7,9 +7,10 @@ true/false questions — over 7,000 of them — in Italian, with English transla
 the wording traps that catch learners out.
 
 Now also supports:
-1) Road sign learning/quiz
-2) Road Rules learning/quiz
-3) Mock Theory Test (with over 7000 questions) 
+1) Road sign learning
+2) Road sign quiz
+3) Road Rules learning/quiz
+4) Mock Theory Test (with over 7000 questions) 
 
 Each question shows:
 
